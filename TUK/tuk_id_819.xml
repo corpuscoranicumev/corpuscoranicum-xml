@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lukas 11:2-4</title>
+                <principal>
+                    <persName>Tolou Khademalsharieh</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>819</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Rom oder östlicher Mittelmeerraum </origPlace>
+                            <origDate>um 90 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>005:018</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾabnāʾ ʾAllāh</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Die Selbstbezeichnung der Christen als Söhne Gottes wird in Q 5:18 polemisch in Frage gestellt. Diese Selbstbezeichnung kann auf das Vaterunser Gebet zurückzuführen sein (dieses Gebet kommt auch in Matthäus 6:9-13 vor).<lb/>Vgl. auch Johannes 20:17 (Intertext Nr. 818).</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>εἶπεν δὲ αὐτοῖς• ὅταν προσεύχησθε λέγετε• <hi rendition="bold">Πάτερ</hi>, ἁγιασθήτω τὸ ὄνομά σου• ἐλθέτω ἡ βασιλεία σου• 3 τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δίδου ἡμῖν τὸ καθ᾽ ἡμέραν• 4 καὶ ἄφες ἡμῖν τὰς ἁμαρτίας ἡμῶν, καὶ γὰρ αὐτοὶ ἀφίομεν παντὶ ὀφείλοντι ἡμῖν• καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>2 Da sagte er zu ihnen: Wenn ihr betet, so sprecht: <hi rendition="bold">Vater</hi>, dein Name werde geheiligt. Dein Reich komme. 3 Gib uns täglich das Brot, das wir brauchen. 4 Und erlaß uns unsere Sünden; denn auch wir erlassen jedem, was er uns schuldig ist. Und führe uns nicht in Versuchung.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

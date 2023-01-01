@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Predigt über die Wiederkunft Christi</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Tor Andrae</persName>
+                    <name>Der Ursprung des Islams und das Christentum, Uppsala 1926, S. 145.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>187</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate>vor 6. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Manolis Ulbricht</bibl>
+                <bibl>
+                    <edition>
+
+	Ephraem Syrus, Sancti patris nostri Ephraem Syri Opera omnia quae exstant Graece, Syriace, Latine, 6 Bde., Rom 1732-1746, Graece et Latine, Bd. 2, S. 220.</edition>
+                    <relatedItem>
+                        <bibl>008:050; 047:027</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Im Folgenden wird von "Ephrem Graecus" gesprochen. Diese Bezeichnung bezieht sich auf die auf Griechisch überlieferten Werke, welche traditionell Ephrem dem Syrer zugeordnet werden. Bei den auf Griechisch überlieferten, Ephrem zugeschriebenen Werken handelt es sich um ein Corpus von Texten unterschiedlicher Herkunft. Ein Teil davon beruht auf syrischen Originalen (die nicht unbedingt von Ephrem stammen müssen), ein Teil wurde auf Griechisch verfasst (dazu ausführlicher D. Hemmerdinger-Iliadou, Art. "Éphrem Grec", in: Dictionnaire de Spiritualité, Bd. 4.1, 1958-1960). Die Zuordnung ist nicht immer klar. Einige der griechischen Schriften gehen wohl tatsächlich auf Ephrem den Syrer zurück, andere sind als pseudo-ephremisch zu betrachten. Tor Andrae differenziert in seinem Buch nicht nach Überlieferungssprache etc., sondern spricht allgemein von "Ephrem".</p>
+                    <p>
+
+	Ebenso wie bei Ephrem Graecus findet sich im Koran eine drastische Beschreibung der Bestrafung der Ungläubigen. Besondere Übereinstimmung findet sich in der Aussage, dass die Verdammten am Jüngsten Tag von Engeln geschlagen werden. Vgl. auch Ephrem, Opera Graeca, Bd. 2, 200 f.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	Τότε λοιπὸν <hi rendition="bold">ἐλαυνόμενοι καὶ τυπτόμενοι ἀπὸ ἀγρίων ἀγγέλων καὶ ὠθούμενοι</hi> ἀποτρέχονται, τοὺς ὀδόντας τρίζοντες καὶ πυκνοτέρως στρεφόμενοι εἰς τὰ ὀπίσω ἰδεῖν τοῦς δικαίους ὅθεν ἐχωρίσθησαν.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Dann nunmehr laufen sie auseinander, <hi rendition="bold">vertrieben und geschlagen von wilden Engeln und gestoßen</hi>, die Zähne knirschend und sich verbittert nach hinten umdrehend, die Gerechten zu sehen, von denen sie getrennt worden sind.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

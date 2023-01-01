@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gebet zum Fest der  Verkündigung an Zacharias </title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>David Kiltz</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>61</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nordmesopotamien</origPlace>
+                            <origDate/>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	Panqītā satwāytā. ʿEnyānē w-qālē w-madrāšē w-sugyātā w-qānūnē [Kompendium für die Winterzeit], Handschrift (1984) im Besitz der syrisch-orthodoxen Kirche St. Jakob (Berlin), S. 25-36</edition>
+                    <relatedItem>
+                        <bibl>003:039; 019:007; 019:010-019:011</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+Die Verkündigungsszene wird so schon in Lukas 1:8-25 (vgl. TUK 0225) berichtet. Der beim gegenwärtigen Forschungsstand schwer zu datierende Gebetstext zeigt jedoch, dass die Verkündigung an Zacharias neben ihrer biblischen Gestalt auch ein prominenter Bestandteil der syrischen liturgischen Tradition war und von hier aus vielleicht an die koranische Urgemeinde vermittelt worden ist.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>ܥܝܪܐ ܕܢܘܪܐ ܢܚܬ ܣܰܒܪܗ ܠܙܟܪܝܐ ܒܓܘ ܒܝܬ ܩܘܕܫܐ ܕܡܬܝܠܕ ܠܟ ܟܪܘܙܐ ܘܫܡܗ ܢܬܩܪܐ ܝܘܚܢܢ ܐܬܪܚܡܥܠܝܢ ܀ܢܚܬ ܡܠܐܟܐ ܕܢܣܒܪ ܠܙܟܪܝܐ ܒܗܝܟܠ ܩܘܕܫܐ ܕܐܠܝܫܒܥ ܐܢܬܬܟ ܬܐܠܰܕ ܝܠܕܐ ܕܡܬܩܪܐ ܝܘܚܢܢ ܐܬܪܚܡܥܠܝܢ ܀ ܐܡܪ ܥܝܪܐ ܠܙܟܪܝܐ ܐܬܠܒܒ ܠܟ ܣܒܐ ܙܗܝܐ ܕܨܠܘܬܟ ܐܫܬܡܥܬ ܠܗܿ ܫܠܚܢܝ ܕܐܚܘܬ ܐܣܒܪܟ ܐܬܪܚܡܥܠܝܢ ܀ [...]ܐܡܪ ܥܝܪܐ ܠܙܟܪܝܐ ܥܠ ܕܐܬܦܠܓܬ ܥܠ ܡܠ̈ܝ ܡܢ ܗܫܐ ܬܗܘܐ ܫܰܬܝܩ ܥܕܡܐ ܕܝܠܕܟ ܫܳܪܐ ܠܟ ܐܬܪܚܡܥܠܝܢ ܀ [...]ܗܘ ܟܗܢܐ ܐܬܐ ܠܗ ܘܩܘܝ ܒܕܝܠܗ ܘܠܐ ܗܝܡܢ ܗܘܐ ܥܝܪܐ ܕܢܘܪܐ ܒܠܡܗ ܘܐܣܪ ܦܘܡܗ ܩܠܝܠܐܝܬ ܘܫܪܝ ܪܡܙ ܠܒܢ̈ܝ ܥܡܗ ܘܐܣܬܟܠܘ ܗܘܘ ܕܚܙܘܐ ܚܙܐ ܗܘܐ ܩܘܝ ܟܕ ܫܬܝܩ ܥܕܡܐ ܕܐܫܬܡܠܝ ܘܝܘܚܢܢ ܫܪܳܝܗܝ ܗܘܐ ܒܡܘܠܕܗ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Der Wächterengel aus Feuer überbrachte seine Botschaft dem Zacharias im Allerheiligsten: "Dir wird ein Verkündiger geboren werden und er wird Johannes heißen" - Erbarme Dich unser. Der Engel stieg herab, um Zacharias die Botschaft zu überbringen: "Elisabeth, deine Frau, wird ein Kind gebären und es wird Johannes heißen" - Erbarme Dich unser. Der Engel sagte zu Zacharias: "Sei getrost Greis, ehrwürdiger, denn dein Gebet wurde erhört. Ich wurde geschickt, um hinabzusteigen und dir dies zu verkünden" - Erbarme Dich unser. [...] Der Engel sagte zu Zacharias: "Weil du an meinen Worten gezweifelt hast, sollst du von nun an stumm sein, bis dein Kind dich erlöst." - Erbarme dich unser. [...] Jener Priester [Zacharias] kam zu ihm [dem Engel], blieb bei seiner Meinung und glaubte dem Engel aus Feuer nicht. Da ließ er [der Engel] ihn verstummen - sogleich verschloss er seinen Mund. Er [Zacharias] begann darauf sich mit seinen Leuten über Zeichen zu verständigen und sie begriffen, dass er eine Erscheinung gehabt haben musste. Er blieb stumm, bis es [die Ankündigung] sich erfüllt hatte, und Johannes ihn durch seine Geburt erlöste.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

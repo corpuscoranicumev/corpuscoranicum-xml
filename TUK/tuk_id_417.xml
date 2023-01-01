@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matthäus 28:16-20</title>
+                <principal>
+                    <persName>David Kiltz (Anmerkung)</persName>
+                    <persName>Nicolai Sinai (Anmerkung)</persName>
+                    <persName>Manolis Ulbricht</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>417</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Syrien</origPlace>
+                            <origDate>ca. 80-90 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993. </edition>
+                    <relatedItem>
+                        <bibl>001:001</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">bi-smi llāhi r-raḥmāni r-raḥīm</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Die als <hi xml:lang="ar-Latn">Basmala</hi> bezeichnete Formel "Im Namen Gottes, des barmherzigen Erbarmers" (die neben Q 1:1 auch noch jeder Koransure außer Q 9 voransteht) erinnert in verschiedener Hinsicht an das christliche "Im Namen des Vaters, des Sohnes und des Heiligen Geistes" (Matthäus 28:19): In beiden figuriert der "Name" Gottes, und beide haben eine dreiteilige Struktur. Dabei hebt sich die koranische Formulierung trotz ihrer formalen Anklänge an den christlichen Taufspruch inhaltlich deutlich von diesem ab: Während Matthäus 28:19 die drei Hypostasen der Trinität nennt, haben das zweite und dritte Element der Basmallah nur den Status von göttlichen <hi xml:lang="ar-Latn">Attributen</hi>, nicht den von eigenständigen Hypostasen. </p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>16  Οἱ δὲ ἕνδεκα μαθηταὶ ἐπορεύθησαν εἰς τὴν Γαλιλαίαν εἰς τὸ ὄρος οὗ ἐτάξατο αὐτοῖς ὁ Ἰησοῦς,  17  καὶ ἰδόντες αὐτὸν προσεκύνησαν, οἱ δὲ ἐδίστασαν.  18  καὶ προσελθὼν ὁ Ἰησοῦς ἐλάλησεν αὐτοῖς λέγων• ἐδόθη μοι πᾶσα ἐξουσία ἐν οὐρανῷ καὶ ἐπὶ [τῆς] γῆς.  19  πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς <hi rendition="bold">εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος</hi>,  20  διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν• καὶ ἰδοὺ ἐγὼ μεθ᾽ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>16 Die elf Jünger gingen nach Galiläa auf den Berg, den Jesus ihnen genannt hatte. 17 Und als sie Jesus sahen, fielen sie vor ihm nieder. Einige aber hatten Zweifel. 18 Da trat Jesus auf sie zu und sagte zu ihnen: Mir ist alle Macht gegeben im Himmel und auf der Erde. 19 Darum geht zu allen Völkern und macht alle Menschen zu meinen Jüngern; tauft sie <hi rendition="bold">auf den Namen des Vaters und des Sohnes und des Heiligen Geistes</hi>, 20 und lehrt sie, alles zu befolgen, was ich euch geboten habe. Seid gewiss: Ich bin bei euch alle Tage bis zum Ende der Welt. </p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

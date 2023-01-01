@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 339. Pet. 38. 213 Bl. Quer-8vo, 10 Z. (13,2x18,75; 9x14 cm). — Zustand: lose Lagen und Blätter. Im Ganzen ziemlich unsauber, auch fleckig, besonders zu Anfang u. am Ende. Von Bl. 1 ist der Seitenrand beschädigt, von Bl. 19 u. 57 abgeschnitten, von Bl. 108 ist die obere Ecke ausgeschnitten. Bl. 175-201 sind am Rande zur Seite und unten beschädigt und ausgebessert; zum Teil hat auch der Text unten gelitten, besonders f. 188. 189. 199. 200. Auch f. 213 ist am Rande und im Text schadhaft. — Material: Pergament, dick, glatt, weiß, jetzt aber meistens vergilbt. — Einband: rotbrauner Lederdeckel mit Klappe, in welchem nur noch die 3 letzten Blätter festsitzen. — Inhalt: Zweite Hälfte des Koran, nämlich Sure 19 bis Ende des Ganzen. Enthält folgende Lücken: nach f. 87 fehlt 1 Bl. (Sur 31:25 الارض bis Ende der Sure) nach f. 125 fehlt 1 B1. (Sure 39:52 والذين bis 67 والارض) nach f. 135 fehlen 2 B1. (Sure 41:28 لهم bis 52 وناء) nach f. 145 fehlt 1 Bl. (Sure 44:3 كل bis 30 انه) nach f. 163 fehlen ca. 10 Bl.(Sura 50:44 يقولون bis 55:62 دونهما) nach f. 179 fehlt l Bl. (Sure 63:5 مستكبرون bis 64:5 incl. اليم) Schrift: im Allgemeinen schön, kräftig und stattlich; gleichmäßig, ziemlich groß, an manchen Stellen etwas verblasst, auch abgescheuert. F. 36a ist völlig verwischt, der Text dann von neuer Hand in großem Maġribī ergänzt (Sure 23:105-114). F. 164a sind die 2ten Hälften aller Zeilen verwischt und unergänzt geblieben. — Buchstabenzahl der Zeilen ca. 32-35. — Der Zwischenraum zwischen den einzelnen Buchstabeugruppen beträgt in der Regel 0,2 cm — Abbrechen der Wörter am Ende der Zeilen findet statt. — ك u. د sehen sich oft gleich, obzwar ك in der Regel etwas länger gezogen ist; desgleichen ق, ف u.  مin der Mitte der Wörter; die am Ende stehenden ل u. ن sind ziemlich lang nach unten gezogen; das ي am Ende geht gewöhnlich tief nach unten, mit eckiger Biegung, kommt aber auch nach rechts hin gezogen vor; das ق am Ende geht tief nach unten mit eckiger Biegung links; ح im Worte ist nach gewissen Konsonanten wie م, ص, س, ك, ل oft verhältnissmäßig klein und sieht dann fast nur wie ein schräger Strich durch die Linie aus. Anfangs-ا hat unten nach rechts hin einen ziemlich kleinen Schwung. — Diakritische Punkte sind meistens gesetzt worden, obgleich sie jetzt ziemlich oft verwischt (dann auch häufig erneuert) sind. Das ف hat den Punkt unten; bei ش stehen die drei Punkte oft, aber nicht immer, in einer Linie. — Die Vokale, fast überall gesetzt sind mit roter Farbe durch Punkte bezeichnet. Das a u. i bei ا wird durch einen gelben Punkt ausgedrückt. Das mitten am Buchstaben angebrachte u ist in der Mitte des Wortes nicht selten unkenntlich geworden. Die Nunation ist durch zwei neben oder über einander stehende Punkte kenntlich. Das lange ā ist im Auslaut durch 1 bezeichnet, im Worte selbst fehlt es oft (z.B. النزلنا und النزلنها 24:1); es ist dann oft durch einen senkrechten längeren roten Strich bezeichnet, z.B. ايٰت, ذٰلك, شهٰدات. — Die übrigen Lesezeichen sind gleichfalls rot bezeichnet, nur stellt für Waṣla ein grüner Punkt. Ǧizm wird durch einen kleinen horizontalen Strich bezeichnet, Tašdīd durch einen kleinen Halbkreis, der bei a nach oben, bei u und i nach unten hin offen ist; Hamza durch einen gelben Punkt, wodurch denn das Vokalzeichen selbst überflüssig wird; Madda durch einen roten längeren Strich. — Die Versabteilungen sind nicht durch besondere Zeichen kenntlich; Gruppen von etwa 10 bis 20 Versen werden durch einen größeren Doppelkreis mit 4-8 farbigen Punkten und einem roten Mittelpunkt abgeteilt. Auch am Rande sind an einigen Stellen größere Kreise angebracht, die jedoch durch Beschneiden der Blätter gelitten haben; sie dienen weder zur Bezeichnung der Textteile (اجزاء), noch der Leseabschnitte (احزاب), sondern sind nur Erinnerungszeichen. — Die Überschrifteu sind in größerer Schrift, ganz kurz, bloß Titel nebst Zahl der Verse, in gelber Farbe.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Petermann I 38</idno>
+                        <altIdentifier>
+                            <idno>Petermann I 38 (Ahlwardt 339)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="460">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>130</height>
+                                        <width>190</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="10">
+                                    <p>Die Seiten enthalten 10 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hymnen auf das Paradies 7:18</title>
+                <principal>
+                    <persName>David Kiltz (Kommentar</persName>
+                    <persName>Übersetzung)</persName>
+                    <persName>Yousef Kouriyhe</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Tor Andrae</persName>
+                    <name>Der Ursprung des Islam und das Christentum, Uppsala 1926, S. 148</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>603</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nordmesopotamien</origPlace>
+                            <origDate>4. Jh. n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Edmund Beck, David Kiltz.</bibl>
+                <bibl>
+                    <edition>
+
+	Edmund Beck (Hg.), Des heiligen Ephraem des Syrers Hymnen de Paradiso, Louvain 1957 (Corpus Scriptorum Christianorum Orientalium 174, Scriptores Syri 78), S. 29.</edition>
+                    <relatedItem>
+                        <bibl>037:048-037:049; 052:062-052:075; 055:056-055:058; 078:031-078:034</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">zawwaǧnāhum, ḥūr ʿīn, ʿurub, ʾatrāb, ʾabkār, kawāʿib, qāṣirāt aṭ-ṭarf</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Tor Andrae bemerkt, dass diese Verse Ephrems die Vorstellung von "Paradiesjungfrauen" im Koran inspiriert haben könnte. E. Beck ("Eine christliche Parallele zu den Paradiesjungfrauen des Korans?", Orientalia Christiana Periodica 14 (1948), S. 398–405) widerspricht ihm deutlich, bzw. der Möglichkeit, dass Ephrem hier auf sexuelle Konnotationen zielt. Allerdings kann auch Becks Gegenargumentation nicht restlos überzeugen. Zumindest der zweite Teil von 18 ist, obgleich rein grammatisch auf Weinstöcke beziehbar, sprachlich doch klar sexuell gefärbt; syrisch <hi xml:lang="ar-Latn">ʿubbā</hi> hat neben "Höhlung, Inneres, Bauch" durchaus auch die Bedeutung <hi xml:lang="ar-Latn">pudenda muliebria</hi> i.e. <hi xml:lang="ar-Latn">vulva</hi>. Zudem wird hier von der 'Belohnung' eines jungfräulichen Asketen gesprochen welcher "nie ins Innere des Schoßes oder des Ehebettes fiel". Der Parallelismus ist auffallend:</p>
+                    <p>
+
+	Enthaltung von Wein: Weinstöcke geben (Wein); Enthaltung von sexueller Vereinigung: "Sie" lassen ihn in ihre <hi xml:lang="ar-Latn">ʿubbā</hi> eintreten. Falls noch ein Zweifel daran bestehen sollte, was hier mit <hi xml:lang="ar-Latn">ʿubbā</hi> gemeint ist, folgt im Weiteren die Erklärung: "da er als Asket nie ins Innere der <hi xml:lang="ar-Latn">ʿubbā</hi> 'fiel', noch ins Ehebett (d.h. das Bett der sexuellen Vereinigung). Das 'Fallen' ins Innere der <hi xml:lang="ar-Latn">ʿubbā</hi>
+                        <hi rendition="em"/>wird hier also mit "ins Bett der sexuellen Vereinigung" geglichen. Dass hier Sexuelles zumindest suggeriert wird, scheint kaum abstreitbar.</p>
+                    <p>
+
+	Das Ineinanderübergehen von Frucht- und sexueller Bilderwelt ist weithin gut belegt und darf nicht wundern. Vgl. dazu etwa H.-P. Müller, "Eine Parallele zur Weingartenmetapher des Hohenliedes aus der frühgriechischen Lyrik", in: M. Dietrich und I. Kottsieper (Hg.), "Und Mose schrieb dieses Lied auf". Studien zum Alten Testament und zum Alten Orient. Festschrift O. Loretz, Münster 1998, S. 569-584. Als ein Beispiel sei Catull, 62,49-56 zitiert: Die noch unberührte Jungfrau (virgo cum intacta manet) ist "ut vidua in nudo vitis quae nascitur arvo", d.h. eine einsame Rebe auf kargem Boden. Viel näher steht aber wohl etwa das Hohelied, welches reichlich Flora, Fauna und andere Vergleiche mit sexueller Färbung aufweist, vgl. dazu allgemein Noegel, S. B &amp; Rendsburg, G. A. <hi xml:lang="ar-Latn">Salomon's Vineyard</hi>
+                        <hi xml:lang="ar-Latn">, Literary and Linguistic Studies in the Song of Songs</hi>, Atlanta 2009 (besonders, z. B. S. 202f.).</p>
+                    <p>
+
+	Besonders nah sind ebenfalls die Begriffe arabisch <hi xml:lang="ar-Latn">zawwaǧnāhum</hi> "wir haben sie vereint, verheiratet" und syr. <hi xml:lang="ar-Latn">zuwwāgā</hi> "Heirat, geschlechtliche Vereinigung" (semantisch wie arab. <hi xml:lang="ar-Latn">nikāḥ</hi>), welche sich von der gleichen Wurzel z-w-g ableiten. (Letztlich geht die Wurzel wohl auf griechisch <hi rendition="gr-Grek">ζευγ-</hi>, vgl. <hi rendition="gr-Grek">ζεῦγος, ζέυγνῡμι</hi> "Paar, verbinden" zurück). Wichtig ist, dass im syrischen Text ein doppelter Bezug hergestellt werden kann, sowohl zu Früchten, als auch zu menschlicher sexueller Aktivität. Die Mischung des Bildes von einladenden, labenden Früchten mit sexuellen Konnotationen ist kaum zu leugnen und auch nicht zufällig. Für Ephrem, darauf verweist er wiederholt in seinem Werk, sind diese Metaphern allerdings nur ein Hilfsmittel um rein geistige Wirklichkeiten zu beschreiben (sie sind <hi xml:lang="ar-Latn">rūḥānāʾīt</hi>, "geistig" zu verstehen). Für die Rezeption seines Werkes muss dies allerdings offen bleiben.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>ܐܝܢܐ ܕܡܢ ܚܡܪܐ ܨܡ ܗܘܐ ܒܦܘܪܫܢܐ ܠܗ ܣܘ̈ܚܢ ܝܬܝܪ ܓܘܦܢ̈ܘܗܝ ܕܦܪܕܝܣܐ ܘܚܕܐ ܚܕܐ ܣܘܓܠܗܿ ܡܘܫܛܐ ܕܬܬܠ ܠܗ ܘܐܢ ܕܝܢ ܒܬܘܠܐ ܗܘ ܬܘܒ ܐܥܠܝܗܝ ܠܓܘ ܥܘܒ̈ܗܢ ܕܟܝܐ ܕܡܛܠ ܕܝܚܝܕܝܐ ܠܐ ܢܦܠ ܒܓܘ ܥܘܒܐ ܘܥܪܣܐ ܕܙܘܓܐ܀</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Denjenigen, welcher sich vom Wein enthielt, in Distinktion,<lb/>
+
+	den erwarten sehnsüchtig umso mehr die Weinstöcke des Paradieses.<lb/>
+
+	Und eins um eins strecken sie [ihm] ihre Reben [entgegen] um ihm zu geben.<lb/>
+
+	Und wenn er eine Jungfrau ist, dann lassen sie ihn eintreten<lb/>
+
+	ins Innere ihres reinen Schoßes, da er, als Asket, nicht in das Innere eines Schoßes oder das Bett der Ehe fiel.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

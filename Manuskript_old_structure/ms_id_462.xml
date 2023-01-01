@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 343. We. 1944. 8 Bl. Quer-4to, 17 Z. (16x22; 10-11x16,5 cm). — Zustand: durchweg fleckig; am Rande ausgebessert, f. 1 auch im Text. — Material: Pergament, ziemlich dünn, gelblich, glatt. — Einband: roter Kattunband. — Inhalt: Sure 22:61هو الحق  [ا]ل‍له bis 24:46 ويقولون Schrift: ziemlich groß, gleichmäßig, nicht selten etwas abgescheuert. — Zahl der Buchstaben auf der Zeile ca. 32-35. — Raum zwischen den einzelnen Buchstabengruppen 0,3 bis 0,5 cm. — Die Brechung der Wörter am Ende der Zeilen findet statt. — Das anfangende ا hat unten eine ziemlich große Rundung, Schluss-م hat den Strich auf der Linie, Schluss-ي hat unter der Linie eine kleine Rundung nach links, bisweilen einen längeren Schwung nach rechts, Schluss-ق hat den Schwung wie jenes ي, Schluss-ل u. ن haben unten eine kleine Biegung, ح mitten im Worte nach gewissen Buchstaben gleicht einem schrägen Strich durch die Linie. Anfangs-ع hat oben eine kleine Rundung. Die Köpfe der Buchstaben sind groß, aber meistens hohl. — Diakritische Punkte selten gesetzt, sind zum Teil auch abgescheuert. Vokale, rote Punkte, reichlich gesetzt, aber oft auch verblasst und abgescheuert. Nunation 2 rote Punkte neben- oder übereinander. Lang ā oft nicht bezeichnet, wie  صرط, انزلنا für انزلناها. — Die übrigen Lesezeichen, wie Tašdīd, nicht gebraucht. — Die Verse voneinander abgeteilt durch 4 kleine schräge Striche; größere Versgruppen durch kleine rot und grün verzierte Kreise. — Überschriften in roter mit grün abwechselnder Farbe. — Am Rande keine Angaben für Textabteilung.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Wetzstein II 1944</idno>
+                        <altIdentifier>
+                            <idno>Wetzstein II 1944 (Ahlwardt 343)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="462">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>160</height>
+                                        <width>215</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="17">
+                                    <p>Die Seiten enthalten 17 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

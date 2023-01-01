@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht  über Noah und Abraham (Nr. 29:1-8 Schulthess)</title>
+                <principal>
+                    <persName>Nicolai Sinai (Texterfassung: Daria Zadorojnaia</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Vgl. J. Frank-Kamenetzky</persName>
+                    <name>Untersuchungen über das Verhältnis der dem Umajja b. Abi ṣ Ṣalt zugeschriebenen Gedichte zum Qorān, Kirchhain N.-L. 1911, S. 13.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>560</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Aṭ-Ṭāʾif (Ḥiǧāz)</origPlace>
+                            <origDate>Anfang 7. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 91 f.</bibl>
+                <bibl>
+                    <edition>Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S.32 f; Bahǧa ʿAbdalġafūr al-Ḥadīṯī, Umayya ibn abī ṣ-Ṣalt: Ḥayātuhū wa-šiʿruhū, Bagdad 1975, S. 254-255.</edition>
+                    <relatedItem>
+                        <bibl>007:064; 010:073; 011:040-011:044; 021:076-021:077; 025:037; 026:119-026:120; 029:014-029:015; 037:076; 054:013-054:014; 071:025</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">fulk</hi>; <hi xml:lang="ar-Latn">zauǧ</hi>; Nūḥ</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Zur Fortsetzung des Gedichts siehe Intertext Nr. 504. Frank-Kamenetzky sieht das gesamte Gedicht für authentisch an (a. a. O., S. 48; vgl. auch die Anmerkung zu Intertext Nr. 504; zur umstrittenen Authentizität der Umayya ibn abī ṣ-Ṣalt zugeschriebenen Gedichte vgl. allgemein die Anmerkung zu Intertext Nr. 420). Für die Echtheit des Textes spricht, dass die Taubenepisode in den koranischen Noah-Erzählungen gar nicht vorkommt; die Aussendung der Taube erscheint zwar in der islamischen <hi xml:lang="ar-Latn">qiṣaṣ al-ʾanbiyāʾ</hi>-Literatur (etwa bei al-Kisāʾī), doch wird das Geschehen dort nicht als Ätiologie für ihr Halsband angeführt und es wird nicht einmal erwähnt, dass die Taube Noah als Beleg für das Sinken der Wasser einen Zweig überbracht haben soll. Das Gedicht ist deshalb als unabhängig vom Koran und von der späteren islamischen Tradition zu betrachten (s. auch Intertext Nr. 530 mit einer weiteren dichterischen Behandlung der Sintflut-Erzählung, die ebenfalls von Umayya stammen dürfte). Bestimmte Begrifflichkeiten des Intertextes finden sich allerdings auch in den koranischen Noah-Perikopen, etwa die Bezeichnung der Arche als <hi xml:lang="ar-Latn">fulk</hi> (vgl. V. 5 des Gedichts sowie Q 26:119 und 11:37 u. a.), der Gebrauch des Verbs <hi xml:lang="ar-Latn">ǧarā</hi> (vgl. V. 1 des Gedichts und Q 54:14) sowie die - aus der biblischen Noah-Erzählung bekannte - Tatsache, dass sich auf Noahs Arche von jedem Lebewesen ein "Paar" (<hi xml:lang="ar-Latn">zauǧ</hi> bzw. in Q 11:40 <hi xml:lang="ar-Latn">zauǧain</hi>) befunden habe. Derartige Überschneidungen im Vokabular sind allerdings kein hinreichender Grund für die Annahme einer Abhängigkeit des Intertextes vom Koran; sie erklären sich vielmehr am ehesten daraus, dass sowohl Umayya als auch die koranischen Noah-Erzählungen auf einer vorgängigen und wahrscheinlich mündlich tradierten arabischen Noah-Tradition fußen; auch wenn sich diese arabische Noah-Tradition nicht durch wortwörtliche Überlieferung auszeichnete, sondern jeweils frei nacherzählt wurde, so dürften sich doch im Laufe der Zeit bestimmte arabische Schlüsselbegriffe wie etwa <hi xml:lang="ar-Latn">fulk</hi> für "Arche" etabliert haben. Der Intertext veranschaulicht damit, wie sich in vorislamischer Zeit auch ohne Vorliegen einer regelrechten arabischen Bibelübersetzung nach und nach eine biblische Terminologie entwickeln konnte, die dann in den Koran mündete.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>١ فهْيَ تَجْري فيه وتَجْتَسِرُ البَحْـ     رَ بأقْلاعِها كقِدْح ِ المُغالي<lb/>[?...]<lb/>٢ تَصْرُخُ الطَّيْرُ والبَرِيَّةُ فيها     مَعْ قَوِيِّ السِّباعِ والأفْيال ِ<lb/>٣ حينَ فيها من كلِّ ما عاش<hi rendition="strong"> زَوْجٌ </hi>    بين ظهرَي غَوارب ٍ كالجِبال<lb/>[?...]<lb/>٤ سمِع اللّهُ لاِبنِ آدَمَ <hi rendition="strong">نوح ٍ</hi>     ربُّنا ذو الجلال ِ والأَفْضالِ ِ<lb/>٥ حين أَوْفَى بذي الحَمامةِ والنا     ـسُ جميعاً في <hi rendition="strong">فُلْكِه</hi> كالعِيال<lb/>٦ حابِساً جَوْفَه عليه رَسولاً     من خِفاف الحَمام كالتِمْثال<lb/>٧ فرَشاها على الرِسالة ِ طَوْقاً     وخِضاباً عَلامة ً غَيْرَ بالي<lb/>٨ فأتَتْه بالصِدْق لَمَّا رَشاها     وبقِطْف ٍ لَمَّا غَدا عِثْكال ِ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>1. So fuhr es (das Schiff Noahs) darin und ging drauf los durch das Meer mit seinen Segeln (so schnell) wie der Pfeil des Scharfschützen.<lb/>[...?]<lb/>2. Darin schrien die Vögel und die Kreaturen, nebst den starken Raubtieren und den Elephanten,<lb/>3. indem sich darin von jeglichem Lebewesen ein <hi rendition="strong">Paar</hi> befand, zwischen berggleichen Kamelrücken.<lb/>[...?]<lb/>4. Es hörte Gott den Menschen <hi rendition="strong">Noah</hi>, der Herr, der erhabene und wohltätige,<lb/>5. als er dem Mann mit der Taube das Versprechen einlöste - während die Leute alle in <hi rendition="strong">seiner Arche</hi> vereinigt waren wie eine Familie,<lb/>6. indem er ihn darin einschloss - mittelst eines Boten von leichtbeschwingten Tauben, einem Bildwerke gleich.<lb/>7. Er aber setzte ihr als Lohn für den Botendienst ein Halsband aus, und ein sich nie abnutzendes Färbemittel als Kennzeichen.<lb/>8. Da brachte sie ihm, nachdem er ihr den Lohn ausgesetzt hatte, am andern Tage die wahrheitsgetreue Meldung und einen mit Trauben behangenen Rebzweig.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

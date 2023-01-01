@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genesis 37:12-36</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Vgl. Johann-Dietrich Thyen</persName>
+                    <name>Bibel und Koran. Eine Synopse gemeinsamer Überlieferungen, Köln 2000, S. 66-69.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>288</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>012:007-012:021</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Josef ist im Koran eine ganze Sure gewidmet (Sure 12, 111 Verse). Die koranische Erzählung weist starke Parallelen zur biblischen Erzählung auf; die wesentlichen Etappen der Erzählung sind die gleichen: die Träume Josefs und dessen Bevorzugung durch den Vater (TUK Nr. 0286); der Verrat der Brüder an ihm und der Verkauf an Sklavenhändler (TUK Nr. 0288); der Aufenthalt bei Potiphar (in Q 12:30.51 bezeichnet als al-ʿAzīz) und die Nachstellungen von dessen Frau (TUK Nr. 0289); der Aufenthalt im Gefängnis und die Traumdeutung für zwei Gefangene (TUK Nr. 0290); die Deutung des Traums Pharaos und Josephs Aufstieg zum Verwalter (TUK Nr. 0291); zuletzt das Wiedersehen mit den Brüdern und die Versöhnung (TUK Nr. 0292, 0293, 0294).<lb/>
+
+	Von diesen zentralen Parallelen abgesehen weicht die koranische Erzählung von der biblischen in einigen Punkten ab. Dazu gehört beispielsweise der Argwohn Jakobs, mit dem er den Erklärungen seiner Söhne begegnet, dass sein bevorzugter Sohn vom Wolf gefressen worden sei. Jakob weist sich selbst an, geduldig darauf zu warten, dass Gott die Wahrheit enthüllt (vgl. Q 12:17.18). Auch nach der Wiedervereinigung der Familie weist Jakob darauf hin, dass Gott ihm ein besonderes Wissen zuteil werden ließ (Q 12:96). Der biblische Jakob zeigt sich dagegen ohne jeden Zweifel an dem Bericht seiner Söhne und von tiefem Schmerz erfüllt (Genesis 37:33-35).<lb/>
+
+	Auch die beiden Erzählungen von den Verführungsversuchen der Frau Potiphars unterscheiden sich. Sind in der Bibel ihre Bezichtigungen der Grund für seinen Gefängnisaufenthalt, so kann Potiphar die Machenschaften seiner Frau im Koran durchschauen. Der Gefängnisaufenthalt ist im Koran folglich ebenfalls anders motiviert: Josef betet darum, eher ins Gefängnis zu kommen, als Lug und Trug der Frauen weiter ausgesetzt zu sein (Q 12:33).<lb/>
+
+	Auch das Wunder, dass Josefs Hemd den Vater wieder sehen lässt, nachdem sich die Brüder gefunden und versöhnt haben, findet sich nicht in der Bibel (vgl. Q 12:92-96).<lb/>
+
+	In diesen und ähnlichen Abweichungen manifestiert sich Gott als <hi xml:lang="ar-Latn">as-samīʿ al-ʿalīm</hi> (Q 12:34); er erhört die Gebete der ihm ergebenen Gottesfürchtigen und greift in das irdische Geschehen zu ihrem Schutz und für ihr Wohlergehen ein.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיֵּלְכוּ אֶחָיו לִרְעוֹת אֶת־צֹאן אֲבִיהֶם בִּשְׁכֶם : וַיֹּאמֶר יִשְׂרָאֵל אֶל־יוֹסֵף הֲלוֹא אַחֶיךָ רֹעִים בִּשְׁכֶם לְכָה וְאֶשְׁלָחֲךָ אֲלֵיהֶם וַיֹּאמֶר לוֹ הִנֵּנִי : וַיֹּאמֶר לוֹ לֶךְ־נָא רְאֵה אֶת־שְׁלוֹם אַחֶיךָ וְאֶת־שְׁלוֹם הַצֹּאן וַהֲשִׁבֵנִי דָּבָר וַיִּשְׁלָחֵהוּ מֵעֵמֶק חֶבְרוֹן וַיָּבֹא שְׁכֶמָה : וַיִּמְצָאֵהוּ אִישׁ וְהִנֵּה תֹעֶה בַּשָּׂדֶה וַיִּשְׁאָלֵהוּ הָאִישׁ לֵאמֹר מַה־תְּבַקֵּשׁ : וַיֹּאמֶר אֶת־אַחַי אָנֹכִי מְבַקֵּשׁ הַגִּידָה־נָּא לִי אֵיפֹה הֵם רֹעִים : וַיֹּאמֶר הָאִישׁ נָסְעוּ מִזֶּה כִּי שָׁמַעְתִּי אֹמְרִים נֵלְכָה דֹּתָיְנָה וַיֵּלֶךְ יוֹסֵף אַחַר אֶחָיו וַיִּמְצָאֵם בְּדֹתָן : וַיִּרְאוּ אֹתוֹ מֵרָחֹק וּבְטֶרֶם יִקְרַב אֲלֵיהֶם וַיִּתְנַכְּלוּ אֹתוֹ לַהֲמִיתוֹ : וַיֹּאמְרוּ אִישׁ אֶל־אָחִיו הִנֵּה בַּעַל הַחֲלֹמוֹת הַלָּזֶה בָּא : וְעַתָּה לְכוּ וְנַהַרְגֵהוּ וְנַשְׁלִכֵהוּ בְּאַחַד הַבֹּרוֹת וְאָמַרְנוּ חַיָּה רָעָה אֲכָלָתְהוּ וְנִרְאֶה מַה־יִּהְיוּ חֲלֹמֹתָיו : וַיִּשְׁמַע רְאוּבֵן וַיַּצִּלֵהוּ מִיָּדָם וַיֹּאמֶר לֹא נַכֶּנּוּ נָפֶשׁ : וַיֹּאמֶר אֲלֵהֶם רְאוּבֵן אַל־תִּשְׁפְּכוּ־דָם הַשְׁלִיכוּ אֹתוֹ אֶל־הַבּוֹר הַזֶּה אֲשֶׁר בַּמִּדְבָּר וְיָד אַל־תִּשְׁלְחוּ־בוֹ לְמַעַן הַצִּיל אֹתוֹ מִיָּדָם לַהֲשִׁיבוֹ אֶל־אָבִיו : וַיְהִי כַּאֲשֶׁר־בָּא יוֹסֵף אֶל־אֶחָיו וַיַּפְשִׁיטוּ אֶת־יוֹסֵף אֶת־כֻּתָּנְתּוֹ אֶת־כְּתֹנֶת הַפַּסִּים אֲשֶׁר עָלָיו : וַיִּקָּחֻהוּ וַיַּשְׁלִכוּ אֹתוֹ הַבֹּרָה וְהַבּוֹר רֵק אֵין בּוֹ מָיִם : וַיֵּשְׁבוּ לֶאֱכָל־לֶחֶם וַיִּשְׂאוּ עֵינֵיהֶם וַיִּרְאוּ וְהִנֵּה אֹרְחַת יִשְׁמְעֵאלִים בָּאָה מִגִּלְעָד וּגְמַלֵּיהֶם נֹשְׂאִים נְכֹאת וּצְרִי וָלֹט הוֹלְכִים לְהוֹרִיד מִצְרָיְמָה : וַיֹּאמֶר יְהוּדָה אֶל־אֶחָיו מַה־בֶּצַע כִּי נַהֲרֹג אֶת־אָחִינוּ וְכִסִּינוּ אֶת־דָּמוֹ : לְכוּ וְנִמְכְּרֶנּוּ לַיִּשְׁמְעֵאלִים וְיָדֵנוּ אַל־תְּהִי־בוֹ כִּי־אָחִינוּ בְשָׂרֵנוּ הוּא וַיִּשְׁמְעוּ אֶחָיו : וַיַּעַבְרוּ אֲנָשִׁים מִדְיָנִים סֹחֲרִים וַיִּמְשְׁכוּ וַיַּעֲלוּ אֶת־יוֹסֵף מִן־הַבּוֹר וַיִּמְכְּרוּ אֶת־יוֹסֵף לַיִּשְׁמְעֵאלִים בְּעֶשְׂרִים כָּסֶף וַיָּבִיאוּ אֶת־יוֹסֵף מִצְרָיְמָה : וַיָּשָׁב רְאוּבֵן אֶל־הַבּוֹר וְהִנֵּה אֵין־יוֹסֵף בַּבּוֹר וַיִּקְרַע אֶת־בְּגָדָיו : וַיָּשָׁב אֶל־אֶחָיו וַיֹּאמַר הַיֶּלֶד אֵינֶנּוּ וַאֲנִי אָנָה אֲנִי־בָא : וַיִּקְחוּ אֶת־כְּתֹנֶת יוֹסֵף וַיִּשְׁחֲטוּ שְׂעִיר עִזִּים וַיִּטְבְּלוּ אֶת־הַכֻּתֹּנֶת בַּדָּם : וַיְשַׁלְּחוּ אֶת־כְּתֹנֶת הַפַּסִּים וַיָּבִיאוּ אֶל־אֲבִיהֶם וַיֹּאמְרוּ זֹאת מָצָאנוּ הַכֶּר־נָא הַכְּתֹנֶת בִּנְךָ הִוא אִם־לֹא : וַיַּכִּירָהּ וַיֹּאמֶר כְּתֹנֶת בְּנִי חַיָּה רָעָה אֲכָלָתְהוּ טָרֹף טֹרַף יוֹסֵף : וַיִּקְרַע יַעֲקֹב שִׂמְלֹתָיו וַיָּשֶׂם שַׂק בְּמָתְנָיו וַיִּתְאַבֵּל עַל־בְּנוֹ יָמִים רַבִּים : וַיָּקֻמוּ כָל־בָּנָיו וְכָל־בְּנֹתָיו לְנַחֲמוֹ וַיְמָאֵן לְהִתְנַחֵם וַיֹּאמֶר כִּי־אֵרֵד אֶל־בְּנִי אָבֵל שְׁאֹלָה וַיֵּבְךְּ אֹתוֹ אָבִיו : וְהַמְּדָנִים מָכְרוּ אֹתוֹ אֶל־מִצְרָיִם לְפוֹטִיפַר סְרִיס פַּרְעֹה שַׂר הַטַּבָּחִים :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	12 Als seine Brüder fortgezogen waren, um das Vieh ihres Vaters bei Sichem zu weiden, 13 sagte Israel zu Josef: Deine Brüder weiden bei Sichem das Vieh. Geh, ich will dich zu ihnen schicken. Er antwortete: Ich bin bereit. 14 Da sagte der Vater zu ihm: Geh doch hin und sieh, wie es deinen Brüdern und dem Vieh geht, und berichte mir! So schickte er ihn aus dem Tal von Hebron fort und Josef kam nach Sichem. 15 Ein Mann traf ihn, wie er auf dem Feld umherirrte; er fragte ihn: Was suchst du? 16 Josef antwortete: Meine Brüder suche ich. Sag mir doch, wo sie das Vieh weiden. 17 Der Mann antwortete: Sie sind von hier weitergezogen. Ich habe nämlich gehört, wie sie sagten: Gehen wir nach Dotan. Da ging Josef seinen Brüdern nach und fand sie in Dotan. 18 Sie sahen ihn von weitem. Bevor er jedoch nahe an sie herangekommen war, fassten sie den Plan, ihn umzubringen. 19 Sie sagten zueinander: Dort kommt ja dieser Träumer. 20 Jetzt aber auf, erschlagen wir ihn und werfen wir ihn in eine der Zisternen. Sagen wir, ein wildes Tier habe ihn gefressen. Dann werden wir ja sehen, was aus seinen Träumen wird. 21 Ruben hörte das und wollte ihn aus ihrer Hand retten. Er sagte: Begehen wir doch keinen Mord. 22 Und Ruben sagte zu ihnen: Vergießt kein Blut! Werft ihn in die Zisterne da in der Steppe, aber legt nicht Hand an ihn! Er wollte ihn nämlich aus ihrer Hand retten und zu seinem Vater zurückbringen. 23 Als Josef bei seinen Brüdern angekommen war, zogen sie ihm sein Gewand aus, den Ärmelrock, den er anhatte, 24 packten ihn und warfen ihn in die Zisterne. Die Zisterne war leer; es war kein Wasser darin. 25 Als sie dann beim Essen saßen und aufblickten, sahen sie, dass gerade eine Karawane von Ismaelitern aus Gilead kam. Ihre Kamele waren mit Tragakant, Mastix und Ladanum beladen. Sie waren unterwegs nach Ägypten. 26 Da schlug Juda seinen Brüdern vor: Was haben wir davon, wenn wir unseren Bruder erschlagen und sein Blut zudecken? 27 Kommt, verkaufen wir ihn den Ismaelitern. Wir wollen aber nicht Hand an ihn legen, denn er ist doch unser Bruder und unser Verwandter. Seine Brüder waren einverstanden. 28 Midianitische Kaufleute kamen vorbei. Da zogen sie Josef aus der Zisterne heraus und verkauften ihn für zwanzig Silberstücke an die Ismaeliter. Diese brachten Josef nach Ägypten. 29 Als Ruben zur Zisterne zurückkam, war Josef nicht mehr dort. Er zerriss seine Kleider, 30 wandte sich an seine Brüder und sagte: Der Kleine ist ja nicht mehr da. Und ich, was soll ich jetzt anfangen? 31 Da nahmen sie Josefs Gewand, schlachteten einen Ziegenbock und tauchten das Gewand in das Blut. 32 Dann schickten sie den Ärmelrock zu ihrem Vater und ließen ihm sagen: Das haben wir gefunden. Sieh doch, ob das der Rock deines Sohnes ist oder nicht. 33 Als er ihn angesehen hatte, sagte er: Der Rock meines Sohnes! Ein wildes Tier hat ihn gefressen. Zerrissen, zerrissen ist Josef. 34 Jakob zerriss seine Kleider, legte Trauerkleider an und trauerte um seinen Sohn viele Tage. 35 Alle seine Söhne und Töchter machten sich auf, um ihn zu trösten. Er aber ließ sich nicht trösten und sagte: Ich will dauernd zu meinem Sohn in die Unterwelt hinabsteigen. So beweinte ihn sein Vater. 36 Die Midianiter aber verkauften Josef nach Ägypten an Potifar, einen Hofbeamten des Pharao, den Obersten der Leibwache.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

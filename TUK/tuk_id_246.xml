@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>2. Clemensbrief 9:1-11</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Karl Ahrens</persName>
+                    <name>"Christliches im Qoran. Eine Nachlese", Zeitschrift der Deutschen Morgenländischen Gesellschaft 84 (1930), S. 45.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>246</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate>Mitte 2. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Joseph Anton Fischer, Die Apostolischen Väter: Griechisch und deutsch, Darmstadt 1956.</bibl>
+                <bibl>
+                    <edition>J. B. Lightfoot, The Apostolic Fathers: revised texts with introductions, notes, dissertations, and translations, London 1889-1890; Joseph Anton Fischer, Die Apostolischen Väter: Griechisch und deutsch, Darmstadt 1956.</edition>
+                    <relatedItem>
+                        <bibl>003:029; 003:119; 003:154; 005:007; 008:043; 011:005; 027:074; 028:069; 029:010; 031:023; 035:038; 039:007; 040:019; 042:024; 057:006; 064:004; 067:013; 100:010</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Wie an zahlreichen Stellen im Koran, betont auch der Clemensbrief, dass Gott die 'geheimen, inneren' Gedanken der Menschen kennt. Die entscheidene Formulierung findet sich in Vers 9: εἰδὼς ἡμῶν τὸ ἐν καρδίᾳ. Insbesondere zu Q 100:10 vgl. auch 2. Clemensbrief 16:3: "Dann werden offenbar sein die geheimen und sichtbaren Taten der Menschen."</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>1 Καὶ μὴ λεγέτω τις ὑμῶν ὅτι αὕτη ἡ σὰρξ οὐ κρίνεται οὐδὲ ἀνίσταται 2 γνῶτε ἐν τίνι ἐσώθητε ἐν τίνι ἀνεβλέψατε εἰ μὴ ἐν τῇ σαρκὶ ταύτῃ ὄντες 3 δεῖ οὗν ἡμᾶς ὡς ναὸν θεοῦ φυλάσσειν τὴν σάρκα 4 ὃν τρόπον γὰρ ἐν τῇ σαρκὶ ἐκλήθητε καὶ ἐν τῇ σαρκὶ ἐλεύσεσθε 5 εἰ Χριστός ὁ κύριος ὁ σώσας ἡμᾶς ὢν μὲν τὸ πρῶτον πνεῦμα ἐγένετο σὰρξ καὶ οὕτως ἡμᾶς ἐκάλεσεν οὕτως καὶ ἡμεῖς ἐν ταύτῃ τῇ σαρκὶ ἀποληψόμεθα τὸν μισθόν 6 ἀγαπῶμεν οὗν ἀλλήλους ὅπως ἔλθωμεν πάντες εἰς τὴν βασιλείαν τοῦ θεοῦ 7 ὡς ἔχομεν καιρὸν τοῦ ἰαθῆναι ἐπιδῶμεν ἑαυτοὺς τῷ θεραπεύοντι θεῷ ἀντιμισθίαν αὐτῷ διδόντες 8 ποίαν τὸ μετανοῆσαι ἐξ εἰλικρινοῦς καρδίας 9 προγνώστης γάρ ἐστιν τῶν πάντων καὶ <hi rendition="bold">εἰδὼς ἡμῶν τὸ ἐν καρδίᾳ </hi> 10 δῶμεν οὗν αὐτῷ αἶνον μὴ ἀπὸ στόματος μόνον ἀλλὰ καὶ ἀπὸ καρδίας ἵνα ἡμᾶς προσδέξηται ὡς υἱούς 11 καὶ γὰρ εἷπεν ὁ κύριος Ἀδελφοί μου οὗτοί εἰσιν οἱ ποιοῦντες τὸ θέλημα τοῦ πατρός μου.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>Und es soll keiner von euch sagen, daß dieses Fleisch nicht gerichtet wird und nicht aufersteht. Erkennt: Worin seid ihr gerettet worden? Worin seid ihr wieder sehend geworden? Doch nur als solche, die in diesem Fleisch existieren. Folglich müssen wir das Fleisch hüten wie den Tempel Gottes. Wie ihr nämlich im Fleisch berufen worden seid, so werdet ihr auch im Fleisch hingelangen. Einer ist Christus, der Herr, der uns gerettet hat. Er war zuerst Geist und ist Fleisch geworden, und so hat er uns berufen; so werden auch wir in diesem Fleisch den Lohn empfangen. Laßt uns also einander lieben, damit wir alle in das Reich Gottes kommen. Solange wir Gelegenheit haben, geheilt zu werden, wollen wir uns selbst dem Gott, der uns gesund machen kann, anvertrauen, wobei wir ihm eine Gegenleistung abstatten. Welche? Buße tun aus reinem Herzen. Denn <hi rendition="bold">er</hi> weiß alles im Voraus und <hi rendition="bold">kennt das, was in unserem Herzen ist</hi>. So laßt uns ihm also Lob spenden, nicht mit dem Munde allein, sondern auch von Herzen, damit er uns annimmt als Söhne. Denn der Herr hat auch gesagt: "Meine Brüder sind diejenigen, die den Willen meines Vaters tun."</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

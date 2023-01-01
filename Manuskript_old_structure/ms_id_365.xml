@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Top 1 nach http://www.finebooksmagazine.com/issue/200903/top_auction_sales-1.phtml<lb/>
+                        <lb/> $4,894,000 (£2,484,500)<lb/>
+                        <lb/> Im Sammlermagazin "FineBooks &amp; Collection" schreibt McKay folgenden Kommentar: "In recent years the Al Thani family in Qatar, the oil-rich Arab emirate with the world’s highest GDP per capita, have been major players in this market." Aus dem Text geht nicht hervor, wo das Fragment momentan aufbewahrt wird.</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Katar</country>
+                        <settlement>Katar?</settlement>
+                        <institution> siehe Kommentar</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Christie's, 8. April 2008, x Uhr, Lot y (Sanaa-Palimpsest?)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="365">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Fragment">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p>verschiede Typen von Verstrennern sind zu erkennen:<lb/> - Typ "6-Punke-Pyramidenform" (1-2-3, ähnlich Meknes)<lb/> - Typ "4-Punkte-untereinander" (Beispiel: letzte Zeile)</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ian McKay, "Qur'an Leaf", in: FineBooks &amp; Collections 3 (2009), online unter: http://www.finebooksmagazine.com/issue/200903/top_auction_sales-1.phtml, abgerufen am 22.7.2009.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

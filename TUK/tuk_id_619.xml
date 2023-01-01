@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zefanja 1:8-18</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Angelika Neuwirth</persName>
+                    <name>Nicolai Sinai</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>619</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 3. Jh. v. Chr. (Endredaktion des Zwölfprophetenbuches) </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>004:042; 006:016; 007:008; 011:066; 014:049; 016:087; 018:099-018:100; 020:102; 020:108-020:109; 022:056; 023:101; 024:025; 025:022; 025:024; 025:026; 027:089; 028:066; 030:004; 030:014; 030:043; 030:057; 037:033; 040:009; 042:047; 043:067; 045:027; 052:011; 055:039; 069:015-069:018; 070:011; 074:009; 075:010; 075:012-075:013; 075:022; 075:024; 075:030; 077:015; 077:019; 077:024; 077:028; 077:034; 077:037; 077:040; 077:045; 077:047; 077:049; 079:008; 080:037-080:038; 080:040; 082:019; 083:010; 083:015; 088:002; 088:008; 089:022-089:023; 089:025; 099:004; 099:006; 100:011; 102:008</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">yaumaʾiḏin</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	An zahlreichen Stellen verwendet der Koran <hi xml:lang="ar-Latn">yaumaʾiḏin</hi> ("an jenem Tag"), um vom Jüngsten Tag oder auch von innerweltlichen Strafgerichten (z.B. 11:66) zu sprechen. <hi xml:lang="ar-Latn">yaumaʾiḏin</hi> entspricht dabei hebräisch <hi xml:lang="ar-Latn">(bay-)yôm ha-hûʾ</hi>, was z.B. in der Schilderung des Strafgerichtes bei Zefanja verwendet wird.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וְהָיָה בְּיוֹם זֶבַח יְהוָה וּפָקַדְתִּי עַל־הַשָּׂרִים וְעַל־בְּנֵי הַמֶּלֶךְ וְעַל כָּל־הַלֹּבְשִׁים מַלְבּוּשׁ נָכְרִי׃ וּפָקַדְתִּי עַל כָּל־הַדּוֹלֵג עַל־הַמִּפְתָּן <hi rendition="bold"> בַּיּוֹם הַהוּא </hi> הַמְמַלְאִים בֵּית אֲדֹנֵיהֶם חָמָס וּמִרְמָה׃ וְהָיָה <hi rendition="bold"> בַיּוֹם הַהוּא </hi> נְאֻם־יְהוָה קוֹל צְעָקָה מִשַּׁעַר הַדָּגִים וִילָלָה מִן־הַמִּשְׁנֶה וְשֶׁבֶר גָּדוֹל מֵהַגְּבָעֽוֹת׃ הֵילִילוּ יֹשְׁבֵי הַמַּכְתֵּשׁ כִּי נִדְמָה כָּל־עַם כְּנַעַן נִכְרְתוּ כָּל־נְטִילֵי כָסֶף׃ וְהָיָה בָּעֵת הַהִיא אֲחַפֵּשׂ אֶת־יְרוּשָׁלַ״ִם בַּנֵּרוֹת וּפָקַדְתִּי עַל־הָאֲנָשִׁים הַקֹּֽפְאִים עַל־שִׁמְרֵיהֶם הָאֹֽמְרִים בִּלְבָבָם לֹֽא־יֵיטִיב יְהוָה וְלֹא יָרֵעַ׃ וְהָיָה חֵילָם לִמְשִׁסָּה וּבָתֵּיהֶם לִשְׁמָמָה וּבָנוּ בָתִּים וְלֹא יֵשֵׁבוּ וְנָטְעוּ כְרָמִים וְלֹא יִשְׁתּוּ אֶת־יֵינָם׃ קָרוֹב יוֹם־יְהוָה הַגָּדוֹל קָרוֹב וּמַהֵר מְאֹד קוֹל יוֹם יְהוָה מַר צֹרֵחַ שָׁם גִּבּֽוֹר׃ יוֹם עֶבְרָה <hi rendition="bold"> הַיּוֹם הַהוּא </hi> יוֹם צָרָה וּמְצוּקָה יוֹם שֹׁאָה וּמְשׁוֹאָה יוֹם חֹשֶׁךְ וַאֲפֵלָה יוֹם עָנָן וַעֲרָפֶל׃ יוֹם שׁוֹפָר וּתְרוּעָה עַל הֶעָרִים הַבְּצֻרוֹת וְעַל הַפִּנּוֹת הַגְּבֹהֽוֹת׃ וַהֲצֵרֹתִי לָאָדָם וְהָלְכוּ כַּעִוְרִים כִּי לַיהוָה חָטָאוּ וְשֻׁפַּךְ דָּמָם כֶּעָפָר וּלְחֻמָם כַּגְּלָלִים׃ גַּם־כַּסְפָּם גַּם־זְהָבָם לֹֽא־יוּכַל לְהַצִּילָם בְּיוֹם עֶבְרַת יְהוָה וּבְאֵשׁ קִנְאָתוֹ תֵּאָכֵל כָּל־הָאָרֶץ כִּי־כָלָה אַךְ־נִבְהָלָה יַעֲשֶׂה אֵת כָּל־יֹשְׁבֵי הָאָֽרֶץ׃</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	8 Am Tag des Schlachtopfers des Herrn rechne ich ab mit den großen Herren und den Königssöhnen und allen, die fremdländische Kleider tragen; 9 <hi rendition="bold">an jenem Tag</hi> rechne ich ab mit jedem, der über die Schwelle springt, mit allen, die das Haus ihres Herrn mit Betrug und Gewalt anfüllen. 10 <hi rendition="bold">An jenem Tag</hi> - Spruch des Herrn - hört man vom Fischtor her Geschrei und aus der Neustadt lautes Jammern und von den Hügeln her großes Getöse. 11 Jammert, ihr Bewohner der Senke! Denn das ganze Krämervolk verstummt, alle Geldwechsler sind ausgerottet. 12 In jener Zeit durchsuche ich Jerusalem mit der Laterne und rechne ab mit den Herren, die dick geworden sind auf ihrer Hefe und denken: Der Herr tut weder Gutes noch Böses. 13 Darum werden ihre Reichtümer geraubt und ihre Häuser verwüstet. Sie werden Häuser bauen, aber nicht darin wohnen; sie werden Weinberge anlegen, aber den Wein nicht trinken. 14 Der Tag des Herrn ist nahe, der gewaltige Tag, er ist nahe, schnell kommt er herbei. Horch, der Tag des Herrn ist bitter, da schreit sogar der Kriegsheld auf. 15 Ein Tag des Zorns ist <hi rendition="bold">jener Tag</hi>, ein Tag der Not und Bedrängnis, ein Tag des Krachens und Berstens, ein Tag des Dunkels und der Finsternis, ein Tag der Wolken und der schwarzen Nacht, 16 ein Tag des Widderhorns und des Kriegsgeschreis in den befestigten Städten und auf den hohen Zinnen. 17 Da jage ich den Menschen Angst ein, so daß sie wie blind umherlaufen; denn sie haben sich gegen den Herrn versündigt. Ihr Blut wird hingeschüttet wie Schutt und ihr fettes Mark wie Kot. 18 Weder ihr Silber noch ihr Gold kann sie retten am Tag des Zornes des Herrn. Vom Feuer seines leidenschaftlichen Eifers wird die ganze Erde verzehrt. Denn er bereitet allen Bewohnern der Erde ein Ende, ein schreckliches Ende.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Exodus 15:23-27</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 293.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>240</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung (mit "Moses" statt "Mose")</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>002:060; 007:160</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Anders als die entsprechende Stelle in Exodus 17 (TUK Nr. 0239), spricht der Koran davon, dass aus dem Felsen, an den Moses mit seinem Stab schlägt, nicht nur eine einzige Quelle, sondern zwölf Quellen entspringen. Speyer, S. 293, führt dies darauf zurück, dass in der koranischen Version Exodus 17:1-7 mit Exodus 15:27, wo von zwölf Quellen die Rede ist, zusammengeflossen sei.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיַּסַּע מֹשֶׁה אֶת־יִשְׂרָאֵל מִיַּם־סוּף וַיֵּצְאוּ אֶל־מִדְבַּר־שׁוּר וַיֵּלְכוּ שְׁלֹשֶׁת־יָמִים בַּמִּדְבָּר וְלֹא־מָצְאוּ מָיִם : וַיָּבֹאוּ מָרָתָה וְלֹא יָכְלוּ לִשְׁתֹּת מַיִם מִמָּרָה כִּי מָרִים הֵם עַל־כֵּן קָרָא־שְׁמָהּ מָרָה : וַיִּלֹּנוּ הָעָם עַל־מֹשֶׁה לֵּאמֹר מַה־נִּשְׁתֶּה : וַיִּצְעַק אֶל־יְהוָה וַיּוֹרֵהוּ יְהוָה עֵץ וַיַּשְׁלֵךְ אֶל־הַמַּיִם וַיִּמְתְּקוּ הַמָּיִם שָׁם שָׂם לוֹ חֹק וּמִשְׁפָּט וְשָׁם נִסָּהוּ : וַיֹּאמֶר אִם־שָׁמוֹעַ תִּשְׁמַע לְקוֹל יְהוָה אֱלֹהֶיךָ וְהַיָּשָׁר בְּעֵינָיו תַּעֲשֶׂה וְהַאֲזַנְתָּ לְמִצְוֹתָיו וְשָׁמַרְתָּ כָּל־חֻקָּיו כָּל־הַמַּחֲלָה אֲשֶׁר־שַׂמְתִּי בְמִצְרַיִם לֹא־אָשִׂים עָלֶיךָ כִּי אֲנִי יְהוָה רֹפְאֶךָ : וַיָּבֹאוּ אֵילִמָה <hi rendition="bold"> וְשָׁם שְׁתֵּים עֶשְׂרֵה עֵינֹת מַיִם </hi> וְשִׁבְעִים תְּמָרִים וַיַּחֲנוּ־שָׁם עַל־הַמָּיִם :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	22 Moses ließ Israel vom Schilfmeer aufbrechen und sie zogen zur Wüste Schur weiter. Drei Tage waren sie in der Wüste unterwegs und fanden kein Wasser. 23 Als sie nach Mara kamen, konnten sie das Wasser von Mara nicht trinken, weil es bitter war. Deshalb nannte man es Mara (Bitterbrunn). 24 Da murrte das Volk gegen Moses und sagte: Was sollen wir trinken? 25 Er schrie zum Herrn und der Herr zeigte ihm ein Stück Holz. Als er es ins Wasser warf, wurde das Wasser süß. Dort gab Gott dem Volk Gesetz und Rechtsentscheidungen und dort stellte er es auf die Probe. 26 Er sagte: Wenn du auf die Stimme des Herrn, deines Gottes, hörst und tust, was in seinen Augen gut ist, wenn du seinen Geboten gehorchst und auf alle seine Gesetze achtest, werde ich dir keine der Krankheiten schicken, die ich den Ägyptern geschickt habe. Denn ich bin der Herr, dein Arzt. 27 Dann kamen sie nach Elim. <hi rendition="bold">Dort gab es zwölf Quellen</hi> und siebzig Palmen; dort am Wasser schlugen sie ihr Lager auf.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

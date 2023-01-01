@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jesaja 13:9-22</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Hartwig Hirschfeld</persName>
+                    <name>Beiträge zur Erklärung des Korans, Leipzig 1886, S. 37; Josef Horovitz, Jewish Proper Names and Derivatives in the Koran, Ohio 1925, S. 43 f.; Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 156.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>668</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina, Mesopotamien </origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Anfertigung der Jesajarolle aus Qumran) </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>009:070; 053:053; 069:009</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">al-muʾtafika</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Q 9:70, 53:53 und 69:9 enthalten kurze Reminiszenzen an vergangene Strafgerichte, darunter auch die Zerstörung Sodoms und Gomorrhas. Dabei werden die beiden Städte nicht namentlich erwähnt, sondern tauchen unter der Bezeichnung <hi xml:lang="ar-Latn">al-muʾtafika</hi>, bzw. <hi xml:lang="ar-Latn">al-muʾtafikāt</hi> auf. Diese Bezeichnung wird von Hischfeld, Horovitz und Speyer auf das hebräische Wort <hi xml:lang="ar-Latn">mahpēka </hi>zurückgeführt, das z.B. bei Jesaja für die Zerstörung (<hi xml:lang="ar-Latn">mahpēka</hi>) der beiden Städte durch Gott verwendet wird.</p>
+                    <p>
+
+	Arab. ʾ-f-k "umdrehen, umkehren" ? VIII. Stamm</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	הִנֵּה יוֹם יְקֹוָק בָּא אַכְזָרִי וְעֶבְרָה וַחֲרוֹן אָף לָשׂוּם הָאָרֶץ לְשַׁמָּה וְחַטָּאֶיהָ יַשְׁמִיד מִמֶּנָּה: כִּי כוֹכְבֵי הַשָּׁמַיִם וּכְסִילֵיהֶם לֹא יָהֵלּוּ אוֹרָם חָשַׁךְ הַשֶּׁמֶשׁ בְּצֵאתוֹ וְיָרֵחַ לֹא יַגִּיהַּ אוֹרוֹ: וּפָקַדְתִּי עַל תֵּבֵל רָעָה וְעַל רְשָׁעִים עֲוֹנָם וְהִשְׁבַּתִּי גְּאוֹן זֵדִים וְגַאֲוַת עָרִיצִים אַשְׁפִּיל: אוֹקִיר אֱנוֹשׁ מִפָּז וְאָדָם מִכֶּתֶם אוֹפִיר: עַל כֵּן שָׁמַיִם אַרְגִּיז וְתִרְעַשׁ הָאָרֶץ מִמְּקוֹמָהּ בְּעֶבְרַת יְקֹוָק צְבָאוֹת וּבְיוֹם חֲרוֹן אַפּוֹ: וְהָיָה כִּצְבִי מֻדָּח וּכְצֹאן וְאֵין מְקַבֵּץ אִישׁ אֶל עַמּוֹ יִפְנוּ וְאִישׁ אֶל אַרְצוֹ יָנוּסוּ: כָּל הַנִּמְצָא יִדָּקֵר וְכָל הַנִּסְפֶּה יִפּוֹל בֶּחָרֶב: וְעֹלְלֵיהֶם יְרֻטְּשׁוּ לְעֵינֵיהֶם יִשַּׁסּוּ בָּתֵּיהֶם וּנְשֵׁיהֶם תשגלנה תִּשָּׁכַבְנָה: הִנְנִי מֵעִיר עֲלֵיהֶם אֶת מָדָי אֲשֶׁר כֶּסֶף לֹא יַחְשֹׁבוּ וְזָהָב לֹא יַחְפְּצוּ בוֹ: וּקְשָׁתוֹת נְעָרִים תְּרַטַּשְׁנָה וּפְרִי בֶטֶן לֹא יְרַחֵמוּ עַל בָּנִים לֹא תָחוּס עֵינָם: וְהָיְתָה בָבֶל צְבִי מַמְלָכוֹת תִּפְאֶרֶת גְּאוֹן כַּשְׂדִּים  כְּ<hi rendition="bold">מַהְפֵּכַת </hi>
+                        <hi rendition="strong"> אֱלֹהִים אֶת סְדֹם וְאֶת עֲמֹרָה:</hi> לֹא תֵשֵׁב לָנֶצַח וְלֹא תִשְׁכֹּן עַד דּוֹר וָדוֹר וְלֹא יַהֵל שָׁם עֲרָבִי וְרֹעִים לֹא יַרְבִּצוּ שָׁם: וְרָבְצוּ שָׁם צִיִּים וּמָלְאוּ בָתֵּיהֶם אֹחִים וְשָׁכְנוּ שָׁם בְּנוֹת יַעֲנָה וּשְׂעִירִים יְרַקְּדוּ שָׁם: וְעָנָה אִיִּים בְּאַלְמְנוֹתָיו וְתַנִּים בְּהֵיכְלֵי עֹנֶג וְקָרוֹב לָבוֹא עִתָּהּ וְיָמֶיהָ לֹא יִמָּשֵׁכוּ:</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	9 Seht, der Tag des Herrn kommt, / voll Grausamkeit, Grimm und glühendem Zorn; dann macht er die Erde zur Wüste / und die Sünder vertilgt er. 10 Die Sterne und Sternbilder am Himmel / lassen ihr Licht nicht mehr leuchten. Die Sonne ist dunkel, schon wenn sie aufgeht, / der Mond lässt sein Licht nicht mehr scheinen. 11 Dann bestrafe ich den Erdkreis für seine Verbrechen / und die Bösen für ihre Vergehen. Dem Hochmut der Stolzen mache ich ein Ende / und werfe die hochmütigen Tyrannen zu Boden. 12 Die Menschen mache ich seltener als Feingold, / die Menschenkinder rarer als Golderz aus Ofir. 13 Dann wird der Himmel erzittern / und die Erde beginnt an ihrem Ort zu wanken wegen des Grimms des Herrn der Heere / am Tag seines glühenden Zorns. 14 Wie aufgescheuchte Gazellen, / wie eine Schafherde, die niemand zusammenhält, so eilt dann jeder zu seinem Volk, / so flieht jeder in sein Land. 15 Man sticht jeden nieder, dem man begegnet; / wen man zu fassen bekommt, der fällt unter dem Schwert. 16 Vor ihren Augen werden ihre Kinder zerschmettert, / ihre Häuser geplündert, ihre Frauen geschändet. 17 Seht, ich stachle die Meder gegen sie auf, / denen das Silber nichts gilt / und das Gold nichts bedeutet. 18 Ihre Bogen strecken die jungen Männer nieder; / mit der Leibesfrucht haben sie kein Erbarmen, / mit den Kindern kein Mitleid. 19 Wie es <hi rendition="strong">Sodom und Gomorra</hi> erging, / <hi rendition="strong">als Gott sie </hi>
+                        <hi rendition="bold">zerstörte</hi>, so wird es Babel ergehen, / dem Kleinod unter den Königreichen, / dem Schmuckstück der stolzen Chaldäer. 20 Für immer wird es unbewohnt sein, / bis zu den fernsten Generationen / wird es nicht mehr besiedelt. Nicht einmal ein Beduine / schlägt dort sein Zelt auf, / kein Hirt lässt seine Herde dort lagern. 21 Dort haben nur Wüstenhunde ihr Lager, / die Häuser sind voller Eulen, Strauße lassen sich dort nieder / und Böcke springen umher. 22 Hyänen heulen in Babels Palästen, / in den Lustschlössern heulen Schakale. Die Zeit (seines Endes) steht nahe bevor, / Babels (letzte) Tage verzögern sich nicht.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

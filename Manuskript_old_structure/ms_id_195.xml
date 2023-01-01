@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Jemen</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Sanaa 14-21-1</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="195">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Blatt">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>190</height>
+                                        <width>280</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="14">
+                                    <p>Die Seiten enthalten 14 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Keith Small und Elisabeth Puin, "UNESCO CD OF SAN'A' MSS: PART III, Qur'an Palimpsests, and Unique Qur'an Illustrations", in: Manuscripta Orientalia 14 (2008).
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <note type="intern" subtype="page">
+                <p>Z1-8: keine Verstrenner<lb/> Z5: Surenüberschrift in goldener Schrift, Angabe eines Surentitels (<hi rendition="ar-Latn">at-Tīn</hi>) und vielleicht Nennung einer Verszahl<lb/> Z9: Ein in goldener Schrift eingefügtes <hi rendition="ar-Latn">hāʾ</hi> zählt die ersten fünf Verse<lb/> Z10: Pleneschreibung; Kairo الصلحٮ<lb/> Z11: Was bedeuten die roten Punkte?<lb/> Z12: Kairo الحکمٮں<lb/> Z13: Surenüberschrift in goldener Schrift, Angabe eines Surentitels und vielleicht Nennung einer Verszahl</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>094:001-096:001</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">لَکَ</w>
+                    <w n="000000000">صَدرَکَ</w>
+                    <w n="000000000">ووصعٮا</w>
+                    <w n="000000000">عٮک</w>
+                    <w n="000000000">وررکَ الدى</w>
+                    <w n="000000000">أٮڡصَ</w>
+                    <w n="000000000">طهرَکَورڡعٮا</w>
+                    <w n="000000000">لک</w>
+                    <w n="000000000">دکرَ کَڡإںَ</w>
+                    <w n="000000000">معَ</w>
+                    <w n="000000000">العسرٍ</w>
+                    <w n="000000000">ٮسرًاإںَ</w>
+                    <w n="000000000">معَ</w>
+                    <w n="000000000">العسر</w>
+                    <w n="000000000">ٮسراڡا دا</w>
+                    <w n="000000000">ڡرعٮ</w>
+                    <w n="000000000">ڡاٮصٮوالى</w>
+                    <w n="000000000">رٮِکَ</w>
+                    <w n="000000000">ڡار عٮالٮٮں............... ٮسمِ</w>
+                    <w n="000000000">ال‍لهِ</w>
+                    <w n="000000000">الرحمںِ</w>
+                    <w n="000000000">الرحٮمِوالٮِٮں</w>
+                    <w n="000000000">والر ٮٮوںِوطورِ</w>
+                    <w n="000000000">سِٮٮٮںَوهدا</w>
+                    <w n="000000000">الٮلدِ</w>
+                    <w n="000000000">الامٮں لڡد</w>
+                    <w n="000000000">حلَڡٮا</w>
+                    <w n="000000000">الاٮسںَ</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">أحسںِ</w>
+                    <w n="000000000">ٮڡوٮمٍٮُمَ</w>
+                    <w n="000000000">رد دٮهُ</w>
+                    <w n="000000000">أسڡلَ</w>
+                    <w n="000000000">سڡلٮںَ</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">(5)إلا</w>
+                    <w n="000000000">الدٮںَ</w>
+                    <w n="000000000">أمٮوا</w>
+                    <w n="000000000">و عملوا</w>
+                    <w n="000000000">الصالِحٮِ</w>
+                    <w n="000000000">ڡلَهم</w>
+                    <w n="000000000">احرُ</w>
+                    <w n="000000000">عٮرُ ممٮوٮ</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ڡما</w>
+                    <w n="000000000">ٮکَدِٮَکَ</w>
+                    <w n="000000000">ٮعدَ</w>
+                    <w n="000000000">ٮالَدٮں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ألٮسَ</w>
+                    <w n="000000000">ال‍لهُ</w>
+                    <w n="000000000">ٮِاحکمِ</w>
+                    <w n="000000000">الحاکمِٮںَ xxxxxxxxxxxxxxxxxxxx ٮسمِ</w>
+                    <w n="000000000">ال‍لهِ</w>
+                    <w n="000000000">الرحمںِ</w>
+                    <w n="000000000">الرحٮمِاڡرأ</w>
+                    <w n="000000000">ٮاسمِ</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

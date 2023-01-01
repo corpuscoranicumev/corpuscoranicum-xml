@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johannes 12:44-50</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>649</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Kleinasien?</origPlace>
+                            <origDate>ca. 90-110 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>002:008; 002:062; 002:126; 002:177; 002:228; 002:232; 002:264; 003:114; 004:038; 004:039; 004:059; 004:136; 004:162; 005:069; 009:018; 009:019; 009:029; 009:044; 009:045; 009:099; 024:002; 029:036; 033:021; 058:022; 060:006; 065:002</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">al-yaum al-ʾāḫir</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Der Begriff <hi xml:lang="ar-Latn">al-yaum al-ʾāḫir</hi> "letzter, jüngster Tag" erscheint prominent im Koran und zwar in Junktur mit dem Verb <hi xml:lang="ar-Latn">ʾāmana</hi> "glauben" und <hi xml:lang="ar-Latn">Allāh</hi> "Gott". Dieses Thema erinnert an die Johannesstelle, welche denjenigen warnt, der Jesu <hi xml:lang="ar-Latn">(</hi>d.h. Gottes) Worte zurückweist. Er wird am jüngsten/letzten Tag, gr. ἐσχάτη ἡμέρα, syr. <hi xml:lang="ar-Latn">yawmā (a)ḥrāyā</hi> gerichtet werden. Zwar wird Gott nicht wörtlich genannt, es ergeht aber der Verweis auf "den Richter", d.h. Gott.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	Griechisch:<lb/>
+
+	44 Ιησοῦς δὲ ἔκραξεν καὶ εἶπεν• ὁ πιστεύων εἰς ἐμὲ οὐ πιστεύει εἰς ἐμὲ ἀλλὰ εἰς τὸν πέμψαντά με, 45 καὶ ὁ θεωρῶν ἐμὲ θεωρεῖ τὸν πέμψαντά με. 46 ἐγὼ φῶς εἰς τὸν κόσμον ἐλήλυθα, ἵνα πᾶς ὁ πιστεύων εἰς ἐμὲ ἐν τῇ σκοτίᾳ μὴ μείνῃ. 47 καὶ ἐάν τίς μου ἀκούσῃ τῶν ῥημάτων καὶ μὴ φυλάξῃ, ἐγὼ οὐ κρίνω αὐτόν• οὐ γὰρ ἦλθον ἵνα κρίνω τὸν κόσμον, ἀλλ᾽ ἵνα σώσω τὸν κόσμον. 48 ὁ ἀθετῶν ἐμὲ καὶ μὴ λαμβάνων τὰ ῥήματά μου ἔχει τὸν κρίνοντα αὐτόν• ὁ λόγος ὃν ἐλάλησα ἐκεῖνος κρινεῖ αὐτὸν ἐν <hi rendition="bold">τῇ ἐσχάτῃ ἡμέρᾳ</hi>. 49 ὅτι ἐγὼ ἐξ ἐμαυτοῦ οὐκ ἐλάλησα, ἀλλ᾽ ὁ πέμψας με πατὴρ αὐτός μοι ἐντολὴν δέδωκεν τί εἴπω καὶ τί λαλήσω. 50 καὶ οἶδα ὅτι ἡ ἐντολὴ αὐτοῦ ζωὴ αἰώνιός ἐστιν. ἃ οὖν ἐγὼ λαλῶ, καθὼς εἴρηκέν μοι ὁ πατήρ, οὕτως λαλῶ.<lb/>
+
+	Syrisch:<lb/>ܝܶܫܽܘܥ ܕܿܶܝܢ ܩܥܳܐ܂ ܘܶܐܡܰܪ܂ ܡܰܢ ܕ݁ܰܡܗܰܝܡܶܢ ܒܿܺܝ܂ ܠܳܐ ܗ̱ܘܳܐ ܒܿܺܝ ܡܗܰܝܡܶܢ܂ ܐܶܠܳܐ ܒܿܡܰܢ ܕܿܫܰܕܿܪܰܢܝ 44<lb/>
+
+	ܘܡܰܢ ܕܿܠܺܝ ܚܳܙܶܐ܂ ܚܙܳܐ ܠܡܰܢ ܕܿܫܰܕܿܪܰܢܝ ܂45 </p>
+                    <p>46 ܐܶܢܳܐ ܢܽܘܗܪܳܐ ܐܶܬܼܺܝܬܼ ܠܥܳܠܡܳܐ܂ ܕܿܟܼܽܠ ܡܰܢ ܕ݁ܰܡܗܰܝܡܶܢ ܒܿܺܝ܂ ܠܳܐ ܢܩܰܘܶܐ ܒܿܚܶܫܽܘܟ݂ܳܐ ܂<lb/>
+
+	47   ܘܡܰܢ ܕܿܫܳܡܰܥ ܡܶܠܰܝ̈܂ ܘܠܳܐ ܢܳܛܰܪ ܠܗܶܝܢ܃ ܐܶܢܳܐ ܠܳܐ ܕ݁ܳܐܶܢ ܐ̱ܢܳܐ ܠܶܗ܂ ܠܳܐ ܓܿܶܝܪ ܐܶܬܼܺܝܬܼ ܕܿܶܐܕܿܽܘܢ ܠܥܳܠܡܳܐ܂ ܐܶܠܳܐ ܕ݁ܰܐܚܶܐ ܠܥܳܠܡܳܐ܂<lb/>
+
+	48 ܡܰܢ ܕܿܛܳܠܶܡ ܠܺܝ܂ ܘܠܳܐ ܡܩܰܒܿܶܠ ܡܶܠܰܝ̈܃ ܐܺܝܬܼ ܡܰܢ ܕܿܕ݂ܳܐܶܢ ܠܶܗ܂ ܡܶܠܬ݂ܳܐ ܕܿܡܰܠܠܶܬܼ܂ ܗܺܝ ܕ݁ܳܝܢܳܐ ܠܶܗ <hi rendition="strong">ܒܿܝܰܘܡܳܐ ܐ̱ܚܪܳܝܳܐ</hi>܂<lb/>
+
+	49  ܕܿܶܐܢܳܐ ܡܶܢ ܢܰܦܼܫܝ ܠܳܐ ܡܰܠܠܶܬܼ܂ ܐܶܠܳܐ ܐܰܒ݂ܳܐ ܕܿܫܰܕܿܪܰܢܝ܃ ܗܽܘ ܝܰܗ̱ܒܼ ܠܺܝ ܦܿܽܘܩܕ݁ܳܢܳܐ܂ ܡܳܢܳܐ ܐܺܡܰܪ܂ ܘܡܳܢܳܐ ܐܶܡܰܠܶܠ܂<lb/>
+
+	50 ܘܝܳܕ݂ܰܥ ܐ̱ܢܳܐ ܕܿܦܼܽܘܩܕ݁ܳܢܶܗ ܚܰܝܶ̈ܐ ܐܶܢܽܘܢ ܕ݁ܰܠܥܳܠܰܡ܂ ܐܰܝܠܶܝܢ ܗܳܟܼܺܝܠ ܕ݁ܰܡܡܰܠܶܠ ܐ̱ܢܳܐ܃ ܐܰܝܟ݁ܰܢܳܐ ܕܿܶܐܡܰܪ ܠܺܝ ܐܳܒܼܝ܂ ܗܳܟ݂ܰܢܳܐ ܡܡܰܠܶܠ ܐ̱ܢܳܐ܀</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	44 Jesus aber rief aus: Wer an mich glaubt, glaubt nicht an mich, sondern an den, der mich gesandt hat, 45 und wer mich sieht, sieht den, der mich gesandt hat. 46 Ich bin das Licht, das in die Welt gekommen ist, damit jeder, der an mich glaubt, nicht in der Finsternis bleibt. 47 Wer meine Worte nur hört und sie nicht befolgt, den richte nicht ich; denn ich bin nicht gekommen, um die Welt zu richten, sondern um sie zu retten. 48 Wer mich verachtet und meine Worte nicht annimmt, der hat schon seinen Richter: Das Wort, das ich gesprochen habe, wird ihn richten am <hi rendition="bold">Letzten Tag</hi>. 49 Denn was ich gesagt habe, habe ich nicht aus mir selbst, sondern der Vater, der mich gesandt hat, hat mir aufgetragen, was ich sagen und reden soll. 50 Und ich weiß, daß sein Auftrag ewiges Leben ist. Was ich also sage, sage ich so, wie es mir der Vater gesagt hat.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

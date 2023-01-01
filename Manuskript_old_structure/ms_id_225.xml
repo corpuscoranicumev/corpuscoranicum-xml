@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Jemen</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Sanaa 16-24-1</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="225">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>230</height>
+                                        <width>310</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="16">
+                                    <p>Die Seiten enthalten 16 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Keith Small und Elisabeth Puin, "UNESCO CD OF SAN'A' MSS: PART III, Qur'an Palimpsests, and Unique Qur'an Illustrations", in: Manuscripta Orientalia 14 (2008).
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

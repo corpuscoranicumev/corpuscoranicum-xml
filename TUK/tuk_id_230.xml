@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Numeri 11:4-5, 21:4-5</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Koran, Gräfenhainichen 1931, S. 292.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>230</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung (mit "Moses" statt "Mose")</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>002:061</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Bei Q 2:49-64 handelt es sich um eine Neuinterpretation der Erzählung der Wüstenwanderung der Israeliten im Rahmen einer längeren wahrscheinlich an die medinensischen Juden gerichteten (<hi xml:lang="ar-Latn">yā banī ʾisraʾīl</hi>) Ansprache. Die einzelnen Teile dieser Rede werden jeweils von <hi xml:lang="ar-Latn">wa-ʾiḏ</hi> eingeleitet und evozieren bestimmte Ereignisse der Wüstenwanderung. Dabei geht es weniger um eine einfache Nacherzählung des Geschehens, sondern den Juden wird ein Ausschnitt aus ihrer kollektiven Erinnerung neu gedeutet, wobei kurze Anspielungen auf die Ereignisse genügen, da der Inhalt als bekannt vorausgesetzt wird. Dabei kontrastiert in den einzelnen Episoden jeweils die von Gott erwiesene Gnade mit dem Frevel und der Undankbarkeit der Israeliten. In diesem Zusammenhang erwähnt Q 2:61 das aus den Büchern Exodus (vgl. TUK Nr. 0229) und Numeri (der hier zitierte Text) bekannte Murren der Israeliten, daß sie nichts zu essen hätten, bzw. daß sie der vorhandenen Nahrung überdrüssig seien.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+                     11:4-5
+                     <lb/>
+
+	וְהָאסַפְסֻף אֲשֶׁר בְּקִרְבּוֹ הִתְאַוּוּ תַּאֲוָה וַיָּשֻׁבוּ וַיִּבְכּוּ גַּם בְּנֵי יִשְׂרָאֵל וַיֹּאמְרוּ מִי יַאֲכִלֵנוּ בָּשָׂר : זָכַרְנוּ אֶת־הַדָּגָה אֲשֶׁר־נֹאכַל בְּמִצְרַיִם חִנָּם אֵת הַקִּשֻּׁאִים וְאֵת הָאֲבַטִּחִים וְאֶת־הֶחָצִיר וְאֶת־הַבְּצָלִים וְאֶת־הַשּׁוּמִים :<lb/>
+
+	[...]<lb/>
+                        <lb/>
+                     21:4-5
+                     <lb/>
+
+	וַיִּסְעוּ מֵהֹר הָהָר דֶּרֶךְ יַם־סוּף לִסְבֹב אֶת־אֶרֶץ אֱדוֹם וַתִּקְצַר נֶפֶשׁ־הָעָם בַּדָּרֶךְ : וַיְדַבֵּר הָעָם בֵּאלֹהִים וּבְמֹשֶׁה לָמָה הֶעֱלִיתֻנוּ מִמִּצְרַיִם לָמוּת בַּמִּדְבָּר כִּי אֵין לֶחֶם וְאֵין מַיִם וְנַפְשֵׁנוּ קָצָה בַּלֶּחֶם הַקְּלֹקֵל :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	11:4 Die Leute, die sich ihnen angeschlossen hatten, wurden von der Gier gepackt und auch die Israeliten begannen wieder zu weinen und sagten: Wenn uns doch jemand Fleisch zu essen gäbe! 5 Wir denken an die Fische, die wir in Ägypten umsonst zu essen bekamen, an die Gurken und Melonen, an den Lauch, an die Zwiebeln und an den Knoblauch. [...]<lb/>
+                        <lb/>
+
+	21:4 Die Israeliten brachen vom Berg Hor auf und schlugen die Richtung zum Schilfmeer ein, um Edom zu umgehen. Unterwegs aber verlor das Volk den Mut, 5 es lehnte sich gegen Gott und gegen Moses auf und sagte: Warum habt ihr uns aus Ägypten heraufgeführt? Etwa damit wir in der Wüste sterben? Es gibt weder Brot noch Wasser. Dieser elenden Nahrung sind wir überdrüssig.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

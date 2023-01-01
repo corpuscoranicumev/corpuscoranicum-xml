@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kölner Mani-Kodex 70-72</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Tolou Khademalsharieh</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Blois</persName>
+                    <name>François de, "Elchasai-Manes-Muḥammad. Machichäismus und Islam in religionshistorischem Vergleich", Der Islam 81.1 (2004), S. 31-48, hier S. 46.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>526</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Ägypten</origPlace>
+                            <origDate>4.-5. Jh. n. Chr. (Kompilation)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Ludwig Koenen und Cornelia Römer (Hg. und Übers.), Der Kölner Mani-Kodex. Über das Werden seines Leibes, Opladen 1988 (Abhandlungen der Rheinisch-Westfälischen Akademie der Wissenschaften, Papyrologica Coloniensia 14), S. 48-51.</bibl>
+                <bibl>
+                    <edition>
+
+	Ludwig Koenen und Cornelia Römer (Hg. und Übers.), Der Kölner Mani-Kodex. Über das Werden seines Leibes, Opladen 1988 (Abhandlungen der Rheinisch-Westfälischen Akademie der Wissenschaften, Papyrologica Coloniensia 14), S. 48-51.</edition>
+                    <relatedItem>
+                        <bibl>033:040</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ḫātam an-nabiyyīn</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	In Q 33:40 wird Muhammad als <hi xml:lang="ar-Latn">ḫātam an-nabiyyīn</hi> ("Siegel der Propheten") bezeichnet. Der vorliegende Intertext, in dem die Schüler Manis das "Siegel seiner Sendung" genannt werden, macht wahrscheinlich, dass die Metapher des Siegels auf den Aspekt der <hi xml:lang="ar-Latn">Bestätigung</hi> und nicht auf den des zeitlichen <hi xml:lang="ar-Latn">Abschlusses</hi> abzielt. Vgl. auch TUK 0432.<lb/>
+
+	Es sei weiterhin angemerkt, dass al-Bīrūnī berichtet, im "Buch des lebendigen Evangeliums" habe Mani sich als "von Christus verkündeten Parakleten und Siegel der Propheten" bezeichnet (Eduard Sachau (Hg.), Chronologie orientalischer Völker von Albêrûni, Leipzig 1923, S. 207). Die Tatsache, dass auch der Kölner Mani-Kodex berichtet, dass der prophetischen Sendung ein "Siegel" aufgesetzt wird, lässt vermuten, dass der Islam und der Manichäismus beide dieses Bild von Judenchristen geerbt haben (Vgl. François de Blois, Elchasai-Manes-Muḥammad. Machichäismus und Islam in religionshistorischem Vergleich, Der Islam 81.1(2004), S. 31-48, hier S. 46; C. Colpe, "Das Siegel der Propheten", Orientalia suecana 33/35 (1986), S. 71-83; Adolf von Harnack, Lehrbuch der Dogmengeschichte, Bd. II, Die Entwicklung der kirchlichen Dogmas I, Tübingen 1990, S. 534).<lb/>
+
+	Hier bleibt allerdings offen, ob das 'Siegel' als Abschluss zu verstehen ist, oder eher als Bestätigung früherer Schriften. De Blois erläutert sich diesbezüglich folgendermaßen: "Ein Siegel wird einem juristischen Dokument aufgesetzt, um seine Echtheit zu bezeugen. In diesem Sinn besiegeln die Schüler die Echtheit der Offenbarung des Propheten, aber im gleichen Sinn könnte man auch sagen, dass jeder Prophet die früheren Offenbarungen besiegelt." (François de Blois, Elchasai-Manes-Muḥammad. Machichäismus und Islam in religionshistorischem Vergleich, Der Islam 81.1(2004), S. 31-48, hier S. 46). Zu <hi xml:lang="ar-Latn">ḫāṭam</hi> vgl. Jeffery, Foreign vocabulary S. 120f. Zu <hi xml:lang="ar-Latn">nabīy, </hi>vgl. op. cit., S. 276.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	πλεῖσται δέ ὑπερβολαὶ καὶ ἄλλαι παραπλήσιαι ταύταις ὑπ[ά]ρχουσιν ἐν ταῖς βίβλοις τοῦ π(ατ)ρ(ὸ)ς ἡμῶν, αἳ δεικνύουσι τήν τε ἀποκάλυψιν αὐτοῦ καὶ ἁρπαγὴν τῆς αὐτοῦ ἀποστολῆς; μεγί[στ]η γὰρ τυγχάνει ἥδε ἡ [ὑ]περβολὴ τῆς ἀφίξεως [τ]αύτης τῆς διὰ τοῦ πα[ρακ]λ[ή]του πν(εύματο)ς τῆς ἀλη[θείας ἀφ]ικομένης πρὸς [ἡμᾶς]. περὶ γὰρ τούτων τίνος χάριν καὶ διὰ [τί κε]κίνηται ἡμῖν ἅπαξ [πε]πεισμένοις ὑπερβάλλ[ειν] τήνδε τὴν ἀποστολὴν ἐν ταῖς αὐτῆς ἀποκαλύψεσιν; τούτου δὲ χάριν ἐδευτερώσαμεν ἀπὸ τῶν προγόνων ἡμῶ[ν] πατέρων τήν τε ἁρπαγὴν αὐτῶν καὶ ἀποκάλυψιν ἑνὸς ἑκάστου, εἵνεκα τῶν λογισμῶν τῶν ἐνδεδυμένων τὴν ἀπιστίαν καὶ οἰομένων τι περὶ ταύτης τῆς ἀποκαλύψεως καὶ ὀπτασί[ας] τοῦ π(ατ)ρ(ὸ)ς ἡμῶν, ἵνα ε[ἰδῶ]σιν ὡς ὅτι καὶ τῶ[ν προγό]νων ἀποστόλων [τοιαύ]τη γέγονεν ἡ διατα[γή]. ὁπηνίκα γὰρ ἕκα[στος αὐ]τῶν ἡρπάζετο [ἃ ἐθεώ]ρει καὶ ἤκουε [ταῦτα πάντα ἔ]γραφεν καὶ ὑπεδεί[κ]νυεν καὶ αὐτὸς αὑτοῦ τῆς ἀποκαλύψεως μάρτυς ἐγένετο; οἱ δὲ μαθηταὶ αὐτοῦ ἐγίγνοντο <hi rendition="bold">σφαγὶς αὐτοῦ τῆς ἀποστολῆς</hi>.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	In den Büchern unseres Vaters stehen noch viele ähnliche alles Maß übersteigende Begebenheiten , welche seine Offenbarung und die Entrückung zu seiner Sendung beweisen; denn gewaltig groß ist dieses Übermaß der jetzigen Ankunft, die durch den Parakletengeist der Wahrheit zu [uns] kommt. Wozu nämlich und warum sind wir hiermit befaßt, da wir doch ein und für alle Mal überzeugt sind, daß dieses Apostolat durch seine Offenbarungen alles Maß übersteigt? Deshalb sind wir von unseren Vorvätern ausgegangen und haben ihre Entrückung und die Offenbarung eines jeden von ihnen dargelegt: wegen der Gedanken derer, die den Unglauben angezogen haben und etwas (Falsches) über diese Offenbarung und Vision unseres Vaters glauben; sie sollen wissen, daß auch der Auftrag an die früheren Apostel solcher Art war. Als ein jeder von ihnen entrückt wurde, schrieb er [das alles] auf, [was] er gesehen und gehört hatte, berichtete es und wurde selbst zum Zeugen seiner Offenbarung. Seine Schüler aber wurden zum <hi rendition="bold">Siegel seiner Sendung</hi>.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

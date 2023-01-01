@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Psalm 84:1-13</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 449; Wilhelm Rudolph, Die Abhängigkeit des Qorans von Judentum und Christentum, Stuttgart 1922, S. 10; Hartwig Hirschfeld, Beiträge zur Erklärung des Korans, Leipzig 1886, S. 27; Karl Ahrens, "Christliches im Qoran. Eine Nachlese", Zeitschrift der Deutschen Morgenländischen Gesellschaft 84 (1930), S. 182.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>588</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Endredaktion des Psalters)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>097:003</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die Preisung der <hi xml:lang="ar-Latn">lailat al-qadr</hi> in Q 97 teilt mit Psalm 84 die Vorstellung, dass bestimmte religiös konnotierte Zeiträume mehr wert sind als profane. Vgl. TUK 0147 (zu Gemeinsamkeiten mit christlichen Weihnachtshymnen). Die Parallele ist allerdings eher weit, einmal geht es um den Aufenthaltsort, einmal um eine spezielle Zeit.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	לַמְנַצֵּחַ עַל־הַגִּתִּית לִבְנֵי־קֹרַח מִזְמֽוֹר׃ מַה־יְּדִידוֹת מִשְׁכְּנוֹתֶיךָ יְהוָה צְבָאֽוֹת׃ נִכְסְפָה וְגַם־כָּלְתָה נַפְשִׁי לְחַצְרוֹת יְהוָה לִבִּי וּבְשָׂרִי יְרַנְּנוּ אֶל אֵל־חָי׃ גַּם־צִפּוֹר מָצְאָה בַיִת וּדְרוֹר קֵן לָהּ אֲשֶׁר־שָׁתָה אֶפְרֹחֶיהָ אֶת־מִזְבְּחוֹתֶיךָ יְהוָה צְבָאוֹת מַלְכִּי וֵאלֹהָי׃ אַשְׁרֵי יוֹשְׁבֵי בֵיתֶךָ עוֹד יְהַלְלוּךָ סֶּלָה׃ אַשְׁרֵי אָדָם עֽוֹז־לוֹ בָךְ מְסִלּוֹת בִּלְבָבָם׃ עֹבְרֵי בְּעֵמֶק הַבָּכָא מַעְיָן יְשִׁיתוּהוּ גַּם־בְּרָכוֹת יַעְטֶה מוֹרֶה׃ יֵלְכוּ מֵחַיִל אֶל־חָיִל יֵרָאֶה אֶל־אֱלֹהִים בְּצִיּֽוֹן׃ יְהוָה אֱלֹהִים צְבָאוֹת שִׁמְעָה תְפִלָּתִי הַאֲזִינָה אֱלֹהֵי יַעֲקֹב סֶלָה׃ מָגִנֵּנוּ רְאֵה אֱלֹהִים וְהַבֵּט פְּנֵי מְשִׁיחֶךָ׃ <hi rendition="bold"> כִּי טֽוֹב־יוֹם בַּחֲצֵרֶיךָ מֵאָלֶף </hi> בָּחַרְתִּי הִסְתּוֹפֵף בְּבֵית אֱלֹהַי מִדּוּר בְּאָהֳלֵי־רֶשַׁע׃ כִּי שֶׁמֶשׁ וּמָגֵן יְהוָה אֱלֹהִים חֵן וְכָבוֹד יִתֵּן יְהוָה לֹא יִמְנַע־טוֹב לַהֹלְכִים בְּתָמִים׃ יְהוָה צְבָאוֹת אַֽשְׁרֵי אָדָם בֹּטֵחַ בָּךְ׃</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 [Für den Chormeister. Nach dem Kelterlied. Ein Psalm der Korachiter.] 2 Wie liebenswert ist deine Wohnung, Herr der Heerscharen! / 3 Meine Seele verzehrt sich in Sehnsucht / nach dem Tempel des Herrn. Mein Herz und mein Leib jauchzen ihm zu, / ihm, dem lebendigen Gott. 4 Auch der Sperling findet ein Haus / und die Schwalbe ein Nest für ihre Jungen - / deine Altäre, Herr der Heerscharen, mein Gott und mein König. 5 Wohl denen, die wohnen in deinem Haus, / die dich allezeit loben. [Sela] 6 Wohl den Menschen, die Kraft finden in dir, / wenn sie sich zur Wallfahrt rüsten. 7 Ziehen sie durch das trostlose Tal, / wird es für sie zum Quellgrund / und Frühregen hüllt es in Segen. 8 Sie schreiten dahin mit wachsender Kraft; / dann schauen sie Gott auf dem Zion. 9 Herr der Heerscharen, höre mein Beten, / vernimm es, Gott Jakobs! [Sela] 10 Gott, sieh her auf unsern Schild, / schau auf das Antlitz deines Gesalbten! 11 <hi rendition="bold">Denn ein einziger Tag in den Vorhöfen deines Heiligtums / ist besser als tausend andere.</hi> Lieber an der Schwelle stehen im Haus meines Gottes / als wohnen in den Zelten der Frevler. 12 Denn Gott der Herr ist Sonne und Schild. / Er schenkt Gnade und Herrlichkeit; der Herr versagt denen, die rechtschaffen sind, keine Gabe. / 13 Herr der Heerscharen, wohl dem, der dir vertraut!</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

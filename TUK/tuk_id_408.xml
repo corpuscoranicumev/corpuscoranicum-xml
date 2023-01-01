@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lukas 23:20-49</title>
+                <principal>
+                    <persName>Nicolai Sinai (Anmerkung)</persName>
+                    <persName>Manolis Ulbricht</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Johann-Dietrich Thyen</persName>
+                    <name>Bibel und Koran. Eine Synopse gemeinsamer Überlieferungen, Köln 2000, S. 242-245.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>408</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Rom oder östlicher Mittelmeerraum</origPlace>
+                            <origDate>um 90 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>004:157-004:158</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Der Koran lehrt, die Juden hätten Jesus nicht wirklich getötet, sondern es sei ihnen "nur der Anschein erweckt worden" (<hi xml:lang="ar-Latn">šubbiha lahum</hi>, evtl. ein Widerhall doketistischer Christologie). Diese Feststellung bezieht Position gegen die orthodoxe christliche Überzeugung, Jesus sei am Kreuz gestorben, wie im Neuen Testament berichtet und auch im Glaubensbekenntnis ausgedrückt (σταυρωθέντα τε ὑπὲρ ἡμῶν ἐπὶ Ποντίου Πιλάτου, καὶ παθόντα καὶ ταφέντα, καὶ ἀναστάντα τῇ τρίτῃ ἡμέρᾳ κατὰ τὰς γραφάς; "Er wurde für uns gekreuzigt unter Pontius Pilatus, hat gelitten und ist begraben worden, ist am dritten Tage auferstanden nach der Schrift"; vgl. TUK 0047 "Nizäno-konstantinopolitanisches Glaubensbekenntnis"). Thyen weist auf den sachlichen Hintergrund der koranischen Aussage hin: Die Vorstellung von Jesu Kreuzestod ist unvereinbar mit der koranischen Prophetologie, derzufolge Gott seine Gesandten nicht im Stich lässt (vgl. etwa den Erzählzyklus in Sure 37).</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	20 πάλιν δὲ ὁ Πιλᾶτος προσεφώνησεν αὐτοῖς θέλων ἀπολῦσαι τὸν Ἰησοῦν. 21 οἱ δὲ ἐπεφώνουν λέγοντες• σταύρου σταύρου αὐτόν. 22 ὁ δὲ τρίτον εἶπεν πρὸς αὐτούς• τί γὰρ κακὸν ἐποίησεν οὗτος; οὐδὲν αἴτιον θανάτου εὗρον ἐν αὐτῷ• παιδεύσας οὖν αὐτὸν ἀπολύσω. 23 οἱ δὲ ἐπέκειντο φωναῖς μεγάλαις αἰτούμενοι αὐτὸν σταυρωθῆναι, καὶ κατίσχυον αἱ φωναὶ αὐτῶν. 24 Καὶ Πιλᾶτος ἐπέκρινεν γενέσθαι τὸ αἴτημα αὐτῶν• 25 ἀπέλυσεν δὲ τὸν διὰ στάσιν καὶ φόνον βεβλημένον εἰς φυλακὴν ὃν ᾐτοῦντο, τὸν δὲ Ἰησοῦν παρέδωκεν τῷ θελήματι αὐτῶν. 26 Καὶ ὡς ἀπήγαγον αὐτόν, ἐπιλαβόμενοι Σίμωνά τινα Κυρηναῖον ἐρχόμενον ἀπ᾽ἀγροῦ ἐπέθηκαν αὐτῷ τὸν σταυρὸν φέρειν ὄπισθεν τοῦ Ἰησοῦ. 27 Ἠκολούθει δὲ αὐτῷ πολὺ πλῆθος τοῦ λαοῦ καὶ γυναικῶν αἳ ἐκόπτοντο καὶ ἐθρήνουν αὐτόν. 28 στραφεὶς δὲ πρὸς αὐτὰς [ὁ] Ἰησοῦς εἶπεν• θυγατέρες Ἰερουσαλήμ, μὴ κλαίετε ἐπ᾽ἐμέ• πλὴν ἐφ᾽ἑαυτὰς κλαίετε καὶ ἐπὶ τὰ τέκνα ὑμῶν, 29 ὅτι ἰδοὺ ἔρχονται ἡμέραι ἐν αἷς ἐροῦσιν• μακάριαι αἱ στεῖραι καὶ αἱ κοιλίαι αἳ οὐκ ἐγέννησαν καὶ μαστοὶ οἳ οὐκ ἔθρεψαν. 30 τότε ἄρξονται λέγειν τοῖς ὄρεσιν• πέσετε ἐφ᾽ἡμᾶς, καὶ τοῖς βουνοῖς• καλύψατε ἡμᾶς• 31 ὅτι εἰ ἐν τῷ ὑγρῷ ξύλῳ ταῦτα ποιοῦσιν, ἐν τῷ ξηρῷ τί γένηται; 32 Ἤγοντο δὲ καὶ ἕτεροι κακοῦργοι δύο σὺν αὐτῷ ἀναιρεθῆναι. 33 Καὶ ὅτε ἦλθον ἐπὶ τὸν τόπον τὸν καλούμενον Κρανίον, ἐκεῖ ἐσταύρωσαν αὐτὸν καὶ τοὺς κακούργους, ὃν μὲν ἐκ δεξιῶν ὃν δὲ ἐξ ἀριστερῶν. 34 [[ὁ δὲ Ἰησοῦς ἔλεγεν• πάτερ, ἄφες αὐτοῖς, οὐ γὰρ οἴδασιν τί ποιοῦσιν.]] διαμεριζόμενοι δὲ τὰ ἱμάτια αὐτοῦ ἔβαλον κλήρους. 35 Καὶ εἱστήκει ὁ λαὸς θεωρῶν. ἐξεμυκτήριζον δὲ καὶ οἱ ἄρχοντες λέγοντες• ἄλλους ἔσωσεν, σωσάτω ἑαυτόν, εἰ οὗτός ἐστιν ὁ χριστὸς τοῦ θεοῦ ὁ ἐκλεκτός. 36 ἐνέπαιξαν δὲ αὐτῷ καὶ οἱ στρατιῶται προσερχόμενοι, ὄξος προσφέροντες αὐτῷ 37 καὶ λέγοντες• εἰ σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων, σῶσον σεαυτόν. 38 ἦν δὲ καὶ ἐπιγραφὴ ἐπ᾽αὐτῷ• ὁ βασιλεὺς τῶν Ἰουδαίων οὗτος. 39 Εἷς δὲ τῶν κρεμασθέντων κακούργων ἐβλασφήμει αὐτὸν λέγων• οὐχὶ σὺ εἶ ὁ χριστός; σῶσον σεαυτὸν καὶ ἡμᾶς. 40 ἀποκριθεὶς δὲ ὁ ἕτερος ἐπιτιμῶν αὐτῷ ἔφη• οὐδὲ φοβῇ σὺ τὸν θεόν, ὅτι ἐν τῷ αὐτῷ κρίματι εἶ; 41 καὶ ἡμεῖς μὲν δικαίως, ἄξια γὰρ ὧν ἐπράξαμεν ἀπολαμβάνομεν• οὗτος δὲ οὐδὲν ἄτοπον ἔπραξεν. 42 καὶ ἔλεγεν• Ἰησοῦ, μνήσθητί μου ὅταν ἔλθῃς εἰς τὴν βασιλείαν σου. 43 καὶ εἶπεν αὐτῷ• ἀμήν σοι λέγω, σήμερον μετ᾽ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ. 44 Καὶ ἦν ἤδη ὡσεὶ ὥρα ἕκτη καὶ σκότος ἐγένετο ἐφ᾽ὅλην τὴν γῆν ἕως ὥρας ἐνάτης 45 τοῦ ἡλίου ἐκλιπόντος, ἐσχίσθη δὲ τὸ καταπέτασμα τοῦ ναοῦ μέσον. 46 καὶ φωνήσας φωνῇ μεγάλῃ ὁ Ἰησοῦς εἶπεν• πάτερ, εἰς χεῖράς σου παρατίθεμαι τὸ πνεῦμά μου. τοῦτο δὲ εἰπὼν ἐξέπνευσεν. 47 ἰδὼν δὲ ὁ ἑκατοντάρχης τὸ γενόμενον ἐδόξαζεν τὸν θεὸν λέγων• ὄντως ὁ ἄνθρωπος οὗτος δίκαιος ἦν. 48 καὶ πάντες οἱ συμπαραγενόμενοι ὄχλοι ἐπὶ τὴν θεωρίαν ταύτην, θεωρήσαντες τὰ γενόμενα, τύπτοντες τὰ στήθη ὑπέστρεφον. 49 Εἱστήκεισαν δὲ πάντες οἱ γνωστοὶ αὐτῷ ἀπὸ μακρόθεν καὶ γυναῖκες αἱ συνακολουθοῦσαι αὐτῷ ἀπὸ τῆς Γαλιλαίας ὁρῶσαι ταῦτα.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	20 Pilatus aber redete wieder auf sie ein, denn er wollte Jesus freilassen. 21 Doch sie schrien: Kreuzige ihn, kreuzige ihn! 22 Zum dritten Mal sagte er zu ihnen: Was für ein Verbrechen hat er denn begangen? Ich habe nichts feststellen können, wofür er den Tod verdient. Daher will ich ihn auspeitschen lassen und dann werde ich ihn freilassen. 23 Sie aber schrien und forderten immer lauter, er solle Jesus kreuzigen lassen, und mit ihrem Geschrei setzten sie sich durch: 24 Pilatus entschied, dass ihre Forderung erfüllt werden solle. 25 Er ließ den Mann frei, der wegen Aufruhr und Mord im Gefängnis saß und den sie gefordert hatten. Jesus aber lieferte er ihnen aus, wie sie es verlangten. 26 Als sie Jesus hinausführten, ergriffen sie einen Mann aus Zyrene namens Simon, der gerade vom Feld kam. Ihm luden sie das Kreuz auf, damit er es hinter Jesus hertrage. 27 Es folgte eine große Menschenmenge, darunter auch Frauen, die um ihn klagten und weinten. 28 Jesus wandte sich zu ihnen um und sagte: Ihr Frauen von Jerusalem, weint nicht über mich; weint über euch und eure Kinder! 29 Denn es kommen Tage, da wird man sagen: Wohl den Frauen, die unfruchtbar sind, die nicht geboren und nicht gestillt haben. 30 Dann wird man zu den Bergen sagen: Fallt auf uns!, und zu den Hügeln: Deckt uns zu! 31 Denn wenn das mit dem grünen Holz geschieht, was wird dann erst mit dem dürren werden? 32 Zusammen mit Jesus wurden auch zwei Verbrecher zur Hinrichtung geführt. 33 Sie kamen zur Schädelhöhe; dort kreuzigten sie ihn und die Verbrecher, den einen rechts von ihm, den andern links. 34 Jesus aber betete: Vater, vergib ihnen, denn sie wissen nicht, was sie tun. Dann warfen sie das Los und verteilten seine Kleider unter sich. 35 Die Leute standen dabei und schauten zu; auch die führenden Männer des Volkes verlachten ihn und sagten: Anderen hat er geholfen, nun soll er sich selbst helfen, wenn er der erwählte Messias Gottes ist. 36 Auch die Soldaten verspotteten ihn; sie traten vor ihn hin, reichten ihm Essig 37 und sagten: Wenn du der König der Juden bist, dann hilf dir selbst! 38 Über ihm war eine Tafel angebracht; auf ihr stand: Das ist der König der Juden. 39 Einer der Verbrecher, die neben ihm hingen, verhöhnte ihn: Bist du denn nicht der Messias? Dann hilf dir selbst und auch uns! 40 Der andere aber wies ihn zurecht und sagte: Nicht einmal du fürchtest Gott? Dich hat doch das gleiche Urteil getroffen. 41 Uns geschieht recht, wir erhalten den Lohn für unsere Taten; dieser aber hat nichts Unrechtes getan. 42 Dann sagte er: Jesus, denk an mich, wenn du in dein Reich kommst. 43 Jesus antwortete ihm: Amen, ich sage dir: Heute noch wirst du mit mir im Paradies sein. 44 Es war etwa um die sechste Stunde, als eine Finsternis über das ganze Land hereinbrach. Sie dauerte bis zur neunten Stunde. 45 Die Sonne verdunkelte sich. Der Vorhang im Tempel riss mitten entzwei, 46 und Jesus rief laut: Vater, in deine Hände lege ich meinen Geist. Nach diesen Worten hauchte er den Geist aus. 47 Als der Hauptmann sah, was geschehen war, pries er Gott und sagte: Das war wirklich ein gerechter Mensch. 48 Und alle, die zu diesem Schauspiel herbeigeströmt waren und sahen, was sich ereignet hatte, schlugen sich an die Brust und gingen betroffen weg. 49 Alle seine Bekannten aber standen in einiger Entfernung (vom Kreuz), auch die Frauen, die ihm seit der Zeit in Galiläa nachgefolgt waren und die alles mit ansahen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

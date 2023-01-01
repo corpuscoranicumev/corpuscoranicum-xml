@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jüdische Altertümer 2:230</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 245.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>676</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Rom</origPlace>
+                            <origDate>zwischen 80 und 94 n. Chr. </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"/>
+                <bibl>
+                    <edition>
+	B. Niese (Hg.), Flavii Iosephi opera, Berlin 1892.
+                  </edition>
+                    <relatedItem>
+                        <bibl>028:014</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Q 28:14 zufolge verlieh Gott Moses Weisheit und Wissen (<hi xml:lang="ar-Latn">ḥukm</hi>, <hi xml:lang="ar-Latn">ʿilm</hi>). Auch Flavius Josephus berichtet von Moses herausragendem Verstand. Während Moses Flavius Josephus zufolge aber bereits als Kind sehr klug war, bekommt er diese Fähigkeiten im Koran erst als Erwachsener. Auch andere werden im Koran von Gott mit <hi xml:lang="ar-Latn">ḥukm</hi> und <hi xml:lang="ar-Latn">ʿilm</hi> ausgezeichnet: Josef (Q 12:22 ist fast identisch mit Q 28:14), Salomon (Q 21:79) und Lot (Q 21:47). Johannes erhält in Q 19:12 <hi xml:lang="ar-Latn">ḥukm</hi> bereits als Kind.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	230 σύνεσις δὲ οὐ κατὰ τὴν ἡλικίαν ἐφύετ᾽ αὐτῷ τοῦ δὲ ταύτης μέτρου πολὺ κρείττων καὶ πρεσβυτέραν διεδείκνυεν ταύτης τὴν περιουσίαν ἐν ταῖς παιδιαῖς καὶ μειζόνων τῶν ὑπ᾽ ἀνδρὸς γενησομένων ἐπαγγελίαν εἶχε τὰ τότε πραττόμενα καὶ τριετεῖ μὲν αὐτῷ γεγενημένῳ θαυμαστὸν ὁ θεὸς τὸ τῆς ἡλικίας ἐξῆρεν ἀνάστημα</p>
+                </body>
+            </text>
+            <text xml:lang="eng-Latn">
+                <body>
+                    <p>
+
+	Now Moses' understanding became superior to his age, nay, far beyond that standard; and when he was taught, he discovered greater quickness of apprehension than was usual at his age; and his actions at that time promised greater, when he should come to the age of a man. God did also give him that statue, when he was but three years old, as was wonderful;</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

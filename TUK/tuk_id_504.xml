@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht über Noah und Abraham (Nr. 29:9-22)</title>
+                <principal>
+                    <persName>Nicolai Sinai (Texterfassung: Daria Zadorojnaia</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>J. Frank-Kamenetzky</persName>
+                    <name>Untersuchungen über das Verhältnis der dem Umajja b. Abi ṣ Ṣalt zugeschriebenen Gedichte zum Qorān, Kirchhain N.-L. 1911, S. 13; vgl. Tor Andrae, Der Ursprung des Islam und das Christentum, Uppsala 1926, S. 53 f.; J. W. Hirschberg, Jüdische und christliche Lehren im vor- und frühislamischen Arabien. Ein Beitrag zur Entstehungsgeschichte des Islams, Krakau 1939, S. 58-61.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>504</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Aṭ-Ṭāʾif (Ḥiǧāz)?</origPlace>
+                            <origDate>Anfang 7. Jh.?</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 92-93.</bibl>
+                <bibl>
+                    <edition>
+
+	Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 33-35; Bahǧa ʿAbdalġafūr al-Ḥadīṯī, Umayya ibn abī ṣ-Ṣalt: Ḥayātuhū wa-šiʿruhū, Bagdad 1975, S. 251-253, 256-257.</edition>
+                    <relatedItem>
+                        <bibl>002:216; 004:019; 037:102-037:113; 053:037</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">waffā</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Sowohl Q 37:102 ff. als auch das Umayya ibn abī ṣ-Ṣalt zugeschriebene Gedicht sind Nacherzählungen von Genesis 22:1-19 (gl. TUK Nr. 0465), wo berichtet wird, wie Gott den Gehorsam Abrahams auf die Probe stellt, indem er ihm befiehlt, seinen Sohn Isaak als Opfer darzubringen. Gegen die Bibel stimmen die koranische Version und der Intertext darin überein, dass Abrahams Sohn - wie bereits in rabbinischen Varianten des Stoffes - in die Opferung einwilligt und nicht, wie in Genesis 22, von seinem Vater zunächst hintergangen wird. Mit der knappen Anspielung aus Q 53:37 ("und Abraham, der erfüllte", <hi xml:lang="ar-Latn">waffā</hi>) überschneidet sich der Intertext in der Verwendung des Verbums <hi xml:lang="ar-Latn">waffā</hi>, das in V. 9 durch ein präpositionales Objekt ergänzt wird: Abraham hat demzufolge ein vorgängiges Gelübde erfüllt, seinen Sohn zu opfern. Von einem solchen Gelübde wissen auch spätere islamische Nacherzählungen der Geschichte zu berichten, die sich auch in weiteren Details (V. 14.15) mit dem Umayya zugeschriebenen Gedicht decken; vgl. den Überblick über das islamische Material bei Norman Calder, „From Midrash to Scripture: The Sacrifice of Abraham in Early Islamic Tradition“, Le Muséon 101 (1988), S. 375–402. Obwohl man solche Überschneidungen mit der nachkoranischen Überlieferung angesichts der generell umstrittenen Echtheit der unter dem Namen Umayyas tradierten Gedichte (vgl. die Anmerkung zu TUK 420) als Indizien für die Inauthentizität des Intertextes werten könnte, geht aus Calders Untersuchung doch auch hervor, dass zentrale Motive späterer islamischer Erzählungen über das Sohnesopfer rabbinische Vorlagen aufgreifen. Von daher ist durchaus denkbar, dass der Intertext tatsächlich authentisch ist: Er würde dann dokumentieren, dass Elemente der betreffenden rabbinischen Versionen auch im Ḥiǧāz zirkulierten. Frank-Kamenetzky jedenfalls hält die Echtheit des Textes für wahrscheinlich (a. a. O., S. 48). - Zu den ersten acht Versen des hier zitierten Gedichts s. Intertext Nr. 560; zur Übersetzung von <hi xml:lang="ar-Latn">taḫayyala</hi> aus Vers 17 im Sinne von "schnell sein" vgl. Edward W. Lane, An Arabic-English Lexicon, Bd. 2., London / Edinburgh 1865, 834b (Ende des Lemmas).</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <lb/>
+                    <p>
+
+	٩ ولإبْراهيمَ <hi rendition="bold"> المُوَفّى </hi> بنَذْ     رٍ إحْتِساباً وحامِلَ الأجْزالِ<lb/>
+
+	١٠ بِكْرَه لَمْ يَكُنْ لِيَصْبِرَ عنه     او يَراه في مَعْشَرٍ أقْتالِ<lb/>
+
+	[?...]<lb/>
+
+	١١ يا بُنَيَّ إنّي نَذَرْتُك لِلـّ     ـِه سَحيطاً فاصْبِرْ فِداً لك خالي<lb/>
+
+	١٢ فأجابَ الغُلامُ أنْ قال فيه     كُلُّ شَىْءٍ لِلّهِ غيرُ انْتِحالِ<lb/>
+
+	١٣ أبَتي إنّني جَزَيْتُك باللّّـ     ـه تَقِيًّا به على كلّ حال<lb/>
+
+	١٤ فاقْضِ ما قد نَذَرْتَ للّه واكْفُفْ     عن دَمي أنْ يَمَسَّه سِرْبالي<lb/>
+
+	١٥ واشْدُدِ الصَفْدَ إن أحيدُ عن السِكـّ     ـين حَيْدَ الأسير ذي الأغْلال<lb/>
+
+	١٦ إنّني آلَمُ المَحَزِّ وإنّي     لا أمَسُّ الأذْقانَ ذاتَ السِبال<lb/>
+
+	١٧ وله مُدْية ٌ تَخَيَّلُ في اللَحْـ     ـم هُذامٌ جَلِيَّة ٌ كالهِلال<lb/>
+
+	١٨ بَيْنَما يَخْلَعُ السَرابيلَ عنه     فَكَّه رَبُّه بكَبْش ٍ جُلال<lb/>
+
+	١٩ قال خُذْه وأرْسِلِ ابْنَك إنّي     لِلّذي قد فَعَلْتُما غَيْرُ قالي<lb/>
+
+	٢٠ والِدٌ يَتَّقى وآخَرُ مَوْلو     دٌ فطارا منه بسَمْعِ مَعال<lb/>
+                        <hi rendition="bold">٢١ رُبَّما تَكْرَهُ النُفوسُ من الشَرِّ له     فَرْجة ٌ كَحِلّ العِقال </hi>
+                        <lb/>
+
+	[?...]</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	9. Und Abraham, der ein Gelübde <hi rendition="bold">erfüllte</hi> [Q 53:37], damit es ihm angerechnet würde, mit dem, der die Holzscheite trug,<lb/>
+
+	10. seinem Erstgeborenen, indem er nicht auf ihn verzichten noch ihn unter Feindesschar sehen konnte.<lb/>
+
+	[...?]<lb/>
+
+	11. "Lieber Sohn, ich habe dich in deiner Abwesenheit Gott gelobt, darum sei standhaft - ich gebe den Bruder meiner Mutter für dich hin!"<lb/>
+
+	12. Der Knabe aber erwiderte: "Für Gott ist keine Gabe zu gross.<lb/>
+
+	13. Vater, Gott lohne es dir durch mich, dass du ihm unter allen Umständen vertraust!<lb/>
+
+	14. Darum vollziehe, was du Gott gelobt hast, nur achte, dass mein Rock nicht mit dem Blut in Berührung komme,<lb/>
+
+	15. und binde mich fester - ich könnte sonst vor dem Messer zurückschrecken wie ein gefesselter Gefangener -<lb/>
+
+	16. damit ich Schmerz empfinde am Gelenk und damit ich nicht den wallenden Bart anrühre."<lb/>
+
+	17. Und er hatte ein Schlachtmesser, das schnell das Fleisch durchschneidet, ein scharfes, glänzend wie der Neumond.<lb/>
+
+	18. Während er ihm nun die Röcke auszog, löste ihn der Herr mit einem starken Widder aus,<lb/>
+
+	19. und sprach: "Nimm den und lass deinen Sohn frei, denn ich verschmähe nicht, was ihr da zusammen getan habt,<lb/>
+
+	20. ein gottesfürchtiger Vater und dazu ein ebensolches Kind," und da waren die beiden von Freude erregt über die grossmütigen Worte, die sie vernahmen.<lb/>
+
+	21. <hi rendition="bold">Oft schrecken die Seelen vor dem Schlimmen zurück, während es doch davon eine Befreiung gibt, wie wenn Fesseln gelöst werden.</hi> [Q 2:216, 4:19]<lb/>
+
+	[...?]</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

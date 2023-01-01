@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fragment 12 (Schulthess)</title>
+                <principal>
+                    <persName>Nicolai Sinai (Texterfassung: Daria Zadorojnaia</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>J. Frank-Kamenetzky</persName>
+                    <name>Untersuchungen über das Verhältnis der dem Umajja b. Abi ṣ Ṣalt zugeschriebenen Gedichte zum Qorān, Kirchhain N.-L. 1911, S. 35.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>584</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Aṭ-Ṭāʾif (Ḥiǧāz)?</origPlace>
+                            <origDate>Anfang 7. Jh.?</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 126 (modifiziert).</bibl>
+                <bibl>
+                    <edition>Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 67; Bahǧa ʿAbd l-Ġafūr al-Ḥadīṯī, Umayya ibn abī ṣ-Ṣalt: Ḥayātuhū wa-šiʿruhū, Bagdad 1975, S. 293.</edition>
+                    <relatedItem>
+                        <bibl>002:068-002:069</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Zur umstrittenen Authentizität der Umayya ibn abī ṣ-Ṣalt zugeschriebenen Gedichte vgl. allgemein die Anmerkung zu Intertext Nr. 420. Der vorliegende, nur fragmentarisch erhaltene Vers bezieht sich offensichtlich auf die in Q 2:68.69 erwähnte Kuh, deren Schlachtung Gott von Mose verlangt, und überschneidet sich mit dem koranischen Passus in der Formulierung <hi xml:lang="ar-Latn">lā fāriḍ</hi>. Skepsis hinsichtlich seiner Authentizität wird insbesondere dadurch nahegelegt, daß der Vers laut Schulthess nur in arabischen Lexika wie dem Lisān al-ʿarab als Beleg zur Wurzel <hi xml:lang="ar-Latn">f-r-ḍ</hi> erhalten ist; die Tatsache, daß er nirgends als Teil eines längeren Abschnitts zitiert wird, lässt es als denkbar erscheinen, daß es sich um eine lexikographische Konstruktion handelt (andererseits werden auch authentische Gedichte in den arabischen Lexika in der Regel nur mit dem unmittelbar einschlägigen Vers zitiert). Da sich Q 2:69 und der Umayya zugeschriebene Vers jedoch neben der beiden gemeinsamen Wendung <hi xml:lang="ar-Latn">lā fāriḍ</hi> durchaus unterscheiden - dem Koran zufolge soll die Kuh von leuchtendem Gelb sein, dem zitierten Vers zufolge soll sie "rotbraun" und "nicht gestreift" sein - lässt sich die Möglichkeit einer Authentizität des Fragments trotz gravierender Bedenken nicht widerlegen.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>كُمَيْت بَهِيم اللَّوْنِ ليس بِفارِضٍ     ولا بِخَصيفٍ ذاتِ لَوْنٍ مُرَقَّمِ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>Rotbraun, einfarbig, <hi rendition="bold">nicht alt</hi>, weder zweifarbig noch gestreift.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

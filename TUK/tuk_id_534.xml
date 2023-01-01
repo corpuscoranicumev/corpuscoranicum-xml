@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht über das Weltende und den Tag des Gerichtes</title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>David Kiltz</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>534</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis / Edessa</origPlace>
+                            <origDate>vor 521 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	Paul Bedjan (Hg.), Homiliae Selectae Mar-Jacobi Sarugensis, Band 1, Paris 1905, S. 713 f.</edition>
+                    <relatedItem>
+                        <bibl>006:073; 018:099; 020:102; 022:001; 023:101; 027:087; 036:051; 039:068; 039:069; 050:020; 056:004; 069:013; 073:014; 074:008; 075:008; 077:008; 078:018; 079:006; 079:007; 081:001; 081:002; 082:002; 099:001</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">zalzala; ṣūr; aš-šamsu kuwwirat; ḫasafa l-qamar; ʾašraqat al-ʾarḍu bi-nūri rabbihā</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Der Textabschnitt aus Jakobs Gedicht über das Weltende zeigt, dass zahlreiche Motive, welche die koranische Eschatologie mit den prophetischen Büchern der Hebräischen Bibel und mit der Johannes-Apokalypse gemeinsam hat, auch in nachbiblischen Werken des syrischen Christentums um 500 zirkulierten. Speziell werden hier in einem dichten Panoptikum Phänomene aufgeführt, welche sich so auch im Koran finden: Erschütterung der Grundfesten der Schöpfung, Ertönen der Posaune, Verfinsterung von Sonne und Mond, Fall der Sterne, Gott allein bleibt, die Erde erstrahlt in Seinem Glanz (die einzelnen koranischen Bezüge sind in eckigen Klammern hintangestellt). Zu biblischen Parallelen vgl. TUK 0124, TUK 0125, TUK 0127, TUK 0130 sowie TUK 0151. Ein weiteres eschatologisches Gedicht Jakobs von Sarug wird in TUK 0533 zitiert.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	ܕܚܝܠ ܗܘܼ ܝܘܡܐ ܕܗܘܐ ܕܝܢܐ ܕܦܣܝܩ̈ܬܐ: ܘܒܗ ܗܘܼ ܕܢܚ ܒܪ ܐܠܗܐ ܒܫܘܒܚܐ ܪܒܐ܀ ܡܢ ܝܡܝܢܗ ܘܡܢ ܣܡܠܗ ܒܪ̈ܩܐ ܕܢܘܪܐ: ܘܡܙܝܚܝܢ ܠܗ ܥܝܪ̈ܐ ܕܢܘܪܐ ܘܣܕܪ̈ܐ ܕܢܘܪܐ܀ ܐܢ ܚܪ ܒܪܘܡܐ ܙܥ ܒܪ̈ܝܬܐ ܫܡܝܐ ܘܐܪܥܐ: ܘܐܢ ܚܪ ܒܐܪܥܐ ܪܥܠ ܫܬܐܣ̈ܐ ܬܗܘܡܐ ܘܐܪܥܐ܀ ܩܪܢܐ ܡܝܒܒܐ ܥܝܪ̈ܐ ܪܗܝܒܝܢ ܟܝܢ̈ܐ ܪܥܠܝܢ: ܥܢ̈ܢܐ ܦܪ̈ܝܣܢ ܘܠܥܠ ܡܢܗܝܢ ܢܝܫܗ ܕܚܝܠܐ܀ ܚܫܟ ܫܡܫܐ ܘܥܡܛ ܣܗܪܐ ܘܢܬܪܝܢ ܟܘܟ̈ܒܐ: ܘܙܝܥܝܢ ܟܠܗܘܢ ܚܝ̈ܠܝ ܪܘܡܐ ܩܕܡ ܓܐܝܘܬܗ܀ ܡܫܬܩܠܝܢ ܠܗܘܢ ܟܠ ܢܗܝܪ̈ܝܢ ܡܢ ܛܟܣܝ̈ܗܘܢ: ܘܙܝܘܐ ܕܝܠܗ ܡܢܗܪ ܒܠܚܘܕ ܥܠ ܟܠ ܒܪ̈ܝܢ܀</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Beängstigend ist der Tag, an dem die Urteile gesprochen werden und an dem der Gottessohn mit großen Ehren erscheint. Zu seiner Rechten und Linken sind Blitze aus Feuer und es preisen ihn die Wächterengel aus Feuer und die [anderen] Ordnungen der Engel] aus Feuer. Schaut er in die Höhe, dann erzittern Geschöpfe, Himmel und Erde. Schaut er auf die Erde, <hi rendition="bold">beben die Grundfesten der Tiefe und die Erde</hi> [Q 22:1, 56:4, 73:14, 79:6.7, 99:1]. <hi rendition="bold">Die Posaune ertönt</hi> [Q 6:73, 18:99, 20:102, 23:101, 27:87, 36:51, 39:68, 50:20, 69:13, 74:8, 78:18], die Wächterengel erschrecken, die Gerechten erbeben. Die Wolken teilen sich und über ihnen erscheint ein furchteinflößendes Zeichen. <hi rendition="bold">Die Sonne verfinstert sich</hi> [Q 81:1], <hi rendition="bold">der Mond wird dunkel</hi> [Q 75:8] <hi rendition="bold">und die Sterne stürzen nieder</hi> [Q 81:2, 82:2, 77:8]. Alle Mächte der Höhe erzittern vor seiner Herrlichkeit, alle leuchtenden (Sterne) verlassen ihre Bahnen und <hi rendition="bold">sein Glanz allein erstrahlt über die gesamte Schöpfung</hi> [Q 39:69].</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

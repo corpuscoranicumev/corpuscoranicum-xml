@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matthäus 8:1-4</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Josef Henninger</persName>
+                    <name>Spuren christlicher Glaubenswahrheiten im Koran, Schöneck/Beckenried (Schweiz) 1951, S. 23; Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 451.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>198</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Syrien</origPlace>
+                            <origDate>ca. 80-90 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>003:049; 005:110</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Jesus heilt sowohl im Koran als auch in den Evangelien Aussätzige. Dabei betonen die beiden Koranstellen, dass er dies "mit der Erlaubnis Gottes" tue (Koran 3:49; 5:110), während die Evangelien nicht immer so eindeutig sind. Es kann hier nicht auf die vielfältigen christlichen Vorstellungen zur Autorität bzw. Natur Jesu eingegangen werden. Wichtig ist festzustellen, dass sich im Koran eine klare Positionierung findet, welche das Abhängigkeitsverhältnis Jesu von Gott betont. Vgl. noch Markus 1:40-45 sowie Lukas 5:12-14 und 17:11-19.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	1 Καταβάντος δὲ αὐτοῦ ἀπὸ τοῦ ὄρους ἠκολούθησαν αὐτῷ ὄχλοι πολλοί. 2 καὶ ἰδοὺ λεπρὸς προσελθὼν προσεκύνει αὐτῷ λέγων• κύριε, ἐὰν θέλῃς δύνασαί με καθαρίσαι. <hi rendition="bold"> 3 καὶ ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ λέγων• θέλω, καθαρίσθητι• καὶ εὐθέως ἐκαθαρίσθη αὐτοῦ ἡ λέπρα.</hi> 4 καὶ λέγει αὐτῷ ὁ Ἰησοῦς• ὅρα μηδενὶ εἴπῃς, ἀλλὰ ὕπαγε σεαυτὸν δεῖξον τῷ ἱερεῖ καὶ προσένεγκον τὸ δῶρον ὃ προσέταξεν Μωϋσῆς, εἰς μαρτύριον αὐτοῖς.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Als Jesus von dem Berg herabstieg, folgten ihm viele Menschen. 2 Da kam ein Aussätziger, fiel vor ihm nieder und sagte: Herr, wenn du willst, kannst du machen, dass ich rein werde. <hi rendition="bold">3 Jesus streckte die Hand aus, berührte ihn und sagte: Ich will es - werde rein! Im gleichen Augenblick wurde der Aussätzige rein.</hi> 4 Jesus aber sagte zu ihm: Nimm dich in Acht! Erzähl niemand davon, sondern geh, zeig dich dem Priester und bring das Opfer dar, das Mose angeordnet hat. Das soll für sie ein Beweis (deiner Heilung) sein.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

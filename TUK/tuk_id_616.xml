@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genesis 3:23-24</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>616</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs) </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>005:065; 010:009; 022:056; 026:085; 031:008; 037:043; 056:012; 068:034</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ǧannat an-naʿīm, ǧannāt an-naʿīm</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+                        <hi xml:lang="ar-Latn">Ǧannatu n-naʿīm</hi> "der angenehme Garten" oder "der Garten des Glücks/des Wohlseins" etc. findet sich wiederholt im Koran als Bezeichnung für das Paradies. Diese Bezeichnung erinnert an den hebräischen Ausdruck <hi xml:lang="ar-Latn">g̱an-ʿēden</hi> "Garten Eden". Obgleich <hi xml:lang="ar-Latn">ʿēden</hi> im Hebräischen als Eigenname verstanden werden kann und so wohl auch in Gen 2:8 <hi xml:lang="ar-Latn">wayyiṭṭaʾ YHWH ʾelōhīm gan-beʿēden miqqedem wayyāśem šām ʾet-hāʾādām ʾašer yāṣār:</hi> "dann legte Gott, der Herr, in Eden, im Osten, einen Garten an und setzte dorthin den Menschen, den er geformt hatte" konstruiert ist, kann der Begriff trotzdem mit der Wurzel hebr. <hi xml:lang="ar-Latn">ʿ-d-n</hi> pi. "ergötzen", <hi xml:lang="ar-Latn">ʿiddūnīm</hi> "Wohlleben" etc. in Verbindung gebracht werden. Zu dieser Wurzel gesellen sich auch qumran-aramäisch <hi xml:lang="ar-Latn">ʿdn</hi> "Angenehmheit", samaritanisch <hi xml:lang="ar-Latn">ūdån</hi> und syrisch <hi xml:lang="ar-Latn">ʿuddānā</hi> sowie arabisch <hi xml:lang="ar-Latn">ġadan</hi> "Wohlleben, angenehme Lage" (vgl. dazu HALAT <hi xml:lang="ar-Latn">sub voce</hi>). Die Bedeutung von ugraritisch <hi xml:lang="ar-Latn">ʿdn</hi> ist unklar (vgl. DULAT<hi xml:lang="ar-Latn"> sub voce</hi>, sowie Smith, 1994:53 und 66ff.). Es scheint sich aber auf "Fülle und/oder fruchtbringenden Regen zu beziehen. Ob sich hebr. <hi xml:lang="ar-Latn">ʿēden</hi> tatsächlich von der obigen Wurzel ableitet oder nicht vielleicht akkadisch <hi xml:lang="ar-Latn">edinnu</hi> letztlich &lt; sumerisch <hi xml:lang="ar-Latn">edin</hi> "Steppe" in irgendeiner Form die Quelle des Namens ist, bleibt unsicher. Entscheidend ist hier aber, dass die Interpretation von <hi xml:lang="ar-Latn">‘ēden</hi> = "Wonne" geläufig war und so im Koran reflektiert wird. Abschließend sei noch bemerkt, dass das Junktum <hi xml:lang="ar-Latn">g̱an-‘ēden</hi> nur in der oben genannten Stelle Gen 2:8 aufgebrochen wird. An allen anderen Stellen des AT steht <hi xml:lang="ar-Latn">g̱an-‘ēden</hi>: Gen 2:15, Gen 3:23, Gen 3:24, Ezek 36:35, Joel 2:3, was ein alternatives Verständnis als "Garten der Wonne" sicherlich erleichtert. Die feminine Form des Wortes für "Garten" arab. <hi xml:lang="ar-Latn">ǧannatu</hi> deckt sich mit dem Aramäischen <hi xml:lang="ar-Latn">ganntā</hi> bzw. <hi xml:lang="ar-Latn">ginntā</hi>, welches sich im Syrischen, Nabatäischen, Christlich-Palästinischen, Galiläischen und Mandäischen findet. Die Übersetzung der Septuaginta, sowie das Äthiopische zeigen, dass die Gleichung <hi xml:lang="ar-Latn">ʿēden</hi> = "Freude etc." alt ist. Für hebr. <hi xml:lang="ar-Latn">ʿēden</hi> steht z.B. in Genesis 3:23 äthiopisch <hi xml:lang="ar-Latn">gannata tadlā</hi> "Garten des Genusses, Wohllebens etc." bzw. in 3:24 <hi xml:lang="ar-Latn">gannata təfśəḥt</hi> "Garten der Freude". Die Septuaginta hat an beiden Stellen (griechisch) <hi xml:lang="ar-Latn">παράδεισος τῆς τρυφῆς</hi> "Paradies des Genusses/des Wohllebens" und so, in Folge auch die Vulagata (lateinisch): <hi xml:lang="ar-Latn">paradisum voluptatis</hi>. Eine Besonderheit des Korans ist es, dass das Wort <hi xml:lang="ar-Latn">ǧannatu</hi> meist im Plural steht = <hi xml:lang="ar-Latn">ǧannāt.</hi>
+                    </p>
+                    <p>
+
+	Koranisch <hi xml:lang="ar-Latn">ǧannatu n-naʿīm</hi> für das Paradies steht also in einer langen Tradition, die letztlich auf ein bestimmtes Verständnis des biblischen Begriffs <hi xml:lang="ar-Latn">ʿēden</hi> fußt. Zu koranisch <hi xml:lang="ar-Latn">ʿadn</hi> vgl. auch Jeffery, Foreign vocabulary S. 212f., vgl. auch D. Künstlinger "Einiges über die Namen und die Freuden des qur'ānischen Paradieses, <hi xml:lang="ar-Latn">Bulletin of the School of Oriental Studies, University of London, </hi>6/3. 1931 S. 617-632.</p>
+                    <p>
+
+	Smith, Mark S.: The Ugaritic Baal Cycle: Volume I. Introduction with Text, Translation and Commentary of Ktu 1.1-1.2, Brill 1994.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	‏ וַיְשַׁלְּחֵהוּ יְהוָה אֱלֹהִים <hi rendition="bold"> מִגַּן־עֵדֶן </hi> לַעֲבֹד אֶת־הָאֲדָמָה אֲשֶׁר לֻקַּח מִשָּׁם : וַיְגָרֶשׁ אֶת־הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם <hi rendition="bold"> לְגַן־עֵדֶן </hi> אֶת־הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת־דֶּרֶךְ עֵץ הַחַיִּים :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	23 Gott, der Herr, schickte ihn aus dem <hi rendition="bold">Garten von Eden</hi> weg, damit er den Ackerboden bestellte, von dem er genommen war. 24 Er vertrieb den Menschen und stellte östlich des <hi rendition="bold">Gartens von Eden</hi> die Kerubim auf und das lodernde Flammenschwert, damit sie den Weg zum Baum des Lebens bewachten.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

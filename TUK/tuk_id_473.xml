@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Psalm 7:1-18</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>473</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Endredaktion des Psalters) </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>003:119; 003:154; 005:007; 008:043; 011:005; 031:023; 035:038; 039:007; 042:024; 057:006; 064:004; 067:013</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die genannten Koranstellen sprechen davon, dass Gott "um das weiß, was in der Brust ist" (<hi xml:lang="ar-Latn">ʿālim bi-ḏāt aṣ-ṣudūr</hi>); in Psalm 7:10 heißt es, dass Gott "Herzen und Nieren prüft"; vgl. auch TUK 0118 mit Offenbarung 2:23 sowie Jeremia 11:20. Die Koranstellen ähneln folglich einer in der biblischen Literatur mehrfach gebrauchten Formulierung.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	שִׁגָּיוֹן לְדָוִד אֲשֶׁר־שָׁר לַיהוָה עַל־דִּבְרֵי־כוּשׁ בֶּן־יְמִינִי : יְהוָה אֱלֹהַי בְּךָ חָסִיתִי הוֹשִׁיעֵנִי מִכָּל־רֹדְפַי וְהַצִּילֵנִי : פֶּן־יִטְרֹף כְּאַרְיֵה נַפְשִׁי פֹּרֵק וְאֵין מַצִּיל : יְהוָה אֱלֹהַי אִם־עָשִׂיתִי זֹאת אִם־יֶשׁ־עָוֶל בְּכַפָּי : אִם־גָּמַלְתִּי שׁוֹלְמִי רָע וָאֲחַלְּצָה צוֹרְרִי רֵיקָם : יִרַדֹּף אוֹיֵב נַפְשִׁי וְיַשֵּׂג וְיִרְמֹס לָאָרֶץ חַיָּי וּכְבוֹדִי לֶעָפָר יַשְׁכֵּן סֶלָה : קוּמָה יְהוָה בְּאַפֶּךָ הִנָּשֵׂא בְּעַבְרוֹת צוֹרְרָי וְעוּרָה אֵלַי מִשְׁפָּט צִוִּיתָ : וַעֲדַת לְאֻמִּים תְּסוֹבְבֶךָּ וְעָלֶיהָ לַמָּרוֹם שׁוּבָה : יְהוָה יָדִין עַמִּים שָׁפְטֵנִי יְהוָה כְּצִדְקִי וּכְתֻמִּי עָלָי : יִגְמָר־נָא רַע רְשָׁעִים וּתְכוֹנֵן צַדִּיק <hi rendition="bold"> וּבֹחֵן לִבּוֹת וּכְלָיוֹת אֱלֹהִים צַדִּיק :</hi> מָגִנִּי עַל־אֱלֹהִים מוֹשִׁיעַ יִשְׁרֵי־לֵב : אֱלֹהִים שׁוֹפֵט צַדִּיק וְאֵל זֹעֵם בְּכָל־יוֹם : אִם־לֹא יָשׁוּב חַרְבּוֹ יִלְטוֹשׁ קַשְׁתּוֹ דָרַךְ וַיְכוֹנְנֶהָ : וְלוֹ הֵכִין כְּלֵי־מָוֶת חִצָּיו לְדֹלְקִים יִפְעָל : הִנֵּה יְחַבֶּל־אָוֶן וְהָרָה עָמָל וְיָלַד שָׁקֶר : בּוֹר כָּרָה וַיַּחְפְּרֵהוּ וַיִּפֹּל בְּשַׁחַת יִפְעָל : יָשׁוּב עֲמָלוֹ בְרֹאשׁוֹ וְעַל קָדְקֳדוֹ חֲמָסוֹ יֵרֵד : אוֹדֶה יְהוָה כְּצִדְקוֹ וַאֲזַמְּרָה שֵׁם־יְהוָה עֶלְיוֹן :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 [Ein Klagelied Davids, das er dem Herrn sang wegen des Benjaminiters Kusch.] 2 Herr, mein Gott, ich flüchte mich zu dir; / hilf mir vor allen Verfolgern und rette mich, 3 damit mir niemand wie ein Löwe das Leben raubt,/ mich zerreißt, und keiner ist da, der mich rettet. 4 Wenn ich das getan habe, Herr, mein Gott, / wenn an meinen Händen Unrecht klebt, 5 wenn ich meinem Freunde Böses tat, / wenn ich den quälte, der mich grundlos bedrängt hat, 6 dann soll mich der Feind verfolgen und ergreifen; / er richte mein Leben zugrunde und trete meine Ehre mit Füßen. [Sela] 7 Herr, steh auf in deinem Zorn, / erheb dich gegen meine wütenden Feinde! Wach auf, du mein Gott! / Du hast zum Gericht gerufen. / Der Herr richtet die Völker. 8 Um dich stehe die Schar der Völker im Kreis; / über ihnen throne du in der Höhe! 9 Herr, weil ich gerecht bin, verschaff mir Recht / (und tu an mir Gutes), weil ich schuldlos bin! 10 Die Bosheit der Frevler finde ein Ende, / doch gib dem Gerechten Bestand, / <hi rendition="bold">gerechter Gott, der du auf Herz und Nieren prüfst.</hi> 11 Ein Schild über mir ist Gott, / er rettet die Menschen mit redlichem Herzen. 12 Gott ist ein gerechter Richter, / ein Gott, der täglich strafen kann. 13 Wenn der Frevler sein Schwert wieder schärft, / seinen Bogen spannt und zielt, 14 dann rüstet er tödliche Waffen gegen sich selbst, / bereitet sich glühende Pfeile. 15 Er hat Böses im Sinn; / er geht schwanger mit Unheil und Tücke gebiert er. 16 Er gräbt ein Loch, er schaufelt es aus, / doch er stürzt in die Grube, die er selber gemacht hat. 17 Seine Untat kommt auf sein eigenes Haupt, / seine Gewalttat fällt auf seinen Scheitel zurück. 18 Ich will dem Herrn danken, denn er ist gerecht; / dem Namen des Herrn, des Höchsten, will ich singen und spielen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

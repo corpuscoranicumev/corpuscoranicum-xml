@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Psalm 50:1-23</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>641</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Endredaktion des Psalters)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990. </edition>
+                    <relatedItem>
+                        <bibl>073:009</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p> מִזְמוֹר לְאָסָף אֵל אֱלֹהִים יְהוָה דִּבֶּר וַיִּקְרָא־אָרֶץ    <hi rendition="bold"> מִמִּזְרַח־שֶׁמֶשׁ עַד־מְבֹאוֹ :</hi>   מִצִּיּוֹן מִכְלַל־יֹפִי אֱלֹהִים הוֹפִיעַ  :  יָבֹא אֱלֹהֵינוּ וְאַל־יֶחֱרַשׁ אֵשׁ־לְפָנָיו תֹּאכֵל וּסְבִיבָיו נִשְׂעֲרָה מְאֹד :   יִקְרָא אֶל־הַשָּׁמַיִם מֵעָל וְאֶל־הָאָרֶץ לָדִין עַמּוֹ :   אִסְפוּ־לִי חֲסִידָי כֹּרְתֵי בְרִיתִי עֲלֵי־זָבַח :   וַיַּגִּידוּ שָׁמַיִם צִדְקוֹ כִּי־אֱלֹהִים שֹׁפֵט הוּא סֶלָה :   שִׁמְעָה עַמִּי וַאֲדַבֵּרָה יִשְׂרָאֵל וְאָעִידָה בָּךְ אֱלֹהִים אֱלֹהֶיךָ אָנֹכִי :   לֹא עַל־זְבָחֶיךָ אוֹכִיחֶךָ וְעוֹלֹתֶיךָ לְנֶגְדִּי תָמִיד :   לֹא־אֶקַּח מִבֵּיתְךָ פָר מִמִּכְלְאֹתֶיךָ עַתּוּדִים :   כִּי־לִי כָל־חַיְתוֹ־יָעַר בְּהֵמוֹת בְּהַרְרֵי־אָלֶף :   יָדַעְתִּי כָּל־עוֹף הָרִים וְזִיז שָׂדַי עִמָּדִי :   אִם־אֶרְעַב לֹא־אֹמַר לָךְ כִּי־לִי תֵבֵל וּמְלֹאָהּ :   הַאוֹכַל בְּשַׂר אַבִּירִים וְדַם עַתּוּדִים אֶשְׁתֶּה :   זְבַח לֵאלֹהִים תּוֹדָה וְשַׁלֵּם לְעֶלְיוֹן נְדָרֶיךָ :   וּקְרָאֵנִי בְּיוֹם צָרָה אֲחַלֶּצְךָ וּתְכַבְּדֵנִי :   וְלָרָשָׁע אָמַר אֱלֹהִים מַה־לְּךָ לְסַפֵּר חֻקָּי וַתִּשָּׂא בְרִיתִי עֲלֵי־פִיךָ :  וְאַתָּה שָׂנֵאתָ מוּסָר וַתַּשְׁלֵךְ דְּבָרַי אַחֲרֶיךָ :   אִם־רָאִיתָ גַנָּב וַתִּרֶץ עִמּוֹ וְעִם מְנָאֲפִים חֶלְקֶךָ :   פִּיךָ שָׁלַחְתָּ בְרָעָה וּלְשׁוֹנְךָ תַּצְמִיד מִרְמָה :   תֵּשֵׁב בְּאָחִיךָ תְדַבֵּר בְּבֶן־אִמְּךָ תִּתֶּן־דֹּפִי :   אֵלֶּה עָשִׂיתָ וְהֶחֱרַשְׁתִּי דִּמִּיתָ הֱיוֹת־אֶהְיֶה כָמוֹךָ אוֹכִיחֲךָ וְאֶעֶרְכָה לְעֵינֶיךָ :   בִּינוּ־נָא זֹאת שֹׁכְחֵי אֱלוֹהַּ פֶּן־אֶטְרֹף וְאֵין מַצִּיל :   זֹבֵחַ תּוֹדָה יְכַבְּדָנְנִי וְשָׂם דֶּרֶךְ אַרְאֶנּוּ בְּיֵשַׁע אֱלֹהִים :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>1 [Ein Psalm Asafs.] Der Gott der Götter, der Herr, spricht, / er ruft der Erde zu / <hi rendition="bold">vom Aufgang der Sonne bis zum Untergang</hi>. 2 Vom Zion her, der Krone der Schönheit, / geht Gott strahlend auf. 3 Unser Gott kommt und schweigt nicht; / Feuer frisst vor ihm her; um ihn stürmt es gewaltig. 4 Dem Himmel droben und der Erde ruft er zu, / er werde sein Volk nun richten: 5 "Versammelt mir all meine Frommen, / die den Bund mit mir schlossen beim Opfer." 6 Die Himmel sollen seine Gerechtigkeit künden; / Gott selbst wird Richter sein. [Sela] 7 "Höre, mein Volk, ich rede. / Israel, ich klage dich an, / ich, der ich dein Gott bin. 8 Nicht wegen deiner Opfer rüg ich dich, / deine Brandopfer sind mir immer vor Augen. 9 Doch nehme ich von dir Stiere nicht an / noch Böcke aus deinen Hürden. 10 Denn mir gehört alles Getier des Waldes, / das Wild auf den Bergen zu Tausenden. 11 Ich kenne alle Vögel des Himmels, / was sich regt auf dem Feld, ist mein Eigen. 12 Hätte ich Hunger, ich brauchte es dir nicht zu sagen, / denn mein ist die Welt und was sie erfüllt. 13 Soll ich denn das Fleisch von Stieren essen / und das Blut von Böcken trinken? 14 Bring Gott als Opfer dein Lob / und erfülle dem Höchsten deine Gelübde! 15 Rufe mich an am Tag der Not; / dann rette ich dich und du wirst mich ehren." 16 Zum Frevler aber spricht Gott: / "Was zählst du meine Gebote auf / und nimmst meinen Bund in deinen Mund? 17 Dabei ist Zucht dir verhasst, / meine Worte wirfst du hinter dich. 18 Siehst du einen Dieb, so läufst du mit, / du machst dich mit Ehebrechern gemein. 19 Dein Mund redet böse Worte / und deine Zunge stiftet Betrug an. 20 Von deinem Bruder redest du schändlich, / auf den Sohn deiner Mutter häufst du Verleumdung. 21 Das hast du getan und ich soll schweigen? / Meinst du, ich bin wie du? / Ich halte es dir vor Augen und rüge dich. 22 Begreift es doch, ihr, die ihr Gott vergesst! / Sonst zerreiße ich euch und niemand kann euch retten. 23 Wer Opfer des Lobes bringt, ehrt mich; / wer rechtschaffen lebt, dem zeig ich mein Heil."</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Protevangelium des Jakobus 10:1 - 12:3</title>
+                <principal>
+                    <persName>Nicolai Sinai</persName>
+                    <persName>Manolis Ulbricht</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Wilhelm Rudolph</persName>
+                    <name>Die Abhängigkeit des Qorans von Judentum und Christentum, Stuttgart 1922, S. 77.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>426</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate>150-200 n. Chr., z. T. später</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Wilhelm Schneemelcher (Hg.), Neutestamentliche Apokryphen, Bd. 1: Evangelien, Tübingen 1990, S. 342-343.</bibl>
+                <bibl>
+                    <edition>Émile de Strycker, La forme la plus ancienne du Protévangile de Jacques. Recherches sur le papyrus Bodmer 5 avec und édition critique du texte grec et une traduction annotée, Brüssel 1961, S. 108-122.</edition>
+                    <relatedItem>
+                        <bibl>003:041-003:048; 019:010-019:011; 019:016-019:021</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Sowohl das Protevangelium wie Q 3 und Q 19 beschreiben (in Anlehnung an Lukas 1:26-38), wie Maria durch einen Engel die Geburt eines Sohnes verkündet wird (vgl. auch Intertext Nr. 35 mit einer syrischen Version). Während sie im Protevangelium aktiv einwilligt, Gottes Willen zu erfüllen (Protevangelium 11:3; vgl. Lukas 1:38), hat im Koran der Engel das letzte Wort: "Es ist eine beschlossene Sache" (Q 19:21). Im Protevangelium und im Koran folgt die Verkündigung dem (aus Lukas 1:5-25 bekannten) Verstummen des Zacharias; der griechische Text enthält nur einen knappen Verweis auf Zacharias, während er im Koran ausführlicher behandelt wird (3:38-41, 19:1-11), und zwar jeweils unmittelbar vor der Verkündigungs-Perikope.<lb/>Interessant ist, dass beide Texte die Schwangerschaft Marias mit einem Vorhang in Verbindung bringen, der jedoch an unterschiedlichen Stellen im Handlungsgang erscheint und jeweils eine verschiedene Funktion besitzt: Im Protevangelium stellt das Weben eines kostbaren Vorhangs für den Gottestempel den Rahmen der Verkündigungsszene dar; im Koran verbirgt sich Maria an einem "östlichen Ort" und "nimmt sich" einen Vorhang, um sich vor ihren Landsleuten zu verbergen (Q 19:16.17). Dass Maria aufgrund ihrer Schwangerschaft Anfeindungen zu fürchten hat, macht auch das Protevangelium deutlich (12:3), doch wird dies nicht mit dem zuvor erwähnten Vorhang in Verbindung gebracht.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>10:1 <hi rendition="bold"> Ἐγένετο δὲ συμβούλιον τῶν ἱερέων λεγόντων˙ «Ποιήσωμεν καταπέτασ&lt;μα&gt; τῷ ναῷ Κυρίου.» </hi> Καὶ εἶπεν ὁ ἱερεύς˙ «Καλέσατέ &lt;μοι&gt; τὰς παρθένους τὰς ἀμιάντους ἀπὸ τῆς φυλῆς τοῦ Δαυίδ.» Καὶ ἀπήλθασιν οἱ ὑπηρέται καὶ ἐξεζήτησαν καὶ εὕρησαν ζ’. Καὶ ἐμνήσθη ὁ ἱερεὺς τῆς παιδὸς Μαρίας ὅτι ἦν τῆς φυλῆς τοῦ Δαυὶδ καὶ ἀμίαντος τῷ Θεῷ. Καὶ ἀπήλθασιν οἱ ὑπηρέται καὶ ἤγαγαν αὐτήν. 2 Καὶ εἰσήγαγαν αὐτὰς ἐν τῷ ναῷ Κυρίου. Καὶ εἶπεν ὁ ἱερεύς˙ «Λάχετέ μοι ὧδε, τίς νήσει τὸν χρυσὸν καὶ τὸν ἀμίαντον καὶ τὴν βύσσον καὶ τὸ σιρικὸν καὶ τὸ ὑακίνθινον καὶ τὸ κόκκινον καὶ &lt;τὴν ἀληθινὴν πορφύραν.» Καὶ ἔλαχε τὴν Μαρίαν ἡ ἀληθινὴ πορφύρα καὶ τὸ κόκκινον. Καὶ&gt; λαβοῦσα ἀπῄει ἐν τῷ οἴκῳ αὐτῆς. <hi rendition="bold">Τῷ δὲ καιρῷ ἐκείνῳ Ζαχαρίας ἐσίγησεν, &lt;καὶ&gt; ἐγένετο ἀντὶ αὐτοῦ Σαμουήλ, μέχρι ὅτε ἐλάλησεν Ζαχχαρίας </hi>[sic!]. Μαρία δὲ λαβοῦσα τὸ κόκκινον ἔκλωθεν.<lb/>11:1 Καὶ ἔλαβεν τὴν κάλπιν καὶ ἐξῆλθεν γεμίσαι ὕδωρ. Καὶ ἰδοὺ [αὐτῇ] φωνὴ λέγουσα &lt;αὐτῇ&gt;· «Χαῖρε, κεχαριτω&lt;μένη· ὁ Κύριος μετὰ σοῦ· εὐλογη&gt;μένη σὺ ἐν γυναιξίν.» Καὶ περιέβλεπεν τὰ δεξιὰ καὶ τὰ ἀριστερὰ Μαρία πόθεν αὕτη εἲη ἡ φωνή. Καὶ ἔντρομος γενομένη εἰσῄει εἰς τὸν οἶκον αὐτῆς καὶ ἀναπαύσασα τὴν κάλπιν ἔλαβεν τὴν πορφύραν καὶ ἐκάθισεν ἐπὶ τοῦ θρόνου καὶ ἧλκεν τὴν πορφύραν. 2 <hi rendition="bold">Καὶ ἰδοὺ ἔστη ἄγγελος ἐνώπιον &lt;αὐτῆς&gt; λέγων· «Μὴ φοβοῦ, Μαρία· εὕρες γὰρ χάριν ἐνώπιον τοῦ πάντων Δεσπότου. Συνλήμψῃ ἐκ Λόγου αὐτοῦ.» Ἡ δὲ ἀκούσασα Μαρία διεκρίθη ἐν ἑαυτῇ λέγουσα· «’Εγὼ συνλήμψομαι ἀπὸ Κυρίου Θεοῦ ζῶντος ὡς πάσα γυνὴ γεννᾷ;» 3 Καὶ ἰδοὺ ἄγγελος ἔστη [αὐτῇ] λέγων αὐτῇ· «Οὐχ οὕτως, Μαρία. Δύναμις γὰρ Θεοῦ ἐπισκιάσει σοι· διὸ καὶ τὸ γεννώμενον ἅγιον κληθήσεται υἱὸς Ὑψίστου. Καὶ καλέσεις τὸ ὄνομα αὐτοῦ Ἰησοῦν· αὐτὸ γὰρ σώσει &lt;τὸν&gt; λαὸν αὐτοῦ ἐκ τῶν ἁμαρτιῶν αὐτῶν.» Καὶ εἶπε Μαρία· «Ἰδοὺ ἡ δούλη Κυρίου κατενώπιον αὐτοῦ. Γένοιτό μοι κατὰ τὸ ῥῆμά σου </hi>.»<lb/>12:1 Καὶ ἐποίησεν τὴν πορφύραν καὶ τὸ κόκκινον, καὶ ἀνήνεγκεν τῷ ἱερεῖ. Καὶ λαβὼν ὁ ἱερεὺς εὐλόγησεν αὐτὴν καὶ εἶπεν· «Μαρία, ἐμεγάλυνεν [σε] Κύριος ὁ Θεὸς τὸ ὄνομά σου, καὶ ἔσῃ εὐλογημένη ἐν πάσαις ταῖς γενεαῖς τῆς γῆς.» 2 Χαρὰν &lt;δὲ&gt; λαβοῦσα Μαρία ἀπῄει πρὸς τὴν θύραν. Καὶ ἀκούσασα ἡ Ἐλισάβεδ ἔρριψεν τὸ κόκκινον καὶ ἔδραμεν πρὸς τὴν θύραν καὶ ἤνοιξεν αὐτῇ καὶ εὐλόγησεν αὐτὴν καὶ εἶπεν· «Πόθεν μοι &lt;τοῦτο&gt; ἵνα ἡ μήτηρ τοῦ Κυρίου &lt;μου&gt; ἔλθῃ πρὸς ἐμέ; Ἰδοὺ γὰρ τὸ ἐν ἐμοὶ έσκίρτησεν καὶ εὐλόγησέν σε.» Ἡ δὲ Μαρία ἐπελάθετο τῶν μυστηρίων ὧν ἐλάλησεν Γαβριὴλ ὁ ἄγγελος. Καὶ ἠτένισεν εἰς τὸν οὐρανὸν καὶ εἶπεν· «Τίς εἰμι ἐγὼ ὅτι ἰδοὺ πᾶσαι αἱ γυναῖκες τῆς γῆς μακαριοῦσίν με;» 3 Καὶ ἐποίησεν τρεῖς μῆνας πρὸς τὴν Ἐλισάβεδ. Καὶ ἡμέρᾳ ἀφ’ ἡμέρας ἡ γαστὴρ αὐτῆς ὠγκοῦτο. <hi rendition="bold"> &lt;Καὶ&gt; φοβηθεῖσα ἡ Μαρία ἦλθεν ἐν τῷ οἴκῳ αὐτῆς καὶ ἔκρυβεν αὑτὴν ἀπὸ τῶν υἱῶν Ἰσραήλ</hi>. Ἦν δὲ ἐτῶν ιϚ’, ὅτε ταῦτα τὰ μυστήρια ἐγέ[ι]νετο αὐτῇ.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>10:1 <hi rendition="bold">Es fand aber eine Beratung der Priester statt, die beschlossen: "Wir wollen einen Vorhang für den Tempel des Herrn anfertigen (lassen)."</hi> Und der Priester sprach: "Rufet mir unbefleckte Jungfrauen vom Stamme Davids!" Und die Diener gingen fort und suchten, und sie fanden sieben (solche) Jungfrauen. Und der Priester erinnerte sich an das Mädchen Maria, daß sie aus dem Stamme Davids und unbefleckt vor Gott war. Und die Diener gingen hin und holten sie. 2 Dann führten sie sie in den Tempel des Herrn, und der Priester sprach: "Werft mir das Los, wer das Gold, den Amiant, die Baumwolle, die Seide, das Hyazinthenblau, den Scharlach, und [den echten Purpur verweben soll." Und auf Maria fiel das Los 'echter Purpur' und 'Scharlach'. Und] sie nahm es und ging in ihr Haus. <hi rendition="bold">Zu jener Zeit wurde Zacharias stumm, und Samuel trat solange an seine Stelle, bis Zacharias (wieder) zu sprechen (vermochte)</hi> [vgl. Q 3:41 sowie 19:10.11]. Maria aber nahm den Scharlach und spann.<lb/>11:1 Und sie nahm den Krug und ging hinaus, um Wasser zu schöpfen, und siehe, eine Stimme sprach zu ihr: "Sei gegrüßt, du Begnadigte, der Herr sei mit dir, du Gesegnete unter den Weibern." Und Maria schaute sich nach rechts und links um, woher diese Stimme komme. Und sie erbebte, ging in ihr Haus, stellte den Krug ab, nahm den Purpur, setzte sich (damit) auf ihren Stuhl und spann den Purpur. 2 <hi rendition="bold">Und siehe, ein Engel des Herrn stand (plötzlich) vor ihr und sprach: "Fürchte dich nicht, Maria; denn du hast Gnade gefunden vor dem Allmächtigen und wirst aus seinem Wort empfangen." Als sie das hörte, zweifelte sie bei sich selbst und sprach: "Ich sollte empfangen vom Herrn, dem lebendigen Gott, [und gebären,] wie jedes Weib gebiert?" 3 Und der Engel des Herrn trat hinzu und sprach zu ihr: "Nicht so, Maria; denn Kraft des Herrn wird dich überschatten; darum wird auch das Heilige, was aus dir geboren wird, Sohn des Höchsten genannt werden. Und du sollst seinen Namen Jesus heißen; denn er wird sein Volk von seinen Sünden retten!" Und Maria sprach: "Siehe, (ich bin) die Magd des Herrn vor ihm. Mir geschehe nach deinem Wort</hi> [vgl. Q 3:45-48, 19:17-21]!"<lb/>12:1 Und sie machte den Purpur und den Scharlach (fertig) und brachte (sie) zum Priester. Und der Priester nahm (sie), segnete (Maria) und sprach: "Maria, Gott, der Herr, hat deinen Namen groß gemacht, und du wirst gesegnet sein unter allen Geschlechtern der Erde." 2 Freude ergriff nun Maria, und sie begab sich zu Elisabeth, ihrer Verwandten, und klopfte an die Tür. Als Elisabeth es hörte, ließ sie den Scharlach fallen, lief zur Tür und öffnete ihr, [und als sie Maria sah,] segnete [sie] sie und sprach: "Woher geschieht mir dies, daß die Mutter meines Herrn zu mir kommt? Denn siehe, das (Kind) in mir hüpfte und segnete dich." Maria aber dachte nicht an die Geheimnisse, die der [Erz]engel Gabriel ihr gesagt hatte, und seufzte zum Himmel empor und sprach: "Wer bin ich, [Herr,] daß alle Frauen [Geschlechter] der Erde mich glücklich preisen?" 3 Und sie blieb drei Monate bei Elisabeth. Tag für Tag nahm ihr Leib zu, und <hi rendition="bold">Maria fürchtete sich und ging fort in ihr Haus und verbarg sich vor den Söhnen Israels</hi> [vgl. Q 19:16]. Sie war aber 16 jahre alt, als [ihr] alle diese geheimnisvollen Dinge geschahen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

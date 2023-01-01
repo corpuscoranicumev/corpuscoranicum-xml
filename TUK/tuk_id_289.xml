@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genesis 39:1-20</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Vgl. Johann-Dietrich Thyen</persName>
+                    <name>Bibel und Koran. Eine Synopse gemeinsamer Überlieferungen, Köln 2000, S. 68-73.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>289</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>012:021-012:035</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Josef ist im Koran eine ganze Sure gewidmet (Sure 12, 111 Verse). Die koranische Erzählung weist starke Parallelen zur biblischen Erzählung auf; die wesentlichen Etappen der Erzählung sind die gleichen: die Träume Josefs und dessen Bevorzugung durch den Vater (TUK Nr. 0286); der Verrat der Brüder an ihm und der Verkauf an Sklavenhändler (TUK Nr. 0288); der Aufenthalt bei Potiphar (in Q 12:30.51 bezeichnet als al-ʿAzīz) und die Nachstellungen von dessen Frau (TUK Nr. 0289); der Aufenthalt im Gefängnis und die Traumdeutung für zwei Gefangene (TUK Nr. 0290); die Deutung des Traums Pharaos und Josephs Aufstieg zum Verwalter (TUK Nr. 0291); zuletzt das Wiedersehen mit den Brüdern und die Versöhnung (TUK Nr. 0292, 0293, 0294).<lb/>
+
+	Von diesen zentralen Parallelen abgesehen weicht die koranische Erzählung von der biblischen in einigen Punkten ab. Dazu gehört beispielsweise der Argwohn Jakobs, mit dem er den Erklärungen seiner Söhne begegnet, dass sein bevorzugter Sohn vom Wolf gefressen worden sei. Jakob weist sich selbst an, geduldig darauf zu warten, dass Gott die Wahrheit enthüllt (vgl. Q 12:17.18). Auch nach der Wiedervereinigung der Familie weist Jakob darauf hin, dass Gott ihm ein besonderes Wissen zuteil werden ließ (Q 12:96). Der biblische Jakob zeigt sich dagegen ohne jeden Zweifel an dem Bericht seiner Söhne und von tiefem Schmerz erfüllt (Genesis 37:33-35).<lb/>
+
+	Auch die beiden Erzählungen von den Verführungsversuchen der Frau Potiphars unterscheiden sich. Sind in der Bibel ihre Bezichtigungen der Grund für seinen Gefängnisaufenthalt, so kann Potiphar die Machenschaften seiner Frau im Koran durchschauen. Der Gefängnisaufenthalt ist im Koran folglich ebenfalls anders motiviert: Josef betet darum, eher ins Gefängnis zu kommen, als Lug und Trug der Frauen weiter ausgesetzt zu sein (Q 12:33).<lb/>
+
+	Auch das Wunder, dass Josefs Hemd den Vater wieder sehen lässt, nachdem sich die Brüder gefunden und versöhnt haben, findet sich nicht in der Bibel (vgl. Q 12:92-96).<lb/>
+
+	In diesen und ähnlichen Abweichungen manifestiert sich Gott als <hi xml:lang="ar-Latn">as-samīʿ al-ʿalīm</hi> (Q 12:34); er erhört die Gebete der ihm ergebenen Gottesfürchtigen und greift in das irdische Geschehen zu ihrem Schutz und für ihr Wohlergehen ein.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וְיוֹסֵף הוּרַד מִצְרָיְמָה וַיִּקְנֵהוּ פּוֹטִיפַר סְרִיס פַּרְעֹה שַׂר הַטַּבָּחִים אִישׁ מִצְרִי מִיַּד הַיִּשְׁמְעֵאלִים אֲשֶׁר הוֹרִדֻהוּ שָׁמָּה : וַיְהִי יְהוָה אֶת־יוֹסֵף וַיְהִי אִישׁ מַצְלִיחַ וַיְהִי בְּבֵית אֲדֹנָיו הַמִּצְרִי : וַיַּרְא אֲדֹנָיו כִּי יְהוָה אִתּוֹ וְכֹל אֲשֶׁר־הוּא עֹשֶׂה יְהוָה מַצְלִיחַ בְּיָדוֹ : וַיִּמְצָא יוֹסֵף חֵן בְּעֵינָיו וַיְשָׁרֶת אֹתוֹ וַיַּפְקִדֵהוּ עַל־בֵּיתוֹ וְכָל־יֶשׁ־לוֹ נָתַן בְּיָדוֹ : וַיְהִי מֵאָז הִפְקִיד אֹתוֹ בְּבֵיתוֹ וְעַל כָּל־אֲשֶׁר יֶשׁ־לוֹ וַיְבָרֶךְ יְהוָה אֶת־בֵּית הַמִּצְרִי בִּגְלַל יוֹסֵף וַיְהִי בִּרְכַּת יְהוָה בְּכָל־אֲשֶׁר יֶשׁ־לוֹ בַּבַּיִת וּבַשָּׂדֶה : וַיַּעֲזֹב כָּל־אֲשֶׁר־לוֹ בְּיַד־יוֹסֵף וְלֹא־יָדַע אִתּוֹ מְאוּמָה כִּי אִם־הַלֶּחֶם אֲשֶׁר־הוּא אוֹכֵל וַיְהִי יוֹסֵף יְפֵה־תֹאַר וִיפֵה מַרְאֶה : וַיְהִי אַחַר הַדְּבָרִים הָאֵלֶּה וַתִּשָּׂא אֵשֶׁת־אֲדֹנָיו אֶת־עֵינֶיהָ אֶל־יוֹסֵף וַתֹּאמֶר שִׁכְבָה עִמִּי : וַיְמָאֵן וַיֹּאמֶר אֶל־אֵשֶׁת אֲדֹנָיו הֵן אֲדֹנִי לֹא־יָדַע אִתִּי מַה־בַּבָּיִת וְכֹל אֲשֶׁר־יֶשׁ־לוֹ נָתַן בְּיָדִי : אֵינֶנּוּ גָדוֹל בַּבַּיִת הַזֶּה מִמֶּנִּי וְלֹא־חָשַׂךְ מִמֶּנִּי מְאוּמָה כִּי אִם־אוֹתָךְ בַּאֲשֶׁר אַתְּ־אִשְׁתּוֹ וְאֵיךְ אֶעֱשֶׂה הָרָעָה הַגְּדֹלָה הַזֹּאת וְחָטָאתִי לֵאלֹהִים : וַיְהִי כְּדַבְּרָהּ אֶל־יוֹסֵף יוֹם יוֹם וְלֹא־שָׁמַע אֵלֶיהָ לִשְׁכַּב אֶצְלָהּ לִהְיוֹת עִמָּהּ : וַיְהִי כְּהַיּוֹם הַזֶּה וַיָּבֹא הַבַּיְתָה לַעֲשׂוֹת מְלַאכְתּוֹ וְאֵין אִישׁ מֵאַנְשֵׁי הַבַּיִת שָׁם בַּבָּיִת : וַתִּתְפְּשֵׂהוּ בְּבִגְדוֹ לֵאמֹר שִׁכְבָה עִמִּי וַיַּעֲזֹב בִּגְדוֹ בְּיָדָהּ וַיָּנָס וַיֵּצֵא הַחוּצָה : וַיְהִי כִּרְאוֹתָהּ כִּי־עָזַב בִּגְדוֹ בְּיָדָהּ וַיָּנָס הַחוּצָה : וַתִּקְרָא לְאַנְשֵׁי בֵיתָהּ וַתֹּאמֶר לָהֶם לֵאמֹר רְאוּ הֵבִיא לָנוּ אִישׁ עִבְרִי לְצַחֶק בָּנוּ בָּא אֵלַי לִשְׁכַּב עִמִּי וָאֶקְרָא בְּקוֹל גָּדוֹל : וַיְהִי כְשָׁמְעוֹ כִּי־הֲרִימֹתִי קוֹלִי וָאֶקְרָא וַיַּעֲזֹב בִּגְדוֹ אֶצְלִי וַיָּנָס וַיֵּצֵא הַחוּצָה : וַתַּנַּח בִּגְדוֹ אֶצְלָהּ עַד־בּוֹא אֲדֹנָיו אֶל־בֵּיתוֹ : וַתְּדַבֵּר אֵלָיו כַּדְּבָרִים הָאֵלֶּה לֵאמֹר בָּא־אֵלַי הָעֶבֶד הָעִבְרִי אֲשֶׁר־הֵבֵאתָ לָּנוּ לְצַחֶק בִּי : וַיְהִי כַּהֲרִימִי קוֹלִי וָאֶקְרָא וַיַּעֲזֹב בִּגְדוֹ אֶצְלִי וַיָּנָס הַחוּצָה : וַיְהִי כִשְׁמֹעַ אֲדֹנָיו אֶת־דִּבְרֵי אִשְׁתּוֹ אֲשֶׁר דִּבְּרָה אֵלָיו לֵאמֹר כַּדְּבָרִים הָאֵלֶּה עָשָׂהּ לִי עַבְדֶּךָ וַיִּחַר אַפּוֹ : וַיִּקַּח אֲדֹנֵי יוֹסֵף אֹתוֹ וַיִּתְּנֵהוּ אֶל־בֵּית הַסֹּהַר מְקוֹם אֲשֶׁר־אֲסִורֵי הַמֶּלֶךְ אֲסוּרִים וַיְהִי־שָׁם בְּבֵית הַסֹּהַר :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Josef hatte man nach Ägypten gebracht. Ein Hofbeamter des Pharao, ein Ägypter namens Potifar, der Oberste der Leibwache, hatte ihn den Ismaelitern abgekauft, die ihn dorthin gebracht hatten. 2 Der Herr war mit Josef und so glückte ihm alles. Er blieb im Haus seines ägyptischen Herrn. 3 Dieser sah, dass der Herr mit Josef war und dass der Herr alles, was er unternahm, unter seinen Händen gelingen ließ. 4 So fand Josef sein Wohlwollen und er durfte ihn bedienen. Er bestellte ihn zum Verwalter seines Hauses und vertraute ihm alles an, was er besaß. 5 Seit er ihm sein Haus und alles, was ihm gehörte, anvertraut hatte, segnete der Herr das Haus des Ägypters um Josefs willen. Der Segen des Herrn ruhte auf allem, was ihm gehörte im Haus und auf dem Feld. 6 Er ließ seinen ganzen Besitz in Josefs Hand und kümmerte sich, wenn Josef da war, um nichts als nur um sein Essen. Josef war schön von Gestalt und Aussehen. 7 Nach einiger Zeit warf die Frau seines Herrn ihren Blick auf Josef und sagte: Schlaf mit mir! 8 Er weigerte sich und entgegnete der Frau seines Herrn: Du siehst doch, mein Herr kümmert sich, wenn ich da bin, um nichts im Haus; alles, was ihm gehört, hat er mir anvertraut. 9 Er ist in diesem Haus nicht größer als ich und er hat mir nichts vorenthalten als nur dich, denn du bist seine Frau. Wie könnte ich da ein so großes Unrecht begehen und gegen Gott sündigen? 10 Obwohl sie Tag für Tag auf Josef einredete, bei ihr zu schlafen und ihr zu Willen zu sein, hörte er nicht auf sie. 11 An einem solchen Tag kam er ins Haus, um seiner Arbeit nachzugehen. Niemand vom Hausgesinde war anwesend. 12 Da packte sie ihn an seinem Gewande und sagte: Schlaf mit mir! Er ließ sein Gewand in ihrer Hand und lief hinaus. 13 Als sie sah, dass er sein Gewand in ihrer Hand zurückgelassen hatte und hinausgelaufen war, 14 rief sie nach ihrem Hausgesinde und sagte zu den Leuten: Seht nur! Er hat uns einen Hebräer ins Haus gebracht, der seinen Mutwillen mit uns treibt. Er ist zu mir gekommen und wollte mit mir schlafen; da habe ich laut geschrien. 15 Als er hörte, dass ich laut aufschrie und rief, ließ er sein Gewand bei mir liegen und floh ins Freie. 16 Sein Kleid ließ sie bei sich liegen, bis sein Herr nach Hause kam. 17 Ihm erzählte sie die gleiche Geschichte: Der hebräische Sklave, den du uns gebracht hast, ist zu mir gekommen, um mit mir seinen Mutwillen zu treiben. 18 Als ich laut aufschrie und rief, ließ er sein Gewand bei mir liegen und lief hinaus. 19 Als sein Herr hörte, wie ihm seine Frau erzählte: So hat es dein Sklave mit mir getrieben!, packte ihn der Zorn. 20 Er ließ Josef ergreifen und in den Kerker bringen, wo die Gefangenen des Königs in Haft gehalten wurden. Dort blieb er im Gefängnis.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

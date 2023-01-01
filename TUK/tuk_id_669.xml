@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1. Clemensbrief 31:1-4</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 165.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>669</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Rom</origPlace>
+                            <origDate>ca. 96 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Franz Zeller, Die Apostolischen Väter, München 1918 (Bibliothek der Kirchenväter, 1. Reihe, Band 35).</bibl>
+                <bibl>
+                    <edition>
+
+	Kirsopp Lake (Hg.), The apostolic fathers in Greek. I Clement, II Clement, Ignatius, Polycarp, Didache, Barnabas, The Shepherd of Hermas, The Martyrdom of Polycarp, The Epistle of Dio, Cambridge 1913.</edition>
+                    <relatedItem>
+                        <bibl>037:102-037:103</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Sowohl Genesis 22 (vgl. TUK Nr. 0465) als auch Q 37 berichten, wie Gott den Gehorsam Abrahams auf die Probe stellt, indem er ihm befiehlt, seinen Sohn als Opfer darzubringen. Im Unterschied zur Erzählung im Buch Genesis betont der Koran, dass der Sohn in das Opfer eingewilligt habe. In diesem Punkt stimmt der Koran mit nachbiblischen Bearbeitungen dieses Themas überein, in denen die Bereitschaft des Sohnes zum Opfer fester Bestandteil der Interpretation von Genesis 22 ist (James Kugel, Traditions of the Bible. A Guide to the Bible as it was, Cambridge/London 1998, S. 304-306). Sie wird sowohl in jüdischen als auch in frühen christlichen Quellen erwähnt, so z.B. im hier zitierten Clemensbrief oder in Genesis Rabba, Parascha 55:1 und 56:12 (TUK Nr. 0795). Vgl dazu auch ein Gedicht von Umayya ibn abī ṣ-Ṣalt (TUK Nr. 0504).</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	1 Κολληθῶμεν οὖν τῇ εὐλογίᾳ αὐτοῦ καὶ ἴδωμεν τίνες αἱ ὁδοὶ τῆς εὐλογίας ἀνατυλίξωμεν τὰ ἀπ᾽ ἀρχῆς γενόμενα 2 τίνος χάριν ηὐλογήθη ὁ πατὴρ ἡμῶν Ἀβραάμ οὐχὶ δικαιοσύνην καὶ ἀλήθειαν διὰ πίστεως ποιήσας 3 <hi rendition="bold"> Ἰσαὰκ μετὰ πεποιθήσεως γινώσκων τὸ μέλλον ἡδέως προσήγετο θυσία </hi> 4 Ἰακὼβ μετὰ ταπεινοφροσύνης ἐξεχώρησεν τῆς γῆς αὐτοῦ δι᾽ ἀδελφὸν καὶ ἐπορεύθη πρὸς Λαβὰν καὶ ἐδούλευσεν καὶ ἐδόθη αὐτῷ τὸ δωδεκάσκηπτρον τοῦ Ἰσραήλ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1. Suchen wir uns also seinen Segen und schauen wir, welches die Wege seines Segens sind! Lasset uns die Geschichte von Anfang an betrachten! 2. Weswegen wurde unser Vater Abraham gesegnet? 1 Nicht deshalb, weil er Gerechtigkeit und Wahrheit übte durch Glauben? 3. <hi rendition="bold">Isaak ließ sich voll Vertrauen, da er die Zukunft kannte, freudig zum Opfer bringen</hi> 4. Jakob verließ demütigen Sinnes seine Heimat wegen des Bruders, ging zu Laban und diente ihm, und ihm wurden verliehen die zwölf Stämme Israels.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>001:001-114:006 Es handelt sich um einen vollständigen Korankodex. Ein im gleichen Duktus gehaltenes Fragment datiert ins Jahr 883/4 (Bernard Moritz: Arabic Palaeography, Kairo 1905, Pl. 42 b).<lb/>
+                        <lb/> Das Manuskript enthält ein Kolophon. Demnach wurde der Kodex im Ramadan des Jahres 182 (= Oktober/November 799) auf Befehl des Kalifen Hārūn ar-Rašīd erstellt. Nach François Déroche widerlegten Michele Amari und William de Slane diese Datierung (Catalogue, Nr. 37).<lb/>
+                        <lb/> Laut dem Bibliothekskatalog ist am Kodex eine Handschrift in lateinischen Buchstaben zu erkennen: "Ex muninificentia magistri Cochu, 1787" (Catalogue, Nr. 37)</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Frankreich</country>
+                        <settlement>Paris</settlement>
+                        <institution> Bibliothèque nationale de France</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Paris BnF Arabe 399 (Hārūn ar-Rašīd)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="337">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Codex">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>420</height>
+                                        <width>730</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="11">
+                                    <p>Die Seiten enthalten 11 Zeilen.</p>
+                                    <p>- keine Einzelvers-Trenner<lb/> - Versgruppen-Trenner nach jeweils 10 Versen (Typ: 1.B.I)<lb/> - Surenüberschrift enthält Titel und Versanzahl</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	François Déroche: Catalogue des manuscrits arabes, Deuxiéme partie, Manuscrits musulmans, Tome I, 1, Les Manuscrits du Coran. Aux origines des la calligraphie coranique, Paris 1983, Nr. 37.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

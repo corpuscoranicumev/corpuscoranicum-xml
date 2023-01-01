@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>2. Clemensbrief 16:3</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Tor Andrae</persName>
+                    <name>Der Ursprung des Islams und das Christentum, Uppsala 1926, S. 66.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>234</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate>Mitte 2. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	J. B. Lightfoot (Hg.), The Apostolic Fathers: revised texts with introductions, notes, dissertations, and translations, London 1889-1890.</edition>
+                    <relatedItem>
+                        <bibl>055:035; 070:008</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Das in Q 70:8 (Paret: "Am Tag, da der Himmel wie flüssiges Metall sein wird") beschriebene Szenario des am Jüngsten Tag zerschmelzenden Himmels weist eine deutliche Ähnlichkeit zu 2 Clemens 16:3 auf (siehe auch TUK 0233). In einem ähnlichen Sinne ist möglicherweise auch Q 55:35 zu verstehen.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	3 γινώσκετε δέ ὅτι ἔρχεται ἤδη ἡ ἡμέρα τῆς κρίσεως ὡς κλίβανος καιόμενος καὶ τακήσονταί τινες τῶν οὐρανῶν καὶ πᾶσα ἡ γῆ ὡς μόλιβος ἐπὶ πυρὶ τηκόμενος καὶ τότε φανήσεται τὰ κρύφια καὶ φανερὰ ἔργα τῶν ἀνθρώπων.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Wisset aber, dass der Tag des Gerichtes bereits kommt wie ein brennender Ofen, und es werden Teile der Himmel und die ganze Erde schmelzen wie über dem Feuer geschmolzenes Blei und dann werden offenbar sein die geheimen und sichtbaren Taten der Menschen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

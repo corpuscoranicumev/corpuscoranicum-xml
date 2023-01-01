@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Muʿallaqa</title>
+                <principal>
+                    <persName>Nora K. Schmid</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>618</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Arabische Halbinsel</origPlace>
+                            <origDate>Anfang 6. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Nach Alan Jones, Early Arabic Poetry, Bd. 2: Select Odes, Oxford 1996, S. 36.</bibl>
+                <bibl>
+                    <edition>Alan Jones, Early Arabic Poetry, Bd. 2: Select Odes, Oxford 1996, S. 36.</edition>
+                    <relatedItem>
+                        <bibl>016:079</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ǧaww</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>In Q 16:79 tritt <hi xml:lang="ar-Latn">ǧaww</hi> zusammen mit <hi xml:lang="ar-Latn">as-samāʾ</hi> auf und bezeichnet wohl das "Gewölbe" des Himmels. Paret übersetzt <hi xml:lang="ar-Latn">ǧaww</hi> auch als "Luft". Im Intertext hat es dagegen die Bedeutung "weite, räumliche Ausdehnung". Jones betrachtet diese Verwendung von <hi xml:lang="ar-Latn">ǧaww</hi> als eher seltenen Fall.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>١٢ إِنْ تَكُ حَالَتْ وحُوِّلَ أَهْلُهَا     فَلا بَدِيءٌ وَلا عَجِيبُ<lb/>١٣ أَوْ يَكُ قَدْ أَقْفَرَ مِنْهَا جَوُّهَا     وَعَاَدَهَا المَحْلُ وَالجُدُوبُ<lb/>١٤ فَكُلُّ ذِي نِعْمَةٍ مَخْلُوسٌ     وكُلُّ ذِي أََمَلٍ مَكْذُوبُ<lb/>١٥ وَكُلُّ ذِي إِبْلٍ مَوْرُوثٌ     وَكُلُّ ذِي سَلَبٍ مَسْلُوبُ<lb/>١٦ وَكُلُّ ذِي غَيْبَةٍ يَؤُوبُ     وَغَائِبُ المَوتِ لا يَؤُوبُ<lb/>١٧ أَعَاقِرٌ مِثْلُ ذَاتِ رِحْمٍ     أَمْ غَانِمٌ مِثْلُ مَنْ يَخِيبُ<lb/>١٨ أَفْلِحْ بِمَا شِئْتَ فَقَدْ يُبْلَغُ بِالـ     ـضَّعْفِ وَقَدْ يُخْدَعُ الأَرِيبُ<lb/>١٩ لا يَعِظُ النَّاسُ مَنْ لَمْ يَعِظِ الـ     ـدَّهْرُ وَلا يَنْفَعُ التَّلْبِيبُ<lb/>٢٠ إِلا سَجِيَّاتُ مَا القُلُوبِ     وَكَمْ يَصِيرَنْ شَانِئاً حَبِيبُ<lb/>٢١ سَاعِدْ بِأَرْضٍ إِذَا كُنْتَ بِهَا     وَلا تَقُلْ إِنَّنِي غَرِيبُ<lb/>٢٢ قَدْ يُوصَلُ النَّازِحُ النَّائِي وَقَدْ     يُقْطَعُ ذُو السُّهْْمَةِ القَرِيبُ<lb/>٢٣ وَالْمَرْءُ مَا عَاشَ فِي تَكْذِيبٍ     طُولُ الحَيَاةِ لَهُ تَعْذِيبُ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>12. Wenn [die Erde] sich verändert und ihr Volk entfernt wird, so werden sie nicht die letzten sein [denen dies geschieht] und es wird keinen Anlass zu Verwunderung geben.<lb/>13. Wenn die weite Fläche von Menschen verlassen ist, und Dürre und Ödnis sich auf das Land legen,<lb/>14. wird jeder seines Glückes beraubt und in seiner Hoffnung belogen<lb/>15. und jeder, der Kamele besitzt, wird beerbt und jeder, der Beute macht, ausgebeutet<lb/>16. und jeder, der abwesend ist, kann zurückkehren, aber jeder, der im Tode abwesend ist, kehrt nicht zurück.<lb/>17. Ist eine unfruchtbare Frau wie eine mit fruchtbarem Leib oder ist derjenige, der Beute macht wie einer, dem es nicht gelingt?<lb/>18. Suche nach Reichtum auf welche Weise du willst, manchmal wird trotz Schwäche das Ziel erreicht, manchmal wird der Kluge enttäuscht.<lb/>19. Der Mensch wird nicht den warnen, der die Warnung des Schicksals schon nicht befolgt hat. Es nützt nichts, Weisheit eingeben zu wollen.<lb/>20. Außer, er hat die richtige Veranlagung des Herzens, und wie oft wandelt sich der Liebende zum Hassenden?<lb/>21. Hilf überall, wo du dich aufhältst, und sage nie: Ich bin ein Fremder.<lb/>22. Manchmal steht der Fremde von weit her [dir] nahe und manchmal ist der enge Verwandte [von dir] abgebrochen.<lb/>23. Der Mensch ist, solange er lebt, von Lügen umgeben; ein langes Leben ist Qual für ihn.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

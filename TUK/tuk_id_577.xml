@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht über Schicksal und Auferstehung (Nr. 55:28-38 Schulthess)</title>
+                <principal>
+                    <persName>Nicolai Sinai (Texterfassung: Daria Zadorojnaia</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Zum hier nicht zitierten Anfangsteil des Gedichts vgl. J. Frank-Kamenetzky</persName>
+                    <name>Untersuchungen über das Verhältnis der dem Umajja b. Abi ṣ Ṣalt zugeschriebenen Gedichte zum Qorān, Kirchhain N.-L. 1911, S. 31-33.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>577</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Aṭ-Ṭāʾif (Ḥiǧāz)</origPlace>
+                            <origDate>Anfang 7. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 117-118.</bibl>
+                <bibl>
+                    <edition>Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 59-60; Bahǧa ʿAbd l-Ġafūr al-Ḥadīṯī, Umayya ibn abī ṣ-Ṣalt: Ḥayātuhū wa-šiʿruhū, Bagdad 1975, S. 180 f.</edition>
+                    <relatedItem>
+                        <bibl>002:056; 002:129; 002:209; 002:213; 002:246; 002:247; 002:259; 003:164; 004:035; 005:012; 005:031; 006:029; 006:036; 006:060; 006:065; 007:014; 007:103; 007:167; 010:073; 010:075; 011:007; 015:036; 016:021; 016:036; 016:038; 016:084; 016:089; 017:005; 017:015; 017:049; 017:079; 017:098; 018:012; 018:019; 019:015; 019:033; 022:005; 022:007; 023:016; 023:037; 023:082; 023:100; 025:041; 025:051; 026:036; 026:087; 027:007; 027:065; 028:059; 030:056; 031:028; 036:052; 037:016; 037:144; 038:079; 040:034; 045:024; 056:047; 058:006; 058:018; 062:002; 064:007; 072:007; 076:001; 083:004</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">baʿṯ</hi>, <hi xml:lang="ar-Latn">baʿaṯa</hi>, <hi xml:lang="ar-Latn">dahr</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Zur umstrittenen Authentizität der Umayya ibn abī ṣ-Ṣalt zugeschriebenen Gedichte vgl. allgemein die Anmerkung zu Intertext Nr. 420. Die ersten 27 Verse des vorliegenden Gedichts, die im Wesentlichen hymnischen Charakter haben, gehören zur Kategorie des Koranpastiches: Sie enthalten zahlreiche koranische Wendungen aus unterschiedlichen Suren und sind aller Wahrscheinlichkeit nach als Korannachdichtung zu betrachten (in diesem Sinne auch Frank-Kamenetzky, a. a. O., S. 48). Vers 28 bis 38 heben sich jedoch sowohl inhaltlich als auch im Hinblick auf etwaige terminologische Überschneidungen mit dem Koran deutlich vom Anfangsteil ab: Hier geht es nicht mehr um die Preisung Gottes und die Schilderung des himmlischen Hofstaats, sondern um einen Appell an das "Herz" (V. 28), sich nicht vom Diesseits "betören" (V. 38) zu lassen und stattdessen "den Tod und die nachfolgende Auferstehung (<hi xml:lang="ar-Latn">baʿṯ</hi>) zu fürchten" (V. 37). Zentrales Argument für den geforderten Perspektivwechsel ist eine Beschreibung der Welt als Sphäre der Unbeständigkeit und Vergänglichkeit, wie sie auch für die übrige altarabische Dichtung typisch ist - wobei dort allerdings die jenseitige Perspektive einer eschatologischen Auferstehung fehlt. Neben dem - gerade im Vergleich zum Anfangsteil auffälligen - Fehlen längerer koranischer Wendungen ist es diese Kontinuität zur Weltsicht der sonstigen altarabischen Dichtung (die etwa in der mehrmaligen Verwendung des Wortes <hi xml:lang="ar-Latn">dahr</hi>, "Schicksal", greifbar wird), welche V. 28 bis 38 authentisch erscheinen lässt. Der Text dokumentiert damit, wie eine mit der eschatologischen Kernbotschaft der frühen Koransuren verwandte Gerichtsfurcht im unmittelbaren Umfeld der Korangenese mit den Mitteln der altarabischen Dichtung artikuliert werden konnte. Im Vergleich mit dem Koran ist besonders auffällig, dass das altarabische Verständnis der Welt als Wirkungsfeld des "Schicksals" (<hi xml:lang="ar-Latn">ad-dahr</hi>) nicht in Frage gestellt wird (dies gilt auch für den als Intertext Nr. 542 zitierten Vers); im Koran dagegen wird durchgängig betont, dass Gott als Erhalter der Natur sowie als Richter auch in das diesseitige Geschehen involviert ist. Anders als Umayya verwendet der Koran den Begriff des Schicksals deshalb nur im Rahmen der Wiedergabe eines gegnerischen Einwands (vgl. Q 45:24; in Q 27:1 hat <hi xml:lang="ar-Latn">dahr</hi> rein temporale Bedeutung). Umayya ist insofern sehr viel mehr der altarabischen Tradition verbunden - eine Beobachtung, die sich auch von der literarischen Form seiner Gedichte (Gebrauch der traditionellen Metren, Monoreim) nahelegt.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>٢٨ الاايُّها القَلْبُ المُقيمُ على الهَوَى     الى ايِّ حينٍ منك هذا التصدُّد<lb/>٢٩ عن الحَقِّ كالأَعْمَى المُميطِ عن الهُدَى     وليس يَرُدُّ الحَقَّ إلاّ مُفنَّد<lb/>٣٠ وحالاتُ دُنْيَا لا تَدومُ لأهْلِها     وبَيْنا الفَتَى فيها مَهيبٌ مُسوَّد<lb/>٣١ اذ انْقَلَبَتْ عنه وزال نَعيمُها     وأصْبح من تُرْبِ القُبورِ يُوَسَّد<lb/>٣٢ وفارَقَ روحاً كان بين جَنانِه     وجاوَرَ مَوْتَى ما لهم مُتردَّد<lb/>٣٣ فايِّ فَتًى قَبْلي رَأَيْتَ مُخَلَّداً     له في قَديمِ الدَهْرِ ما يَتودَّد<lb/>٣٤ ومَن يَبْتليهِ <hi rendition="bold"> الدهرُ </hi> منه بعَثْرَةٍ     سيَكْبو لها والنائباتُ تَرَدَّد<lb/>٣٥ فلم تَسْلَم الدُنْيَا وإن ظَنَّ اهلُها     بِصحَّتِها و <hi rendition="bold"> الدهرُ </hi> قد يَتجرَّد<lb/>٣٦ الَسْتَ تَرَى فيما مَضَى لك عِبْرَةً     فمَهْ لا تَكُنْ يا قلبُ أَعْمَى يُلَدَّد<lb/>٣٧ فكُن خائفاً لِلمَوْتِ <hi rendition="bold"> والبَعْثِ </hi> بعدَه     ولا تَكُ مِمَّن غَرَّه اليومُ او غَد<lb/>٣٨ فإنّك في دُنْيَا غَرورٍ لاِهْلِها     وفيها عَدُوٌّ كاشِحُ الصَدْرِ يُوقِد</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>28. O du eigensinniges Herz, wie lange willst du dich noch abwenden<lb/>29. von der Wahrheit wie ein Blinder, der die richtige Führung verlässt, während doch nur ein notorisch Verrückter die Wahrheit von sich stösst?<lb/>30. Die Güter der Welt bleiben ihren Besitzern nicht für immer, und während ein noch rüstiger Mann in ihr respektiert und als Herrscher anerkannt ist,<lb/>31. wenden sie sich plötzlich von ihm ab, und verschwindet ihre Wonne, und erhält er die Grabeserde zum Kopfkissen,<lb/>32. und trennt er sich von einem Geist, der zwischen seinen Seiten wohnte, und kehrt bei Toten ein, für die es kein Zurück mehr gibt.<lb/>33. Und welchen rüstigen Mann vor mir hast du gesehen, dem jemals ewig erhalten geblieben wäre, was er lieb gewonnen?<lb/>34. Wen das <hi rendition="bold">Schicksal</hi> einmal mit Straucheln heimsucht, der fällt darob unfehlbar vornüber, während die Schicksale sich immer fort wenden.<lb/>35. Die Welt ist nicht heil, auch wenn sie nach der Meinung ihrer Bewohner bestens imstande ist. Ist doch das <hi rendition="bold">Schicksal</hi> je um je mit Aufreiben beschäftigt!<lb/>36. Hast du nie in dem, was vergangen ist, einen Fingerzeig für dich gesehen? Wie? Sei doch, o Herz, kein Blinder, den man durch Widerrede beschwichtigt.<lb/>37. Darum fürchte den Tod und die nachfolgende <hi rendition="bold">Auferweckung</hi>, und gehöre nicht zu denen, die das Heute oder Morgen betört;<lb/>38. denn du bist in einer Welt, die ihre Menschen betört, und in der ein Feind ist, der heimlich in der Brust hasst und Feuer anlegt.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

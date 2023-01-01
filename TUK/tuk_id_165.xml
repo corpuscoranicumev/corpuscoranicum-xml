@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jesaja 66:1-6</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>David Kiltz (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 444.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>165</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Anfertigung der Jesajarolle aus Qumran)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>002:255</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Ein Teil von Q 2:255 ("Sein Thron reicht weit über Himmel und Erde") klingt an Jesaja 66:1 an. Dabei ist zu bemerken, dass der Koran weniger anthropomorph formuliert. "Sein Thron" wird dort in abstrakterem Sinne benutzt, während in Jesaja der Himmel explizit mit Gottes Thron, die Erde mit Gottes "Fußschemel" assoziiert wird. Der Koran benutzt in diesem Vers, und nur hier, das Wort <hi xml:lang="ar-Latn">kursī </hi>"Thron", welches sprachlich hebräisch <hi xml:lang="ar-Latn">kisseʾ </hi>entspricht. Allerdings ist die Form nicht mit der hebräischen, sondern vielmehr mit der aramäischen identisch. Letztere (<hi xml:lang="ar-Latn">kurs</hi>
+                        <hi xml:lang="ar-Latn">ēy
+                     </hi>, <hi xml:lang="ar-Latn">kursī</hi>) findet sich im Targum und in der Peschitta. Targum Jonathan übersetzt "der Himmel ist mein Thron" mit "der Himmel ist der Thron meiner Würde (<hi xml:lang="ar-Latn">...</hi>
+                        <hi xml:lang="ar-Latn">kurs</hi>
+                        <hi xml:lang="ar-Latn">ēy
+                     </hi>
+                        <hi xml:lang="ar-Latn">yəqārī</hi>), was ebenfalls eine 'Entschärfung' des anthropomorphen Bildes zu reflektieren scheint. Diese exegetische Tendenz findet sich auch vielfach an anderen koranischen Stellen, welche Parallelen zur hebräischen Bibel aufweisen. Das Wort für "Thron" geht letztlich auf das Akkadische <hi xml:lang="ar-Latn">kussû (&lt; kussīu), </hi>bzw. sumerisch <hi xml:lang="ar-Latn">guza</hi> zurück, die Form mit Dissimilation von <hi xml:lang="ar-Latn">-ss-</hi> zu <hi xml:lang="ar-Latn">-rs-</hi> ist allerdings nur im Aramäischen zu finden. Es ist daher wahrscheinlich, dass das koranische Wort durch ein aramäisches Idiom vermittelt ist. Vgl. dazu Glossarium Nr. 253.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	כֹּה אָמַר יְהוָה <hi rendition="bold"> הַשָּׁמַיִם כִּסְאִי וְהָאָרֶץ הֲדֹם רַגְלָי </hi> אֵי־זֶה בַיִת אֲשֶׁר תִּבְנוּ־לִי וְאֵי־זֶה מָקוֹם מְנוּחָתִי : וְאֶת־כָּל־אֵלֶּה יָדִי עָשָׂתָה וַיִּהְיוּ כָל־אֵלֶּה נְאֻם־יְהוָה וְאֶל־זֶה אַבִּיט אֶל־עָנִי וּנְכֵה־רוּחַ וְחָרֵד עַל־דְּבָרִי : שׁוֹחֵט הַשּׁוֹר מַכֵּה־אִישׁ זוֹבֵחַ הַשֶּׂה עֹרֵף כֶּלֶב מַעֲלֵה מִנְחָה דַּם־חֲזִיר מַזְכִּיר לְבֹנָה מְבָרֵךְ אָוֶן גַּם־הֵמָּה בָּחֲרוּ בְּדַרְכֵיהֶם וּבְשִׁקּוּצֵיהֶם נַפְשָׁם חָפֵצָה : גַּם־אֲנִי אֶבְחַר בְּתַעֲלֻלֵיהֶם וּמְגוּרֹתָם אָבִיא לָהֶם יַעַן קָרָאתִי וְאֵין עוֹנֶה דִּבַּרְתִּי וְלֹא שָׁמֵעוּ וַיַּעֲשׂוּ הָרַע בְּעֵינַי וּבַאֲשֶׁר לֹא־חָפַצְתִּי בָּחָרוּ : שִׁמְעוּ דְּבַר־יְהוָה הַחֲרֵדִים אֶל־דְּבָרוֹ אָמְרוּ אֲחֵיכֶם שֹׂנְאֵיכֶם מְנַדֵּיכֶם לְמַעַן שְׁמִי יִכְבַּד יְהוָה וְנִרְאֶה בְשִׂמְחַתְכֶם וְהֵם יֵבֹשׁוּ : קוֹל שָׁאוֹן מֵעִיר קוֹל מֵהֵיכָל קוֹל יְהוָה מְשַׁלֵּם גְּמוּל לְאֹיְבָיו :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 So spricht der Herr:<hi rendition="bold"> Der Himmel ist mein Thron / und die Erde der Schemel für meine Füße.</hi> Was wäre das für ein Haus, / das ihr mir bauen könntet? Was wäre das für ein Ort, / an dem ich ausruhen könnte? 2 Denn all das hat meine Hand gemacht; / es gehört mir ja schon - Spruch des Herrn. Ich blicke auf den Armen und Zerknirschten / und auf den, der zittert vor meinem Wort. 3 Man opfert Rinder - und erschlägt Menschen; / man opfert Schafe - und erwürgt Hunde;man bringt Speiseopfer dar - / und auch Schweineblut; man spendet Weihrauch - / und preist einen Götzen. Wie diese Menschen ihre eigenen Wege wählen / und an ihren Götterbildern Gefallen haben, 4 so wähle ich für sie die Strafe aus / und bringe über sie Schrecken. Denn sie gaben keine Antwort, als ich sie rief, / als ich zu ihnen redete, hörten sie nicht; sondern sie haben getan, was mir missfällt, / und haben sich für das entschieden, was ich nicht will. 5 Hört das Wort des Herrn, / die ihr zittert vor seinem Wort! Eure Brüder, die euch hassen, / die euch um meines Namens willen verstoßen, sie sagen: Der Herr soll doch seine Herrlichkeit zeigen, / damit wir eure Freude miterleben. / Aber sie werden beschämt. 6 Horcht: Getöse dringt aus der Stadt, / Getöse aus dem Tempel. / Horcht: Der Herr vergilt seinen Feinden ihr Tun.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

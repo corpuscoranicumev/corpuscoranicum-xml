@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Jemen</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Sanaa 20-?-a (UNESCO CD Nr. 36-38)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="192">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>400</height>
+                                        <width>380</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="20">
+                                    <p>Die Seiten enthalten 20 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Keith Small und Elisabeth Puin, "UNESCO CD OF SAN'A' MSS: PART III, Qur'an Palimpsests, and Unique Qur'an Illustrations", in: Manuscripta Orientalia 14 (2008).
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <note type="intern" subtype="page">
+                <p>- Runde Trenner nach einer Gruppe von 10 Versen<lb/> - Hinter den Einzelversen keine Trenner<lb/> - Punkt unter <hi rendition="ar-Latn">rabb</hi>
+                    <lb/> - Das Ende der linken Seite ist ab Zeile 9 beschädigt<lb/> - das untere rechte Eck fehlt ab Zeile 15<lb/>
+                    <lb/> Z4: Kairo کادح<lb/> Z6: Kairo ٮحاسٮ<lb/> Z7: An drei Stellen tauchen rote Punkte auf, jeweils zwei Stück.<lb/> Z8: Versgruppentrenner<lb/> Z11: Ein diakritischer Punkt über dem Homographen ڡ bezeichnet offenbar ein <hi rendition="ar-Latn">qāf</hi>.<lb/> Z13: Die Form des finalen Buchstabens (ٯ) deutet auf ein <hi rendition="ar-Latn">qāf</hi> hin. Dagegen schreibt Kairo طٮڡ.</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>084:001-085:001</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">اٮسڡٮوادٮٮ</w>
+                    <w n="000000000">لربها</w>
+                    <w n="000000000">وحڡٮوا دا</w>
+                    <w n="000000000">الارص</w>
+                    <w n="000000000">مدٮوالڡٮ</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">ڡٮها و[ٮحلـ]ـٮوادٮٮ</w>
+                    <w n="000000000">لربها</w>
+                    <w n="000000000">وحڡٮٮا ٮها</w>
+                    <w n="000000000">الاٮسں</w>
+                    <w n="000000000">انک</w>
+                    <w n="000000000">کدح</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">ربک</w>
+                    <w n="000000000">کد حا</w>
+                    <w n="000000000">ڡملڡٮهڡاما</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">اونى</w>
+                    <w n="000000000">کتبه</w>
+                    <w n="000000000">ٮٮمٮٮهڡسو ڡ</w>
+                    <w n="000000000">ٮحسٮ</w>
+                    <w n="000000000">حساٮا</w>
+                    <w n="000000000">ٮسٮراوٮٮڡلٮ</w>
+                    <w n="000000000">ا لى</w>
+                    <w n="000000000">اهله</w>
+                    <w n="000000000">مسروراواما</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">اوٮى</w>
+                    <w n="000000000">کـ[ـٮٮه]</w>
+                    <w n="000000000">ورا</w>
+                    <w n="000000000">طهره(١٠)ڡسوڡ</w>
+                    <w n="000000000">يدعوا</w>
+                    <w n="000000000">ٮبورا وٮصلى</w>
+                    <w n="000000000">سعٮراانه</w>
+                    <w n="000000000">کاں</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">اهله</w>
+                    <w n="000000000">مسـ[رورا] اٮه</w>
+                    <w n="000000000">ظں[ا]ں</w>
+                    <w n="000000000">لں</w>
+                    <w n="000000000">ٮحورٮلى</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ربه[</w>
+                    <w n="000000000">کاں</w>
+                    <w n="000000000">ٮه] [</w>
+                    <w n="000000000">ٮصٮر]اڡلا</w>
+                    <w n="000000000">اقسم</w>
+                    <w n="000000000">بالسڡٯوالٮل[</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">و] سٯوالڡمر</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">اٮسٯلٮرکٮں</w>
+                    <w n="000000000">طٮڡا</w>
+                    <w n="000000000">عں طٮٯ</w>
+                    <w n="000000000">ڡما</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">لا</w>
+                    <w n="000000000">ٮومنوں(١٠)وادا</w>
+                    <w n="000000000">[ڡر]ى علٮهم</w>
+                    <w n="000000000">الڡراں</w>
+                    <w n="000000000">لا</w>
+                    <w n="000000000">ٮسحدوںٮل</w>
+                    <w n="000000000">الدٮں [کڡروا</w>
+                    <w n="000000000">ٮکدٮوں]وال‍له</w>
+                    <w n="000000000">اعلم</w>
+                    <w n="000000000">ٮما [ٮوعوںڡٮسرهم</w>
+                    <w n="000000000">ٮعداٮ]الٮمالا</w>
+                    <w n="000000000">ا [لدٮں</w>
+                    <w n="000000000">امٮوا</w>
+                    <w n="000000000">وعملوا</w>
+                    <w n="000000000">الصلحٮ]لهم</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Michael Marx</persName>
+                    <persName>Jens Sauer</persName>
+                    <persName>Tobias J. Jocham</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Nach Small und Puin (2008) handelt es sich bei einigen Blätter der Handschrift um Palimpseste (ID 1441, 1443, 1523 und 1524).<lb/> Laut der Liste von Christian Robin umfasst die Handschrift insgesamt 28 Folios und 11 Fragmente (Koranstelle, sup.: 006:049-006:073, 006:149-006:165, 007:001-007:011, 015:001-015:016, 015:032-015:041, 016:073-016:128, 017:001-017:006, 017:040-017:077, 019:038-019:097, 020:001-020:129, 021:042-021:092, 025:010-025:059, 026:158-026:170, 026:199-026:219, 027:025-027:029, 027:046-027:049, 028:058-028:086, 029:029-029:053, 030:026-030:054, 031:024-031:034, 032:001-032:030, 033:001-033:037, 034:052-034:054, 035:001-035:018, 037:039-037:058, 037:073-037:086, 037:102-037:171, 040:082, 041:005, 041:018-041:027, 041:033-041:054, 042:001-042:048, 043:063-043:070, 043:089, 044:001-044:011, 047:015-047:019, 047:033-047:038, 048:001-048:002, 055:017-055:078, 056:001-056:069, 056:096, 057:001-057:022, 057:027-057:029, 058:001-058:006, 058:011-058:019, 059:002-059:009, 059:014-059:024, 060:001, inf.: ???). Weiter findet man auf der Robin-Liste einen Verweis auf den Ausstellungskatalog Kuwait (Masahif Sana, 1985, S. 59, Koranstellen: 031:024-032:004).<lb/>
+                        <lb/> Nach einem Skript von Asma Hilali (Vortrag Stanford 30.-31. Juli) enthält das Palimpsest: 6: 49-73/7: 1-11/ 16: 73-121/ 17: 1-6 ; 17: 39-76/ 19: 38-98/ 20: 1-129/21: 42- 91/ 25: 10-58/26:155-173/ 26: 198- 221/ 27: 25- 29, 27: 46-49 /28: 58-85/ 29:29-53/ 30: 26-53/ 33: 30-37/ 32: 20-30/33:1-37/34: 53-54/ 35: 1-18/ 37: 38-56, 37:72-172/ 41:4-5, 41: 17- 27, 41: 47-54/ 42: 1- 29,42:37-48/ 43: 63-73, 43: 89/ 44: 1-10/ 47:15-19, 47: 33-38, 48: 1-2/ 55: 16-78/ 56: 1-96/ 57: 1-29/58: 1-20/ 59: 1-24.</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Jemen</country>
+                        <settlement>Sanaa</settlement>
+                        <institution> Dār al-maḫṭūṭāt</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Sanaa 01-27-1</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="117">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Fragment">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament, Palimpsest (Robin-Liste)</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>370</height>
+                                        <width>280</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p>Superior<lb/> - Verstrenner in Pyramidenform ("pinecones")<lb/>
+                                        <lb/> Inferior<lb/> Versebene<lb/> - 4 Striche angeordnet diagonal: von rechts oben nach links unten /<lb/>
+                                        <lb/> Surenebene<lb/> - Suren werden durch Pünktchenlinie getrennt<lb/> - weder Surenüberschrift, noch Basmala<lb/> - Surenreihenfolge entspricht Kairo</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Asma Hilali, The Ṣanʿā’ Palimpsest: Introductory Remarks on Philological and Literary Aspects., unveröffentliches Skript zu einem Vortrag auf einer Konferenz in Stanford, 30.-31. Juli.<lb/>
+	Keith Small und Elisabeth Puin: "UNESCO CD OF SAN'A' MSS: PART III", in: MO (2008).<lb/>
+	UNESCO-CDUNESCO-CD Bothmer 1999;<lb/>
+	Blair 2006,119;
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <bibl>
+                    <bibl>020:001-020:043</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh</persName>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">[طه][</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">]مااٮرلناعلـ[ـٮک</w>
+                    <w n="000000000">الٯراں</w>
+                    <w n="000000000">لٮسٯى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">الاٮدكره</w>
+                    <w n="000000000">لمں</w>
+                    <w n="000000000">ٮحسى] [ٮٮر]ٮلاممن</w>
+                    <w n="000000000">حلٯ</w>
+                    <w n="000000000">[الارص</w>
+                    <w n="000000000">والسموٮ</w>
+                    <w n="000000000">العلى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">الرحمں</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">ا] [لعـ]ـرس</w>
+                    <w n="000000000">السٮوى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">له</w>
+                    <w n="000000000">مافى</w>
+                    <w n="000000000">[السموٮ</w>
+                    <w n="000000000">وماڡى</w>
+                    <w n="000000000">الارص</w>
+                    <w n="000000000">و] [ما]ٮٮٮهماوماٮحت</w>
+                    <w n="000000000">الـ[ـٮرى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">واں</w>
+                    <w n="000000000">ٮحهر</w>
+                    <w n="000000000">ٮالٯول</w>
+                    <w n="000000000">]</w>
+                    <w n="000000000">ڡاٮه [ٮعلـ]ـم</w>
+                    <w n="000000000">السرواحڡى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">الـ[ـله]</w>
+                    <w n="000000000">لااله</w>
+                    <w n="000000000">الاهوله</w>
+                    <w n="000000000">ا]لاسما [ا]لحسنى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">وهل</w>
+                    <w n="000000000">اٮٮک</w>
+                    <w n="000000000">حد[ٮٮ</w>
+                    <w n="000000000">موسى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">اد</w>
+                    <w n="000000000">را]ٮارا[ڡٯـ]ـال لاهله</w>
+                    <w n="000000000">امكٮوا</w>
+                    <w n="000000000">اٮى</w>
+                    <w n="000000000">انسـ[ـٮ</w>
+                    <w n="000000000">ٮارا</w>
+                    <w n="000000000">لعلى</w>
+                    <w n="000000000">اٮٮكم]مٮهاٮٯٮس اواحدعلى</w>
+                    <w n="000000000">النار</w>
+                    <w n="000000000">هدى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">[ڡلمااٮٮها</w>
+                    <w n="000000000">ٮود]ى</w>
+                    <w n="000000000">ٮموسى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">(١٠)اٮى اناربک</w>
+                    <w n="000000000">ڡاحلع</w>
+                    <w n="000000000">ٮعلٮک</w>
+                    <w n="000000000">اٮک[ٮالوا]د[الـ]ـمٯدس</w>
+                    <w n="000000000">طوى</w>
+                    <w n="000000000">[</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">]وا[ٮا] احٮرٮک</w>
+                    <w n="000000000">ڡاستمع</w>
+                    <w n="000000000">لماٮو[حى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">]اٮٮى</w>
+                    <w n="000000000">اناالل‍ه</w>
+                    <w n="000000000">لااله</w>
+                    <w n="000000000">ا لااناڡاعٮدٮى</w>
+                    <w n="000000000">واٯم</w>
+                    <w n="000000000">الصلوه</w>
+                    <w n="000000000">لدكرى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">الساعه</w>
+                    <w n="000000000">ا ٮٮه</w>
+                    <w n="000000000">اكاد</w>
+                    <w n="000000000">احڡٮهالٮحرى</w>
+                    <w n="000000000">كل</w>
+                    <w n="000000000">نڡس</w>
+                    <w n="000000000">بما</w>
+                    <w n="000000000">ٮسعى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٯلاٮصد[ٮک] عٮهامن</w>
+                    <w n="000000000">لايومن</w>
+                    <w n="000000000">بها</w>
+                    <w n="000000000">واتبع</w>
+                    <w n="000000000">هواه</w>
+                    <w n="000000000">ڡٮردى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">وماٮلک</w>
+                    <w n="000000000">ٮٮمٮٮک ٮموسى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">هى</w>
+                    <w n="000000000">عصاى</w>
+                    <w n="000000000">اتوكواعلٮها</w>
+                    <w n="000000000">واهش</w>
+                    <w n="000000000">ٮهاعلى</w>
+                    <w n="000000000">عٮمى ولى</w>
+                    <w n="000000000">ڡٮهاما[ر]ٮ</w>
+                    <w n="000000000">احرى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">الٯهاٮموسى</w>
+                    <w n="000000000">[</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">]ڡالٯٮهاڡادا هى</w>
+                    <w n="000000000">حٮه</w>
+                    <w n="000000000">ٮسعى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">حدهاولاتحڡ</w>
+                    <w n="000000000">سٮعٮـ[ـد]هاسٮرتهاالا ولى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">(١٠)واصمم</w>
+                    <w n="000000000">ٮدک</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">حناحک</w>
+                    <w n="000000000">ٮحرح</w>
+                    <w n="000000000">[ٮٮـ]ـصامن</w>
+                    <w n="000000000">عٮرسو اٮه</w>
+                    <w n="000000000">احرى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">لٮرٮک</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">اٮتناالكٮرى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ا[دهٮ]الى</w>
+                    <w n="000000000">ڡرعون انه</w>
+                    <w n="000000000">طعى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">رٮ</w>
+                    <w n="000000000">اسرح</w>
+                    <w n="000000000">لى</w>
+                    <w n="000000000">صدرى</w>
+                    <w n="000000000">و[ٮسر]لى</w>
+                    <w n="000000000">امرى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">وا[حلل] عٯده</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">لسنى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٮڡٯهواٯولى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">واحعل</w>
+                    <w n="000000000">لى</w>
+                    <w n="000000000">ورٮرامں</w>
+                    <w n="000000000">اهلى[</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">هر] ون</w>
+                    <w n="000000000">احى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">اسددبه</w>
+                    <w n="000000000">اررى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">(١٠)واسركه</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">[امرى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">كى]ٮسبـ[ـحک</w>
+                    <w n="000000000">كٮٮرا] وٮدكرک</w>
+                    <w n="000000000">كٮٮرا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">انک</w>
+                    <w n="000000000">كٮت</w>
+                    <w n="000000000">بنا</w>
+                    <w n="000000000">ٮصٮرا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٯال[ٯد] اوٮٮٮ</w>
+                    <w n="000000000">سولک</w>
+                    <w n="000000000">ٮموسى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ولٯدمنناعليک</w>
+                    <w n="000000000">مره</w>
+                    <w n="000000000">احر[ى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">اد] اوحينا</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">امک</w>
+                    <w n="000000000">ماٮوحى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">اٯدڡٮه</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الٮٮوٮ</w>
+                    <w n="000000000">فا[ٯد] ڡٮه</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الٮم</w>
+                    <w n="000000000">ڡلٮلٯه</w>
+                    <w n="000000000">اليم</w>
+                    <w n="000000000">بالسحل</w>
+                    <w n="000000000">ياحـ[ـد]ﻩ</w>
+                    <w n="000000000">عدولى</w>
+                    <w n="000000000">و[عدو] له</w>
+                    <w n="000000000">والٯٮٮ</w>
+                    <w n="000000000">عليک</w>
+                    <w n="000000000">محٮه</w>
+                    <w n="000000000">منى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ولٮصٮع</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">عٮٮى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ادٮمـ[ـسى</w>
+                    <w n="000000000">ا] حتک</w>
+                    <w n="000000000">ڡٮٯول</w>
+                    <w n="000000000">هل</w>
+                    <w n="000000000">ادلكم</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">ٮكڡله</w>
+                    <w n="000000000">ڡرحعٮک</w>
+                    <w n="000000000">الـ[ـى</w>
+                    <w n="000000000">امک] كى</w>
+                    <w n="000000000">تٯرعينهاولاٮحرن</w>
+                    <w n="000000000">وٯٮلٮ</w>
+                    <w n="000000000">نڡساڡنحٮنک</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">الـ[ـعم</w>
+                    <w n="000000000">و] ڡتنک</w>
+                    <w n="000000000">ڡتونا</w>
+                    <w n="000000000">ڡلٮٮٮ</w>
+                    <w n="000000000">سنين</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">اهل</w>
+                    <w n="000000000">مدين</w>
+                    <w n="000000000">ٮم</w>
+                    <w n="000000000">حٮت</w>
+                    <w n="000000000">[على] ٯدر</w>
+                    <w n="000000000">ٮموسى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">(١٠)واصطٮعٮک</w>
+                    <w n="000000000">لنڡسى[</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">]ادهب</w>
+                    <w n="000000000">اٮٮ</w>
+                    <w n="000000000">و[احو] ک</w>
+                    <w n="000000000">ٮاٮٮٮى</w>
+                    <w n="000000000">ولاتنٮا</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">دكرى[</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">]ادهباالى</w>
+                    <w n="000000000">ڡرعون</w>
+                    <w n="000000000">ا[ٮه</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

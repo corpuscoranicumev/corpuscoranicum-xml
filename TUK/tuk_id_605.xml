@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hymnen auf das Paradies 7:10 </title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Tor Andrae</persName>
+                    <name>Der Ursprung des Islam und das Christentum, Uppsala 1926, S. 148</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>605</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nordmesopotamien</origPlace>
+                            <origDate>4. Jh. n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Edmund Beck (Hg.), Des heiligen Ephraem des Syrers Hymnen de Paradiso, Louvain 1957 (Corpus Scriptorum Christianorum Orientalium 175, Scriptores Syri 79), S. 26</bibl>
+                <bibl>
+                    <edition>
+
+	Edmund Beck (Hg.), Des heiligen Ephraem des Syrers Hymnen de Paradiso, Louvain 1957 (Corpus Scriptorum Christianorum Orientalium 174, Scriptores Syri 78), S. 29.</edition>
+                    <relatedItem>
+                        <bibl>056:037; 078:033</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾatrāb</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Ist mit <hi xml:lang="ar-Latn">ʾatrāb</hi> auf jugendliche Gleichaltrigkeit geziehlt, so passt dieser Vers Ephrems, der ebenfalls das Motiv der Verjüngung im Paradies aufgreift. Dies unterstellt natürlich, dass nicht nur die <hi xml:lang="ar-Latn">kawāʿib</hi> (traditionell etwa "vollbusige junge Frauen") bzw. <hi xml:lang="ar-Latn">ʿurub</hi> (weibliche Wesen, welche auf die eine oder andere Weise besonders begehrenswert seien) untereinander gleich alt sind, sondern auch deren paradiesbewohnende Partner.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	ܐܘܣܪܝܘܗܝ ܣܝܒܘܬܐ ܠܪܢܝܟܝ ܒܦܪܕܝܣܐ ܕܪܝܚܗ ܡܛܐ ܠܟܝ ܒܣܘܩܗ ܡܥܠܡ ܠܟܝ ܡܘܡܝ̈ܟܝ ܡܬܒܠܥܢ ܒܫܘܦܪܐ ܕܡܠܒܫ ܠܟܝ ܒܡܘܫܐ ܗܘ ܨܪܗܿ ܠܟܝ ܠܦܠܐܬܐ ܕܦܟ̈ܘܗܝ ܕܐܬܩܡܛܘ ܒܗܿ ܫܦܪܘ ܘܐܙܕܗܝܘ ܐܪܙܐ ܕܣܝܒܘܬܐ ܕܡܬܛܠܝܐ ܒܥܕܢ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Heftet, o Greise, euer Denken auf das Paradies!<lb/>
+
+	Sein Duft wird zu euch dringen, mit seinem Hauch wird es euch verjüngen.<lb/>
+
+	Eure Makel werden verschlungen von der Schönheit, in die es euch kleiden wird.<lb/>
+
+	In Moses hat er euch ein Gleichnis geformt, dessen Wangen,<lb/>
+
+	die faltig geworden waren, schön und strahlend wurden.<lb/>
+
+	Ein Symbol für die Greise, die in Eden verjüngt werden.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

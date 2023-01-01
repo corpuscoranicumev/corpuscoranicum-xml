@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genesis 2:4-8</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 43-45.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>442</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>006:002; 007:011; 015:028-015:029; 032:007-032:009; 038:071-038:072; 040:064; 064:003; 082:007-082:008</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ṭīn; ṣalṣāl</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die verschiedenen koranischen Beschreibungen der Schöpfung Adams entsprechen generell der Erzählung im Buch Genesis (Gott formt den Menschen aus Lehm und haucht ihm dann seinen Geist ein), auch wenn manche Koranstellen mehr Details bieten als andere. Vgl. auch Hiob 10:8.9 ("Deine Hände haben mich gebildet, mich gemacht; dann hast du dich umgedreht und mich vernichtet. / Denk daran, dass du wie Ton mich geschaffen hast ..."). Zu <hi xml:lang="ar-Latn">ṭīn, </hi>vgl. Jeffery, Foreign vocabulary, S. 208.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	אֵלֶּה תוֹלְדוֹת הַשָּׁמַיִם וְהָאָרֶץ בְּהִבָּרְאָם בְּיוֹם עֲשׂוֹת יְהוָה אֱלֹהִים אֶרֶץ וְשָׁמָיִם : וְכֹל שִׂיחַ הַשָּׂדֶה טֶרֶם יִהְיֶה בָאָרֶץ וְכָל־עֵשֶׂב הַשָּׂדֶה טֶרֶם יִצְמָח כִּי לֹא הִמְטִיר יְהוָה אֱלֹהִים עַל־הָאָרֶץ וְאָדָם אַיִן לַעֲבֹד אֶת־הָאֲדָמָה : וְאֵד יַעֲלֶה מִן־הָאָרֶץ וְהִשְׁקָה אֶת־כָּל־פְּנֵי־הָאֲדָמָה : <hi rendition="bold"> וַיִּיצֶר יְהוָה אֱלֹהִים אֶת־הָאָדָם עָפָר מִן־הָאֲדָמָה וַיִּפַּח בְּאַפָּיו נִשְׁמַת חַיִּים וַיְהִי הָאָדָם לְנֶפֶשׁ חַיָּה :</hi> וַיִּטַּע יְהוָה אֱלֹהִים גַּן־בְּעֵדֶן מִקֶּדֶם וַיָּשֶׂם שָׁם אֶת־הָאָדָם אֲשֶׁר יָצָר :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	4 Das ist die Entstehungsgeschichte von Himmel und Erde, als sie erschaffen wurden. Zur Zeit, als Gott, der Herr, Erde und Himmel machte, 5 gab es auf der Erde noch keine Feldsträucher und wuchsen noch keine Feldpflanzen; denn Gott, der Herr, hatte es auf die Erde noch nicht regnen lassen und es gab noch keinen Menschen, der den Ackerboden bestellte; 6 aber Feuchtigkeit stieg aus der Erde auf und tränkte die ganze Fläche des Ackerbodens. 7 <hi rendition="bold">Da formte Gott, der Herr, den Menschen aus Erde vom Ackerboden und blies in seine Nase den Lebensatem. So wurde der Mensch zu einem lebendigen Wesen.</hi> 8 Dann legte Gott, der Herr, in Eden, im Osten, einen Garten an und setzte dorthin den Menschen, den er geformt hatte.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

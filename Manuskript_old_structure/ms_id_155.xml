@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Michael Marx</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>112:001-112:004 Fschungsgeschichtliche Rezeption der Zypern-Inschrift (js)
+                     <lb/> Obwohl von der Inschrift keine Abbildungen bekannt sind, wird sie in einschlägigen Standardwerken zitiert. Adolf Grohmann (Arabische Paläographie II, S. 71) beschreibt sie als Grabinschrift, die in der Wand einer Kirche auf Zypern eingelassen ist. RCÉA (Bd. I, Nr. 5) datiert die Inschrift in den Monat Ramadan des Jahres 629. Friedrich Schwally (GdQ², Bd. II, S. 29) zitiert aus mehreren Quellen (Ibn Sad, Ibn Qutaiba, Tabari, Nawawi, Ibn Hagar und Usd) über den muslimischen Zypern-Feldzug unter der Führung des späteren Kalifen Muʿāwiya I. (reg. 661-680), der vor dem Jahr 33 AH stattgefunden haben soll. Nach einer griechischen Quellen soll die arabische Eroberung Zyperns bereits im Jahre 632 begonnen haben, was jedoch von de Groot bestritten wird (siehe dazu den EI-Artikel "Kubrus", S. 301).<lb/>
+                        <lb/> 
+                     Lokalisierung der Inschrift? (js)
+                     <lb/> Bisher konnte die Inschrift nicht genau lokalisiert werden. Amikam Elad (Community, S. 281-7) führt die Inschrift bis auf eine Tradition in einem Wallfahrtsitinerar aus dem 13. Jahrhundert zurück, der von dem Reisenden al-Harawī (gest. 611/~1215) verfasst wurde. Nach dem Bericht in dem Itinerar befand sich die Inschrift des ʿUrwa-Grabes am Mausoleum der Volksheiligen Umm Ḥarām, einer Tante mütterlicherseits des Propheten(?), die an diesem Ort auf tragische Weise ums Leben gekommen sein soll. Ein heute bestehendes Mausoleum für Umm Ḥarām, die "Hala Sultan Tekke" bei der zyprischen Stadt Larnaka, wurde erst während osmanischer Herrschaft errichtet. Möglicherweise wurde der Stein mit der Inschrift in einer Kirche verbaut, nachdem die Insel wieder in christliche Hände fiel. Bei al-Harawī ist von "die östliche Kirche" (al-kanīsa aš-šarqiyya) die Rede, was sich möglicherweise auf eine nestorianische (= ostsyrische) Kirche beziehen könnte. Janine Sourdel-Thomine glaubt, dass sich die Kirche in Famagusta, das sie als "Hafen der Insel" bezeichnet (S. 126, Nr. 5), befindet. Tatsächlich ist im heutigen Famagusta eine "Nestorianer-Kirche" zu besichtigen, die allerdings erst um 1350 unter der Herrschaft der Lateiner-Könige erbaut wurde.</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>ZypernZypern</country>
+                        <settlement>Zypern</settlement>
+                        <institution> bei Larnaca oder Famagusta</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Grabinschrift des ʿUrwa b. Ṯābit</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="155">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Inschrift, keine Abbildung bekannt</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Archives de l'Orient Latin I. Paris 1881, S. 590.<lb/>
+	Etienne Combe, Répertoire chronologique d'épigraphie arabe (= RCÉA), Band I. Années 328 A.D. à 243 de l'Hégire, Kairo 1931, Nr. 5-6.<lb/>
+	Fred Donner, S. 88, Nr. 86.<lb/>
+	Amikam Elad, "Community Of Believers Of ‘Holy Men’ And ‘Saints’ Or Community Of Muslims? The Rise And Development Of Early Muslim Historiography", In: Journal Of Semitic Studies (2002), S. 281-7.<lb/>
+	Fagnan, Extraits relatifs au Magreb, Constantine 1907, 5.<lb/>
+	Adolf Grohmann, Arabische Paläographie II: Das Schriftwesen. Die Lapidarschrift, Wien 1971 (Österreichische Akademie der Wissenschaften Philosophisch - Historische Klasse: Denkschriften 94/2), S. 71.<lb/>
+	De Groot, Art. "Kubrus", in: EI², Bd. V, S. 301.<lb/>
+	ʿAlī b. Abī Bakr al-Harawī, Kitāb al-Išārāt ilā Maʿrifat az-Ziyārāt. Ed. J. Sourdel- Thomine. Damascus 1953, S. 55.<lb/>
+	ʿAlī b. Abī Bakr al-Harawī, Kitāb al-Išārāt ilā Maʿrifat az-Ziyārāt. Üb. Guide des Lieux de Pelèrinage, traduction annotée par Janine Sourdel Thomine. Damaskus 1957, Nr. 4; S. 126, n. 5.<lb/>
+	ʿAlī b. Abī Bakr al-Harawī, Kitāb al-Išārāt ilā Maʿrifat az-Ziyārāt. Ed. Josef W. Meri, A lonely wayfarer's guide to pilgrimage, Princeton 2004.<lb/>
+	F. W. Hasluck, Graves of the Arabs in Asia Minor, in: The Annual of the British School at Athens 19 (1912/13) 182-90.<lb/>
+	http://www.islamic-awareness.org/History/Islam/Inscriptions/urwa.html<lb/>
+	Miles, 1948, S. 239–40.<lb/>
+	Saiyid Nāṣir an-Naqšabandī, Sumer III/1 (1947), S. 140.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

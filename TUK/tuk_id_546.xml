@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht über die Erschaffung der Welt und die sieben Himmel (Nr. 25)</title>
+                <principal>
+                    <persName>Nicolai Sinai (Texterfassung: Daria Zadorojnaia</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>J. Frank-Kamenetzky</persName>
+                    <name>Untersuchungen über das Verhältnis der dem Umajja b. Abi ṣ Ṣalt zugeschriebenen Gedichte zum Qorān, Kirchhain N.-L. 1911, S. 9 f.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>546</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Aṭ-Ṭāʾif (Ḥiǧāz)</origPlace>
+                            <origDate>Anfang 7. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 84-89 (modifiziert).</bibl>
+                <bibl>
+                    <edition>
+
+	Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 25-30 (mit teilweiser Umstellung der Verse, s. u.); Bahǧa ʿAbdalġafūr al-Ḥadīṯī, Umayya ibn abī ṣ-Ṣalt: Ḥayātuhū wa-šiʿruhū, Bagdad 1975, S. 184-186, 188-195.</edition>
+                    <relatedItem>
+                        <bibl>006:050; 007:054; 009:129; 010:003; 011:007; 011:031; 012:100; 013:002; 015:017; 015:021; 017:042; 017:100; 020:005; 020:011; 021:022; 023:086; 023:116; 025:059; 027:026; 032:004; 035:001; 037:006-037:010; 038:009; 039:075; 040:007; 040:015; 043:082; 052:037; 054:055; 057:004; 059:023; 063:007; 065:012; 067:003; 067:005; 069:017; 071:015; 081:008; 081:020; 085:015</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Zur umstrittenen Authentizität der Umayya ibn abī ṣ-Ṣalt zugeschriebenen Gedichte vgl. allgemein die Anmerkung zu Intertext Nr. 420. Teile des Gedichts werden behandelt bei Tilman Seidensticker, "The Authenticity of the Poems ascribed to Umayya Ibn Abī al-Ṣalt", in Jack R. Smart (Hg.), Tradition and Modernity in Arabic Language and Literature, Richmond 1996, S. 87-101, hier S. 91-93; Seidensticker hält die Authentizität des Textes für wahrscheinlich. - Zur Übersetzung von V. 10 s. ebd., S. 92, mit Anmerkung 16. Die beiden auf V. 37 folgenden Verse werden von Ibn Kaṯīr vor V. 46 überliefert und stehen auch bei Schulthess an dieser Stelle, wo sie jedoch, wie Schulthess selbst anmerkt (S. 88, Anm. 25), nicht hingehören; sie wurden deshalb zwischen V. 37 und 38 gesetzt. Der Eröffnungsvers entspricht nicht dem Metrum des übrigen Gedichts, wird aber dennoch zusammen mit V. 2-9 überliefert; vgl. Schulthess, a. a. O., S. 26, Anm. 1. Von Interesse ist, dass der hier vor V. 38 eingeordnete Vers die Thronvision aus Ezechiel 1:10 paraphrasiert (vgl. J. W. Hirschberg, Jüdische und christliche Lehren im vor- und frühislamischen Arabien. Ein Beitrag zur Entstehungsgeschichte des Islams, Krakau 1939, S. 97).</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>
+
+	١ تعلم فإنّ اللّهَ ليس كَصنْعِه     صنْيعٌ ولا يَخْفَى على الله مُلحدُ<lb/>
+
+	٢ وبكلّ مُنْكَرة له معروفةٌ     أُخْرَى على عَيْنٍ بما يَتعمَّد<lb/>
+
+	٣ جُدَدٌ وتَوْشيمٌ ورَسْمُ عَلامةٍ     <hi rendition="bold">وخَزائنٌ </hi> مَفْتوحةٌ لا تَنْفَدُ<lb/>
+
+	٤ عمَّنْ أَرادَ بها وجابَ عَنانَها     لا يَسْتَقيمُ لِخالِقٍ يَتزيَّد<lb/>
+
+	٥ غَيْمٌ وظَلْماءٌ وغَيْثُ سَحابةٍ     أزْمانَ كَفَّنَ واسترادَ الهُدْهُدُ<lb/>
+
+	٦ يَبْغى القَرارَ لأُمِّه ليُجِنَّها     فبَنَى عليها فى قَفاه يَمْهَدُ<lb/>
+
+	٧ مَهْدأً وَطِيئاً فاسْتقَلَّ بحَمْلِه     فى الطَّيْر يَحمِلُها ولا يَتأَوَّدُ<lb/>
+
+	٨ مِن آمّه فجَرَى يُصالِحُ حَمْلَها     وَلَداً وكَلْفَ ظَهْرِه ما تَفقَّدُ<lb/>
+
+	٩ فتَراه يدلَح ما مَشَى بجَنازةٍ     منها وما آخْتَلف الجديدُ المُسْنَدُ<lb/>
+
+	١٠ والأرْضَ نَوَّخَها الإلهُ طَروقةً     لِلماءِ حتّى كلُّ زَنْدٍ مُسْفَدُ<lb/>
+
+	١١ والارضُ مَعْقِلُنا وكانت أُمَّنا     فيها مَقابِرُنا وفيها نوأَدُ<lb/>
+
+	١٢ فيها تَلامِذةٌ على قُذُفاتِها     حُبِسوا قِياماً فالفرائصُ تَرْعَدُ<lb/>
+
+	١٣ فبَنَى الإلهُ عليهُم محصوفةً     خَلْقاءَ لا تَبْلَى ولا تَتأَوَّدُ<lb/>
+
+	١٤ فلوٱنه يَجْذو البُرامُ بمَتْنِها     لَنَبَا وأَلْفاها الّتى لا تُقْرَدُ<lb/>
+
+	١٥ فأَتَمَّ سِتًّا فاستَوَت  <hi rendition="bold">أطْباقُها</hi>     وأَتَى <hi rendition="bold">بسابِعةٍ</hi> فأَنَّى تورَدُ<lb/>
+
+	١٦ فكأَنَّ بِرْقِعَ والملائكَ حَوْلَه     سَدِرٌ تَواكَلَه القَوائمُ أجْرَدُ<lb/>
+
+	١٧ خَضْراءُ ثانِيةٌ تُظِلُّ رُؤوسَهم     فَوْقَ الذَّوائبِ فاستَوَتْ لا تُحْصَدُ<lb/>
+
+	١٨ كزُجاجةِ الغَسّولِ أحْسَنَ صَنْعَها     لمّا بَناها رَبُّنا يَتجرَّدُ<lb/>
+
+	١٩ لمصفَّدين عليهمُ صاقورةٌ     صَمّاءُ ثالِثةٌ تُماعُ وتُجْمَدُ<lb/>
+
+	٢٠ وكانّ رابِعةً لها حاقورةٌ     فى جَنْبِ خامِسةٍ عناصٍ تمْرَدُ<lb/>
+
+	٢١ فيها النُّجومُ تُطيعُ غيرَ مُراحةٍ     ما قال صَيْدَقُها الأَمينُ الأَرْشَدُ<lb/>
+
+	٢٢ رَسَخَ المَها فيها فأَصْبَحَ لَوْنُها     فى الوارِِساتِ كأنّهنّ الإثْمِدُ<lb/>
+
+	٢٣ شَدَّ القُطوعَ على المَطايا رَبُّنا     كلٌ بنَعْماءِ الإِلهِ مقيَّدُ<lb/>
+
+	٢٤ فَآصْبَحْنَ وافْتَرش الرَّحائلَ شَرْجَعٌ     نُفُجٌ على أثْباجهِنَّ مْؤَكَّدُ<lb/>
+
+	٢٥ بفُصوصِ ياقوتٍ وكَظَّ بعرشِه     هَوْلٌ ونارٌ دونَه تَتوقَّدُ<lb/>
+
+	٢٦ فعَلا طُوالات القوائم فاسْتَوى     فَوْقَ الخُلودِ ومَن ارادَ مخلَّدُ<lb/>
+
+	٢٧ <hi rendition="strong">وتَرَى شَياطيناً تَروغُ مُضاعةً     ورَواغُها شتى اذا ما تُطْرَدُ</hi>
+                        <lb/>
+
+	٢٨ <hi rendition="strong">تُلْقَى عليها فى السَّماءِ مذلَّةٌ     وكواكبٌ ترمى بها فتَعَرَّدُ</hi>
+                        <lb/>
+
+	٢٩ <hi rendition="bold"> مَلِيكٌ </hi>
+                        <hi rendition="bold"> على عرْشِ </hi> السّماءِ <hi rendition="bold"> مُهَيْمِنٌ    </hi>
+                        <hi rendition="bold"> تَعْنو لِعِزَّتِه الوُجوهُ </hi> وتَسْجُدُ<lb/>
+
+	٣٠ لَوْلا وِثاقُ اللّهِ ضَلَّ ضَلالُنا     ولَسَرَّنا أنّا نُتَلُّ <hi rendition="bold"> فنُوأدُ </hi>
+                        <lb/>
+
+	٣١ [...] بأُولىِ قَوًى فمُبَتِّلٌ ومُتَلْمِدُ<lb/>
+
+	٣٢ يَنْتابُه المتنصّفون بسُحْرةٍ     فى أَلْفِ أَلْفٍ مِن ملائكَ تُحْشَدُ<lb/>
+
+	٣٣ <hi rendition="bold">رُسُلٌ</hi> يَجوبون السّماءَ بأمْرِه     لا يَنْظُرون ثَواءَ مَن يَتقصَّدُ<lb/>
+
+	٣٤ فهُمُ كأَوْبِ الريحِ بَيْنا أدْبَرَتْ     رجعتْ بَوادر وَجْهِها لا تُكْرَدُ<lb/>
+
+	٣٥ حُذٌّ مَناكِبُهم على اكتافهم     زِِفٌّ يَزِفَّ بهم اذا ما اسْتنَجدوا<lb/>
+
+	٣٦ واذا تلاميذُ الإِلهِ تَعاونوا     غَلَبوا ونَشَّطَهم جَناحٌ مُعْتَدُ<lb/>
+
+	٣٧ نَهَضوا بأجْنِحةٍ فلم يَتواكَلوا     لا مُبْطِىءٌ منهم ولا مُسْتَوْغدُ<lb/>
+
+	* حُبِس السَّرافيلُ الصَّوافى تَحْتَه     لا واهِنٌ منهم ولا مُسْتَوْعِدُ<lb/>
+
+	* رَجُلٌ وثَوْرٌ تحت رِجْلِ يمينِه     والنَّسْرُ لِلاخْرَى ولَيْثٌ مُرْصِدُ<lb/>
+
+	٣٨ حَيّاً ومَيْتاً لا ابا لك إنّما     طولُ الحياة كزادٍ غادِ يَنْفَدُ<lb/>
+
+	٣٩ والشَهْرُ بين هِلالِه ومُحاقِه     أجَلٌ لِعِلْم الناس كيف يعدَّد<lb/>
+
+	٤٠ لا نَقْصَ فيه غَيْرَ أنَّ خَبيئَهُ     قَمَرٌ وساهورٌ يُسَلُّ ويُغْمَدُ<lb/>
+
+	٤١ خَرِقٌ يَهيمُ كهاجِعٍ فى نَوْمه     لم يَقْضِ رَيْبَ نُعاسِه فيَهْجُدُ<lb/>
+
+	٤٢ فاذا مَرَتْه لَيْلتانِ وَراءَه     فقَضَى سُراه او كَراه يَسْأَد<lb/>
+
+	٤٣ لِمَواعِدٍ تَجْرى النُجومُ أمامَه     ومُعَمَّمٌ بحِذائهنّ مسوَّد<lb/>
+
+	٤٤ مستخْفِياً وبَناتُ نَعْش حَوْلَه     وعن اليمين اذا يَغيبُ الفَرْقَد<lb/>
+
+	٤٥ حالَ الدَّرارى دونه فتَجُنُّه     لا أن يَراه كلُّ مَن يَتلدَّد<lb/>
+
+	٤٦ والشمسُ تَطْلُعُ كلَّ آخِرِِ ليلةٍ     حَمْراءَ يُصْبِحُ لَوْنُها يَتورَّدُ<lb/>
+
+	٤٧ ليست بِطالعةٍ لهم فى رِسْلِها     إلاّ معذَّبةً وإلاّ تُجْلَدُ<lb/>
+
+	٤٨ لا تستطيع بان تقصِّر ساعةً     وبذاك تدأب يومَها و تَشَرَّد<lb/>
+
+	٤٩ ولسوف يَنْسَى ما اقولُ مَعاشرٌ     ولسوف يذكُره الذى لا يَزْهَدُ<lb/>
+
+	٥٠ فاغْفِر لعَبْدٍ إن اوّلَ ذَنْبِه     شُرْبٌ وأيسارٌ يُشارِكُها دَدُ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1. Wisse: Dem Schaffen Gottes kommt nichts gleich, und keine Grabnische ist ihm verborgen.<lb/>
+
+	2. In jedem unbekannten Ding, das ihm zugehört, ist ein bekanntes, ein anderes, das (den Menschen) vor Augen liegt, gemäss dem, was er (Gott) plant.<lb/>
+
+	3. Streifen, Striche (wie) von Tätowierung, Wegzeichenspuren und geöffnete <hi rendition="bold">Magazine</hi> [Q 6:50, 11:31, 15:21, 17:100, 38:9, 52:37, 63:7], die nicht zur Neige gehen.<lb/>
+
+	4. vor denen, welchen er sie zugedacht; und er spaltete ihr Gewölk, so dass es nicht im Wachstum verharren konnte gegenüber dem Schöpfer:<lb/>
+
+	5. Nebelgewölk und Finsternis und ein Wolkenerguss, zu den Zeiten, wo der Wiederhopf seine Mutter ins Leichentuch hüllte und auf die Suche ging,<lb/>
+
+	6. um ihr eine Ruhestätte zu bereiten und sie da zu bestatten: da richtete er ihr auf seinem Hinterkopf das Grab auf, indem er bereitete<lb/>
+
+	7. ein weiches Lager. Dann erhob er sich mit seiner Last zu den Vögeln, seine Mutter tragend, ohne sich zu krümmen<lb/>
+
+	8. unter ihrer Last, und so lief er, sich als Sohn mit seiner Last aussöhnend, und du vermisst nicht die braune Farbe seines Rückens.<lb/>
+
+	9. Und du siehst ihn schwerbelastet schreiten unter ihrem Totenbett, solange er geht und solange die Zeitläufe sich ablösen.<lb/>
+
+	10. Und die Erde hat Gott niederknieen lassen (wie eine Kamelin) dem Wasser zur Begattung, bis jedes Feuerholz verliehen war [so daß es kein trockenes Holz mehr gab].<lb/>
+
+	11. Die Erde ist unser Asyl; sie ist von jeher unsere Mutter und in ihr ist wiederum unsere Grabstätte und in ihr werden wir verscharrt.<lb/>
+
+	12. Auf ihr sind Engelsdiener, die auf ihren Gipfeln festgebunden worden sind, mit (vor Anstrengung) zitternden Schulterblättern stehend,<lb/>
+
+	13. denn über ihnen hat Gott eine massive, glatte (Himmelswölbung) erbaut, die sich weder abnutzt noch zusammenzieht,<lb/>
+
+	14. (so glatt), dass, wenn das Rizinusinsekt auf ihre Rückenfläche losginge, es sich unverrichteter Dinge abwenden würde und fände, dass sie sich von Rizinusinsekten nicht heimsuchen lässt.<lb/>
+
+	15. Da vollendete er sechs (Himmel), und <hi rendition="bold">ihre Etagen</hi> [Q 67:3, 71:15] wurden ebenmässig aufgerichtet, und er brachte <hi rendition="bold">einen siebenten</hi> [Q 23:86, 65:12] - und wie könnte man zu dem gelangen!<lb/>
+
+	16. Da ist es, als wäre der Birqiʿ mit den Engeln darum herum ein windverlassenes, glattes Meer.<lb/>
+
+	17. Ein grüner, zweiter (Himmel), der ihre Häupter beschattet über den herabhängenden Haarlocken; der wurde ebenmässig aufgerichtet, so dass er sich nicht zusammenrollt.<lb/>
+
+	18. Wie das aus Natron hergestellte Glasgefäss hat ihn unser Herr auf schöne Weise gearbeitet, nachdem er ihn gebaut, indem er alle Mühe darauf verwendete.<lb/>
+
+	19. Festgebundenen, über denen eine Ṣaqura ist, eine harte,- ein dritter (Himmel) - die flüssig gemacht wird und wieder erstarrt.<lb/>
+
+	20. Und es ist als wäre ein vierter (Himmel), der eine Ḥaqura hat, an der Seite eines fünften, zerschnittene Fetzchen.<lb/>
+
+	21. An ihm sind die Gestirne, rastlos dem gehorchend, was ihr treuer, sicherer, rechter Führer sagt.<lb/>
+
+	22. Daran hat er die blinkenden Sterne eingesteckt, und ihre Farbe gleicht so dem Antimon an den sich mit Wars einreibenden Frauen.<lb/>
+
+	23. Schabracken hat unser Herr auf den Reittieren (d. h. Cherubim) festgebunden, alle sind durch Gottes Gnade gefesselt,<lb/>
+
+	24. und die Sattelsitze hat er hingebreitet: ein stattlicher Thronsessel ist es, der auf ihren Rücken befestigt ist,<lb/>
+
+	25. mit eingelegten Rubinen, und an seinem Thron drängt Schrecken und unterhalb von ihm ist brennendes Feuer.<lb/>
+
+	26. Und die Matten für die Füsse sind hoch oben; und so steht er über alle Ewigkeit hinaus fest, und von wem er (sc. Gott) es will, dem wird ewiges Bestehen verliehen.<lb/>
+
+	27. <hi rendition="strong">Und man sieht Satane </hi>[Q 15:17, 37:6-10, 67:5]<hi rendition="strong">, die kopflos fliehen und nach allen Richtungen auseinanderstieben, wenn sie fortgejagt werden.</hi>
+                        <lb/>
+
+	28. <hi rendition="strong">Im Himmel werden sie mit Schmach beworfen und mit Sternen beschossen und in die Flucht gejagt.</hi>
+                        <lb/>
+
+	29. Ein <hi rendition="bold">König</hi> [Q 54:55] <hi rendition="bold">auf dem Himmelsthron</hi> [vgl. 7:54, 9:129, 10:3, 11:7, 12:100, 13:2, 17:42, 20:5, 21:22, 23:86, 23:116, 25:59, 27:26, 32:4, 39:75, 40:7.15, 43:82, 57:4, 69:17, 81:20, 85:15] <hi rendition="bold">ein getreuer</hi> [Q 59:23], vor dessen Majestät <hi rendition="bold">sich die Gesichter beugen</hi> [Q 20:111] und huldigend niederwerfen.<lb/>
+
+	30. Wäre nicht Gottes Zuverlässigkeit, so wären wir verloren und würde es uns nur freuen, dass wir auf das Angesicht gelegt und <hi rendition="bold">wie neugeborene Mädchen verscharrt</hi> [vgl. Q 81:8] werden.<lb/>
+
+	31. [...] mit strengen Fastern und so von der Welt abgeschieden und als dienender Bruder liebend.<lb/>
+
+	32. Es lösen sich bei ihm (d.h. Gott) regelmässig die Diensthabenden in der Morgendämmerung ab, unter einer Million von Engeln, die versammelt werden,<lb/>
+
+	33. <hi rendition="bold">Boten</hi> [Q 35:1], die mit seinem Befehl den Himmel durchbrechen, ohne zu achten, wo Getroffene tot liegen bleiben;<lb/>
+
+	34. so dass sie dem Kehrwind gleichen: während er sich zurückdreht, kehrt er bereits wieder, ohne dass seine hastigen Anstürme zurückgeschlagen werden können.<lb/>
+
+	35. Dünn sind die Oberteile ihrer Flügel; auf ihren Schultern ist leichtes Gefieder, das sie leicht davonträgt, wenn sie zu Hilfe gerufen werden.<lb/>
+
+	36. Und wenn die Schüler Gottes vereint Hilfe leisten, so siegen sie, und eine wohlgerüstete Schwinge verhilft ihnen zu Schnelligkeit.<lb/>
+
+	37. Sie fliegen auf, ohne den Dienst aufeinander abzuwälzen; unter ihnen ist keiner, der zögerte oder einen andern für sich anstellte.<lb/>
+
+	* Unter ihm sind die Seraphim, die reinen, festgebannt, und unter ihnen ist keiner, der lässig wäre oder einen andern für sich anstellte.<lb/>
+
+	* Ein Mann und ein Stier unter seinem rechten Fuss, und beim andern (Fuss) ein Adler und ein lauernder (niedergestreckter) Löwe.<lb/>
+
+	38. Lebend und tot. Wahrhaftig, die Lebenslänge gleicht dem Reisevorrat, der sich eines Morgens erschöpft.<lb/>
+
+	39. Der Mond, der bald Neumond, bald schwindender Mond ist, ist ein Zeitmass, dass die Menschen wissen, wie er zu berechnen sei.<lb/>
+
+	40. Er selbst verkleinert sich nicht, sondern wenn er sich versteckt, so kommt es nur daher, dass es ein Vollmond und ein Mondgehäuse ist, und er herausgezogen und eingesteckt wird.<lb/>
+
+	41. Verwirrt tappt er umher wie ein Schlaftrunkener, der seine dumpfe Schlafsucht noch nicht überwunden hat und darum in die Nacht hinein schläft.<lb/>
+
+	42. Wenn dann zwei Nächte hinter ihm her ihn hervorlocken, und er so seine Nachtwanderung oder seinen Schlummer erschöpft vollendet,<lb/>
+
+	43. zu bestimmten Orten hin, indem die Gestirne vor ihm herlaufen, und<lb/>
+
+	44. neben ihnen ein gekrönter Fürst, sich zu verbergen suchend, während die Banāt Naʿš ihn umgeben, und rechts der Farqad bei seinem Untergang,<lb/>
+
+	45. so treten ihm die funkelnden Sterne dazwischen und verdecken ihn, und keiner, der verwundert nach ihm ausschaut, sieht ihn mehr.<lb/>
+
+	46. Und die Sonne, sie geht am Ende jeder Nacht auf, rot, wie eine Rose gefärbt.<lb/>
+
+	47. Sie geht ihnen aber nicht freiwillig auf, sondern muss gezüchtigt und gepeitscht werden.<lb/>
+
+	48. Sie vermag nicht eine Stunde abzukürzen, und so strengt sie sich den ganzen Tag an und entläuft.<lb/>
+
+	49. Wahrlich, ganze Geschlechter werden vergessen, was ich sage, aber ebenso sicher wird es im Gedächtnis behalten, wer sich nicht wie ein Asket von der Welt zurückzieht.<lb/>
+
+	50. Darum vergib einem Knechte! Sieh, der Anfang seiner Sünde ist Trinken und Maisirspielen, mit Scherz verbunden.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

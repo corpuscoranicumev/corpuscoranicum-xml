@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Michael Marx</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Aus dem Kodex findet man ein Farbfoto von Fol. 159 r, Sure 22:78-23:8 in dem Ausstellungkatalog "Prachtkorane aus tausend Jahren: Handschriften aus dem Bestand der Bayerischen Staatsbibliothek München", München 1998, S. 11. Wolgang Riesterer schrieb über den Kodex: "Die Verwendung von Gold zur Illumination und die Qualität der Schrift mit ihren besonders ansprechenden, gedehnten Horizontalen weisen auf einen reichen Auftraggeber hin." (vgl. Riesterer 1998, in: Prachtkorane, S. 10)<lb/>
+                        <lb/> Zum Umfang bemerkte Riesterer: "Da frühe Korane des 7.-10. Jahrhunderts im allgemeinen fragmentarisch - oft nur als einzelne Blätter - erhalten sind, ist dieser Koran wegen seines beträchtlichen Umfanges von 200 aufeinanderfolgenden Blättern in einer westlichen Bibliothek eine außerdordentliche Seltenheit."   Enthaltener Text: 003-027 (&gt; 50 %; vgl. Riesterer 1998, in: Prachtkorane, S. 10)</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>München</settlement>
+                        <institution> Bayerische Staatsbibliothek</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Kodex München Bayerische Staatsbibliothek arab. 2569</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="166">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Codex">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>240</height>
+                                        <width>320 </width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="15">
+                                    <p>Die Seiten enthalten 15 Zeilen.</p>
+                                    <p>Riesterer schrieb 1998: "Die in gleich großem Duktus [wie die restliche Handschrift] gehaltenen Surenüberschriften sind mit Goldtinte hervorgehoben und mit feinen Linien konturiert. Goldrosetten dienen als Verszähler. Der tropfenförmige Buchstabe hâ', dem im arabischen Alphabet der Zahlenwert "fünf" entspricht, markiert je fünf, ein quadratisches Ornament je zehn Verse."</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Helga Rebhan &amp; Wolfgang Riesterer, Prachtkorane aus tausend Jahren: Handschriften aus dem Bestand der Bayerischen Staatsbibliothek München, München 1998, S. 10-11.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

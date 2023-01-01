@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genesis 9:18-27</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Abraham Geiger</persName>
+                    <name>Was hat Mohammed aus dem Judenthume aufgenommen?, 2. Auflage, Leipzig 1902, S. 102; vgl. Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 105.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>352</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung (mit "Noah" statt "Noach")</bibl>
+                <bibl>
+                    <edition>Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>011:042-011:047</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Nach Q 11 weigert sich Noahs Sohn, in der Arche mitzufahren und ertrinkt daher. Als Noah für seinen Sohn bittet, wird er von Gott zurechtgewiesen. Die Vorstellung vom Fehlverhalten eines der Nachkommen Noahs geht letztlich auf die Erzählung in Genesis 9:18-27 zurück, die in der jüdischen (z.B. Babylonischer Talmud, Sanhedrin 108b, Intertext Nr. 157) und christlichen (z.B. der Kommentar zum Buch Genesis des Origenes, Intertext Nr. 161 und Augustinus, Über den Gottesstaat 16:2, Intertext Nr. 140) Literatur interpretiert wurde. Inhaltlich unterscheidet sich die Erzählung im Koran davon jedoch völlig. Ein Bezug liegt insofern vor, als einer von Noahs Söhnen negativ dargestellt wird, und es sich bei der koranischen Version um eine weitere Interpretation dieses Themas handelt.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>וַיִּהְיוּ בְנֵי־נֹחַ הַיֹּצְאִים מִן־הַתֵּבָה שֵׁם וְחָם וָיָפֶת וְחָם הוּא אֲבִי כְנָעַן : שְׁלֹשָׁה אֵלֶּה בְּנֵי־נֹחַ וּמֵאֵלֶּה נָפְצָה כָל־הָאָרֶץ : וַיָּחֶל נֹחַ אִישׁ הָאֲדָמָה וַיִּטַּע כָּרֶם : וַיֵּשְׁתְּ מִן־הַיַּיִן וַיִּשְׁכָּר וַיִּתְגַּל בְּתוֹךְ אָהֳלֹה : וַיַּרְא חָם אֲבִי כְנַעַן אֵת עֶרְוַת אָבִיו וַיַּגֵּד לִשְׁנֵי־אֶחָיו בַּחוּץ : וַיִּקַּח שֵׁם וָיֶפֶת אֶת־הַשִּׂמְלָה וַיָּשִׂימוּ עַל־שְׁכֶם שְׁנֵיהֶם וַיֵּלְכוּ אֲחֹרַנִּית וַיְכַסּוּ אֵת עֶרְוַת אֲבִיהֶם וּפְנֵיהֶם אֲחֹרַנִּית וְעֶרְוַת אֲבִיהֶם לֹא רָאוּ : וַיִּיקֶץ נֹחַ מִיֵּינוֹ וַיֵּדַע אֵת אֲשֶׁר־עָשָׂה־לוֹ בְּנוֹ הַקָּטָן : וַיֹּאמֶר אָרוּר כְּנָעַן עֶבֶד עֲבָדִים יִהְיֶה לְאֶחָיו : וַיֹּאמֶר בָּרוּךְ יְהֹוָה אֱלֹהֵי שֵׁם וִיהִי כְנַעַן עֶבֶד לָמוֹ : יַפְתְּ אֱלֹהִים לְיֶפֶת וְיִשְׁכֹּן בְּאָהֳלֵי־שֵׁם וִיהִי כְנַעַן עֶבֶד לָמוֹ :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>18 Die Söhne Noahs, die aus der Arche gekommen waren, sind Sem, Ham und Jafet. Ham ist der Vater Kanaans. 19 Diese drei sind die Söhne Noahs; von ihnen stammen alle Völker der Erde ab. 20 Noah wurde der erste Ackerbauer und pflanzte einen Weinberg. 21 Er trank von dem Wein, wurde davon betrunken und lag entblößt in seinem Zelt. 22 Ham, der Vater Kanaans, sah die Blöße seines Vaters und erzählte davon draußen seinen Brüdern. 23 Da nahmen Sem und Jafet einen Überwurf; den legten sich beide auf die Schultern, gingen rückwärts und bedeckten die Blöße ihres Vaters. Sie hatten ihr Gesicht abgewandt und konnten die Blöße des Vaters nicht sehen. 24 Als Noah aus seinem Rausch erwachte und erfuhr, was ihm sein zweiter Sohn angetan hatte, 25 sagte er: Verflucht sei Kanaan. / Der niedrigste Knecht sei er seinen Brüdern. 26 Und weiter sagte er: Gepriesen sei der Herr, der Gott Sems, / Kanaan aber sei sein Knecht. 27 Raum schaffe Gott für Jafet. / In Sems Zelten wohne er, / Kanaan aber sei sein Knecht.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

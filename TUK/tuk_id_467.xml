@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief des Jakobus 2:14-26</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 172-173.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>467</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Alexandria (?)</origPlace>
+                            <origDate>Ende 1. Jh. n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>004:125</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ḫalīl</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die koranische Beschreibung Abrahams als "Freund Gottes" (<hi xml:lang="ar-Latn">wa-ʾaḫaḏahu Allāh</hi>
+                        <hi xml:lang="ar-Latn"> ḫalīlan</hi>) entspricht u. a. Jakobus 2:23. Vgl. bereits Jesaja 41:8 und 2 Chronik 20:7 sowie die Apokalypse Abrahams 10:6. Die koranische Wendung nimmt also einen in der biblischen Tradition mehrfach bezeugten Ausdruck auf und ist nicht notwendigerweise als Bezugnahme speziell auf den Jakobus-Text zu verstehen.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	14 Τί τὸ ὄφελος, ἀδελφοί μου, ἐὰν πίστιν λέγῃ τις ἔχειν ἔργα δὲ μὴ ἔχῃ; μὴ δύναται ἡ πίστις σῶσαι αὐτόν; 15 ἐὰν ἀδελφὸς ἢ ἀδελφὴ γυμνοὶ ὑπάρχωσιν καὶ λειπόμενοι τῆς ἐφημέρου τροφῆς 16 εἴπῃ δέ τις αὐτοῖς ἐξ ὑμῶν• ὑπάγετε ἐν εἰρήνῃ, θερμαίνεσθε καὶ χορτάζεσθε, μὴ δῶτε δὲ αὐτοῖς τὰ ἐπιτήδεια τοῦ σώματος, τί τὸ ὄφελος; 17 οὕτως καὶ ἡ πίστις, ἐὰν μὴ ἔχῃ ἔργα, νεκρά ἐστιν καθ᾽ ἑαυτήν. 18 Ἀλλ᾽ ἐρεῖ τις• σὺ πίστιν ἔχεις, κἀγὼ ἔργα ἔχω• δεῖξόν μοι τὴν πίστιν σου χωρὶς τῶν ἔργων, κἀγώ σοι δείξω ἐκ τῶν ἔργων μου τὴν πίστιν. 19 σὺ πιστεύεις ὅτι εἷς ἐστιν ὁ θεός, καλῶς ποιεῖς• καὶ τὰ δαιμόνια πιστεύουσιν καὶ φρίσσουσιν. 20 Θέλεις δὲ γνῶναι, ὦ ἄνθρωπε κενέ, ὅτι ἡ πίστις χωρὶς τῶν ἔργων ἀργή ἐστιν; 21 Ἀβραὰμ ὁ πατὴρ ἡμῶν οὐκ ἐξ ἔργων ἐδικαιώθη ἀνενέγκας Ἰσαὰκ τὸν υἱὸν αὐτοῦ ἐπὶ τὸ θυσιαστήριον; 22 βλέπεις ὅτι ἡ πίστις συνήργει τοῖς ἔργοις αὐτοῦ καὶ ἐκ τῶν ἔργων ἡ πίστις ἐτελειώθη, 23 καὶ ἐπληρώθη ἡ γραφὴ ἡ λέγουσα• ἐπίστευσεν δὲ Ἀβραὰμ τῷ θεῷ, καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην <hi rendition="bold">καὶ φίλος θεοῦ ἐκλήθη.</hi> 24 ὁρᾶτε ὅτι ἐξ ἔργων δικαιοῦται ἄνθρωπος καὶ οὐκ ἐκ πίστεως μόνον. 25 ὁμοίως δὲ καὶ Ῥαὰβ ἡ πόρνη οὐκ ἐξ ἔργων ἐδικαιώθη ὑποδεξαμένη τοὺς ἀγγέλους καὶ ἑτέρᾳ ὁδῷ ἐκβαλοῦσα; 26 ὥσπερ γὰρ τὸ σῶμα χωρὶς πνεύματος νεκρόν ἐστιν, οὕτως καὶ ἡ πίστις χωρὶς ἔργων νεκρά ἐστιν.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	14 Meine Brüder, was nützt es, wenn einer sagt, er habe Glauben, aber es fehlen die Werke? Kann etwa der Glaube ihn retten? 15 Wenn ein Bruder oder eine Schwester ohne Kleidung ist und ohne das tägliche Brot 16 und einer von euch zu ihnen sagt: Geht in Frieden, wärmt und sättigt euch!, ihr gebt ihnen aber nicht, was sie zum Leben brauchen - was nützt das? 17 So ist auch der Glaube für sich allein tot, wenn er nicht Werke vorzuweisen hat. 18 Nun könnte einer sagen: Du hast Glauben und ich kann Werke vorweisen; zeig mir deinen Glauben ohne die Werke und ich zeige dir meinen Glauben aufgrund der Werke. 19 Du glaubst: Es gibt nur den einen Gott. Damit hast du Recht; das glauben auch die Dämonen und sie zittern. 20 Willst du also einsehen, du unvernünftiger Mensch, dass der Glaube ohne Werke nutzlos ist? 21 Wurde unser Vater Abraham nicht aufgrund seiner Werke als gerecht anerkannt? Denn er hat seinen Sohn Isaak als Opfer auf den Altar gelegt. 22 Du siehst, dass bei ihm der Glaube und die Werke zusammenwirkten und dass erst durch die Werke der Glaube vollendet wurde. 23 So hat sich das Wort der Schrift erfüllt: Abraham glaubte Gott, und das wurde ihm als Gerechtigkeit angerechnet, <hi rendition="bold">und er wurde Freund Gottes genannt.</hi> 24 Ihr seht, dass der Mensch aufgrund seiner Werke gerecht wird, nicht durch den Glauben allein. 25 Wurde nicht ebenso auch die Dirne Rahab durch ihre Werke als gerecht anerkannt, weil sie die Boten bei sich aufnahm und dann auf einem anderen Weg entkommen ließ? 26 Denn wie der Körper ohne den Geist tot ist, so ist auch der Glaube tot ohne Werke.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

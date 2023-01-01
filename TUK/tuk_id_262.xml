@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mischna, Sanhedrin 4:5</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Abraham Geiger</persName>
+                    <name>Was hat Mohammed aus dem Judenthume aufgenommen?, 2. Auflage, Leipzig 1902, S. 102; vgl. Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 87 f., S. 322, 459.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>262</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 3. Jh. n. Chr. (Kanonisierung)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Lazarus Goldschmidt (Übers.), Der Babylonische Talmud, Berlin 1930-36, Bd. 8, S. 603 f. (modifiziert)</bibl>
+                <bibl>
+                    <edition>
+
+	vgl. Ch. Albeck, Schischa Sidre Mischna, 6 Bde., Jerusalem 1952-58.</edition>
+                    <relatedItem>
+                        <bibl>005:032</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Als Konsequenz des in den vorangehenden Versen geschilderten Brudermordes an Abel durch Kain (vgl. TUK Nr. 0295), erklärt Q 5:32: „wenn einer jemanden tötet, [...] dann ist das, als ob er die Menschen allesamt getötet hätte. Wenn aber einer jemandem Leben schenkt, dann ist das, als ob er den Menschen allesamt Leben geschenkt hätte." Diese Aussage ist durch die Wendung <hi xml:lang="ar-Latn">katabnā ʿalā banī ʾIsrāʾīl </hi>(„Wir haben den Kindern Israels vorgeschrieben") als Zitat erkennbar. Bereits Abraham Geiger identifizierte die hier angegebene Stelle aus der Mischna als den Text, auf den sich der Koranvers bezieht. Dort steht die betreffende Aussage im Kontext falschen Zeugnisses bei Verbrechen, auf die die Todesstrafe steht. Da die Todesstrafe nicht mehr rückgängig gemacht werden kann, bleibt, im Falle der Hinrichtung eines Unschuldigen, das Blut nicht nur des Hingerichteten, sondern auch das seiner ungeborenen Nachkommen an demjenigen kleben, der falsch ausgesagt hat. Dies wird unter Bezugnahme auf die Geschichte von Kain und Abel begründet: Daß in der biblischen Erzählung das Wort "Blut" im Plural (<hi xml:lang="ar-Latn">dmēy ʾāḥ</hi>
+                        <hi xml:lang="ar-Latn">î</hi>
+                        <hi xml:lang="ar-Latn">kā</hi>, vgl. Genesis 4:10) verwendet wird, wird so erklärt, daß damit das Blut Abels und das seiner Nachkommen gemeint sei. Aus dieser Interpretation wird dann die Schlußfolgerung gezogen, daß, „wenn jemand eine israelitische Seele vernichtet, es ihm die Schrift anrechnet, als hätte er eine ganze Welt vernichtet." Koran und Mischna ziehen also dieselbe Lehre aus der Erzählung vom Brudermord. Im Koran fehlt aber die exegetische Begründung, die sich aus der Verwendung des Plurals von "Blut" im Text der Hebräischen Bibel ergibt; das Wort "Blut" kommt im Koran gar nicht vor. Dieser Unterschied mag daran liegen, daß diese Deutung im Kontext des Koranverses keine Rolle spielt, vielleicht aber auch daran, daß durch den Zitatcharakter der Stelle auf bereits bekanntes verwiesen wird, und eine Vertrautheit der Hörer mit der entsprechenden Interpretation in der Mischna vorausgesetzt wird. Eventuell kann man auch noch eine weitere Parallele des Koranverses mit der Mischna feststellen: der Koran nimmt diejenigen davon aus, die jemand anderen wegen eines von diesem begangenen Unrechts töten, die Mischna bezieht sich speziell auf den Fall, daß ein Unschuldiger aufgrund falscher Zeugenaussage hingerichtet wird. Beide Texte erlauben also durchaus, jemanden zu töten, wenn dies als gerechtfertigt angesehen wird.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	כיצד מאיימין את העדים על עדי נפשות היו מכניסין אותן ומאיימין עליהן שמא תאמרו מאומד ומשמועה עד מפי עד ומפי אדם נאמן שמענו או שמא אי אתם יודעין שסופינו לבדוק אתכם בדרישה ובחקירה הוו יודעין שלא כדיני ממונות דיני נפשות דיני ממונות אדם נותן ממון ומתכפר לו דיני נפשות דמו ודם זרעיותיו תלוין בו עד סוף העולם <hi rendition="bold"> שכן מצינו בקין שהרג את אחיו שנאמר דמי אחיך צועקים אינו אומר דם אחיך אלא דמי אחיך דמו ודם זרעיותיו דבר אחר דמי אחיך שהיה דמו מושלך על העצים ועל האבנים לפיכך נברא אדם יחידי ללמדך שכל המאבד נפש אחד מישראל מעלה עליו הכתוב כאילו איבד עולם מלא וכל המקיים נפש אחת מישראל מעלה עליו הכתוב כאילו קיים עולם מלא </hi> ומפני שלום הבריות שלא יאמר אדם לחבירו אבא גדול מאביך ושלא יהו מינין אומרים הרבה רשויות בשמים ולהגיד גדולתו של הקדוש ברוך הוא שאדם טובע כמה מטבעות בחותם אחד וכולן דומין זה לזה ומלך מלכי המלכים הקדוש ברוך הוא טבע כל אדם בחותמו של אדם הראשון ואין אחד מהן דומה לחבירו לפיכך כל אחד ואחד חייב לומר בשבילי נברא העולם ושמא תאמרו מה לנו ולצרה הזאת והלא כבר נאמר והוא עד או ראה או ידע אם לא יגיד וגומר ושמא תאמרו מה לנו לחוב בדמו של זה והלא כבר נאמר באבוד רשעים רנה:</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Auf welche Weise werden die Zeugen in Todesstrafsachen eingeschüchtert? Man führt sie herein und schüchtert sie [durch folgende Worte] ein: Vielleicht sagt ihr das aus Vermutung oder vom Hörensagen, oder [wisst ihr es] aus dem Munde anderer Zeugen, oder aus dem Munde eines glaubwürdigen Menschen, oder vielleicht wisst ihr nicht, dass wir euch später untersuchen und ausforschen werden. Wisset auch, dass bei Todesstrafsachen es sich nicht so verhält, wie bei Geldsachen; bei Geldsachen kann man einen Ersatz leisten und Sühne erlangen, bei Todesstrafsachen bleibt an ihm das Blut [des Hingerichteten] und das Blut seiner Nachkommen bis an das Weltende haften. <hi rendition="bold">So finden wir es auch bei Kain, der seinen Bruder erschlug, wie es heißt: "Das Geblüt deines Bruders schreit" [Genesis 4:10]; es heißt nicht: Das Blut deines Bruders, sondern: das Geblüt deines Bruders, sein Blut und das Blut seiner Nachkommen. Eine andere Erklärung: "das Geblüt deines Bruders", es war nämlich auf Holz und Stein zerspritzt. Der Mensch wurde deshalb einzig erschaffen, um dich zu lehren, dass, wenn jemand eine israelitische Seele vernichtet, es ihm die Schrift anrechnet, als hätte er eine ganze Welt vernichtet, und wenn jemand eine israelitische Seele erhält, es ihm die Schrift anrechnet, als hätte er eine ganze Welt erhalten.</hi> Ferner auch wegen der Friedfertigkeit unter den Menschen, damit nämlich niemand zu seinem Nächsten sage: Mein Ahn war größer als deiner. Ferner auch, damit nicht die <hi xml:lang="ar-Latn">minim</hi> sagen können, es gebe mehrere Prinzipien im Himmel. Und endlich auch, um die Größe des Heiligen, gepriesen sei er, zu verkünden; wenn ein Mensch mehrere Münzen mit einem Stempel prägt, so gleichen sie alle einander, der König der Könige aber, der Heilige, gepriesen sei er, prägt jeden Menschen mit dem Stempel des Urmenschen, und doch gleicht nicht einer dem anderen. Daher muß auch jeder einzelne sagen: Meinetwegen ist die Welt erschaffen worden. Vielleicht wollt ihr sagen: Was soll uns diese Plage, so heißt es: "Und er war Zeuge, hat gesehen oder erfahren, aber er zeigt es nicht und lädt damit Schuld auf sich" [Leviticus 5:1]. Vielleicht wollt ihr sagen: Wozu sollen wir das Blut dieses Menschen verschulden, so heißt es: "Wenn die Gottlosen untergehen, [ertönt] Jubel." [Sprichwörter 11:10]</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

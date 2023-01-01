@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief an die Epheser 12:2</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Karl Ahrens</persName>
+                    <name>"Christliches im Qoran. Eine Nachlese", Zeitschrift der Deutschen Morgenländischen Gesellschaft 84 (1930), S. 48-49.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>309</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Kleinasien</origPlace>
+                            <origDate>vor 117</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Franz Zeller (Übers.), Die Apostolischen Väter, München 1914.</bibl>
+                <bibl>
+                    <edition>J. B. Lightfoot (Hg.), The Apostolic Fathers: revised texts with introductions, notes, dissertations, and translations, London 1889-1890.</edition>
+                    <relatedItem>
+                        <bibl>006:154; 010:007; 010:011; 010:015; 013:002; 018:110; 025:021; 029:005</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">liqāʾ</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>In den Koranversen geht es wie bei Ignatius um ein "Zusammentreffen" (arab. <hi xml:lang="ar-Latn">liqāʾ</hi>, gr. <hi xml:lang="ar-Latn">epitychein</hi>) mit Gott. Der Kontext macht deutlich, dass damit eine jenseitige Abrechnung gemeint ist. Bei Ignatius erscheint der Begriff auch sonst noch öfter (vgl. Brief an die Magnesier 14, Brief an die Trallianer 13:3, Brief an die Römer 1:2, 2:1, 4:1, 9:2, Brief an die Smyrnaer 11:1, Brief an Polykarp 2:2, 7:1).</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>1 Οἶδα τίς εἰμι καὶ τίσιν γράφω ἐγὼ κατάκριτος ὑμεῖς ἠλεημένοι ἐγὼ ὑπὸ κίνδυνον ὑμεῖς ἐστηριγμένοι 2 πάροδός ἐστε τῶν εἰς θεὸν ἀναιρουμένων Παύλου συμμύσται τοῦ ἡγιασμένου τοῦ μεμαρτυρημένου ἀξιομακαρίστου οὗ γένοιτό μοι ὑπὸ τὰ ἴχνη εὑρεθῆναι ὅταν <hi rendition="bold">θεοῦ ἐπιτύχω</hi> ὃς ἐν πάσῃ ἐπιστολῇ μνημονεύει ὑμῶν ἐν Χριστῷ Ἰησοῦ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>1. Ich weiß, wer ich bin und wem ich schreibe. Ich bin verurteilt, ihr habt Gnade gefunden; ich bin in Gefahr, ihr seid sicher. 2. Ihr seid der Durchgangspunkt für die, die (getötet werden, dass sie) zu Gott gelangen, ihr seid die Miteingeweihten des Paulus, der geheiligt, gemartert worden ist, des hochseligen, auf dessen Pfaden ich erfunden werden möchte, <hi rendition="bold">wenn ich auf Gott treffe</hi>, der in einem ganzen Briefe euer gedenkt in Christus Jesus.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

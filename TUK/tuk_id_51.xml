@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abhandlung Ephrems des Syrers über die Gottesmutter</title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>Michael Marx</persName>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>51</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis / Edessa</origPlace>
+                            <origDate>306–373</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Edmund Beck (Übers.), Nachträge zu Ephrem Syrus, Louvain 1975 (Corpus Scriptorum Christianorum Orientalium 363, Scriptores Syri 160), S. 36 f. (modifiziert von David Kiltz).</bibl>
+                <bibl>
+                    <edition>
+
+	Edmund Beck (Hg.), Nachträge zu Ephrem Syrus, Louvain 1975 (Corpus Scriptorum Christianorum Orientalium 363, Scriptores Syri 159), S. 29.</edition>
+                    <relatedItem>
+                        <bibl>019:028</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾuḫt Hārūn</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Wenn Maria in Q 19:28 als "Schwester Aarons" bezeichnet wird, so muss dies nicht auf eine Verwechslung von Maria mit Mirjam, der Schwester Mosis und Aarons, zurückgehen, sondern kann auch die Assoziation Marias mit dem aaronidischen Priestergeschlecht, dem sie der Tradition nach entstammt, reflektieren. Maria wird weitergehend auch typologisch mit dem Aaronstab assoziiert. Dies kommt in der Passage von Ephrem zum Ausdruck, in der Maria zu Josef spricht, der aufgrund ihrer Schwangerschaft an ihrer Jungfräulichkeit zweifelt: Der in Numeri 17 erwähnte Stab Aarons erblüht von Neuem, weil Jesus Christus als Nachfolger der aaronidischen Priesterschaft gilt. Die Symbolik bezieht sich außerdem auf die jungfräuliche Geburt, da der Stab ohne Wasser und Erde austreibt, Jesus ohne natürliche Befruchtung, d.h. durch Samen, geboren wird.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	ܘܐܢ ܡܛܠ ܒܛܢܐ ܡܥܩܒܬ ܬܐ ܐܬܢܐ ܠܟ ܕܟܬܝܒ̈ܢ ܐܢ ܝܘܣܦ ܡܢ ܐܬܢܩܦ ܠܐܪܥܐ ܘܐܘܠܕܗ ܠܐܕܡ ܘܠܐܝܠܢܐ ܡܢ ܐܙܕܘܓ ܘܐܝܠܕ ܐܡܪܐ ܚܠܦ ܐܝܣܚܩ ܟܐܦܐ ܬܘܒ ܐܝܟܢ ܝܠܕܐ ܢܗܪ̈ܘܬܐ ܒܐܫܝܡܘܢ ܦܟܐ ܕܚܡܪܐ ܐܝܟܢ ܐܪܕܝ ܡܝ̈ܐ ܨܝܕ ܫܡܫܘܢ ܐܢ ܡܪܝ ܝܘܣܦ ܠܐ ܫܡܝܥ ܠܟ ܕܐܦܪܘܥ ܚܘܛܪܐ ܨܝܕ ܐܗܪܘܢ ܘܡܢ ܒܬܪ ܕܚܡܐ ܘܝܒܫ ܐܬܕܓܝ ܘܥܒܕ ܛܪ̈ܦܐ ܘܟܠܗܘܢ ܪ̈ܐܙܐ ܕܐܫܬܡܫܘ ܪܐܙܗ ܕܡܫܝܚܐ ܫܡܫܘ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	413 "Und wenn du wegen der Leibesfrucht nachforschest, so komm, ich will dir anführen, was geschrieben steht! Sieh, Joseph, wer verband sich mit der Erde, dass sie Adam gebar? 417 Und wer mit dem Strauch, dass er den Widder an Stelle von Isaak trug? Ferner, wie brachte der Fels Ströme zu Tage in der Wüste? 421 Der Eselskinnbacken, wie ließ er Wasser fließen zur Zeit Samsons? Sieh, Joseph, mein Herr, hast du nicht gehört, dass der Stab sprosste zur Zeit Aarons, 425 und nachdem er verdorrt und vertrocknet war, (wieder) frisch wurde und Blätter trug? Alle die geheimnisvollen Zeichen, welche gottesdienstlich vorgetragen wurden, tragen das Mysterium Christi vor." (D.h. die früheren Wundererzählungen weisen auf bzw. präfigurieren das Wunder der Geburt Christi).</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

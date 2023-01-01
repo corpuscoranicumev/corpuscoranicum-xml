@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jesaja 44:6-8</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Raimund Köbert</persName>
+                    <name>"Das Gottesepitheton aṣ-ṣamad in Sure 112,2", Orientalia (neue Serie) 30 (1961), S. 204-205; Mehmet Paçacı, "Sag: Gott ist ein einziger - ahad/æhād. Ein exegetischer Versuch zu Sure 112 in der Perspektive der semitischen Religionstradition", in: Felix Körner (Übers.), Alter Text - neuer Kontext. Koranhermeneutik in der Türkei heute, Freiburg 2006, S. 166-203 [Original: "De Ki Allah 'Bir'dir: ahad/æhād. Sami Dini Geleneği Perspektifinden İhlas Sūresi'nin Bir Tefsiri Denemesi", in: Mehmet Paçacı, Kur'an ve Ben Ne Kadar Tarihseliz?, Ankara 2000]; Cl. Schedl, "Probleme der Koranexigese. Nochmals <hi xml:lang="ar-Latn">ṣamad</hi> in Sure 112,2", Der Islam 58 (1981), S. 1-14.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>379</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina, Mesopotamien</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Anfertigung der Jesajarolle aus Qumran)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>112:002; 112:004</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ṣamad</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die Bedeutung von <hi xml:lang="ar-Latn">aṣ-ṣamad</hi> ist problematisch. Eine Erklärungsmöglichkeit besteht darin, den Ausdruck mit <hi xml:lang="ar-Latn">ṣamda</hi>, "Fels" in Verbindung zu bringen. Dann entspräche <hi xml:lang="ar-Latn">aṣ-ṣamad</hi>, wie bereits Raimund Köbert bemerkt hat, dem hebräischen <hi xml:lang="ar-Latn">ṣûr</hi>, was im Alten Testament ein häufiges Gottesepitheton ist (vgl. Deuteronomium 32:4, Psalm 18:3, 18:32, 19:15, 31:3, 78:35, 144:1, Jesaja 26:4). Falls diese Deutung zutrifft, weist Jesaja 44:7-8 eine Parallele zu Sure 112 auf: In beiden Texten findet sich die Bezeichnung Gottes als Fels in unmittelbarer Nähe zur Aussage, dass niemand Gott gleiche (zu letzterem Punkt vgl. auch TUK 0377). Beide Motive - die Bezeichnung Gottes als Fels sowie die Bekräftigung seiner Einzigartigkeit - stehen übrigens auch im Danklied der Hanna in 1 Samuel 2:2 nebeneinander. Insgesamt erinnert Sure 112 strukturell wie inhaltlich aber auch an das Nizäno-Konstantinopolitanische Glaubensbekenntnis; vor diesem Hintergrund ist <hi xml:lang="ar-Latn">aṣ-ṣamad</hi> zumindest funktional (wenn auch sicher nicht semantisch) äquivalent mit dem griechischen <hi xml:lang="ar-Latn">pantokratōr</hi> (vgl. TUK 0047). Vgl. aber auch TUK 0687 für weitere Möglichkeiten der Interpretation.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	כֹּה־אָמַר יְהוָה מֶלֶךְ־יִשְׂרָאֵל וְגֹאֲלוֹ יְהוָה צְבָאוֹת אֲנִי רִאשׁוֹן וַאֲנִי אַחֲרוֹן וּמִבַּלְעָדַי אֵין אֱלֹהִים : <hi rendition="bold"> וּמִי־כָמוֹנִי </hi> יִקְרָא וְיַגִּידֶהָ וְיַעְרְכֶהָ לִי מִשּׂוּמִי עַם־עוֹלָם וְאֹתִיּוֹת וַאֲשֶׁר תָּבֹאנָה יַגִּידוּ לָמוֹ : אַל־תִּפְחֲדוּ וְאַל־תִּרְהוּ הֲלֹא מֵאָז הִשְׁמַעְתִּיךָ וְהִגַּדְתִּי וְאַתֶּם עֵדָי הֲיֵשׁ אֱלוֹהַּ מִבַּלְעָדַי <hi rendition="bold"> וְאֵין צוּר בַּל־יָדָעְתִּי :</hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	6 So spricht der Herr, Israels König, / sein Erlöser, der Herr der Heere: Ich bin der Erste, ich bin der Letzte, / außer mir gibt es keinen Gott. 7 <hi rendition="bold">Wer ist mir gleich?</hi> Er soll sich melden, / er tue es mir kund und beweise es mir. Wer hat von Anfang an die Zukunft verkündet? / Sie sollen uns sagen, was alles noch kommt. 8 Erschreckt nicht und fürchtet euch nicht! / Habe ich es euch nicht schon längst zu Gehör gebracht und verkündet? Ihr seid meine Zeugen: Gibt es einen Gott außer mir? / <hi rendition="bold">Es gibt keinen Fels außer mir, ich kenne keinen.</hi>
+                    </p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

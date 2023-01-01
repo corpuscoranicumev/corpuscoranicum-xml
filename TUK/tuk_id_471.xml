@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Offenbarung des Johannes 20:7-10</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>David Brady</persName>
+                    <name>"The Book of Revelation and the Qur'an: Is there a possible literary relationship?", Journal of Semitic Studies 23 (1978), S. 216-225.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>471</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Patmos (laut Offb. 1:9)</origPlace>
+                            <origDate>ca. 90-130 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>018:094-018:099; 021:096</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Offenbarung 20:8-10 nennt die Verwüstung der Welt durch Gog und Magog als eines der Vorzeichen des endgültigen Sieges über den Satan. Der Koran nimmt nur zweimal kurz auf Gog und Magog Bezug: Q 21:96 sagt - wie Offenbarung 20:8-10 - für die Endzeit die Loslassung der offenbar als eingesperrt gedachten Gog und Magog voraus. Die Vorgeschichte erzählt Q 18:94-99: Gog und Magog werden durch Ḏū l-Qarnain eingesperrt und so bis zum Jüngsten Gericht von der bewohnten Welt ferngehalten (Vgl. dazu TUK Nr. 0771). Zum alttestamentlichen Hintergrund (Ezechiel 38 und 39) vgl. TUK Nr. 0116.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	7 Καὶ ὅταν τελεσθῇ τὰ χίλια ἔτη, λυθήσεται ὁ σατανᾶς ἐκ τῆς φυλακῆς αὐτοῦ 8 καὶ ἐξελεύσεται πλανῆσαι τὰ ἔθνη τὰ ἐν ταῖς τέσσαρσιν γωνίαις τῆς γῆς, τὸν Γὼγ καὶ Μαγώγ, συναγαγεῖν αὐτοὺς εἰς τὸν πόλεμον, ὧν ὁ ἀριθμὸς αὐτῶν ὡς ἡ ἄμμος τῆς θαλάσσης. 9 καὶ ἀνέβησαν ἐπὶ τὸ πλάτος τῆς γῆς καὶ ἐκύκλευσαν τὴν παρεμβολὴν τῶν ἁγίων καὶ τὴν πόλιν τὴν ἠγαπημένην, καὶ κατέβη πῦρ ἐκ τοῦ οὐρανοῦ καὶ κατέφαγεν αὐτούς. 10 καὶ ὁ διάβολος ὁ πλανῶν αὐτοὺς ἐβλήθη εἰς τὴν λίμνην τοῦ πυρὸς καὶ θείου ὅπου καὶ τὸ θηρίον καὶ ὁ ψευδοπροφήτης, καὶ βασανισθήσονται ἡμέρας καὶ νυκτὸς εἰς τοὺς αἰῶνας τῶν αἰώνων.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	7 Wenn die tausend Jahre vollendet sind, wird der Satan aus seinem Gefängnis freigelassen werden. 8 Er wird ausziehen, um die Völker an den vier Ecken der Erde, den Gog und den Magog, zu verführen und sie zusammenzuholen für den Kampf; sie sind so zahlreich wie die Sandkörner am Meer. 9 Sie schwärmten aus über die weite Erde und umzingelten das Lager der Heiligen und Gottes geliebte Stadt. Aber Feuer fiel vom Himmel und verzehrte sie. 10 Und der Teufel, ihr Verführer, wurde in den See von brennendem Schwefel geworfen, wo auch das Tier und der falsche Prophet sind. Tag und Nacht werden sie gequält, in alle Ewigkeit.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

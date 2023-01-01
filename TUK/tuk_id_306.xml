@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief an die Galater 6:1-18</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Karl Ahrens</persName>
+                    <name>"Christliches im Qoran. Eine Nachlese", Zeitschrift der Deutschen Morgenländischen Gesellschaft 84 (1930), S. 48; Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 456.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>306</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Ephesus</origPlace>
+                            <origDate>ca. 55-57 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung (modifiziert)</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>009:011; 033:005</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾiḫwān fī d-dīn</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Dem koranischen <hi xml:lang="ar-Latn">ʾiḫwān fī d-dīn</hi> entspricht bei Paulus <hi xml:lang="ar-Latn">oikeious tēs pisteōs</hi>; koran. "Bruder" korrespondiert dabei mit griechisch <hi xml:lang="ar-Latn">oikeios</hi> (wörtlich: "zum Haus gehörig, Hausgenosse") bzw. mit aramäisch <hi xml:lang="ar-Latn">baytāyā</hi>, welches ebenfalls für Angehörige der gleichen Religionsgemeinschaft verwendet wird. Vgl. zum Gebrauch von <hi xml:lang="ar-Latn">oikeios</hi> auch Epheser 2:19: Ἄρα οὖν οὐκέτι ἐστὲ ξένοι καὶ πάροικοι ἀλλὰ ἐστὲ συμπολῖται τῶν ἁγίων καὶ οἰκεῖοι τοῦ θεοῦ ("Ihr seid also jetzt nicht mehr Fremde ohne Bürgerrecht, sondern Mitbürger der Heiligen und Hausgenossen Gottes") sowie 1 Timotheus 5:8: εἰ δέ τις τῶν ἰδίων καὶ μάλιστα οἰκείων οὐ προνοεῖ, τὴν πίστιν ἤρνηται καὶ ἔστιν ἀπίστου χείρων ("Wer aber für seine Verwandten, besonders für die eigenen Hausgenossen, nicht sorgt, der verleugnet damit den Glauben und ist schlimmer als ein Ungläubiger").<lb/>
+
+	Die wörtliche Entsprechung von arab. <hi xml:lang="ar-Latn">iḫwān</hi>, nämlich gr. <hi xml:lang="ar-Latn">adelphoi</hi> findet sich im Neuen Testament sogar noch häufiger (vgl. etwa Galater 6:1).</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	1 <hi rendition="bold">Αδελφοί</hi>, ἐὰν καὶ προλημφθῇ ἄνθρωπος ἔν τινι παραπτώματι, ὑμεῖς οἱ πνευματικοὶ καταρτίζετε τὸν τοιοῦτον ἐν πνεύματι πραΰτητος, σκοπῶν σεαυτὸν μὴ καὶ σὺ πειρασθῇς. 2 Ἀλλήλων τὰ βάρη βαστάζετε καὶ οὕτως ἀναπληρώσετε τὸν νόμον τοῦ Χριστοῦ. 3 εἰ γὰρ δοκεῖ τις εἶναί τι μηδὲν ὤν, φρεναπατᾷ ἑαυτόν. 4 τὸ δὲ ἔργον ἑαυτοῦ δοκιμαζέτω ἕκαστος, καὶ τότε εἰς ἑαυτὸν μόνον τὸ καύχημα ἕξει καὶ οὐκ εἰς τὸν ἕτερον• 5 ἕκαστος γὰρ τὸ ἴδιον φορτίον βαστάσει. 6 Κοινωνείτω δὲ ὁ κατηχούμενος τὸν λόγον τῷ κατηχοῦντι ἐν πᾶσιν ἀγαθοῖς. 7 Μὴ πλανᾶσθε, θεὸς οὐ μυκτηρίζεται. ὃ γὰρ ἐὰν σπείρῃ ἄνθρωπος, τοῦτο καὶ θερίσει• 8 ὅτι ὁ σπείρων εἰς τὴν σάρκα ἑαυτοῦ ἐκ τῆς σαρκὸς θερίσει φθοράν, ὁ δὲ σπείρων εἰς τὸ πνεῦμα ἐκ τοῦ πνεύματος θερίσει ζωὴν αἰώνιον. 9 τὸ δὲ καλὸν ποιοῦντες μὴ ἐγκακῶμεν, καιρῷ γὰρ ἰδίῳ θερίσομεν μὴ ἐκλυόμενοι. 10 Ἄρα οὖν ὡς καιρὸν ἔχομεν, ἐργαζώμεθα τὸ ἀγαθὸν πρὸς πάντας, μάλιστα δὲ πρὸς τοὺς <hi rendition="bold">οἰκείους τῆς πίστεως</hi>. 11 ἴδετε πηλίκοις ὑμῖν γράμμασιν ἔγραψα τῇ ἐμῇ χειρί. 12 Ὅσοι θέλουσιν εὐπροσωπῆσαι ἐν σαρκί, οὗτοι ἀναγκάζουσιν ὑμᾶς περιτέμνεσθαι, μόνον ἵνα τῷ σταυρῷ τοῦ Χριστοῦ μὴ διώκωνται. 13 οὐδὲ γὰρ οἱ περιτεμνόμενοι αὐτοὶ νόμον φυλάσσουσιν ἀλλὰ θέλουσιν ὑμᾶς περιτέμνεσθαι, ἵνα ἐν τῇ ὑμετέρᾳ σαρκὶ καυχήσωνται. 14 Ἐμοὶ δὲ μὴ γένοιτο καυχᾶσθαι εἰ μὴ ἐν τῷ σταυρῷ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, δι᾽ οὗ ἐμοὶ κόσμος ἐσταύρωται κἀγὼ κόσμῳ. 15 οὔτε γὰρ περιτομή τί ἐστιν οὔτε ἀκροβυστία ἀλλὰ καινὴ κτίσις. 16 καὶ ὅσοι τῷ κανόνι τούτῳ στοιχήσουσιν, εἰρήνη ἐπ᾽ αὐτοὺς καὶ ἔλεος καὶ ἐπὶ τὸν Ἰσραὴλ τοῦ θεοῦ. 17 Τοῦ λοιποῦ κόπους μοι μηδεὶς παρεχέτω• ἐγὼ γὰρ τὰ στίγματα τοῦ Ἰησοῦ ἐν τῷ σώματί μου βαστάζω. 18 Ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν, ἀδελφοί• ἀμήν.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Wenn einer sich zu einer Verfehlung hinreißen läßt, <hi rendition="bold">meine Brüder</hi>, so sollt ihr, die ihr vom Geist erfüllt seid, ihn im Geist der Sanftmut wieder auf den rechten Weg bringen. Doch gib acht, daß du nicht selbst in Versuchung gerätst. 2 Einer trage des anderen Last; so werdet ihr das Gesetz Christi erfüllen. 3 Wer sich einbildet, etwas zu sein, obwohl er nichts ist, der betrügt sich. 4 Jeder prüfe sein eigenes Tun. Dann wird er sich nur im Blick auf sich selbst rühmen können, nicht aber im Vergleich mit anderen. 5 Denn jeder wird seine eigene Bürde zu tragen haben. 6 Wer im Evangelium unterrichtet wird, lasse seinen Lehrer an allem teilhaben, was er besitzt. 7 Täuscht euch nicht: Gott läßt keinen Spott mit sich treiben; was der Mensch sät, wird er ernten. 8 Wer im Vertrauen auf das Fleisch sät, wird vom Fleisch Verderben ernten; wer aber im Vertrauen auf den Geist sät, wird vom Geist ewiges Leben ernten. 9 Laßt uns nicht müde werden, das Gute zu tun; denn wenn wir darin nicht nachlassen, werden wir ernten, sobald die Zeit dafür gekommen ist. 10 Deshalb wollen wir, solange wir noch Zeit haben, allen Menschen Gutes tun, besonders aber <hi rendition="bold">den Glaubensgenossen</hi>. 11 Seht, ich schreibe euch jetzt mit eigener Hand; das ist meine Schrift. 12 Jene Leute, die in der Welt nach Anerkennung streben, nötigen euch nur deshalb zur Beschneidung, damit sie wegen des Kreuzes Christi nicht verfolgt werden. 13 Denn obwohl sie beschnitten sind, halten sie nicht einmal selber das Gesetz; dennoch dringen sie auf eure Beschneidung, um sich dessen zu rühmen, was an eurem Fleisch geschehen soll. 14 Ich aber will mich allein des Kreuzes Jesu Christi, unseres Herrn, rühmen, durch das mir die Welt gekreuzigt ist und ich der Welt. 15 Denn es kommt nicht darauf an, ob einer beschnitten oder unbeschnitten ist, sondern darauf, daß er neue Schöpfung ist. 16 Friede und Erbarmen komme über alle, die sich von diesem Grundsatz leiten lassen, und über das Israel Gottes. 17 In Zukunft soll mir niemand mehr solche Schwierigkeiten bereiten. Denn ich trage die Zeichen Jesu an meinem Leib. 18 Die Gnade Jesu Christi, unseres Herrn, sei mit eurem Geist, meine Brüder. Amen</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 349. Mf. 379. (fol. 1-4) 24 Bl. Folio, 24-25 Z. (36x28,5; 33x25cm ). — Zustand: in der unteren Hälfte schadhaft am Rand und im Text, besonders f. 3; 4 , aber auch außerdem oben am Rücken im Text beschädigt; an vielen Stellen abgescheuert, namentlich f. 1b untere Hälfte, f. 2b; 3b; 4b. — Material: Pergament, dünn, gelb, glatt. — Einband: die einzelnen Blätter dieses Bandes sind mit weißem Papier in groß Folio durchschossen und mit diesem zu eiuem großen Pappband in Quer-Folio gebunden, der 36,5 x 41 cm ist. — Inhalt: Sure 31:3 bis 33:37. (F. 1: Sure 31:3 يوقنون bis 31:28 مسمى F. 2: Sure 31:28 وان ال‍له bis 32:24 ائمة يهدون F. 3: Sure 32:24 بامرنا bis 33:18 قد يعلم F. 4: Sure 33:18 المعوقون bis 33:37 يدون علي ) Schrift: groß, sehr dick, etwas hintenüberliegend, ziemlich flüchtig; an einigen besonders stark abgescheuerten Stellen kaum lesbar. — Zahl der Buchstaben in der Zeile ca. 31-33. Der Zwischenraum zwischen den einzelnen Buchstabengruppen ist im Durchschnitt 0,5 cm. Die Wörter können am Ende der Zeilen gebrochen werden. — Anfangs-ا ist unten nach rechts geschwungen, ع ist oben nach rechts sehr wenig gebogen, im Ganzen klein; Schluss-م hat auf der Linie einen kleinen Strich, ل u. ن gehen tief herab mit etwas nachlässiger Biegung (oder auch Rundung) nach links; Schluss-ى hat den Schwung nach links, öfter aber den dicht unter der Linie nach rechts ziemlich weithin gehenden Strich; ق hat jenen Schwung, nur etwas tiefer hinabreichend; ح im Worte erscheint öfters wie ein schräger Strich. د u. ك völlig gleich, undم ق ف  im Wort nicht recht zu unterscheiden. Diakritische Punkte nur wenig angebracht, in Form kleiner schräger Striche; ش hat 3 horizontale, ث drei Striche in der später üblichen Stellung. — Die Vokale sind nicht bezeichnet, ebenso wenig die Nunation; lang ā ist öfters nicht ausgedrückt. — Die Lesezeichen, wie Tašdīd, kommen nicht in Anwendung. — Die Versabteilung bezeichnet durch 5 kleine schräge Striche in 2 Reihen; größere Gruppen von ungefähr 10 Versen durch größere rote nachlässig gemachte Kreise abgeteilt. — Nicht Überschriften, sondern Unterchriften in kleiner schwarzer Schrift, mit vorgesetztem ختمة bloß Titel und Verszahl. — Randangaben für Einteilung des Textes nicht vorhanden.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Ms. or. fol. 379</idno>
+                        <altIdentifier>
+                            <idno>Ms. or. fol. 379 (Ahlwardt 349)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="487">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>358</height>
+                                        <width>270</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

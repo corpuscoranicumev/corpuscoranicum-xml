@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Babylonischer Talmud, Sanhedrin 108b</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 106.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>157</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Mesopotamien</origPlace>
+                            <origDate>vor 7. Jh. n. Chr. (Endredaktion)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Lazarus Goldschmidt (Übers.), Der Babylonische Talmud, Berlin 1930-36, Bd. 9, S. 125 f.</bibl>
+                <bibl>
+                    <edition>
+
+	Ausgabe Romm, Wilna 1880-86.</edition>
+                    <relatedItem>
+                        <bibl>011:040-011:047</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Sure 11:40-47 berichtet davon, wie Noahs Familie und die Gläubigen aufgefordert werden, die Arche zu betreten. Noah bittet seinen Sohn, einzusteigen und nicht mit den Ungläubigen zu sein (<hi xml:lang="ar-Latn">wa-lā takun maʿ al-kāfirīn</hi>). Noahs Sohn weigert sich aber und ertrinkt daher. Als Noah für seinen Sohn Fürsprache einlegt, wird er von Gott zurechtgewiesen, mit dem Hinweis, daß sein Sohn nicht zu seinen Leuten gehöre (<hi xml:lang="ar-Latn">laisa min ahlika</hi>). Wenngleich von der koranischen Erzählung inhaltlich verschieden, begegnet die Vorstellung vom Fehlverhalten eines der Nachkommen Noahs auch in der jüdischen und christlichen Literatur. Die dort zu findenden unterschiedlichen Behandlungen des Themas gehen letzlich auf Genesis 9:18-27 (TUK Nr. 0352) zurück, wo berichtet wird, daß Ham die Blöße seines Vaters Noah sieht, als dieser betrunken im Zelt liegt. Als Noah später davon erfährt, verflucht er Hams Sohn Kanaan. Diese Erzählung, die die spätere Rolle der Kanaaniter in der Hebräischen Bibel vorwegnimmt und erklärt, erfährt in der Folge verschiedene Interpretationen. So gehört laut dem hier zitierten Text aus dem Talmud Ham zu denen, die den in der Arche verbotenen Beischlaf vollziehen und dafür bestraft werden. Die christlichen Interpretationen des Textes betonen dann nicht mehr nur das Fehlverhalten Hams, bzw. Kanaans, sondern heben vor allem dessen religiöse Mangelhaftigkeit hervor. So werden im Kommentar zum Buch Genesis des Origenes (TUK Nr. 0161) Kanaan und Ham als gottlos (<hi xml:lang="ar-Latn">ἀσεβὴς</hi>) bezeichnet und der Frömmigkeit der anderen Brüder gegenübergestellt. Bei Augustinus, Über den Gottesstaat ( TUK Nr. 0140), wird Ham zum Sinnbild des Häretikers (<hi xml:lang="ar-Latn">significat nisi haereticorum genus</hi>). Bei der Erzählung im Koran dagegen handelt es sich um kein Sinnbild; der Fehler von Noahs Sohn besteht ganz wörtlich darin, nicht in der Arche mitzufahren. Diese Weigerung erscheint aber nicht einfach als simple, wenn auch folgenschwere Fehlentscheidung, sondern wird durch den Verweis auf Noahs Bitte an seinen Sohn, nicht mit den Ungläubigen zu sein, und auf Gottes Aussage, Noahs Sohn gehöre nicht zu Noahs Leuten, auch als religiöse Verfehlung charakterisiert. In dieser Interpretation könnte die koranische Erzählung frühere Traditionen reflektieren, die Ham, bzw. Kanaan als ungläubig darstellen.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-arc" type="orig">
+                <body>
+                    <p>
+
+	וישלח את הערב, אמר ריש לקיש: תשובה ניצחת השיבו עורב לנח, אמר לו: רבך שונאני ואתה שנאתני. רבך שונאני - מן הטהורין שבעה, מן הטמאים שנים. ואתה שנאתני - שאתה מניח ממין שבעה ושולח ממין שנים, אם פוגע בי שר חמה או שר צנה לא נמצא עולם חסר בריה אחת? או שמא לאשתי אתה צריך? אמר לו: רשע: במותר לי נאסר לי - בנאסר לי לא כל שכן. ומנלן דנאסרו - דכתיב ובאת אל התבה אתה ובניך ואשתך ונשי בניך אתך, וכתיב צא מן התבה אתה ואשתך ובניך ונשי בניך אתך, ואמר רבי יוחנן: מיכן אמרו שנאסרו בתשמיש המטה. תנו רבנן: <hi rendition="bold"> שלשה שמשו בתיבה, וכולם לקו: כלב, ועורב, וחם. כלב - נקשר, עורב - רק, חם - לקה בעורו. </hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	"Da schickte er den Raben aus." [Genesis 8:7] Reš Laqiš sagte: Eine treffende Antwort gab der Rabe dem Noah; er sprach nämlich zu ihm: Dein Herr hasst mich und du hasst mich ebenfalls; dein Herr haßt mich: von den Reinen je sieben und von den Unreinen je zwei; du hassest mich ebenfalls, denn du läßt die Arten, von denen je sieben vorhanden sind, und schickst, von denen nur je zwei vorhanden sind. Wenn mich der Fürst der Hitze oder der Fürst der Kälte anfährt, so fehlt ja ein Geschöpf auf der Welt; oder hast du vielleicht Verlangen nach meinem Weibe? Er erwiderte ihm: Ruchloser, wenn mir der [sonst] erlaubte [Verkehr] verboten worden ist, um wieviel mehr der mir [auch sonst] verbotene. - Woher, daß es ihm verboten war? - Es heißt: "Du sollst in die Arche kommen, du und mit dir deine Söhne, deine Frau und die Frauen deiner Söhne" [Genesis 6:18], und darauf folgt: "Geh heraus aus der Arche, du und mit dir deine Frau, deine Söhne und die Frauen deiner Söhne" [Genesis 8:16], und Rabbi Jochanan sagte, hieraus sei zu entnehmen, daß ihnen der Beischlaf verboten worden war. Die Rabbanan lehrten: <hi rendition="bold">Drei vollzogen den Beischlaf in der Arche und alle wurden bestraft, und zwar: der Hund, der Rabe und Cham. Der Hund wird angekettet, der Rabe spuckt, und Cham wurde an seiner Haut bestraft.</hi>
+                    </p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

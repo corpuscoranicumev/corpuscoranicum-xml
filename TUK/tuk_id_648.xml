@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht über das Weltende</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Yousef Kouriyhe</persName>
+                    <name>David Kiltz</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>648</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis/ Edessa</origPlace>
+                            <origDate>vor 521 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	Paul Bedjan, Homiliae Selectae Mar-Jacobi Sarugensis, Band 5, Paris 1910, S. 836- 856. (Gedicht über das Ende (der Welt), S. 850-51)</edition>
+                    <relatedItem>
+                        <bibl/>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">yaum ad-dīn</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Der Begriff <hi xml:lang="ar-Latn">yūm dīnā</hi> (so im Syrischen) als Bezeichnung für den Tag des Jüngsten Gerichts findet sich sowohl im christlichen als auch jüdischen Schrifttum. Besonders prominent ist er aber in nachbiblischen christlichen Texten. Sprachlich entspricht dem das koranische <hi xml:lang="ar-Latn">yaum ad-dīn</hi> genau.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	ܗܐ ܝܘܡ ܕܝܢܐ ܬܠܐ ܟܣܝܐܝܬ ܠܥܠ ܡܢ ܪܫܢ: ܘܠܐ ܐܢܫ ܝܕܥ ܠܐܡܬܝ ܪܟܢ ܐܦ ܨܦܚ ܠܢ܀ ܗܐ ܫܘܠܡܐ ܒܬܪܥܐ ܩܐܡ ܘܡܣܟܐ ܠܢ: ܘܠܐ ܝܕܥܝܢܢ ܒܐܝܕܐ ܫܥܐ ܠܘܬܢ ܥܐܠ܀</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Siehe! Der Tag des (jüngsten) Gerichtes hängt verborgen über unseren Köpfen.<lb/>
+
+	Und niemand weiß, wann er hinabkommt und auf uns stürzt.<lb/>
+
+	Siehe! Das Ende steht vor der Tür und wartet auf uns.<lb/>
+
+	Und wir wissen nicht, zu welcher Stunde es bei uns eintritt.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 361. We. 1955b . 1 Bl. vo, 11 Z. (15,75 x 13; 11 x 8cm ). — Zustand: unsauber, fleckig, auch etwas brüchig. — Material : Papier, gelb, stark, glatt. — Einband: roter Kattunband. — Inhalt: Sure 47:38 انما bis 48:4 ‍وكان ا‌‍لله Schrift: ziemlich groß, ohne die sonst in der Schrift übliche dicke Form; auf der Übergangsstufe zum Nasḫī oder vielmehr zum Maġribī. — Die Buchstabenzahl der Zeilen ist ungefähr 21. — Der Raum zwischen den einzelnen Buchstabengruppen ist etwa 0,3 cm — Wörterbrechung am Ende der Zeilen findet nicht statt. — Die Köpfe der Buchstaben sind hohl; das Schluss-ن hat eine schwungvolle Rundung nach links, Schluss-ل steht bisweilen auf der Linie, geht aber meistens ziemlich weit unter die Linie mit kleiner Rundung herab. Anfangs–ا  ist ein gerader Strich, mit Ansatz oben, م hat einen längeren Strich nach unten, ع im Anfang der Wörter hat oben nach rechts hin eine größere Rundung. — Die diakritischen Punkte sind gesetzt; die Vokale mit roten Punkten in üblicher Weise bezeichnet, die Nunation durch 2 übereinander stehende Punkte. — Von den Lesezeichen ist Tašdīd durch kleines س (ohne den Zug am Ende) grün, Madda durch einen längeren grünen Strich, die übrigen gar nicht bezeichnet, nur ist das vokallose Hamza bei vorhergehendem u-Vokal (z. B. in المؤمنين) durch das später übliche Hamza-Zeichen ausgedrückt. — Die Versabteilungen sind durch einen größeren gelben Punkt kenntlich. — Die Überschrift, in derselben Größe wie der Text, rot, bloßer Titel nebst Angabe der Verszahl. — Neben dem Anfang der Sure steht am Rand ein verzierter Kreis.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Wetzstein II 1955b</idno>
+                        <altIdentifier>
+                            <idno>Wetzstein II 1955b (Ahlwardt 361)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="477">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Papier</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>158</height>
+                                        <width>127</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="11">
+                                    <p>Die Seiten enthalten 11 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

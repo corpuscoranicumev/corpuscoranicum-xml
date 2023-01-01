@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gebet zum Fest der Geburt der Gottesmutter Maria</title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>David Kiltz</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>64</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nordmesopotamien</origPlace>
+                            <origDate>vor 521</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	Panqītā d-dukrānē d-qaddīšē w-sāhdē wa-d-ʿadʿīdē ʿam d-Yāldat Allāhā Maryam [Sammelband der Heiligen- und Märtyrergedenken sowie der Feste mit der Gottesmutter Maria], Handschrift (1982) im Besitz der syrisch-orthodoxen Kirche St. Jakob (Berlin), S. 46 f.</edition>
+                    <relatedItem>
+                        <bibl>003:035</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+Vgl. die Anmerkung in TUK 0058.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>ܐܬܝܠܕܬ ܗܘܬ ܒܬܘܠܬܐ ܡܪܝܡ ܡܢ ܥܩܪܘܬܐ ܠܐ̱ܢ̈ܫܐ ܟ̈ܐܢܐ ܕܒܬܟܫܦܬܐ ܠܡܪܝܐ ܒܥܐܘܗܿ ܘܐܓܥܠܘ ܝܗܒܘܗܿ ܠܒܝܬ ܐܠܗܐ ܐܝܟ ܫܘܘܕܳܝܗܘܢ ܘܐܫܬܡܠܝ ܗܘܐ ܩܝܡܐ ܕܐܩܝܡܘ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Die Jungfrau Maria wurde von der Unfruchtbaren geboren. Es waren rechtschaffene Leute, die sie flehentlich von Gott erbeten hatten. Sie übergaben sie und überließen sie dem Haus Gottes, so wie sie es versprochen hatten. Und so erfüllte sich das gegebene Versprechen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

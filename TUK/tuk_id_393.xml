@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1. Brief an die Korinther 8:1-13</title>
+                <principal>
+                    <persName>Manolis Ulbricht</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Johann-Dietrich Thyen</persName>
+                    <name>Bibel und Koran. Eine Synopse gemeinsamer Überlieferungen, Köln 2000, S. 224-227.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>393</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Ephesus</origPlace>
+                            <origDate>ca. 55 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>005:003-005:005; 016:114-016:115; 006:145; 002:173</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Paulus gestattet den Verzehr von Opferfleisch, solange man sich bewusst sei, dass es keine Götzen gebe. Der Koran hingegen schreibt kategorisch vor, Fleisch nur dann zu essen, wenn der Name Gottes beim Schlachten angerufen wurde. In der Apostelgeschichte wird der Genuß von Opferfleisch ebenfalls völlig abgelehnt (vgl. Intertext Nr. 271).</p>
+                    <p>
+
+	MM ALTERNATIV:</p>
+                    <p>
+
+	Paulus gestattet den Verzehr von Opferfleisch im Bewusstsein, dass es keine Götzen gebe. Er weist allerdings darauf hin, dass andere Christen daran Anstoss nehmen könnten, wenn sie sehen, dass ein Christ Götzenopferfleisch verzehrt; eine solche Handlung gegenüber den Mitbrüdern betrachtet Paulus als Sünde, weshalb er selbst kein Fleisch (gemeint ist wohl Götzenopferfleisch, nicht der Fleischverzehr allgemein) essen will. Auch in der Apostelgeschichte wird der Genuß von Opferfleisch abgelehnt (TUK 0271). Die beiden koranischen Textpassagen verbieten den Fleischverzehr von Schweinen, von verendeten, erstickten, getöteten oder durch Tiere getötete Tiere. Ebenfalls darf kein Fleisch verzehrt werden, wenn es einer anderen Gottheit "als [dem einen] Gott gewidmet wurde" (arab. <hi xml:lang="ar-Latn">wa-ma uhilla li-gairi llahi</hi>). Fleisch, das auf einem "Opferstein" oder für eine "Götterstatue" (der arabische Begriff <hi xml:lang="ar-Latn">nasb</hi> - hier in der Pluralform <hi xml:lang="ar-Latn">nusub</hi> - bedeutet beides) darf von den Gläubigen nicht verzehrt werden. Auf welche Kultpraktiken sich die Verbote genau beziehen, ist im Text nicht erkennbar, das Verbot der Auslosung [des Fleisches] durch Lospfeile ("und dass ihr durch Pfeile auslost" arab. <hi xml:lang="ar-Latn">wa-'an tastaqimu bi-l-'azlam</hi>) deutet auf altarabische Rituale oder Kulte. Sowohl in Q 5:3 als auch in Q 16:115 ist dieses Verbot nicht für denjenigen wirksam, "der sich in einer Notlage befindet" (arab.: <hi xml:lang="ar-Latn">wa-mani dturra</hi>).</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	1 Περὶ δὲ τῶν εἰδωλοθύτων, οἴδαμεν ὅτι πάντες γνῶσιν ἔχομεν. ἡ γνῶσις φυσιοῖ, ἡ δὲ ἀγάπη οἰκοδομεῖ• 2 εἴ τις δοκεῖ ἐγνωκέναι τι, οὔπω ἔγνω καθὼς δεῖ γνῶναι• 3 εἰ δέ τις ἀγαπᾷ τὸν θεόν, οὗτος ἔγνωσται ὑπ᾽αὐτοῦ. 4 Περὶ τῆς βρώσεως οὖν τῶν εἰδωλοθύτων, οἴδαμεν ὅτι οὐδὲν εἴδωλον ἐν κόσμῳ καὶ ὅτι οὐδεὶς θεὸς εἰ μὴ εἷς. 5 καὶ γὰρ εἴπερ εἰσὶν λεγόμενοι θεοὶ εἴτε ἐν οὐρανῷ εἴτε ἐπὶ γῆς, ὥσπερ εἰσὶν θεοὶ πολλοὶ καὶ κύριοι πολλοί, 6 ἀλλ᾽ἡμῖν εἷς θεὸς ὁ πατὴρ ἐξ οὗ τὰ πάντα καὶ ἡμεῖς εἰς αὐτόν, καὶ εἷς κύριος Ἰησοῦς Χριστὸς δι᾽οὗ τὰ πάντα καὶ ἡμεῖς δι᾽αὐτοῦ. 7 Ἀλλ᾽οὐκ ἐν πᾶσιν ἡ γνῶσις• τινὲς δὲ τῇ συνηθείᾳ ἕως ἄρτι τοῦ εἰδώλου ὡς εἰδωλόθυτον ἐσθίουσιν, καὶ ἡ συνείδησις αὐτῶν ἀσθενὴς οὖσα μολύνεται. 8 βρῶμα δὲ ἡμᾶς οὐ παραστήσει τῷ θεῷ• οὔτε ἐὰν μὴ φάγωμεν ὑστερούμεθα, οὔτε ἐὰν φάγωμεν περισσεύομεν. 9 βλέπετε δὲ μή πως ἡ ἐξουσία ὑμῶν αὕτη πρόσκομμα γένηται τοῖς ἀσθενέσιν. 10 ἐὰν γάρ τις ἴδῃ σὲ τὸν ἔχοντα γνῶσιν ἐν εἰδωλείῳ κατακείμενον, οὐχὶ ἡ συνείδησις αὐτοῦ ἀσθενοῦς ὄντος οἰκοδομηθήσεται εἰς τὸ τὰ εἰδωλόθυτα ἐσθίειν; 11 ἀπόλλυται γὰρ ὁ ἀσθενῶν ἐν τῇ σῇ γνώσει, ὁ ἀδελφὸς δι᾽ὃν Χριστὸς ἀπέθανεν. 12 οὕτως δὲ ἁμαρτάνοντες εἰς τοὺς ἀδελφοὺς καὶ τύπτοντες αὐτῶν τὴν συνείδησιν ἀσθενοῦσαν εἰς Χριστὸν ἁμαρτάνετε. 13 διόπερ εἰ βρῶμα σκανδαλίζει τὸν ἀδελφόν μου, οὐ μὴ φάγω κρέα εἰς τὸν αἰῶνα, ἵνα μὴ τὸν ἀδελφόν μου σκανδαλίσω.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Nun zur Frage des Götzenopferfleisches. Gewiss, wir alle haben Erkenntnis. Doch die Erkenntnis macht aufgeblasen, die Liebe dagegen baut auf. 2 Wenn einer meint, er sei zur Erkenntnis gelangt, hat er noch nicht so erkannt, wie man erkennen muss. 3 Wer aber Gott liebt, der ist von ihm erkannt. 4 Was nun das Essen von Götzenopferfleisch angeht, so wissen wir, dass es keine Götzen gibt in der Welt und keinen Gott außer dem einen. 5 Und selbst wenn es im Himmel oder auf der Erde sogenannte Götter gibt - und solche Götter und Herren gibt es viele -, 6 so haben doch wir nur einen Gott, den Vater. Von ihm stammt alles und wir leben auf ihn hin. Und einer ist der Herr: Jesus Christus. Durch ihn ist alles, und wir sind durch ihn. <hi rendition="strong">7 Aber nicht alle haben die Erkenntnis. Einige, die von ihren Götzen nicht loskommen, essen das Fleisch noch als Götzenopferfleisch und so wird ihr schwaches Gewissen befleckt.</hi>
+                        <hi rendition="strong">8 Zwar kann uns keine Speise vor Gottes Gericht bringen. Wenn wir nicht essen, verlieren wir nichts, und wenn wir essen, gewinnen wir nichts. </hi>9 Doch gebt Acht, dass diese eure Freiheit nicht den Schwachen zum Anstoß wird. <hi rendition="strong">10 Wenn nämlich einer dich, der du Erkenntnis hast, im Götzentempel beim Mahl sieht, wird dann nicht sein Gewissen, da er schwach ist, verleitet, auch Götzenopferfleisch zu essen?</hi> 11 Der Schwache geht an deiner «Erkenntnis» zugrunde, er, dein Bruder, für den Christus gestorben ist. 12 Wenn ihr euch auf diese Weise gegen eure Brüder versündigt und ihr schwaches Gewissen verletzt, versündigt ihr euch gegen Christus. 13 Wenn darum eine Speise meinem Bruder zum Anstoß wird, will ich überhaupt kein Fleisch mehr essen, um meinem Bruder keinen Anstoß zu geben.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

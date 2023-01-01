@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht über die Bestrafung von Pharao und der Ṯamūd (Nr. 34:1-10 Schulthess)</title>
+                <principal>
+                    <persName>Nicolai Sinai (Texterfassung: Daria Zadorojnaia</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>613</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Aṭ-Ṭāʾif (Ḥiǧāz)</origPlace>
+                            <origDate>Anfang 7. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 100-101 (V. 5 modifiziert).</bibl>
+                <bibl>
+                    <edition>Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 42-43;<lb/>Bahǧa ʿAbdalġafūr al-Ḥadīṯī, Umayya ibn abī ṣ-Ṣalt: Ḥayātuhū wa-šiʿruhū, Bagdad 1975, S. 208-210.</edition>
+                    <relatedItem>
+                        <bibl>002:164; 006:142-006:144; 016:066; 016:068-016:069; 023:021; 031:010; 042:029; 045:004; 088:017</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Vgl. Intertexte Nr. 524 und Nr. 525 mit Anmerkungen.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>١ مَجِّدوا اللهَ وَهْوَ لِلْمَجْدِ أهْلٌ     رَبُّنا في السَماءِ امسى كَبيرا<lb/>٢ ذلك الـمُنشيءُ الحِجارةِ والـمَوْ     تَى وأَحْياهمُ وكان جَديرا<lb/>٣ بالبِناءِ الأَعْلَى الذي سَبَقَ النا     ـسَ وسوَّى فوق السماءِ سَريرا<lb/>٤ شَرْجَعاً لا يَنالُه بَصَرُ النا     ـسِ تَرَى دونه الـمَلائِكَ صُوراً<lb/>٥ هو أَبْدَى لكُلِّ ما يَأْثِرُ النا     ـسُ أماثيلَ باقياتٍ سُفورَا<lb/>٦ خَلَقَ النَحلَ مُصْعِداتٍ تَراها     تَعْصِفُ اليابِساتِ و اليَخضورا<lb/>٧ والتّماسيحَ والثَّياتِلَ و الإِ     يَّل شَتَّى والرِئمَ واليَعْفورا<lb/>٨ وصِوارًا من النَواشِط عيناً     ونَعاماً خَواضِباً و حَميرا<lb/>٩ وأُسوداً عَوادِياً وفُيولاً     وذِئاباً والوَحْشَ والخِنْزيرا<lb/>١٠ ودُيوكاً تَدعو الغُرابَ لِصُلْح     وإِوَزّينَ أُحْرِجَتْ وصُقورا</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>1. Lobet Gott, denn er ist des Lobes würdig, der Herr im Himmel ist gross;<lb/>2. der die Steine und die Toten erweckt und sie belebt. Er, der würdig ist<lb/>3. des hohen Baues; der den Menschen zuvorkam und über dem Himmel einen Thronsessel errichtete,<lb/>4. einen Thron, den der menschliche Blick nicht erreicht, und unter dem man die Engel mit gebeugtem Nacken sieht.<lb/>5. Er brachte für Jegliches, was die Menschen wertschätzen, beständige Abbilder hervor, die er enthüllte.<lb/>6. Er schuf die Bienen, die emporfliegen und die man das Dürre und das Grüne einheimsen sieht,<lb/>7. und die Krokodile und die Bergantilopen und den Berggeißbock, eines verschieden vom andern, und die Oryxantilope und die graue Gazelle,<lb/>8. und eine Herde von ausgelassenen Bergrindern mit ihren großen Augen, und Straussen mit rötlich gefärbten Beinen, und Esel,<lb/>9. und angriffslustige Löwen, und Elefanten und (Schakal-)Wölfe, und das Wild und das Schwein,<lb/>10. und Hähne, dass sie den Raben zum Frieden riefen, und die zusammengepferchten Gänse, und Falken.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

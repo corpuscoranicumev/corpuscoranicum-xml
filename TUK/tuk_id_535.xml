@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht über das Weltende und den Tag des Gerichtes</title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>535</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis / Edessa</origPlace>
+                            <origDate>vor 521 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	Paul Bedjan, Homiliae Selectae Mar-Jacobi Sarugensis, Band 1, Paris 1905, S. 719.</edition>
+                    <relatedItem>
+                        <bibl>024:024; 036:065; 041:020-041:022</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die Körper bzw. Glieder der zu Richtenden werden im Gedicht des Jakob von Sarug als "wie Buchrollen" beschrieben, auf denen die Taten des jeweiligen Individuums stehen. Ähnlich heißt es auch in Q 41:20-22, dass die Haut der Menschen, aber auch das Gehör und die Blicke von ihren Taten Zeugnis ablegen. Auch in Q 24:24 ist von Zungen, Händen und Füßen, in Q 36:65 lediglich von Händen und Füßen die Rede, die Zeugnis ablegen. Im zuletzt genannten Vers wird jedoch explizit hervorgehoben, dass die Münder dabei versiegelt sind. Im vorliegenden Text ist dies nicht der Fall, der Mensch sieht sich gezwungen, seine Missetaten zu rufen und aufzuzählen.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	ܣܦܪܐ ܝܠܦ ܟܠܢܫ ܢܐܬܐ ܐܝܟ ܕܗܘ ܒܦܘܡܗ: ܢܩܥܐ ܘܢܣܕܘܪ ܡܕܡ ܕܛܥܐ ܡܢ ܟܐܢܘܬܐ܀ ܠܐ ܫܒܩܝܢ ܠܗ ܕܡܢ ܢܘܟܪ̈ܝܐ ܥܒܕ̈ܘܗܝ ܢܫܡܥ: ܐܠܐ ܗܘ ܠܗ ܩܕܡܘܗܝ ܡܦܪܣܐ ܘܩܕܡ ܟܠܢܫ܀ ܕܡܝܢ ܦܓܪ̈ܐ ܕܒܢܝܢ̈ܫܐ ܩܕܡ ܟܐܢܘܬܐ: ܠܡܓ̈ܠܬܐ ܕܒܗܝܢ ܟܬܝܒܝܢ ܟܠ ܣܘܥܪ̈ܢܝܢ܀ ܠܒܪ ܡܢ ܣܓܪ̈ܐ ܥܒܕ̈ܐ ܩܝܡܝܢ ܒܟܬܝ̈ܒܬܐ: ܛܒ̈ܐ ܘܒܝ̈ܫܐ ܥܠ ܗܕ̈ܡܐ ܕܥܒܕܝܗܘܢ܀</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Die Schrift lehrt, dass jeder Mensch [zum Jüngsten Gericht] kommen wird indem er mit seinem eigenen Mund laut aufzählen wird, worin er vom rechten Handeln abgewichen ist. Es wird nicht zugelassen, dass er seine Taten von Fremden hört; <hi rendition="bold">er soll sie vielmehr vor sich selbst und vor allen Menschen offenkundig machen.<lb/>
+
+	Im Angesicht der Gerechtigkeit gleichen die Körper der Menschen Schriftrollen, auf denen alle ihre Taten verzeichnet sind. </hi> Ohne Ausnahme stehen die Taten aufgeschrieben: gute wie schlechte auf den Gliedern derer, die sie getan haben.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

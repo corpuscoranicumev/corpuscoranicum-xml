@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Psalm 52:1-11</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>267</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Endredaktion des Psalters)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>108:003</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>abtar</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die an Muhammad gerichtete Zusage, "dein Hasser ist der Abgeschnittene" (Q 108:3), erinnert an das Drohwort aus Psalm 52:7. Auch wenn es sich hierbei sicherlich nicht um eine direkte Anspielung handelt, so ist doch das allgemeine Motiv des Abschneidens, Herausreißens, Entwurzelns etc. biblisch. Es sei jedoch bemerkt, dass das genaue semantische Feld des Begriffes <hi xml:lang="ar-Latn">ʾabtar</hi> nicht völlig geklärt ist. Interessanterweise findet sich in thamudischen Inschriften die Bezeichnung <hi xml:lang="ar-Latn">hʾlh ʾbtr</hi>, welches möglicherweise als <hi xml:lang="ar-Latn">ha-ʾilāhu ʾabtar</hi> zu vokalisieren ist, wobei <hi xml:lang="ar-Latn">ha-ʾilāh</hi> vielleicht mit dem thamudischen bestimmten Artikel <hi xml:lang="ar-Latn">ha-</hi> späterem bzw. einer anderen arabischen Dialektgruppe angehörendem <hi xml:lang="ar-Latn">al-ʾilāh &gt; allāh</hi> entspricht. Wie <hi xml:lang="ar-Latn">ʾabtar</hi> in diesem Kontext zu deuten ist bleibt offen - immerhin zeigt es aber die lange Laufzeit des Begriffes ʾ<hi xml:lang="ar-Latn">abtar</hi> auch im religiösen Kontext. Vgl. dazu TUK 0608.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	לַמְנַצֵּחַ מַשְׂכִּיל לְדָוִד : בְּבוֹא דּוֹאֵג הָאֲדֹמִי וַיַּגֵּד לְשָׁאוּל וַיֹּאמֶר לוֹ בָּא דָוִד אֶל־בֵּית אֲחִימֶלֶךְ : מַה־תִּתְהַלֵּל בְּרָעָה הַגִּבּוֹר חֶסֶד אֵל כָּל־הַיּוֹם : הַוּוֹת תַּחְשֹׁב לְשׁוֹנֶךָ כְּתַעַר מְלֻטָּשׁ עֹשֵׂה רְמִיָּה : אָהַבְתָּ רָּע מִטּוֹב שֶׁקֶר מִדַּבֵּר צֶדֶק סֶלָה : אָהַבְתָּ כָל־דִּבְרֵי־בָלַע לְשׁוֹן מִרְמָה : <hi rendition="bold"> גַּם־אֵל יִתָּצְךָ לָנֶצַח יַחְתְּךָ וְיִסָּחֲךָ מֵאֹהֶל וְשֵׁרֶשְׁךָ מֵאֶרֶץ חַיִּים סֶלָה </hi> : וְיִרְאוּ צַדִּיקִים וְיִירָאוּ וְעָלָיו יִשְׂחָקוּ : הִנֵּה הַגֶּבֶר לֹא יָשִׂים אֱלֹהִים מָעוּזּוֹ וַיִּבְטַח בְּרֹב עָשְׁרוֹ יָעֹז בְּהַוָּתוֹ : וַאֲנִי כְּזַיִת רַעֲנָן בְּבֵית אֱלֹהִים בָּטַחְתִּי בְחֶסֶד־אֱלֹהִים עוֹלָם וָעֶד : אוֹדְךָ לְעוֹלָם כִּי עָשִׂיתָ וַאֲקַוֶּה שִׁמְךָ כִי־טוֹב נֶגֶד חֲסִידֶיךָ :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 [Für den Chormeister. Ein Weisheitslied Davids, 2 als der Edomiter Doëg zu Saul kam und ihm meldete: David ist in das Haus des Ahimelech gegangen.] 3 Was rühmst du dich deiner Bosheit, du Mann der Gewalt, / was prahlst du allzeit vor dem Frommen? 4 Du Ränkeschmied, du planst Verderben; / deine Zunge gleicht einem scharfen Messer. 5 Du liebst das Böse mehr als das Gute / und Lüge mehr als wahrhaftige Rede. [Sela] 6 Du liebst lauter verderbliche Worte, / du tückische Zunge. <hi rendition="bold">7 Darum wird Gott dich verderben für immer, / dich packen und herausreißen aus deinem Zelt, / dich entwurzeln aus dem Land der Lebenden.</hi> [Sela] 8 Gerechte werden es sehen und sich fürchten; / sie werden über ihn lachen und sagen: 9 «Seht, das ist der Mann, / der nicht zu Gott seine Zuflucht nahm; auf seinen großen Reichtum hat er sich verlassen / und auf seinen Frevel gebaut.» 10 Ich aber bin im Haus Gottes wie ein grünender Ölbaum; / auf Gottes Huld vertraue ich immer und ewig. 11 Ich danke dir, Herr, in Ewigkeit; / denn du hast das alles vollbracht. Ich hoffe auf deinen Namen im Kreis der Frommen; / denn du bist gütig.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

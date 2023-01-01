@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Michael Marx</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>011:014-011:024   Ein Foto des Fragmentes findet man bei Déroche (S. 30)<lb/> Die Handschrift bildet zusammen mit vier anderen Fragmentgruppen den "Codex Parisino-Petropolitanus" (Paris 328 (a), Paris 328 (b), Marcel 18, Vatikan 1605.1, Khalili KFQ 60), vgl. dazu Déroche, Codex. Insgesamt sind 98 Blatt bekannt, welche ursprünglich aus dem gleichen Kodex stammen und die zusammen ca. 45 % des Gesamttextes dokumentieren. Der Text auf dem vatikanische Blatt endet genau an der Stelle, an welcher der Text auf dem Khalili-Fragment beginnt.</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>England</country>
+                        <settlement>London</settlement>
+                        <institution> Nasser D. Khalili Collection of Islamic Art</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. London KFQ 60</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="83">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Codex">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament, Haarseite recto</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>325</height>
+                                        <width>205</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p>Wörter werden duch Zeilenumbruch getrennt<lb/> Verse<lb/> 6 Punkte als Trenner, Anordnung der Punkte wie auf einem Würfel: jeweils drei Punkte oben und unten. Ein Sondertrenner bei Vers 20 (Kairo 21)</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	François Déroche, The Abbasid Tradition, New York 1992, S. 28.<lb/>
+	Yasin Dutton 2007,85,3;
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

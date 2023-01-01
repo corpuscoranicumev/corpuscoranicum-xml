@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Exodus 4:10-16</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 260-261.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>163</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung (mit "Moses" statt "Mose")</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>020:025-020:036; 025:035; 026:012-026:013; 026:015; 028:034-028:035</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Wie die hier zitierte Stelle aus dem Buch Exodus berichtet auch der Koran, daß Gott Moses seinen Bruder Aaron zur Unterstützung mitgibt. Das Gespräch zwischen Gott und Moses gestaltet sich jedoch jeweils unterschiedlich. Im Buch Exodus versucht Moses, Gott zu überreden, doch lieber einen anderen an seiner Stelle zu schicken. Dagegen nimmt Moses im Koran seinen Auftrag grundsätzlich an, fühlt sich aber nicht in der Lage, diesen alleine auszuführen und bittet daher Gott um Unterstützung und um die Mitentsendung seines Bruders. Auch ist im Koran nicht vom Zorn Gottes gegen Moses die Rede. Stattdessen wird mehr die Gnade Gottes hervorgehoben, die dieser Moses in der Gewährung seiner Bitte erwiesen hat.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיֹּאמֶר מֹשֶׁה אֶל־יְהוָה בִּי אֲדֹנָי לֹא אִישׁ דְּבָרִים אָנֹכִי גַּם מִתְּמוֹל גַּם מִשִּׁלְשֹׁם גַּם מֵאָז דַּבֶּרְךָ אֶל־עַבְדֶּךָ כִּי כְבַד־פֶּה וּכְבַד לָשׁוֹן אָנֹכִי : וַיֹּאמֶר יְהוָה אֵלָיו מִי שָׂם פֶּה לָאָדָם אוֹ מִי־יָשׂוּם אִלֵּם אוֹ חֵרֵשׁ אוֹ פִקֵּחַ אוֹ עִוֵּר הֲלֹא אָנֹכִי יְהוָה : וְעַתָּה לֵךְ וְאָנֹכִי אֶהְיֶה עִם־פִּיךָ וְהוֹרֵיתִיךָ אֲשֶׁר תְּדַבֵּר : וַיֹּאמֶר בִּי אֲדֹנָי שְׁלַח־נָא בְּיַד־תִּשְׁלָח : וַיִּחַר־אַף יְהוָה בְּמֹשֶׁה וַיֹּאמֶר הֲלֹא אַהֲרֹן אָחִיךָ הַלֵּוִי יָדַעְתִּי כִּי־דַבֵּר יְדַבֵּר הוּא וְגַם הִנֵּה־הוּא יֹצֵא לִקְרָאתֶךָ וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ : וְדִבַּרְתָּ אֵלָיו וְשַׂמְתָּ אֶת־הַדְּבָרִים בְּפִיו וְאָנֹכִי אֶהְיֶה עִם־פִּיךָ וְעִם־פִּיהוּ וְהוֹרֵיתִי אֶתְכֶם אֵת אֲשֶׁר תַּעֲשׂוּן : וְדִבֶּר־הוּא לְךָ אֶל־הָעָם וְהָיָה הוּא יִהְיֶה־לְּךָ לְפֶה וְאַתָּה תִּהְיֶה־לּוֹ לֵאלֹהִים :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	10 Doch Moses sagte zum Herrn: Aber bitte, Herr, ich bin keiner, der gut reden kann, weder gestern noch vorgestern, noch seitdem du mit deinem Knecht sprichst. Mein Mund und meine Zunge sind nämlich schwerfällig. 11 Der Herr entgegnete ihm: Wer hat dem Menschen den Mund gegeben und wer macht taub oder stumm, sehend oder blind? Doch wohl ich, der Herr! 12 Geh also! Ich bin mit deinem Mund und weise dich an, was du reden sollst. 13 Doch Moses antwortete: Aber bitte, Herr, schick doch einen andern! 14 Da entbrannte der Zorn des Herrn über Moses und er sprach: Hast du nicht noch einen Bruder, den Leviten Aaron? Ich weiß, er kann reden; außerdem bricht er gerade auf und wird dir begegnen. Wenn er dich sieht, wird er sich von Herzen freuen. 15 Sprich mit ihm und leg ihm die Worte in den Mund! Ich aber werde mit deinem und seinem Mund sein, ich werde euch anweisen, was ihr tun sollt, 16 und er wird für dich zum Volk reden. Er wird für dich der Mund sein und du wirst für ihn Gott sein.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

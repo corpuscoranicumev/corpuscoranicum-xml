@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lāmiyyat al-ʿArab</title>
+                <principal>
+                    <persName>Ghassan El-Masri</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>709</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace> Stamm der ʿAzd in Sabaʾ, Ḥimyar, eventuell ʿUmān, als Ṣuʿlūk war der Dichter auch im Ḥiǧāz </origPlace>
+                            <origDate>ca. 525 n. Chr. (um 70 vor der Hiǧra)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Ghassan El-Masri (vgl. Toshihiko Izutsu, God and Man in the Quran, Kuala Lumpur 2002, S. 63; Michael A. Sells, Desert Tracings, Middletown 1989, S. 24.; Warren T. Treadgold, "A verse translation of the Lamiyah of Shanfara", Journal of Arabic literature 6 (1975), S. 30-34.)</bibl>
+                <bibl>
+                    <edition>ʿAlī Muḥammad al-Biǧǧāwī (Hg.), Muḫtārāt šuʿarāʾ al-ʿarab li-bni aš-Šaǧarī, Beirut 1992, S. 73.</edition>
+                    <relatedItem>
+                        <bibl>007:056; 013:012; 021:090; 030:024; 032:016</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ḫauf</hi>, <hi xml:lang="ar-Latn"> ṭamaʿ</hi>, <hi xml:lang="ar-Latn">raġb</hi>, <hi xml:lang="ar-Latn">rahab</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Im Koran treten die Adverbien "verlangend" und "fürchtend" (<hi xml:lang="ar-Latn">rāġiban</hi> und <hi xml:lang="ar-Latn">rāhiban</hi>) ebenso wie im Gedicht aš-Šanfaras als antonymisches Paar auf.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>لعمرك ما بالأرض ضيقٌ على امرئ  سرى <hi rendition="bold">راغباً او راهباً</hi> وهو يعقلُ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>Bei deiner Langlebigkeit, es fehlt nicht an Raum auf diesem Land für einen Mann, der sich bei Nacht fortbewegt <hi rendition="bold">in Begehren und in Furcht</hi> und sich zurückhält.</p>
+                </body>
+            </text>
+            <text xml:lang="eng-Latn">
+                <body>
+                    <p>By your longevity, there is no lack of room in this earth for a man  who strode the night, <hi rendition="bold">in desire and in fear</hi>, refraining [from error]</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

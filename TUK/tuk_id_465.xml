@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genesis 22:1-19</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 164.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>465</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>037:102-037:111</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Sowohl Genesis 22 als auch Q 37 berichten, wie Gott den Gehorsam Abrahams auf die Probe stellt, indem er ihm befiehlt, seinen Sohn als Opfer darzubringen. Im Unterschied zur Erzählung im Buch Genesis betont der Koran, dass der Sohn in das Opfer eingewilligt habe. In diesem Punkt stimmt der Koran mit nachbiblischen Interpretationen dieses Themas überein. Vgl. dazu Genesis Rabba, Parascha 55:1 und 56:12 (TUK Nr. 0795), den 1. Clemensbrief (TUK Nr. 0669) und ein Gedicht von Umayya ibn abī ṣ-Ṣalt (TUK Nr. 0504).</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיְהִי אַחַר הַדְּבָרִים הָאֵלֶּה וְהָאֱלֹהִים נִסָּה אֶת־אַבְרָהָם וַיֹּאמֶר אֵלָיו אַבְרָהָם וַיֹּאמֶר הִנֵּנִי : וַיֹּאמֶר קַח־נָא אֶת־בִּנְךָ אֶת־יְחִידְךָ אֲשֶׁר־אָהַבְתָּ אֶת־יִצְחָק וְלֶךְ־לְךָ אֶל־אֶרֶץ הַמֹּרִיָּה וְהַעֲלֵהוּ שָׁם לְעֹלָה עַל אַחַד הֶהָרִים אֲשֶׁר אֹמַר אֵלֶיךָ : וַיַּשְׁכֵּם אַבְרָהָם בַּבֹּקֶר וַיַּחֲבֹשׁ אֶת־חֲמֹרוֹ וַיִּקַּח אֶת־שְׁנֵי נְעָרָיו אִתּוֹ וְאֵת יִצְחָק בְּנוֹ וַיְבַקַּע עֲצֵי עֹלָה וַיָּקָם וַיֵּלֶךְ אֶל־הַמָּקוֹם אֲשֶׁר־אָמַר־לוֹ הָאֱלֹהִים : בַּיּוֹם הַשְּׁלִישִׁי וַיִּשָּׂא אַבְרָהָם אֶת־עֵינָיו וַיַּרְא אֶת־הַמָּקוֹם מֵרָחֹק : וַיֹּאמֶר אַבְרָהָם אֶל־נְעָרָיו שְׁבוּ־לָכֶם פֹּה עִם־הַחֲמוֹר וַאֲנִי וְהַנַּעַר נֵלְכָה עַד־כֹּה וְנִשְׁתַּחֲוֶה וְנָשׁוּבָה אֲלֵיכֶם : וַיִּקַּח אַבְרָהָם אֶת־עֲצֵי הָעֹלָה וַיָּשֶׂם עַל־יִצְחָק בְּנוֹ וַיִּקַּח בְּיָדוֹ אֶת־הָאֵשׁ וְאֶת־הַמַּאֲכֶלֶת וַיֵּלְכוּ שְׁנֵיהֶם יַחְדָּו : וַיֹּאמֶר יִצְחָק אֶל־אַבְרָהָם אָבִיו וַיֹּאמֶר אָבִי וַיֹּאמֶר הִנֶּנִּי בְנִי וַיֹּאמֶר הִנֵּה הָאֵשׁ וְהָעֵצִים וְאַיֵּה הַשֶּׂה לְעֹלָה : וַיֹּאמֶר אַבְרָהָם אֱלֹהִים יִרְאֶה־לּוֹ הַשֶּׂה לְעֹלָה בְּנִי וַיֵּלְכוּ שְׁנֵיהֶם יַחְדָּו : וַיָּבֹאוּ אֶל־הַמָּקוֹם אֲשֶׁר אָמַר־לוֹ הָאֱלֹהִים וַיִּבֶן שָׁם אַבְרָהָם אֶת־הַמִּזְבֵּחַ וַיַּעֲרֹךְ אֶת־הָעֵצִים וַיַּעֲקֹד אֶת־יִצְחָק בְּנוֹ וַיָּשֶׂם אֹתוֹ עַל־הַמִּזְבֵּחַ מִמַּעַל לָעֵצִים : וַיִּשְׁלַח אַבְרָהָם אֶת־יָדוֹ וַיִּקַּח אֶת־הַמַּאֲכֶלֶת לִשְׁחֹט אֶת־בְּנוֹ : וַיִּקְרָא אֵלָיו מַלְאַךְ יְהוָה מִן־הַשָּׁמַיִם וַיֹּאמֶר אַבְרָהָם אַבְרָהָם וַיֹּאמֶר הִנֵּנִי : וַיֹּאמֶר אַל־תִּשְׁלַח יָדְךָ אֶל־הַנַּעַר וְאַל־תַּעַשׂ לוֹ מְאוּמָּה כִּי עַתָּה יָדַעְתִּי כִּי־יְרֵא אֱלֹהִים אַתָּה וְלֹא חָשַׂכְתָּ אֶת־בִּנְךָ אֶת־יְחִידְךָ מִמֶּנִּי : וַיִּשָּׂא אַבְרָהָם אֶת־עֵינָיו וַיַּרְא וְהִנֵּה־אַיִל אַחַר נֶאֱחַז בַּסְּבַךְ בְּקַרְנָיו וַיֵּלֶךְ אַבְרָהָם וַיִּקַּח אֶת־הָאַיִל וַיַּעֲלֵהוּ לְעֹלָה תַּחַת בְּנוֹ : וַיִּקְרָא אַבְרָהָם שֵׁם־הַמָּקוֹם הַהוּא יְהוָה יִרְאֶה אֲשֶׁר יֵאָמֵר הַיּוֹם בְּהַר יְהוָה יֵרָאֶה : וַיִּקְרָא מַלְאַךְ יְהוָה אֶל־אַבְרָהָם שֵׁנִית מִן־הַשָּׁמָיִם : וַיֹּאמֶר בִּי נִשְׁבַּעְתִּי נְאֻם־יְהוָה כִּי יַעַן אֲשֶׁר עָשִׂיתָ אֶת־הַדָּבָר הַזֶּה וְלֹא חָשַׂכְתָּ אֶת־בִּנְךָ אֶת־יְחִידֶךָ : כִּי־בָרֵךְ אֲבָרֶכְךָ וְהַרְבָּה אַרְבֶּה אֶת־זַרְעֲךָ כְּכוֹכְבֵי הַשָּׁמַיִם וְכַחוֹל אֲשֶׁר עַל־שְׂפַת הַיָּם וְיִרַשׁ זַרְעֲךָ אֵת שַׁעַר אֹיְבָיו : וְהִתְבָּרֲכוּ בְזַרְעֲךָ כֹּל גּוֹיֵי הָאָרֶץ עֵקֶב אֲשֶׁר שָׁמַעְתָּ בְּקֹלִי : וַיָּשָׁב אַבְרָהָם אֶל־נְעָרָיו וַיָּקֻמוּ וַיֵּלְכוּ יַחְדָּו אֶל־בְּאֵר שָׁבַע וַיֵּשֶׁב אַבְרָהָם בִּבְאֵר שָׁבַע :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Nach diesen Ereignissen stellte Gott Abraham auf die Probe. Er sprach zu ihm: Abraham! Er antwortete: Hier bin ich. 2 Gott sprach: Nimm deinen Sohn, deinen einzigen, den du liebst, Isaak, geh in das Land Morija und bring ihn dort auf einem der Berge, den ich dir nenne, als Brandopfer dar. 3 Frühmorgens stand Abraham auf, sattelte seinen Esel, holte seine beiden Jungknechte und seinen Sohn Isaak, spaltete Holz zum Opfer und machte sich auf den Weg zu dem Ort, den ihm Gott genannt hatte. 4 Als Abraham am dritten Tag aufblickte, sah er den Ort von weitem. 5 Da sagte Abraham zu seinen Jungknechten: Bleibt mit dem Esel hier! Ich will mit dem Knaben hingehen und anbeten; dann kommen wir zu euch zurück. 6 Abraham nahm das Holz für das Brandopfer und lud es seinem Sohn Isaak auf. Er selbst nahm das Feuer und das Messer in die Hand. So gingen beide miteinander. 7 Nach einer Weile sagte Isaak zu seinem Vater Abraham: Vater! Er antwortete: Ja, mein Sohn! Dann sagte Isaak: Hier ist Feuer und Holz. Wo aber ist das Lamm für das Brandopfer? 8 Abraham entgegnete: Gott wird sich das Opferlamm aussuchen, mein Sohn. Und beide gingen miteinander weiter. 9 Als sie an den Ort kamen, den ihm Gott genannt hatte, baute Abraham den Altar, schichtete das Holz auf, fesselte seinen Sohn Isaak und legte ihn auf den Altar, oben auf das Holz. 10 Schon streckte Abraham seine Hand aus und nahm das Messer, um seinen Sohn zu schlachten. 11 Da rief ihm der Engel des Herrn vom Himmel her zu: Abraham, Abraham! Er antwortete: Hier bin ich. 12 Jener sprach: Streck deine Hand nicht gegen den Knaben aus und tu ihm nichts zuleide! Denn jetzt weiß ich, dass du Gott fürchtest; du hast mir deinen einzigen Sohn nicht vorenthalten. 13 Als Abraham aufschaute, sah er: Ein Widder hatte sich hinter ihm mit seinen Hörnern im Gestrüpp verfangen. Abraham ging hin, nahm den Widder und brachte ihn statt seines Sohnes als Brandopfer dar. 14 Abraham nannte jenen Ort JHWH-Jire (Der Herr sieht), wie man noch heute sagt: Auf dem Berg lässt sich der Herr sehen. 15 Der Engel des Herrn rief Abraham zum zweiten Mal vom Himmel her zu 16 und sprach: Ich habe bei mir geschworen - Spruch des Herrn: Weil du das getan hast und deinen einzigen Sohn mir nicht vorenthalten hast, 17 will ich dir Segen schenken in Fülle und deine Nachkommen zahlreich machen wie die Sterne am Himmel und den Sand am Meeresstrand. Deine Nachkommen sollen das Tor ihrer Feinde einnehmen. 18 Segnen sollen sich mit deinen Nachkommen alle Völker der Erde, weil du auf meine Stimme gehört hast. 19 Darauf kehrte Abraham zu seinen Jungknechten zurück. Sie machten sich auf und gingen miteinander nach Beerscheba. Abraham blieb in Beerscheba wohnen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

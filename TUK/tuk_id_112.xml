@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1 Könige 9:6-9</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 108.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>112</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 5.-6. Jh. v. Chr. (Redaktion des deuteronomistischen Geschichtswerkes)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung (modifiziert)</bibl>
+                <bibl>
+                    <edition>Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>014:045; 016:112; 025:038-025:039; 036:013-036:029; 043:055-043:056</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">maṯal</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>In der genannten Koranstelle wird der Begriff <hi xml:lang="ar-Latn">maṯal</hi> wie das biblische <hi xml:lang="ar-Latn">māšāl</hi> im Kontext einer Strafandrohung verwendet. - Eine fast identische Formulierung findet sich in 2 Chronik 7:20. Zur Verwendung von <hi xml:lang="ar-Latn">māšāl</hi> siehe auch Deuteronomium 28:37 und Jeremia 24:9.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>אִם־שׁוֹב תְּשֻׁבוּן אַתֶּם וּבְנֵיכֶם מֵאַחֲרַי וְלֹא תִשְׁמְרוּ מִצְוֹתַי חֻקֹּתַי אֲשֶׁר נָתַתִּי לִפְנֵיכֶם וַהֲלַכְתֶּם וַעֲבַדְתֶּם אֱלֹהִים אֲחֵרִים וְהִשְׁתַּחֲוִיתֶם לָהֶם : וְהִכְרַתִּי אֶת־יִשְׂרָאֵל מֵעַל פְּנֵי הָאֲדָמָה אֲשֶׁר נָתַתִּי לָהֶם וְאֶת־הַבַּיִת אֲשֶׁר הִקְדַּשְׁתִּי לִשְׁמִי אֲשַׁלַּח מֵעַל פָּנָי וְהָיָה יִשְׂרָאֵל <hi rendition="bold"> לְמָשָׁל </hi> וְלִשְׁנִינָה בְּכָל־הָעַמִּים : וְהַבַּיִת הַזֶּה יִהְיֶה עֶלְיוֹן כָּל־עֹבֵר עָלָיו יִשֹּׁם וְשָׁרָק וְאָמְרוּ עַל־מֶה עָשָׂה יְהוָה כָּכָה לָאָרֶץ הַזֹּאת וְלַבַּיִת הַזֶּה : וְאָמְרוּ עַל אֲשֶׁר עָזְבוּ אֶת־יְהוָה אֱלֹהֵיהֶם אֲשֶׁר הוֹצִיא אֶת־אֲבֹתָם מֵאֶרֶץ מִצְרַיִם וַיַּחֲזִקוּ בֵּאלֹהִים אֲחֵרִים וַיִּשְׁתַּחֲוּ לָהֶם וַיַּעַבְדֻם עַל־כֵּן הֵבִיא יְהוָה עֲלֵיהֶם אֵת כָּל־הָרָעָה הַזֹּאת :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>6 Doch wenn ihr und eure Söhne euch von mir abwendet und die Gebote und Gesetze, die ich euch gegeben habe, übertretet, wenn ihr euch anschickt, andere Götter zu verehren und anzubeten, 7 dann werde ich Israel in dem Land ausrotten, das ich ihm gegeben habe. Das Haus, das ich meinem Namen geweiht habe, werde ich aus meinem Angesicht wegschaffen und Israel soll zum <hi rendition="bold"> Exempel </hi> [<hi xml:lang="ar-Latn">māšāl</hi>; auch als Spott übersetzbar] und zum Hohn unter allen Völkern werden. 8 Dieses Haus wird zu einem Trümmerhaufen werden und jeder, der vorübergeht, wird sich entsetzen und zischen. Man wird fragen: Warum hat der Herr diesem Land und diesem Haus das angetan? 9 Und man wird antworten: Weil sie den Herrn, ihren Gott, der ihre Väter aus Ägypten geführt hat, verlassen, sich an andere Götter gehängt, sich vor ihnen niedergeworfen und sie verehrt haben, darum hat der Herr all dieses Unglück über sie gebracht.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

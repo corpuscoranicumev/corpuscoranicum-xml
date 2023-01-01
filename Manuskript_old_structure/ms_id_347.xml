@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Ägypten</country>
+                        <settlement>Kairo</settlement>
+                        <institution> Khedivial Library</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Khedivial Library (Moritz Tafel 37-38)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="347">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament, Schwarzweißphotographien liegen vor</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="7">
+                                    <p>Die Seiten enthalten 7 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Bernard Moritz, Arabic Palaeography. A Collection of Arabic Texts from the First Century of the Hidjra till the Year 1000, Kairo 1905, Tafel 37-38.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <bibl>
+                    <bibl>004:176-004:176</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Maximilian Vogt</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">حَالاًوَٮِسَاًڡَللد کرِمِٮل</w>
+                    <w n="000000000">حَطِ الاٮٮَٮٮںِ</w>
+                    <w n="000000000">ٮٮَٮِںُ</w>
+                    <w n="000000000">الل‍َهُ لَکُم</w>
+                    <w n="000000000">أں</w>
+                    <w n="000000000">ٮَصِلُو اوَاللَ‍هُ</w>
+                    <w n="000000000">ٮِکُلِ سَى</w>
+                    <w n="000000000">عَلِٮمٌ سوره</w>
+                    <w n="000000000">الماٮده</w>
+                    <w n="000000000">ماٮه</w>
+                    <w n="000000000">وعسروں</w>
+                    <w n="000000000">اٮه</w>
+                    <w n="000000000">مـ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>005:002-005:003</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Maximilian Vogt</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮواعَلَى</w>
+                    <w n="000000000">الٮِرِوَا لٮَڡوَى</w>
+                    <w n="000000000">وَلَاٮَعَوٮوا عَلى</w>
+                    <w n="000000000">الاِثمِ</w>
+                    <w n="000000000">وَا لعُدوَں</w>
+                    <w n="000000000">وَاٮَٯُو االلَهَ</w>
+                    <w n="000000000">اِںَ</w>
+                    <w n="000000000">اللَهَ سدِٮدُالعِٯَاٮِ حرِمَٮ</w>
+                    <w n="000000000">عَلَٮکُمُ</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

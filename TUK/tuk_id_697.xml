@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Epiphanius von Salamis, Panarion 51:22:11</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>697</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>374 oder 375 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	Karl Holl (Hg.), Epiphanius II: Panarion haer. 34-64, rev. ed. Jürgen Dummer, Berlin 1980, S. 286,9-287,3.</edition>
+                    <relatedItem>
+                        <bibl>078:033</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">kawāʿib</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	In der koranischen Paradiesbeschreibung werden <hi xml:lang="ar-Latn">kawāʿib</hi> erwähnt, was traditionell etwa als 'vollbusige junge Frauen' verstanden wird. Im hier referenzierten Intertext spricht Epiphanius vom Kult zum Geburtstag des Dusares. Er wird von einer jungen Frau (griechisch <hi xml:lang="ar-Latn">Kórê</hi>, Epiphanius ergänzt, d.h. <hi xml:lang="ar-Latn">parthénos</hi> 'Jungfrau') geboren. Interessant ist nun die arabische Bezeichnung dieser jungen Frau, sie wird, je nach Edition als Chaabû oder Chaamû angegeben. Erstere Schreibung ist wohl die bessere. Nach Mordtmann (J.H. Mordtmann, “Dusares bei Epiphanius”, Zeitschrift der Deutschen Morgenländischen Gesellschaft 29 (1875), S. 99-106) ist hierin eine Umschrift von arab. <hi xml:lang="ar-Latn">kaʿāb</hi> zu sehen, welches die Wörterbücher mit 'junge, vollbusige Frau' wiedergeben. Vgl. von der gleichen Wurzel auch <hi xml:lang="ar-Latn">kuʿba</hi> 'Jungfräulichkeit eines Mädchens'. Der dem koranischen <hi xml:lang="ar-Latn">kawāʿib</hi> zu Grunde liegende Singular <hi xml:lang="ar-Latn">kāʿib</hi> ist von der gleichen Wurzel gebildet und hat, traditionell, eine fast identische Semantik. Es liegt hier vielleicht eine Begriffskontinuität vor, bei der eine schon vorislamisch bekannte Vorstellung von attraktiver, überweltlicher Weiblichkeit in der Beschreibung des koranischen Paradieses fortlebt.<lb/>
+
+	Sollte weiterhin Rotters ("Der <hi xml:lang="ar-Latn">veneris dies</hi> im vorislamischen Mekka, eine neue Deutung des Namens ‘Europe’ und eine Erklärung für kobar=Venus", Der Islam 70 (1993), S. 112-132.) Identifikation von arabisch <hi xml:lang="ar-Latn">ʿarūb(a)</hi> mit der Göttin Venus zutreffend sein, dann läge darin ein weiterer 'heidnischer', vorislamischer Bezug zu koranischen Paradiesvorstellungen vor (vgl. Q 56:37 <hi xml:lang="ar-Latn">ʿurub</hi>, Singular, laut Wörterbüchern, <hi xml:lang="ar-Latn">ʿarūb(a)). </hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	51:22 [...] καὶ Ἀραβικῇ διαλέκτῳ ἐξυμνοῦσι τὴν παρθένον, καλοῦντες αὐτὴν Ἀραβιστὶ <hi rendition="strong">Χααμοῦ</hi> (var. <hi rendition="strong">Χααβοῦ</hi>) τουτέστιν Κόρην εἴτ' οὖν παρθένον καὶ τὸν ἐξ αὐτῆς γεγεννημένον Δουσάρην τουτέστιν μονογενῆ τοῦ δεσπότου. τοῦτο δὲ καὶ ἐν Ἐλούσῃ γίνεται τῇ πόλει κατ' ἐκείνην τὴν νύκτα, ὡς ἐκεῖ ἐν τῇ Πέτρᾳ καὶ ἐν Ἀλεξανδρείᾳ.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	[...] (und) sie singen Hymnen auf die Jungfrau auf arabisch, welche sie auf arabisch <hi rendition="strong">
+                            <hi xml:lang="ar-Latn">Chaabû</hi>
+                        </hi> d.h. junges Mädchen (kórê) bzw. Jungfrau (pathénos) nennen. Und den von ihr geborenen Dusares, d.h. den eingeborenen Sohn des Herrn. Dies geschieht in selbiger Nacht in Elusa, wie auch in Petra und Alexandria.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

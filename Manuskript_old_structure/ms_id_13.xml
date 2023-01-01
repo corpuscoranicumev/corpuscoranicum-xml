@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Michael Marx</persName>
+                    <persName>Tobias J. Jocham</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Die von William de Slane (Catalogue, S. 89-94) unter der Signatur 328 zusammengefassten Blätter setzen sich aus Teilen verschiedener Kodizes zusammen. Diese werden im aktuellen "Catalogue des manuscrits arabes" der Bibliothèque nationale de France von François Déroche durch Kleinbuchstaben (a-f) voneiander unterschieden.<lb/>
+                        <lb/> Der vorliegende Teil 328 (a) bildet zusammen mit vier anderen Fragmentgruppen den "Codex Parisino-Petropolitanus" (Paris 328 (a), Paris 328 (b), Marcel 18, Vatikan 1605.1, Khalili KFQ 60), vgl. dazu Déroche, Codex. Insgesamt sind 98 Blatt bekannt, welche ursprünglich aus dem gleichen Kodex stammen und die zusammen ca. 45 % des Gesamttextes dokumentieren.<lb/>
+                        <lb/> Laut Marcus Fraser gehören noch weitere Fragmente, die er identifizieren konnte, in diesen Codex. Näheres ist dazu nicht bekannt. Hat Fraser etwas zu diesem Thema veröffentlicht?</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Frankreich</country>
+                        <settlement>Paris</settlement>
+                        <institution> Bibliothèque nationale de France</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>Ms. Arabe 328</idno>
+                        <altIdentifier>
+                            <idno>Ms. Paris BnF Arabe 328 (a)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="13">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Codex">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>330</height>
+                                        <width>240</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	François Déroche, La transmission écrite du Coran dans les débuts de l'islam. Le codex Parisino-petropolitanus, Leiden 2009.<lb/>
+	William de Slane, Catalogue des manuscrits arabes, Paris 1883-1895, S. 89-94.<lb/>
+	Sergio Noja Noseda und François Déroche, Sources de la transmission manuscrite du texte coranique I: Les manuscrits de style Ḥiğāzī 1: Le manuscrit arabe 328 (a) de la Bibliothèque nationale de France, Lesa 1998.<lb/>
+	François Déroche, Catalogue des manuscrits arabes. Deuxième partie, Manuscrits musulmans, Tome I,1. Les manuscrits du Coran, Paris 1983, S. 59-60.<lb/>
+	Sergio Noja Noseda, "Note Esterne In Margine Al 1° Volume Dei 'Materiali Per Un'Edizione Critica Del Corano'", In: Rendiconti 134 (2000), S. 3-38.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

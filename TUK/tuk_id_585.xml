@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Psalm 136:1-26</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 449; Hartwig Hirschfeld, New Researches into the Composition and Exegesis of the Qoran, London 1902 (Asiatic Monographs 3), S. 73.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>585</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Endredaktion des Psalters)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>055:001-055:078</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Q 55 erinnert in der Beschreibung von Gottes Wirken in der Natur und in der Verwendung eines Refrains an Psalm 136, der auch Teil der jüdischen Liturgie ist.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>הוֹדוּ לַיהוָה כִּי־טוֹב כִּי לְעוֹלָם חַסְדּֽוֹ׃ הוֹדוּ לֵאלֹהֵי הָאֱלֹהִים כִּי לְעוֹלָם חַסְדּֽוֹ׃ הוֹדוּ לַאֲדֹנֵי הָאֲדֹנִים כִּי לְעֹלָם חַסְדּֽוֹ׃ לְעֹשֵׂה נִפְלָאוֹת גְּדֹלוֹת לְבַדּוֹ כִּי לְעוֹלָם חַסְדּֽוֹ׃ לְעֹשֵׂה הַשָּׁמַיִם בִּתְבוּנָה כִּי לְעוֹלָם חַסְדּֽוֹ׃ לְרֹקַע הָאָרֶץ עַל־הַמָּיִם כִּי לְעוֹלָם חַסְדּֽוֹ׃ לְעֹשֵׂה אוֹרִים גְּדֹלִים כִּי לְעוֹלָם חַסְדּֽוֹ׃ אֶת־הַשֶּׁמֶשׁ לְמֶמְשֶׁלֶת בַּיּוֹם כִּי לְעוֹלָם חַסְדּֽוֹ׃ אֶת־הַיָּרֵחַ וְכוֹכָבִים לְמֶמְשְׁלוֹת בַּלָּיְלָה כִּי לְעוֹלָם חַסְדּֽוֹ׃ לְמַכֵּה מִצְרַיִם בִּבְכוֹרֵיהֶם כִּי לְעוֹלָם חַסְדּֽוֹ׃ וַיּוֹצֵא יִשְׂרָאֵל מִתּוֹכָם כִּי לְעוֹלָם חַסְדּֽוֹ׃ בְּיָד חֲזָקָה וּבִזְרוֹעַ נְטוּיָה כִּי לְעוֹלָם חַסְדּֽוֹ׃ לְגֹזֵר יַם־סוּף לִגְזָרִים כִּי לְעוֹלָם חַסְדּֽוֹ׃ וְהֶעֱבִיר יִשְׂרָאֵל בְּתוֹכוֹ כִּי לְעוֹלָם חַסְדּֽוֹ׃ וְנִעֵר פַּרְעֹה וְחֵילוֹ בְיַם־סוּף כִּי לְעוֹלָם חַסְדּֽוֹ׃ לְמוֹלִיךְ עַמּוֹ בַּמִּדְבָּר כִּי לְעוֹלָם חַסְדּֽוֹ׃ לְמַכֵּה מְלָכִים גְּדֹלִים כִּי לְעוֹלָם חַסְדּֽוֹ׃ וַיַּהֲרֹג מְלָכִים אַדִּירִים כִּי לְעוֹלָם חַסְדּֽוֹ׃ לְסִיחוֹן מֶלֶךְ הָאֱמֹרִי כִּי לְעוֹלָם חַסְדּֽוֹ׃ וּלְעוֹג מֶלֶךְ הַבָּשָׁן כִּי לְעוֹלָם חַסְדּֽוֹ׃ וְנָתַן אַרְצָם לְנַחֲלָה כִּי לְעוֹלָם חַסְדּֽוֹ׃ נַחֲלָה לְיִשְׂרָאֵל עַבְדּוֹ כִּי לְעוֹלָם חַסְדּֽוֹ׃ שֶׁבְּשִׁפְלֵנוּ זָכַר לָנוּ כִּי לְעוֹלָם חַסְדּֽוֹ׃ וַיִּפְרְקֵנוּ מִצָּרֵינוּ כִּי לְעוֹלָם חַסְדּֽוֹ׃ נֹתֵן לֶחֶם לְכָל־בָּשָׂר כִּי לְעוֹלָם חַסְדּֽוֹ׃ הוֹדוּ לְאֵל הַשָּׁמָיִם כִּי לְעוֹלָם חַסְדּֽוֹ׃</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>1 Dankt dem Herrn, denn er ist gütig, / denn seine Huld währt ewig! 2 Dankt dem Gott aller Götter, / denn seine Huld währt ewig! 3 Dankt dem Herrn aller Herren, / denn seine Huld währt ewig! 4 Der allein große Wunder tut, / denn seine Huld währt ewig, 5 der den Himmel geschaffen hat in Weisheit, / denn seine Huld währt ewig, 6 der die Erde über den Wassern gegründet hat, / denn seine Huld währt ewig, 7 der die großen Leuchten gemacht hat, / denn seine Huld währt ewig, 8 die Sonne zur Herrschaft über den Tag, / denn seine Huld währt ewig, 9 Mond und Sterne zur Herrschaft über die Nacht, / denn seine Huld währt ewig. 10 Der die Erstgeburt der Ägypter schlug, / denn seine Huld währt ewig, 11 und Israel herausführte aus ihrer Mitte, / denn seine Huld währt ewig, 12 mit starker Hand und erhobenem Arm, / denn seine Huld währt ewig, 13 der das Schilfmeer zerschnitt in zwei Teile, / denn seine Huld währt ewig, 14 und Israel hindurchführte zwischen den Wassern, / denn seine Huld währt ewig, 15 und den Pharao ins Meer stürzte samt seinem Heer, / denn seine Huld währt ewig. 16 Der sein Volk durch die Wüste führte, / denn seine Huld währt ewig, 17 der große Könige schlug, / denn seine Huld währt ewig, 18 und mächtige Könige tötete, / denn seine Huld währt ewig, 19 Sihon, den König der Amoriter, / denn seine Huld währt ewig, 20 und Og, den König von Baschan, / denn seine Huld währt ewig, 21 und der ihr Land zum Erbe gab, / denn seine Huld währt ewig, 22 der es Israel gab, seinem Knecht, / denn seine Huld währt ewig. 23 Der an uns dachte in unsrer Erniedrigung, / denn seine Huld währt ewig, 24 und uns den Feinden entriss, / denn seine Huld währt ewig, 25 der allen Geschöpfen Nahrung gibt, / denn seine Huld währt ewig. 26 Dankt dem Gott des Himmels, / denn seine Huld währt ewig.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

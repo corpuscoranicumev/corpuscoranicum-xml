@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lehrgedicht über die Gottesmutter </title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>44</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis / Edessa</origPlace>
+                            <origDate>306–373</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Edmund Beck, Nachträge zu Ephrem Syrus, Louvain 1975 (Corpus Scriptorum Christianorum Orientalium 364, Scriptores Syri 160), Vers 613-616 (modifiziert von David Kiltz).</bibl>
+                <bibl>
+                    <edition>
+
+	Edmund Beck, Nachträge zu Ephrem Syrus, Louvain 1975 (Corpus Scriptorum Christianorum Orientalium 363, Scriptores Syri 159), S. 32, Vers 613-616.</edition>
+                    <relatedItem>
+                        <bibl>003:037</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+	Wie Q 3:37 berichtet auch Ephrem, dass Maria während ihres Aufenthaltes im Tempel auf wundersame Weise mit Speisen versorgt worden sei. Im Unterschied zum Bericht Ephrems, demzufolge Maria durch Engel versorgt wurde, sagt Maria im Koran nur: "Dies ist von Gott" (<hi xml:lang="ar-Latn">huwa min ʿinda llāhi</hi>)huwa, wobei offen bleibt, ob damit Engel als Boten bzw. Vermittler eine Rolle spielen.
+                  </p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+                        <hi rendition="bold">ܒܢ̈ܝ ܠܘܝ ܝܗܒ[ܘ] ܠܗܿ ܛܘܒܐ ܠܛܠܝܘܬܟܝ ܘܟܢܝܟܘܬܟܝ ܘܥܝܪ̈ܐ ܕܫܡܝܐ ܪܓܘܟܝ ܘܠܚܡܐ ܡܢ ܪܘܡܐ ܝܗܒ</hi>
+                        <hi rendition="bold">ܘ</hi>
+                        <hi rendition="bold"> ܠܟܝ</hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Die Söhne Levis priesen selig deine Jugend und deine Tugend, und die Wächter des Himmels verlangten nach dir und gaben dir Brot aus den himmlischen Höhen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

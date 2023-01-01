@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1. Clemensbrief 52:1-4</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Karl Ahrens</persName>
+                    <name>"Christliches im Qoran. Eine Nachlese", Zeitschrift der Deutschen Morgenländischen Gesellschaft 84 (1930), S. 43; Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 451.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>303</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Rom</origPlace>
+                            <origDate>ca. 96 n. Chr. </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Franz Zeller (Übers.), Die Apostolischen Väter, München 1914.</bibl>
+                <bibl>
+                    <edition>
+
+	J. B. Lightfoot (Hg.), The Apostolic Fathers: revised texts with introductions, notes, dissertations, and translations, London 1889-1890.</edition>
+                    <relatedItem>
+                        <bibl>003:097; 029:006; 039:007</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ġaniyy</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Sowohl der Koran als auch der Clemensbrief betonen, dass Gott unabhängig von (arabisch: <hi xml:lang="ar-Latn">ġaniyyun ʿan</hi>) den Menschen ist. Dem hier vorliegenden Text besonders ähnlich ist Q 39:7 (<hi xml:lang="ar-Latn">ʾin takfarū fa-ʾinna llāha ġaniyyun ʿankum</hi>), wo betont wird, dass Gott "euch" (die Ungläubigen) nicht brauche. Im Unterschied zur Clemensstelle liegt die Betonung auf den Ungläubigen, deren Gott nicht bedarf. In beiden Fällen werden die Adressaten direkt angesprochen. Die Koranstellen 3:97 und 29:6 beziehen sich allgemeiner darauf, dass Gott der Menschen/ Welt (<hi xml:lang="ar-Latn">ʿālamīn</hi>) nicht bedarf. Vgl. dazu TUK 0686.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	1 <hi rendition="bold">Απροσδεής ἀδελφοί ὁ δεσπότης ὑπάρχει τῶν ἀπάντων οὐδὲν οὐδενὸς χρῄζει</hi> εἰ μὴ τὸ ἐξομολογεῖσθαι αὐτῷ 2 φησὶν γὰρ ὁ ἐκλεκτὸς Δαυείδ Ἐξομολογήσομαι τῷ κυρίῳ καὶ ἀρέσει αὐτῷ ὑπὲρ μόσχον νέον κέρατα ἐκφέροντα καὶ ὀπλάς ἰδέτωσαν πτωχοὶ καὶ εὐφρανθήτωσαν 3 καὶ πάλιν λέγει Θῦσον τῷ θεῷ θυσίαν αἰνέσεως καὶ ἀπόδος τῷ ὑψίστῳ τὰς εὐχάς σου καὶ ἐπικάλεσαί με ἐν ἡμέρᾳ θλίψεώς σου καὶ ἐξελοῦμαί σε καὶ δοξάσεις με 4 θυσία γὰρ τῷ θεῷ πνεῦμα συντετριμμένον</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1. <hi rendition="bold">Brüder, der Herr bedarf gar nichts, er braucht von niemand etwas</hi>, nur daß man ihm ein Bekenntnis ablege. 2. Denn so sagt David, der Auserwählte: "Bekennen will ich dem Herrn, und das wird ihm besser gefallen als ein junges Rind, das Hörner und Klauen ansetzt; sehen sollen es Arme und sich freuen." 3. Und wiederum heißt es: "Opfere Gott ein Opfer des Lobes und weihe dem Höchsten deine Gebete. Und rufe mich an am Tage deiner Trübsal, und ich will dich erlösen, und du sollst mich verherrlichen." 4. "Denn ein Opfer vor Gott ist ein zerknirschter Geist."</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

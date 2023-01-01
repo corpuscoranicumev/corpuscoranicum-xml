@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genesis 12:1-5</title>
+                <principal>
+                    <persName>Berenike Aschoff</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heribert Busse</persName>
+                    <name>Die theologischen Beziehungen des Islams zu Judentum und Christentum, Darmstadt 1988, S. 83 (zu Q 21:71).</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>470</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs) </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>007:137; 017:001; 021:071; 021:081; 034:018</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾarḍ; bāraka</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Q 21:71 zufolge rettet Gott Abraham und Lot vor ihren Verfolgern in "das Land, dass wir für die Weltbewohner gesegnet haben" (<hi xml:lang="ar-Latn">al-ʾarḍ allatī bāraknā fīhā li-l-ʿālamīn</hi>); Busse erblickt hierin eine Bezugnahme auf die biblische Vorstellung eines "gelobten", d. h. Abraham und seinen Nachkommen versprochenen Landes. Die Formulierung "das Land, das wir für die Weltbewohner gesegnet haben" begegnet auch noch in verschiedenen anderen Koranversen. Zu <hi xml:lang="ar-Latn">bāraka, </hi>vgl. Jeffery, Foreign vocabulary S. 75.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיֹּאמֶר יְהוָה אֶל־אַבְרָם <hi rendition="bold"> לֶךְ־לְךָ מֵאַרְצְךָ וּמִמּוֹלַדְתְּךָ וּמִבֵּית אָבִיךָ אֶל־הָאָרֶץ אֲשֶׁר אַרְאֶךָּ :</hi> וְאֶעֶשְׂךָ לְגוֹי גָּדוֹל וַאֲבָרֶכְךָ וַאֲגַדְּלָה שְׁמֶךָ וֶהְיֵה בְּרָכָה : וַאֲבָרֲכָה מְבָרְכֶיךָ וּמְקַלֶּלְךָ אָאֹר וְנִבְרְכוּ בְךָ כֹּל מִשְׁפְּחֹת הָאֲדָמָה : <hi rendition="bold"> וַיֵּלֶךְ אַבְרָם כַּאֲשֶׁר דִּבֶּר אֵלָיו יְהוָה וַיֵּלֶךְ אִתּוֹ לוֹט </hi> וְאַבְרָם בֶּן־חָמֵשׁ שָׁנִים וְשִׁבְעִים שָׁנָה בְּצֵאתוֹ מֵחָרָן : וַיִּקַּח אַבְרָם אֶת־שָׂרַי אִשְׁתּוֹ וְאֶת־לוֹט בֶּן־אָחִיו וְאֶת־כָּל־רְכוּשָׁם אֲשֶׁר רָכָשׁוּ וְאֶת־הַנֶּפֶשׁ אֲשֶׁר־עָשׂוּ בְחָרָן וַיֵּצְאוּ לָלֶכֶת אַרְצָה כְּנַעַן וַיָּבֹאוּ אַרְצָה כְּנָעַן :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Der Herr sprach zu Abram: <hi rendition="bold">Zieh weg aus deinem Land, von deiner Verwandtschaft und aus deinem Vaterhaus in das Land, das ich dir zeigen werde.</hi> 2 Ich werde dich zu einem großen Volk machen, dich segnen und deinen Namen groß machen. Ein Segen sollst du sein. 3 Ich will segnen, die dich segnen; wer dich verwünscht, den will ich verfluchen. Durch dich sollen alle Geschlechter der Erde Segen erlangen. 4 <hi rendition="bold">Da zog Abram weg, wie der Herr ihm gesagt hatte, und mit ihm ging auch Lot.</hi> Abram war fünfundsiebzig Jahre alt, als er aus Haran fortzog. 5 Abram nahm seine Frau Sarai mit, seinen Neffen Lot und alle ihre Habe, die sie erworben hatten, und die Knechte und Mägde, die sie in Haran gewonnen hatten. Sie wanderten nach Kanaan aus und kamen dort an.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

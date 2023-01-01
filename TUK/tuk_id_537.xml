@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht über das Weltende und den Tag des Gerichtes</title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>537</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis / Edessa</origPlace>
+                            <origDate>vor 521 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	Paul Bedjan, Homiliae Selectae Mar-Jacobi Sarugensis, Band 1, Paris 1905, S. 713-720. (Gedicht über das Weltende und den Tag des Gerichtes, S. 716)</edition>
+                    <relatedItem>
+                        <bibl>026:094-026:095; 038:085</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ǧunūd ʾiblīs</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Wie an den Koranstellen, kommt bei Jakob von Sarug die Vorstellung zum Ausdruck, dass der Teufel (hier im Syrischen <hi xml:lang="ar-Latn">bīšā</hi>, "der Böse", neben <hi xml:lang="ar-Latn">ākel qarṣā, sāṭānā</hi> und <hi xml:lang="ar-Latn">bʿeldbābā</hi> eine der geläufigsten Bezeichnungen im Syrischen) und seine Heerscharen (arabisch <hi xml:lang="ar-Latn">ǧunūd</hi>, syrisch <hi xml:lang="ar-Latn">ḥaylawwātā</hi>) vom Feuer, d.h. der Hölle verzehrt werden. Zum Motiv des "in die Hölle Fallens" vergleiche auch TUK 0538. Ein weiteres signifikantes Motiv ist das Aussenden der Engel, welches sich auch  im Neuen Testament, etwa bei Matthäus 25:31 (vgl. TUK 0029) und 13:41/42 (TUK 1077) findet. Auf letztere Matthäusstelle nimmt J. v. Sarug wohl besonders Bezug, da dort sowohl das Aussenden der Engel durch Jesus, wie auch das ins Feuer Werfen erwähnt wird. Die Stelle nimmt zudem das Gleichnis vom guten und schlechten Samen auf. (siehe TUK 1077).</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	ܡܢܩܕܡ ܕܬܐܬܐ ܩܕܡܘܗܝ ܢܘܪܐ ܗܝ ܕܥܬܝܕܐ: ܕܬܐܟܘܠ ܝܥܪܐ ܕܐܝܬܘܗܝ ܒܝܫܐ ܘܚܝܠܘ̈ܬܗ܀ ܡܫܕܪ ܥܝܪ̈ܐ ܒܪܗܝܒܘܬܐ ܠܐܪܒܥ ܦܢ̈ܝܢ: ܕܐܝܟ ܚܨܕ̈ܐ ܢܦܪܫܘܢ ܚ̈ܛܐ ܡܢ ܙܝܙ̈ܢܐ܀</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Bevor Du vor Ihn [Gott] trittst, wird es ein Feuer geben, welches das Dorngestrüpp, das heißt den Bösen und seine Mächte, fressen wird.<lb/>
+
+	Er [Gott] wird die Wächterengel mit Schrecken in alle Himmelsrichtungen entsenden, damit sie, wie Erntearbeiter, den Weizen vom Unkraut trennen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

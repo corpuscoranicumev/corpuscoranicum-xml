@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Apokalypse Abrahams 7:1-8</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 125 f.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>457</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate>nach 70 n. Chr. </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Belkis Philonenko-Sayar und Marc Philonenko (Übers.), Die Apokalypse Abrahams, Gütersloh 1982, S. 427-428.</bibl>
+                <bibl>
+                    <edition>
+
+	Rubinkiewicz, R.: L'Apocalypse d'Abraham en slave: Édition critique du texte, introduction, traduction et commentaire. Diss, Rom 1977.</edition>
+                    <relatedItem>
+                        <bibl>006:076-006:079</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Neben Flavius Josephus (vgl. TUK Nr. 0659) schildern auch verschiedene Apokryphen, darunter  z.B. das Buch der Jubiläen (vgl. TUK Nr. 0674), wie Abraham durch die Betrachtung der Natur zur Erkenntnis Gottes gelangt. Ein ähnlicher Erkenntnisprozeß Abrahams wird auch im Koran beschrieben: Abraham erwählt sich der Reihe nach Stern, Mond und Sonne zum "Herrn", beobachtet dann aber, wie sie alle untergehen, und bekennt daraufhin Gott als den Schöpfer der Welt. Der koranischen Version relativ am nächsten steht dabei die Apokalypse Abrahams, in der Abraham feststellen muß, daß jedes Naturphänomen durch ein noch stärkeres zerstört werden kann, und daraufhin beschließt, den Gott zu suchen, der alles geschaffen hat.</p>
+                    <p>
+
+	Die Apokalypse Abrahams besteht aus zwei Teilen: der erste Teil berichtet von der Bekehrung Abrahams zu Gott, der zweite Teil, der die eigentliche Apokalypse ausmacht, von Abrahams Himmelsreise und Vision. Der Text ist nur auf Altkirchenslawisch überliefert, in das er aus dem Griechischen übersetzt wurde, dürfte allerdings auf einem hebräischen Original aus dem 1. Jh. beruhen (siehe Philonenko, a. a. O., S. 415-419).</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	7:1 Ich sage dieses: "Das Feuer ist verehrungswürdiger als die Götzen, denn sogar das, was nicht unterworfen ist, unterwirft sich ihm, und es verspottet das, was leicht umkommt, durch seine Flammen. 2 (Aber auch dieses werde ich nicht Gott nennen, denn es ist den Wassern unterworfen.) Die Gewässer aber sind verehrungswürdiger, denn sie besiegen das Feuer und erquicken die Erde. Aber auch sie will ich nicht Gott nennen, denn indem sie sich unter die Erde neigen, unterwerfen (sie sich ihr). 3 Eher würde ich die Erde verehrungswürdiger nennen, denn sie besiegt die Natur des Wassers und seine Menge. (Aber) auch sie werde ich nicht Gott nennen, (denn) auch sie wird durch die Sonne aufgetrocknet, (und) sie ist zur Arbeit des Menschen bestimmt. 4 (Verehrungswürdiger als die Erde würde ich die Sonne nennen), denn sie beleuchtet die ganze Erde und die verschiedenen Lufträume mit ihren Strahlen. (Aber) auch sie werde ich nicht zum Gott machen, denn bei Nacht wird ihre Bahn durch Wolken verdunkelt. 5 Aber auch Mond und Sterne werde ich wiederum nicht Gott nennen, denn auch sie zu ihrer Zeit verdunkeln bei Nacht ihr Licht. 6 Höre, Thare, mein Vater, ich will vor dir den Gott suchen, der alles geschaffen hat, nicht die von uns erdachten Götter. 7 Wer ist es oder wie beschaffen ist (der, der) den Himmel purpurrot gefärbt, der die Sonne vergoldet hat, der das Licht dem Mond und gleichzeitig mit ihm den Sternen gegeben hat, der die Erde inmitten vieler Wasser getrocknet hat, der dich selbst inmitten der Menschen gestellt hat. 8 Möge Gott sich selbst uns offenbaren!"</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

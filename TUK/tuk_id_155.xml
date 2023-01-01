@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genesis 1:26-31</title>
+                <principal>
+                    <persName>David Kiltz (Anmerkung)</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Hamilton A. R. Gibb</persName>
+                    <name>"Pre-Islamic Monotheism in Arabia", The Harvard Theological Review 55:4 (1962), S. 275; Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 442.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>155</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>004:001; 007:189; 030:021; 039:006; 042:011; 053:045; 075:039; 078:008; 092:003</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Wie die biblische Schöpfungsgeschichte heben die obigen Koranstellen besonders hervor, dass Gott den Menschen "als Mann und Frau" geschaffen habe.</p>
+                    <p>
+
+	4:1 steht dabei allerdings dem Bericht in Genesis 2:7ff. näher, vgl. dazu Intertext Nr. 893.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיֹּאמֶר אֱלֹהִים נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ וְיִרְדּוּ בִדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבַבְּהֵמָה וּבְכָל־הָאָרֶץ וּבְכָל־הָרֶמֶשׂ הָרֹמֵשׂ עַל־הָאָרֶץ : וַיִּבְרָא אֱלֹהִים אֶת־הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ <hi rendition="bold"> זָכָר וּנְקֵבָה בָּרָא אֹתָם </hi>: וַיְבָרֶךְ אֹתָם אֱלֹהִים וַיֹּאמֶר לָהֶם אֱלֹהִים פְּרוּ וּרְבוּ וּמִלְאוּ אֶת־הָאָרֶץ וְכִבְשֻׁהָ וּרְדוּ בִּדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבְכָל־חַיָּה הָרֹמֶשֶׂת עַל־הָאָרֶץ : וַיֹּאמֶר אֱלֹהִים הִנֵּה נָתַתִּי לָכֶם אֶת־כָּל־עֵשֶׂב זֹרֵעַ זֶרַע אֲשֶׁר עַל־פְּנֵי כָל־הָאָרֶץ וְאֶת־כָּל־הָעֵץ אֲשֶׁר־בּוֹ פְרִי־עֵץ זֹרֵעַ זָרַע לָכֶם יִהְיֶה לְאָכְלָה : וּלְכָל־חַיַּת הָאָרֶץ וּלְכָל־עוֹף הַשָּׁמַיִם וּלְכֹל רוֹמֵשׂ עַל־הָאָרֶץ אֲשֶׁר־בּוֹ נֶפֶשׁ חַיָּה אֶת־כָּל־יֶרֶק עֵשֶׂב לְאָכְלָה וַיְהִי־כֵן : וַיַּרְא אֱלֹהִים אֶת־כָּל־אֲשֶׁר עָשָׂה וְהִנֵּה־טוֹב מְאֹד וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר יוֹם הַשִּׁשִּׁי :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	26 Dann sprach Gott: Lasst uns Menschen machen als unser Abbild, uns ähnlich. Sie sollen herrschen über die Fische des Meeres, über die Vögel des Himmels, über das Vieh, über die ganze Erde und über alle Kriechtiere auf dem Land. 27 Gott schuf also den Menschen als sein Abbild; als Abbild Gottes schuf er ihn.<hi rendition="bold"> Als Mann und Frau schuf er sie.</hi> 28 Gott segnete sie und Gott sprach zu ihnen: Seid fruchtbar und vermehrt euch, bevölkert die Erde, unterwerft sie euch und herrscht über die Fische des Meeres, über die Vögel des Himmels und über alle Tiere, die sich auf dem Land regen. 29 Dann sprach Gott: Hiermit übergebe ich euch alle Pflanzen auf der ganzen Erde, die Samen tragen, und alle Bäume mit samenhaltigen Früchten. Euch sollen sie zur Nahrung dienen. 30 Allen Tieren des Feldes, allen Vögeln des Himmels und allem, was sich auf der Erde regt, was Lebensatem in sich hat, gebe ich alle grünen Pflanzen zur Nahrung. So geschah es. 31 Gott sah alles an, was er gemacht hatte: Es war sehr gut. Es wurde Abend und es wurde Morgen: der sechste Tag.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

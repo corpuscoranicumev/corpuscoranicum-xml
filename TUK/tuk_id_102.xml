@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sprichwörter 11:1-10</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 253.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>102</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4.-3. Jh. v. Chr.  (Endredaktion)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>006:152; 007:085; 011:084-011:085; 017:035; 026:181-026:183; 055:007-055:009; 083:001-083:003</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">qisṭās</hi>, <hi xml:lang="ar-Latn">mīzān</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Vgl. die Anmerkung zu TUK 0101.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+                        <hi rendition="bold">מֹאזְנֵי מִרְמָה תּוֹעֲבַת יְהוָה וְאֶבֶן שְׁלֵמָה רְצוֹנוֹ </hi>: בָּא־זָדוֹן וַיָּבֹא קָלוֹן וְאֶת־צְנוּעִים חָכְמָה : תֻּמַּת יְשָׁרִים תַּנְחֵם וְסֶלֶף בּוֹגְדִים וְשָׁדֵּם : לֹא־יוֹעִיל הוֹן בְּיוֹם עֶבְרָה וּצְדָקָה תַּצִּיל מִמָּוֶת : צִדְקַת תָּמִים תְּיַשֵּׁר דַּרְכּוֹ וּבְרִשְׁעָתוֹ יִפֹּל רָשָׁע : צִדְקַת יְשָׁרִים תַּצִּילֵם וּבְהַוַּת בֹּגְדִים יִלָּכֵדוּ : בְּמוֹת אָדָם רָשָׁע תֹּאבַד תִּקְוָה וְתוֹחֶלֶת אוֹנִים אָבָדָה : צַדִּיק מִצָּרָה נֶחֱלָץ וַיָּבֹא רָשָׁע תַּחְתָּיו : בְּפֶה חָנֵף יַשְׁחִת רֵעֵהוּ וּבְדַעַת צַדִּיקִים יֵחָלֵצוּ : בְּטוּב צַדִּיקִים תַּעֲלֹץ קִרְיָה וּבַאֲבֹד רְשָׁעִים רִנָּה :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 <hi rendition="bold"> Falsche Waage ist dem Herrn ein Gräuel, / volles Gewicht findet seinen Gefallen. </hi> 2 Kommt Übermut, kommt auch Schande, / doch bei den Bescheidenen ist die Weisheit zu Hause. 3 Die Redlichen leitet ihre Lauterkeit, / die Verräter richtet ihre Falschheit zugrunde. 4 Reichtum hilft nicht am Tag des Zorns, / Gerechtigkeit aber rettet vor dem Tod. 5 Dem Lauteren ebnet seine Gerechtigkeit den Weg, / der Frevler aber kommt durch seine Bosheit zu Fall. 6 Die Redlichen rettet ihre Gerechtigkeit, / die Verräter schlägt ihre eigene Gier in Fesseln. 7 Beim Tod des Frevlers wird sein Hoffen zunichte, / die falsche Erwartung schwindet dahin. 8 Der Gerechte wird aus der Not gerettet, / an seine Stelle tritt der Böse. 9 Vom Mund des Ruchlosen droht dem Nächsten Verderben, / die Gerechten befreien sich durch ihre Umsicht. 10 Wenn es dem Gerechten gut geht, freut sich die Stadt; / sie jubelt beim Untergang der Frevler.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

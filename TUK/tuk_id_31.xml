@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Leviticus Rabba, Parascha 7:6</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 103.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>31</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Levante (?)</origPlace>
+                            <origDate>etwa 3. Jh. n. Chr. (Endredaktion zwischen 400-500)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> August Wünsche, Bibliotheca Rabbinica, Bd. 5: Midrasch Wajikra Rabba, Leipzig 1880, S. 50 (modifiziert).</bibl>
+                <bibl>
+                    <edition>
+
+	M. Margulies, Midrash Wayyikra Rabbah. A Critical Edition based on Manuscripts and Genizah Fragments with Variants and Notes, 5 Bände, Jerusalem 1953-60.</edition>
+                    <relatedItem>
+                        <bibl>011:040</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	In Q 11:40 findet sich der Ausdruck arab. <hi xml:lang="ar-Latn">fāra t-tannūr</hi>, wörtlich "der Ofen kochte hoch, wurde sprudelnd heiß", was gemeinhin so verstanden wird, dass die Wasser der Sintflut heiß gewesen seien (vgl. z.B. Paret, Kommentar, S. 235). Sowohl Geiger als auch Speyer weisen auf Parallelen in der rabbinischen Literatur hin, von denen hier ein Beispiel gegeben wird (vgl. aber auch Genesis Rabba 28:9). Der hier vorliegende Text beschreibt, dass die Wasser der Sintflut in der Hölle erhitzt worden seien. Dieser explizite Bezug findet sich nicht in Q 11:40, es sei jedoch darauf hingewiesen, dass koranisch <hi xml:lang="ar-Latn">fāra</hi> in Q 67:7 auch in Bezug auf die Hölle gebraucht wird: "...wenn sie dort [in die Hölle] hineingeworfen werden, hört man sie schreien, während sie [die Hölle] aufkocht (<hi xml:lang="ar-Latn">tafūru</hi>)". Es mag also spekuliert werden, ob mit <hi xml:lang="ar-Latn">tannūr</hi> in Q 11:40 nicht auch die Hölle gemeint sein könnte. Immerhin zeigen der Koran und die rabbinische Tradition ähnliche Vorstellungen.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	אמ' ר' לוי נומוס הוא וקילוסין הוא שכל מי שמתגאה לפני המקום אינו נידון אלא באש. דור המבול על ידי שנתגאו ואמרו מה שדי כי נעבדנו, לא נידונו אלא באש, הה"ד בעת יזורבו נצמתו בחומו נדעכו ממקומם. מהו בחומו, ברותחין. אמ' ר' יוחנן כל טיפה וטיפה שהיה הק' מורידה עליהן היה מרתיחה בתוך גהינם</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	R. Levi sagte: Damit wird uns eine schöne Lehre gegeben, daß jeder Stolze nur durch Feuer gerichtet wird. So wurde das Geschlecht der Flut, welches sich brüstete und sprach: "Wer ist der Allmächtige, daß wir ihm dienen sollten?" (Hiob 21:11), nur durch Feuer gerichtet, wie es heißt: "Zur Zeit, da sie von der Glut getroffen wurden, verschwanden sie. In der Hitze versiegen sie von ihrer Stelle." (Hiob 6:17) – Was heißt <hi xml:lang="ar-Latn">b-ḥummo</hi>? "Im Sieden". R. Jochanan sagt: Jeder Tropfen, welchen Gott über das Geschlecht der Flut brachte, kochte in der Hölle.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

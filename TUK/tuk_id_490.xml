@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matthäus 24:29-31</title>
+                <principal>
+                    <persName>Berenike Aschoff</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Volker Metzler</persName>
+                    <name>Berenike Aschoff</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>490</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Syrien</origPlace>
+                            <origDate>ca. 80-90 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>043:061</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	In Sure 43:61 heißt es, Jesus sei ein "Wissen um die Stunde (des Gerichts)" (<hi xml:lang="ar-Latn">wa-ʾinnahū la-ʿilmun li-s-sāʿati</hi>) bzw. einer Lesevariante zufolge "ein Erkennungszeichen (<hi xml:lang="ar-Latn">ʿalam</hi>) der Stunde". Busse (Die theologischen Beziehungen des Islams zu Judentum und Christentum, Darmstadt 1988, S. 138) deutet dies so, dass durch Jesu Herabsteigen vom Himmel das Gericht angekündigt wird. Dieser Gedanke erscheint auch in Matthäus 24:30, καὶ τότε φανήσεται τὸ σημεῖον τοῦ υἱοῦ τοῦ ἀνθρώπου ἐν οὐρανῷ: Das Erscheinen des Menschensohnes am Himmel ist ein "Zeichen" (σημεῖον) für das nahende Gericht. Der Intertext macht damit die alternative Lesart <hi xml:lang="ar-Latn">ʿalam</hi> statt <hi xml:lang="ar-Latn">ʿilm</hi> wahrscheinlich.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	29 Εὐθέως δὲ μετὰ τὴν θλῖψιν τῶν ἡμερῶν ἐκείνων ὁ ἥλιος σκοτισθήσεται, καὶ ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς, καὶ οἱ ἀστέρες πεσοῦνται ἀπὸ τοῦ οὐρανοῦ, καὶ αἱ δυνάμεις τῶν οὐρανῶν σαλευθήσονται. 30 <hi rendition="bold"> καὶ τότε φανήσεται τὸ σημεῖον τοῦ υἱοῦ τοῦ ἀνθρώπου ἐν οὐρανῷ, καὶ τότε κόψονται πᾶσαι αἱ φυλαὶ τῆς γῆς καὶ ὄψονται τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ μετὰ δυνάμεως καὶ δόξης πολλῆς• </hi> 31 καὶ ἀποστελεῖ τοὺς ἀγγέλους αὐτοῦ μετὰ σάλπιγγος μεγάλης, καὶ ἐπισυνάξουσιν τοὺς ἐκλεκτοὺς αὐτοῦ ἐκ τῶν τεσσάρων ἀνέμων ἀπ᾽ ἄκρων οὐρανῶν ἕως [τῶν] ἄκρων αὐτῶν.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	29 Sofort nach den Tagen der großen Not wird sich die Sonne verfinstern und der Mond wird nicht mehr scheinen; die Sterne werden vom Himmel fallen und die Kräfte des Himmels werden erschüttert werden. 30 <hi rendition="bold">Danach wird das Zeichen des Menschensohnes am Himmel erscheinen; dann werden alle Völker der Erde jammern und klagen und sie werden den Menschensohn mit großer Macht und Herrlichkeit auf den Wolken des Himmels kommen sehen.</hi> 31 Er wird seine Engel unter lautem Posaunenschall aussenden und sie werden die von ihm Auserwählten aus allen vier Windrichtungen zusammenführen, von einem Ende des Himmels bis zum andern.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

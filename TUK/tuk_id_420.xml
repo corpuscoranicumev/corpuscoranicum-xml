@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht auf Maria (Nr.  38)</title>
+                <principal>
+                    <persName>Nicolai Sinai (Texterfassung: Daria Zadorojnaia</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>J. Frank-Kamenetzky</persName>
+                    <name>Untersuchungen über das Verhältnis der dem Umajja b. Abi ṣ Ṣalt zugeschriebenen Gedichte zum Qorān, Kirchhain N.-L. 1911, S. 20-22. Vgl. J. W. Hirschberg, Jüdische und christliche Lehren im vor- und frühislamischen Arabien. Ein Beitrag zur Entstehungsgeschichte des Islams, Krakau 1939, S. 137 f.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>420</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Aṭ-Ṭāʾif (Ḥiǧāz)?</origPlace>
+                            <origDate>Anfang 7. Jh.?</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 105-107.</bibl>
+                <bibl>
+                    <edition>Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 48-49; Bahǧa ʿAbdalġafūr al-Ḥadīṯī, Umayya ibn abī ṣ-Ṣalt: Ḥayātuhū wa-šiʿruhū, Bagdad 1975, S. 290-292.</edition>
+                    <relatedItem>
+                        <bibl>003:042-003:048; 019:016-019:033; 021:091; 066:012</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Die Echtheit der Umayya ibn abī ṣ-Ṣalt zugeschriebenen Gedichte ist umstritten, vgl. allg. Tilman Seidensticker, "The Authenticity of the Poems ascribed to Umayya Ibn Abī al-Ṣalt", in Jack R. Smart (Hg.), Tradition and Modernity in Arabic Language and Literature, Richmond 1996, S. 87-101 (mit Verweisen auf frühere Diskussionsbeiträge). Seidensticker behandelt dort u. a. V. 1, 4, 9, 11 und 12 des vorliegenden Gedichts und belegt, dass sie der koranischen Marienerzählung sprachlich außerordentlich nahe stehen und in verschiedenen Details narrative Amplifikationen enthalten, die auch aus der islamischen Koranexegese bekannt sind: So wird das Einhauchen des Lebensodems, welches im Koran Gott selbst vorzunehmen scheint (Q 66:12), in V. 12 wie in der islamischen Exegese auf den Erzengel Gabriel übertragen, wohl um allzu anthropomorphe Vorstellungen zu vermeiden. Die Authentizität des Gedichts ist von daher wohl eher negativ zu beurteilen. Andererseits könnte natürlich auch die islamische Exegese frühere Traditionen aufgegriffen haben. - Abgesehen vom vorliegenden Gedicht wurden bei der im Rahmen von <hi xml:lang="ar-Latn">Corpus Coranicum</hi> unternommenen vorläufigen Auswertung des Umayya-Korpus auf koranwissenschaftlich relevante Intertexte hin nur solche Gedichte berücksichtigt, deren Unechtheit zumindest nicht überwiegend wahrscheinlich ist (als Grundlage diente dabei die bei Frank-Kamenetzky, a. a. O., S. 48 gegebene Liste vermutlich echter Texte Umayyas, wobei Frank-Kamenetzkys Einschätzungen im Einzelfall durchaus kritisch hinterfragt bzw. mit zusätzlichen Argumenten gestützt wurden); bei der Literaturrecherche und der digitalen Erfassung der arabischen Texte hat Daria Zadorojnaia mitgearbeitet. Eine neue Edition, Übersetzung und Kommentierung des Umayya-Korpus befindet sich derzeit durch Prof. Tilman Seidensticker (Jena) in Vorbereitung; auf detaillierte Quellennachweise sowie eine Überprüfung von Schulthess' editorischer Arbeit wurde deshalb verzichtet.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>١ وفي دينِكم من ربِّ مَرْيَمَ آية ٌ     مُنَبِّئَة ٌ والعبدِ عيسَى بن مَرْيَمِِ<lb/>٢ انابَتْ لِوَجْهِ اللهِ ثُمَّ تَبتّلَتْ     فسَبَّخَ عنها لَوْمةََََ المتلوِّم<lb/>٣ فلا هي هَمَّتْ بالنِكاح ولا دَنَتْ     الى بَشَرٍٍ منها <hi rendition="bold">بفَرْجٍ ٍ</hi> ولا فَم<lb/>٤ ولطَّتْ حِجابَ البيت من دون ِ اهلها     <hi rendition="bold"> تَغَيَّبُ عنهم</hi> في صَحارِىّ ِ دَِمْدَِم<lb/>٥ يَحارُ بها الساري اذا جنَّ ليلُه     وليس وان كان النهارُ بمُعْلَم<lb/>٦<hi rendition="bold"> تَدَلَّى عليها</hi> بعد ما نامَ اهلُها     <hi rendition="bold"> رسولٌ</hi> فلم يَحْصَرْ ولم يَتَرَمْرَمِ<lb/>٧ فقال الا لا تَجْزَعي وتُكَذِّبي     ملائكة ً من ربِّ عادٍ وجُرْهُم<lb/>٨ أَنيبي وأعْطِي ما سُئِلْتِ <hi rendition="bold"> فإنّني     رسولٌ من الرحمن يأتيكِ بابْنَم </hi>
+                        <lb/>
+                        <hi rendition="bold">٩ فقالت له أَنَّي يكون ولم اكُنْ     بَغِيًّا ولا حُبْلَى ولا ذاتَ قَيِِّم </hi>
+                        <lb/>
+                        <hi rendition="bold">١٠ اأَحْرَجُ بالرحمن ان كنتَ مُسْلِماًً     كلاميَ </hi> فاقْعُدْ ما بَدا لك او قُم<lb/>١١ فسَبَّحَ ثُمّ اغْتَرَّها فالْتَقَتْ به     غُلاماً سَوِيَّ الخَلْق ِ ليس بِتَوْأَم<lb/>١٢ بنُفْختِه في الصَدْر من جَيْب دِرْعِها     <hi rendition="bold"> وما يَصْرم الرحمنُ مِلأَمْر يُصْرَم </hi>
+                        <lb/>١٣ فلمّا أَتَمَّتْه وجاءَتْ <hi rendition="bold">لِوَضْعِه </hi>     فآوى لهم من لومِهم والتندُّم<lb/>
+                        <hi rendition="bold">١٤ وقال لها مَن حَوْلَها جئْتِ مُنْكَرَا     فحَقٌّ بأََنْ تُلْحَيْ عليه وتُرْجَمي</hi>
+                        <lb/>١٥ فأَدْرَكَها مِن ربّها ثَََمَّ رَحْمة ٌ     بصِدْق ِ حديثٍ مِن نَبيٍٍّ مُكَلِّم<lb/>
+                        <hi rendition="bold">١٦ فقال لها إنّي من اللّه آيَةٌ     وعَلَّمَني واللّهُ خَيْرُ مُعَلِّم</hi>
+                        <lb/>١٧ وأُرْسِلْتُ لَمْ أُرْسَلْ غَوِيًّا ولم اكُنْ     <hi rendition="bold"> شَقِيًّا </hi> ولم أُبْعَثْ بفُحْش ٍ ومَأْثَم<lb/> </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>1. Und in eurer Religion ist ein weissagendes Zeichen vom Herrn, der Maria und von dem Knechte Jesus, Maria's Sohn.<lb/>2. Sie wandte sich Gott zu und lebte dann in jungfräulicher Abgeschiedenheit, und Gott linderte ihr den Tadel der Tadelnden.<lb/>3. Sie trachtete nicht nach Heirat und liess sich weder <hi rendition="bold"> geschlechtlich </hi> [Q 21:91, 66:12] noch gesprächsweise mit einem Menschen ein.<lb/>4. Sie liess den Vorhang des Zimmers hinunter zwischen sich und ihrer Familie und <hi rendition="bold">hielt sich vor ihnen verborgen</hi> [Q 19:16], in den Wüsteneien von Damdam (Dimdim),<lb/>5. wo der Reisende ratlos wird, wenn ihn die Nacht überrascht und sich sogar am hellen Tag nicht auskennt.<lb/>6. Als ihre Familie schlief, <hi rendition="bold"> senkte sich ein Bote auf sie herab</hi>; der sprach, ohne zu stammeln und ohne Lippenkrampf:<lb/>7. "Verzage nur nicht und halte Engel, die vom Herrn der ʿĀd und Ǧurhum kommen, nicht für Betrüger.<lb/>8. Willige ein und leiste, was von dir verlangt wird,<hi rendition="bold"> denn ich bin ein Bote vom Barmherzigen, der dir einen Sohn bringt</hi>."<lb/>9. <hi rendition="bold">Da sprach sie zu ihm: "Wie sollte ich zu ihm kommen, da ich doch weder eine Dirne, noch schwanger, noch eine verheiratete Frau bin?</hi>
+                        <lb/>10. <hi rendition="bold">Ich bescheide mich mit meiner Rede beim Barmherzigen, wenn du ein Gläubiger bist</hi>, drum sitze, so lange es dir gefällt, oder steh auf."<lb/>11. Da sprach er die Doxologie und kam dann unvermutet über sie, und sie empfing durch ihn einen Knaben von ebenmässiger Gestalt, nicht schwächlich,<lb/>12. als er ihr durch den Busen ihres Hemdes in die Brust hauchte, - <hi rendition="bold">und was Gott beschliesst, dabei bleibt es</hi>.<lb/>13. Nachdem sie ihn dann ausgetragen hatte und dazu kam, <hi rendition="bold"> ihn zu gebären </hi> [Q 3:36], wurde ihr zuviel ihr (der Angehörigen) Tadel und die Bussermahnung,<lb/>14. <hi rendition="bold"> indem ihre Umgebung zu ihr sagte: "Du bist befremdliche Wege gegangen, du sollst dafür von Rechts wegen entehrt und gesteinigt werden</hi>."<lb/>15. Jetzt aber erreichte sie dort Erbarmen seitens ihres Herrn (d.h. Gottes), indem er einen redenden Propheten (nämlich das Jesuskind) die Wahrheit berichten liess.<lb/>16. <hi rendition="bold"> Und der sprach mit Bezug auf sie (Maria): "Ich bin ein Zeichen von Gott, und er hat mich mit Wissen ausgerüstet - Gott ist ja der beste Lehrer</hi> -,<lb/>17. und ich bin gesandt, und zwar bin ich nicht als Irrender gesandt worden, noch <hi rendition="bold"> ein Erbärmlicher </hi> [Q 19:32] gewesen, noch in Schimpflichkeit und Sünde geschickt worden."</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

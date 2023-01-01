@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Predigt über die Wiederkunft Christi</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Nicolai Sinai</persName>
+                    <persName>Manolis Ulbricht</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Tor Andrae</persName>
+                    <name>Der Ursprung des Islams und das Christentum, Uppsala 1926, S. 143 f.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>186</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate>vor 6. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Manolis Ulbricht, Jürgen Wiesner</bibl>
+                <bibl>
+                    <edition>
+
+	Ephraem Syrus, Sancti patris nostri Ephraem Syri Opera omnia quae exstant Graece, Syriace, Latine, 6 Bde., Rom 1732-1746, Graece et Latine, Bd. 2, S. 211.</edition>
+                    <relatedItem>
+                        <bibl>006:164; 017:015; 035:018; 039:007; 053:038</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Im Folgenden wird von "Ephrem Graecus" gesprochen. Diese Bezeichnung bezieht sich auf die auf Griechisch überlieferten Werke, welche traditionell Ephrem dem Syrer zugeordnet werden. Bei den auf Griechisch überlieferten, Ephrem zugeschriebenen Werken handelt es sich um ein Corpus von Texten unterschiedlicher Herkunft. Ein Teil davon beruht auf syrischen Originalen (die nicht unbedingt von Ephrem stammen müssen), ein Teil wurde auf Griechisch verfasst (dazu ausführlicher D. Hemmerdinger-Iliadou, Art. "Éphrem Grec", in: Dictionnaire de Spiritualité, Bd. 4.1, 1958-1960). Die Zuordnung ist nicht immer klar. Einige der griechischen Schriften gehen wohl tatsächlich auf Ephrem den Syrer zurück, andere sind als pseudo-ephremisch zu betrachten. Tor Andrae differenziert in seinem Buch nicht nach Überlieferungssprache etc., sondern spricht allgemein von "Ephrem".</p>
+                    <p>
+
+	Die in verschiedenen Koranversen getroffene Feststellung, dass "niemand die Last eines anderen trägt", deckt sich mit der Aussage des Ephrem Graecus-Zitats, dessen Wortwahl wiederum auf Galater 6:5 zurückgeht (vgl. TUK 0153). Der Passus aus dem griechischen Ephrem illustriert so, dass das Bild der jeweils individuell zu tragenden "Bürde" der eigenen Taten auch im postbiblischen christlichen Diskurs weiter in Gebrauch war; damit erhöht sich die Wahrscheinlichkeit, dass die paulinische Wendung tatsächlich im Hintergrund der angeführten Koranstellen steht.</p>
+                    <p>
+
+	Bemerkenswert ist ebenfalls, wie bereits T. Andrae (1926, S. 144) betont, dass Ephrem Graecus mit seiner rigorosen Ablehnung der Möglichkeit der Interzession gegen das Christentum seiner Zeit, aber mit dem Koran steht. Wie Andrae bemerkt, passt die hohe Frequenz, mit der die Alleinverantwortlichkeit der einzelnen Seele, sowohl bei Ephrem, als auch im Koran betont wird zu den allgemein in der eschatologischen Beschreibung zu findenen Parallelen zwischen Ephrem Graecus (sowie dem syrisch überlieferten Ephrem) und dem Koran.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	Ἐννοήσωμεν ὅτι οὐδὲν ἡμᾶς ὡφελήσουσι τὰ πέρατα τῆς γῆς ἐν τῇ ὥρᾳ ἐκείνῃ. Ἐνθυμηθῶμεν, ὅτι ἐκεὶ οὐδεὶς δύναται βοηθῆσαι ἄλλον. ἀλλ’ ἕκαστος <hi rendition="bold">τὸ ἴδιον φορτίον βαστάζων</hi> ἵσταται ἐκδεχόμενος τὴν ἀπόφασιν τὴν μέλλουσαν ἐξελθεῖν κατ’ αὐτοῦ.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Lasst uns bedenken, dass uns die höchsten Gipfel der Welt nichts nützen werden in jener Stunde. Denken wir daran, dass dort niemand im Stande ist, einem anderen zu helfen. Aber ein jeder, <hi rendition="bold">die eigene Last tragend</hi>, stellt sich auf, die zukünftige Entscheidung zu erwarten, die auf ihn herabkommt.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Markus 8:27-30</title>
+                <principal>
+                    <persName>Nicolai Sinai (Anmerkung)</persName>
+                    <persName>Manolis Ulbricht</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Johann-Dietrich Thyen</persName>
+                    <name>Bibel und Koran. Eine Synopse gemeinsamer Überlieferungen, Köln 2000, S. 232-233.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>401</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Kleinasien oder Syrien (?)</origPlace>
+                            <origDate>um 70 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung (modifiziert)</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>003:052-003:053; 005:111</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾanṣār Allāh</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die beiden Koranstellen berichten, wie Jesu Jünger bekennen, <hi xml:lang="ar-Latn">muslimūn</hi> ("Gottergebene") bzw. <hi xml:lang="ar-Latn">ʾanṣār Allāh</hi> ("Helfer Gottes") zu sein. Dabei handelt es sich vielleicht um ein polemisches Gegenstück zum Messiasbekenntnis aus Markus 8: Im Einklang mit der koranischen Kritik des christlichen Jesusbildes bekennen sich die Jünger nicht wie im Neuen Testament in erster Linie zu Jesus, sondern zu Gott.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	27 Καὶ ἐξῆλθεν ὁ Ἰησοῦς καὶ οἱ μαθηταὶ αὐτοῦ εἰς τὰς κώμας Καισαρείας τῆς Φιλίππου• καὶ ἐν τῇ ὁδῷ ἐπηρώτα τοὺς μαθητὰς αὐτοῦ λέγων αὐτοῖς• τίνα με λέγουσιν οἱ ἄνθρωποι εἶναι; 28 οἱ δὲ εἶπαν αὐτῷ λέγοντες [ὅτι] Ἰωάννην τὸν βαπτιστήν, καὶ ἄλλοι Ἠλίαν, ἄλλοι δὲ ὅτι εἷς τῶν προφητῶν. 29 καὶ αὐτὸς ἐπηρώτα αὐτούς• ὑμεῖς δὲ τίνα με λέγετε εἶναι; ἀποκριθεὶς ὁ Πέτρος λέγει αὐτῷ• σὺ εἶ ὁ χριστός. 30 καὶ ἐπετίμησεν αὐτοῖς ἵνα μηδενὶ λέγωσιν περὶ αὐτοῦ.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	27 Jesus ging mit seinen Jüngern in die Dörfer bei Cäsarea Philippi. Unterwegs fragte er die Jünger: Für wen halten mich die Menschen? 28 Sie sagten zu ihm: Einige für Johannes den Täufer, andere für Elija, wieder andere für sonst einen von den Propheten. 29 Da fragte er sie: Ihr aber, für wen haltet ihr mich? Simon Petrus antwortete ihm: Du bist der Messias! 30 Doch er verbot ihnen, mit jemand über ihn zu sprechen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

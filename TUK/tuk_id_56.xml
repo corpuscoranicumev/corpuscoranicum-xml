@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Babylonischer Talmud, Sanhedrin, 108a</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 94.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>56</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Mesopotamien</origPlace>
+                            <origDate>vor 7. Jh. n. Chr. (Endredaktion)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Lazarus Goldschmidt (Übers.), Der Babylonische Talmud, Berlin 1930-36, Bd. 9, S. 123 f. (modifiziert).</bibl>
+                <bibl>
+                    <edition>
+
+	Ausgabe Romm, Wilna 1880-86.</edition>
+                    <relatedItem>
+                        <bibl>007:059-007:064; 010:071-010:073; 011:025-011:037; 023:023-023:027; 026:105-026:122; 071:001-071:028</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die Vorstellung von Noah als Warner ist, wie der hier zitierte Passus aus dem Babylonischen Talmud zeigt, keine ausschließliche Eigentümlichkeit christlicher Tradition (vgl. dazu TUK 0025), sondern auch im rabbinischen Judentum und davor bei Flavius Josephus (vgl. TUK 0024) präsent.</p>
+                </body>
+            </text>
+            <text xml:lang="arc-hbo" type="orig">
+                <body>
+                    <p>
+
+	דרש רבי יוסי דמן קסרי: מאי דכתיב קל הוא על פני מים תקלל חלקתם בארץ, מלמד שהיה נח הצדיק מוכיח בהם ואומר להם: עשו תשובה, ואם לאו - הקדוש ברוך הוא מביא עליכם את המבול, ומקפה נבלתכם על המים כזיקין, שנאמר קל הוא על פני מים .</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	R. Jose aus Caesarea trug vor: Es heißt: "Leicht ist er auf der Wasserfläche, verflucht wird ihr Erbteil auf Erden." [Hiob 24:18] Dies lehrt, daß der fromme Noah sie zurechtgewiesen und zu ihnen gesprochen hatte: Tut Buße, denn sonst wird der Heilige, gepriesen sei er, eine Sintflut über euch bringen und eure Leichen wie die Schläuche auf dem Wasser schwimmen lassen. Deshalb heißt es auch: "Leicht ist er auf der Wasserfläche".</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

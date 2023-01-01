@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 344. We. 1917. 4 Bl. Quer-4to , 7 Z. (18,5x27; 11x19 cm). — Zustand: die ersten Blätter etwas fleckig, sonst im Ganzen gut. — Material: schönes Pergament, stark, gelblich, glatt. — Einband: roter Kattunband. — Inhalt: F. 1:                 Sure 24:24 السنتهم bis 24:27 تدخلوا F. 2:                Sure 24:40 [ا]خرج bis 24:43 ركاما F. 3.4:             Sure 59:2 وايدي bis 59:7 عنه Zwischen f. 1 u. 2 fehlen 7 bis 8 Blätter; nach f. 2 ist eine sehr große Lücke. Schrift: groß, stattlich, sehr schön und sorgfältig. Bl. 1 u. 2 etwas verblasst, ins Bräunliche übergehend. — Zahl der Buchstaben in der Reihe etwa 15. — Raum zwischen den Buchstabengruppen durchschnittlich 1 cm . — Die Wörter können am Ende der Zeilen gebrochen werden. — Die Köpfe der Buchstaben sehr groß und bis auf einen ganz kleinen Punkt ausgefüllt. Anfangs-ا geht schwungvoll nach rechts, ع setzt oben nach rechts hin eine kleine Rundung an, gleicht sonst aber völlig dem Anfangs-ح. Schluss-م steht auf der Linie mit kleinem Strich, ي macht unter der Linie eine ziemlich große Krümmung, die nach links umbiegt; Schluss-ق geht mit geradem Strich unter die Linie und setzt, ziemlich weit rechts hin, einen etwas kleineren Zug, als ي hat, nach links hin umgebogen an. Schluss-ن hat ziemlich weit unter der Linie eine grössere nach links gehende Biegung, Schluss-ل hat unten einen etwas kleineren Strich, ك u. auch د, ص, ط werden bisweilen recht lang gezogen, desgleichen auch ت u. ب; auch kommen recht lange Verbindungsstriche vor. — Diakritische Punkte sind in Form ganz feiner kleiner Striche gesetzt, ف durch einen Strich unten, ق durch einen Strich oben bezeichnet; ش hat drei kleine dicht aneinander stehende Striche in gerader Linie, ث solche in schräger Richtung. — Die Vokale sind mit roten Punkten genau bezeichnet; die Nunation mit roten Doppelpunkten über- oder nebeneinander angezeigt. Lang ā sehr oft nicht ausgedrückt, es ist dann aber ein feiner senkrechter roter Strich übergesetzt. — Von den Lesezeichen ist Ǧizm bezeichnet durch einen feinen horizontalen kleinen roten Strich, Hamza durch einen gelben, Waṣlah durch einen blauen Punkt, wobei aber doch unter dem ا oder mitten an demselben ein feiner roter horizontaler Strich steht, Tašdīd durch einen roten nach oben oder unten offenen Halbkreis, Madda überhaupt nicht. — Die Verse nicht einzeln abgeteilt, sondern von 5 zu 5 Versen; für die Zehner ein grösserer Kreis mit Goldfarbe ausgefüllt, für die Fünfer ein kleinerer Goldpunkt nach oben zugespitzt. Überschriften stehen hier nicht. Randangaben für Texteinteilung sind hier nicht gemacht.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Wetzstein II 1917</idno>
+                        <altIdentifier>
+                            <idno>Wetzstein II 1917 (Ahlwardt 344)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="463">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>182</height>
+                                        <width>266</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="7">
+                                    <p>Die Seiten enthalten 7 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

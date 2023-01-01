@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mithr-Yašt</title>
+                <principal>
+                    <persName>Annette Schwandt</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>W. St. Clair Tisdall</persName>
+                    <name>The Original Sources of the Qur'an, London 1905, S. 99.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>772</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Iran</origPlace>
+                            <origDate>5.-4. Jh v. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Fritz Wolff, Avesta. Die heiligen Bücher der Parsen, Berlin 1960.</bibl>
+                <bibl>
+                    <edition/>
+                    <relatedItem>
+                        <bibl>002:102</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Das Avesta (mittelpersisch <hi xml:lang="ar-Latn">abestāg</hi>) ist die heilige Schrift der Zoroastrier. Nach langer mündlicher Tradition, wurde es im 4.-6. Jh. n. Chr., in einer eigenen Schrift, der sogenannten Avesta-Schrift niedergeschrieben. Bezogen auf das jeweilige Alter der Texte lässt sich das Avesta in ein altavestisches und jungavestisches Textkorpus unterteilen. Die Datierung der altavestischen Texte ist unklar. Die jungavestischen Texte stammen vermutlich aus dem 5.-4. Jh. v. Chr.<lb/>Zu diesen ist auch der hier angegebene Intertext zu rechnen. Hierbei ist auffallend, dass die Namen der Engel <hi xml:lang="ar-Latn">Harut</hi> und <hi xml:lang="ar-Latn">Marut</hi> in Q 2:102 an <hi xml:lang="ar-Latn">Haurvatāt</hi> und <hi xml:lang="ar-Latn">Amәrәtāt</hi> im Avesta erinnern.<lb/>W. St. Clair Tisdall weist auf die armenische Überlieferung hin, die ebenfalls zwei Geistwesen mit ähnlichen Namen kennt.</p>
+                </body>
+            </text>
+            <text xml:lang="ave-Avst" type="orig">
+                <body>
+                    <p>aiia daēnaiia fraorә</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>Zu dieser Religion bekannte sich der Weise Herr, der wahrhafte, zu ihr das Gute Denken, zu ihr die Beste Wahrheit, zu ihr die Wünschenswerte Herrschaft, zu ihr die Heilvolle Rechtsgesinntheit, zu ihr die beiden, <hi rendition="bold">Unversehrtheit und Unsterblichkeit</hi>.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

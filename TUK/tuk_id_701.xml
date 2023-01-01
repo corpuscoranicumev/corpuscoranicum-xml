@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jesaja 45:7</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>701</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina, Mesopotamien</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Anfertigung der Jesajarolle aus Qumran)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>113:001</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">šarr</hi>; <hi xml:lang="ar-Latn">ḫalaqa</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Die Jesaja-Stelle identifiziert Gott als den alleinigen Schöpfer, sowohl des Lichtes, als auch der Dunkelheit, des Friedens, wie auch des Üblen (<hi xml:lang="ar-Latn">ûḇôrēʾ rāʿ</hi>). Diese Vorstellung findet sich auch in Sure 113, wo es heißt <hi xml:lang="ar-Latn">aʿūḏu bi-rabbi l-falaq min šarri mā ḫalaq</hi>, welches als 'ich nehme meine Zuflucht beim Herrn der Morgenröte vor dem Üblen, was er erschuf' bzw., vielleicht besser, 'vor dem Üblen dessen, was er erschuf' übersetzt werden kann. Während die Passage in Jesaja in einem Kontext der Affirmation der Einzigkeit Gottes steht und traditionell als 'Antwort' auf dualistische zoroastrische Vorstellungen gesehen wird (vgl. etwa Mordtmann und Müller, S. 291) ist Sure 113 eine der beiden prominenten apotropäischen Suren des Korans (<hi xml:lang="ar-Latn">muʿawwiḏatān</hi>, zusammen mit Sure 114). Sie reflektiert jedoch die in Jesaja 45:7 zum Ausdruck gebrachte Vorstellung, dass Gott Schöpfer (die entsprechenden Verben sind hebr. <hi xml:lang="ar-Latn">bārāʾ</hi> und arab. <hi xml:lang="ar-Latn">ḫalaqa</hi>) aller Dinge ist, auch dessen was Übles hervorbringt. Beide Aussagen stehen damit deutlich zoroastrischen Vorstellungen entgegen, wie wir sie etwa in Yasna 30:3-4 finden: "Und im Anbeginn waren diese beiden Geister, die Zwillinge, die nach ihrem eigenen Worte das Gute und das Böse (Prinzip) im Denken, Reden und Tun heißen. Zwischen ihnen haben die Guthandelnden richtig gewählt, nicht die Schlechthandelnden. Und als diese beiden Geister zuerst zusammenkamen, da bestimmten sie Leben und Tod, und dass zuletzt sein soll für die Falschgläubigen das schlimmste Dasein, aber für den Rechtgläubigen (der Lohn der) besten Gesinnung" (zitiert nach K. F. Geldner, Avesta - Die heiligen Bücher der Parsen, in deutsch und englisch, 3 Bände, Stuttgart 1885-1895). Der Gläubige sucht im Koran Zuflucht bei Gott vor den Geschöpfen Gottes, die Böses tun, seien es Menschen oder Dämonen (<hi xml:lang="ar-Latn">ḫannās, nās, ǧinna</hi>, so in Sure 114), während die Zuflucht im Zoroastrismus bei dem 'guten Gott' (Ahura Mazda) gegen den 'bösen Gott' (Angra Mainyu bzw. Ahriman) genommen wird. Vgl. auch Yasna 12:1 "Ich verschmähe ein Dev(anbeter) zu sein, ich bekenn mich als Mazdaanbeter, als Zarathustrier, als Feind der Devs (falsche Götter, Dämonen), als Bekenner des Herren, [...]." In Sure 113 mag also eine biblische Tradition, wie auch die allgemeine Ablehnung (zoroastrisch-) dualistischer Vorstellung vorliegen. Vgl. zuletzt noch Q 4:78:<lb/>وَإِن تُصِبْهُمْ حَسَنَةٌ يَقُولُواْ هَـذِهِ مِنْ عِندِ اللّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَقُولُواْ هَـذِهِ مِنْ عِندِكَ قُلْ كُلًّ مِّنْ عِندِ اللّهِ<lb/>"... und wenn sie Gutes trifft, so sagen sie wohl 'das ist von Gott' und wenn sie Schlechtes trifft, dann sagen sie 'dies ist von Dir'. Sprich: Alles ist von Gott".</p>
+                    <p>P.S. Natürlich gibt es auch zoroastrische Strömungen, die der Dualität eine, an sich gute, Singularität voranstellen.<lb/>In der Antike gibt es eine lange Tradition, Gott nicht als (direkte) Ursache des Bösen zu sehen. Sie findet sich bei Plato (Republik 379c), sowie etwa bei Philo, der diese Meinung den Essenern zuschreibt, sie aber auch für sich selbst reklamiert; dies dergestalt, dass 'Böses' von Gott untergeordneten Kräften zu verantworten sei. Die koranischen Passagen sind nun wohl zumindest so zu verstehen, dass sie sich gegen eine originäre Dualität wenden, sie schließt aber wohl nicht aus, dass 'Böses' nicht direkt auf Gott zurückgeht, sondern seine Geschöpfe, deren letzte Ursache natürlich wiederum Gott ist.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>‏אֲנִי יְהוָה וְאֵין עוֹד זוּלָתִי אֵין אֱלֹהִים אֲאַזֶּרְךָ וְלֹא יְדַעְתָּנִי׃<lb/>‏ לְמַעַן יֵדְעוּ מִמִּזְרַח־שֶׁמֶשׁ וּמִמַּעֲרָבָהּ כִּי־אֶפֶס בִּלְעָדָי אֲנִי יְהוָה וְאֵין עוֹד׃<lb/>‎‏ יוֹצֵר אוֹר וּבוֹרֵא חֹשֶׁךְ עֹשֶׂה שָׁלוֹם <hi rendition="bold">וּבוֹרֵא רָע</hi> אֲנִי יְהוָה עֹשֶׂה כָל־אֵלֶּה׃ ס</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>Ich erschaffe das Licht und mache das Dunkel, ich bewirke das Heil und erschaffe das Unheil. Ich bin der Herr, der das alles vollbringt.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

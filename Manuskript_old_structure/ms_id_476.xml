@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 360. We. 1926. 20 Bl. Quer-8vo, 8 Z. (12x17; 6,5x12,5 cm). — Zustand: in der unteren Hälfte und am Rücken stark fleckig, aber auch sonst nicht ganz frei von Flecken. — Material: Pergament, stark, gelblich, glatt. — Einband: Hlbfzbd. —Inhalt: Sure 46:25 لقد مكناهم bis 48:28 ودين ا[لحق] Schrift: groß, schön, gleichmäßig. An manchen Stellen abgescheuert, besonders f. 4b. 8a. 9a. 10a. 12b. 14b. 15b. 16a. 17a. 19a. 20a. Manche untere Zeilen durch Flecke stellenweise bis zur Unleserlichkeit beschädigt. — Buchstabenzahl der Zeilen ca. 16. — Der Raum zwischen den einzelnen Buchstabengruppen ist etwa 0,4 cm. Ein Abbrechen der Wörter am Ende der Zeilen findet statt. — Die Buchstaben م, ق u. ف im Worte sehen sich sehr ähnlich; desgleichen ك u. د. Schluss-ن geht tief nach unten, mit kleinem gerade angesetztenStrich nach links; Schluss-ل steht auf der Linie, Schluss-م hat einen kleinen Strich auf der Linie, Schluss-ي hat eine Rundung nach links, ähnlich das Schluss-ق; Anfangs-ع hat oben nur geringe Krümmung, sonst dem Anfangs-ح gleich; das anfangende ا ist unten schwungvoll und nimmt großen Raum ein. — Die diakritischen Punkte fehlen. Vokale stehen ziemlich oft (mit roten Punkten bezeichnet); die Nunation ist bisweilen durch 2 rote Punkte neben- oder übereinander angezeigt. Das lange ā ist bisweilen fortgelassen. Die Lesezeichen, wie Tašdīd, fehlen. Ein bisweilen stehender grüner Punkt scheint hauptsächlich zur Unterscheidung des mitten im Worte stehenden ه zu dienen, obgleich er auch, selten genug, bei einigen anderen Buchstaben steht. Die Zeichen derVersabteilung stehen nur nach größeren Gruppen. — Die Überschriften sind in Goldschrift: bloß Titel und Angabe der Verszahl. — Am Rande keine Bezeichnung von Textabschnitten.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Wetzstein II 1926</idno>
+                        <altIdentifier>
+                            <idno>Wetzstein II 1926 (Ahlwardt 360)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="476">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>118</height>
+                                        <width>170</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="8">
+                                    <p>Die Seiten enthalten 8 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

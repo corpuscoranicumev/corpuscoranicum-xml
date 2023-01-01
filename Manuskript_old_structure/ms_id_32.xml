@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Michael Marx</persName>
+                    <persName>Tobias J. Jocham</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Die Filme des Bergsträsser-Archives, auf denen diese Handschrift abgelichtet sein müßte, wären die Filme 24, 25, 26 und 27 aus dem Kasten A;diese sidn jedoch noch nicht eingelesen, da sie samt und sonders nicht am Platze sind! TJJ Vollständige Notiz von Gallica (<ref target="http://gallica.bnf.fr/ark:/12148/btv1b84152099">Verknüpfung</ref>): Titel : Coran<lb/> Titel : القرآن<lb/> Type : manuscrit<lb/> Sprache :<lb/> Format : Pl. IX. - Pl. IX. - Graphie. - B I a. - . Diacritiques : points ovales, partiellement portés (le. - qāf. - est parfois indiqué par un point placé sous la lettre, plus généralement par l'absence de point car le. - fā. - ʾ semble assez constamment ponctué) ; vocalisation absente. Les versets sont séparés par des groupes de six traits obliques disposés en triangle (. - 1.1.5. - ) ; des cercles à l'intérieur desquels sont placées des lettres-chiffres (1.A.I) indiquent les groupes de dix versets. Un espace sépare les sourates les unes des autres (cf. 14 v°, 19 r°, 24 r°, 26 v°, 30 v°, 32 v°, 33 r°, 34 r°, 36 v°, 37 v°, 39 r°, 41 r°, 42 v°, 44 r°, 45 r°, 46 v°, [47 v°], 48 r°, 49 v°, 51 r°, 53 r°, 55 r°, 56 v°) ; généralement à la fin de la ligne laissée libre par le dernier verset de la sourate précédente, parfois dans l'espace entre les deux sourates, on trouve la formule «. - ẖātimatu sūrati. - ... » précédée du nombre des versets indiqué par des lettres-chiffres. Au bas du f° 1 r°, une main plus tardive a inscrit. - ḥubisa lillahi ʿazza wa-ğalla. - ; la même main a ajouté dans l'espace entre les deux sourates, au f° 39 r°. - ḥubisa lillahi ğalla wa-ʿazza. - Parchemin. Page : 413 mm. × 348. 19 lignes. Trace d'une réglure dont n'est visible que le cadre, que l'écriture déborde souvent. Encre brun pâle. Surface d'écriture : 342 mm. × 284<lb/> Copyright : domaine public<lb/> Benutzeridentifizierung : ark:/12148/btv1b84152099<lb/> Quelle : Bibliothèque nationale de France, Département des manuscrits, Arabe 331<lb/> Herkunft : bnf.fr<lb/> Beschreibung : F° 1 à 11 : II, 125-258 ; f° 12 à 21 : VII, 162-IX, 35 ; f° 22 à 29 : XIV, 9-XVI, 64 ; f° 30 : XVI, 114-XVII, 4 ; f° 31 à 32 : XVII, 78-XVIII, 6 ; f° 33 : XXV, 65-XXVI, 19 ; f° 34 : XLIII, 81-XLIV, 28 ; f° 35 à 36 : XLV, 9-XLVI, 8 ; f° 37 à 38 : XLVI, 21-XLVII, 16 ; f° 39 à 42 : XLVII, 36-LIII, 62 ; f° 48 à 56 : LIV, 41-LX, 1 Copie anonyme et non datée A rapprocher du ms. Chicago 1 (N. Abbott The rise of the North arabic script and its ḳur'ānic development, with a full description of the Ḳur'ān manuscripts in the Oriental Institute , Oriental Institute Publications, t. L, Chicago, 1938, pl. VIII et IX)<lb/> Beschreibung : Provient de la collection Asselin de Cherville<lb/> Beschreibung : Al-Qur'ān</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Frankreich</country>
+                        <settlement>Paris</settlement>
+                        <institution> Bibliothèque nationale de France</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>Ms Arabe 331</idno>
+                        <altIdentifier>
+                            <idno>Ms. Paris BnF Arabe 331</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="32">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>413</height>
+                                        <width>348</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="19">
+                                    <p>Die Seiten enthalten 19 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

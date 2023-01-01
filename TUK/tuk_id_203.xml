@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Exodus 7:1-6</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Yousef Kouriyhe</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 278.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>203</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung (mit "Moses" statt "Mose")</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>010:088</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Wie die Moseserzählung im Buch Exodus spricht Q 10:88 von einer Verhärtung des Herzens Pharaos. Im Unterschied zum Buch Exodus geschieht dies im Koran aber nicht aus einem Beschluss Gottes heraus, sondern Moses bittet Gott darum. Siehe auch Exodus 4:21.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה רְאֵה נְתַתִּיךָ אֱלֹהִים לְפַרְעֹה וְאַהֲרֹן אָחִיךָ יִהְיֶה נְבִיאֶךָ<lb/>
+
+	:<lb/>
+
+	אַתָּה תְדַבֵּר אֵת כָּל־אֲשֶׁר אֲצַוֶּךָּ וְאַהֲרֹן אָחִיךָ יְדַבֵּר אֶל־פַּרְעֹה וְשִׁלַּח אֶת־בְּנֵי־יִשְׂרָאֵל מֵאַרְצוֹ<lb/>
+
+	:<lb/>
+                        <hi rendition="bold">וַאֲנִי אַקְשֶׁה אֶת־לֵב פַּרְעֹה </hi>
+                        <lb/>
+                        <lb/>
+
+	וְהִרְבֵּיתִי אֶת־אֹתֹתַי וְאֶת־מוֹפְתַי בְּאֶרֶץ מִצְרָיִם<lb/>
+
+	:<lb/>
+
+	וְלֹא־יִשְׁמַע אֲלֵכֶם פַּרְעֹה וְנָתַתִּי אֶת־יָדִי בְּמִצְרָיִם וְהוֹצֵאתִי אֶת־צִבְאֹתַי אֶת־עַמִּי בְנֵי־יִשְׂרָאֵל מֵאֶרֶץ מִצְרַיִם בִּשְׁפָטִים גְּדֹלִים<lb/>
+
+	:<lb/>
+
+	וְיָדְעוּ מִצְרַיִם כִּי־אֲנִי יְהוָה בִּנְטֹתִי אֶת־יָדִי עַל־מִצְרָיִם וְהוֹצֵאתִי אֶת־בְּנֵי־יִשְׂרָאֵל מִתּוֹכָם<lb/>
+
+	:<lb/>
+
+	וַיַּעַשׂ מֹשֶׁה וְאַהֲרֹן כַּאֲשֶׁר צִוָּה יְהוָה אֹתָם כֵּן עָשׂוּ<lb/>
+
+	:</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Der Herr sprach zu Moses: Hiermit mache ich dich für den Pharao zum Gott; dein Bruder Aaron soll dein Prophet sein.<lb/>
+
+	2 Du sollst alles sagen, was ich dir auftrage; dein Bruder Aaron soll es dem Pharao sagen und der Pharao muss die Israeliten aus seinem Land fortziehen lassen.<lb/>
+
+	3 <hi rendition="bold"> Ich aber will das Herz des Pharao verhärten </hi> und dann werde ich meine Zeichen und Wunder in Ägypten häufen.<lb/>
+
+	4 Der Pharao wird nicht auf euch hören. Deshalb werde ich meine Hand auf Ägypten legen und unter gewaltigem Strafgericht meine Scharen, mein Volk, die Israeliten, aus Ägypten führen.<lb/>
+
+	5 Erst wenn ich meine Hand gegen die Ägypter ausstrecke, werden sie erkennen, dass ich der Herr bin, und dann werde ich die Israeliten aus ihrer Mitte herausführen.<lb/>
+
+	6 Moses und Aaron taten, was ihnen der Herr aufgetragen hatte. So machten sie es.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

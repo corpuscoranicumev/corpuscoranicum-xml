@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einleitungsformel über der Chronik des Ardaschir (Kārnāmak i Artaxšēr i Pāpakān)</title>
+                <principal>
+                    <persName>Michael Marx</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>418</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate>vor 7. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Andreas Ismail Mohr</bibl>
+                <bibl>
+                    <edition>H. S. Nyberg, A Manual of Pahlavi, Wiesbaden 1964, Bd. 1, S. 1.</edition>
+                    <relatedItem>
+                        <bibl>001:001; 027:030</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">bi-smi llāhi r-raḥmāni r-raḥīm</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Die Einleitungsformel über der Chronik des Ardaschir entspricht strukturell der Basmala: Auf die Anrufung "Im Namen von" folgt ein Gottesname, der dann mit zwei Attributen verbunden wird.<lb/>Obwohl die Chronik selbst auf sasanidische Zeit zurückgeht (Nyberg a. a. O., S. XII), lässt sich die Einleitungsformel nicht sicher datieren, da es sich gerade bei Einleitungsformeln um flexible Textelemente handelt, die auch von späteren Kopisten eingefügt worden sein können.</p>
+                </body>
+            </text>
+            <text xml:lang="pal-Phli" type="orig">
+                <body>
+                    <p>
+                        <hi xml:lang="ar-Latn">Pat nām i dātār Ohurmazd i rāyōmand i xwarrahōmand.</hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>Im Namen des Schöpfers Ohurmazd (Ahura Mazda), des Glänzenden, des Lichtvollen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

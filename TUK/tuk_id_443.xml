@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Psalm 69:31-37</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 51 f., Anm. 3 (zu Q 17:44).</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>443</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Endredaktion des Psalters) </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>017:044; 024:041; 059:001; 059:024; 061:001; 062:001; 064:001</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die in verschiedenen Koranversen enthaltene Aussage, dass "die Himmel und die Erde Gott preisen" (bzw. das, was "in" ihnen ist), ist psalmisch. Vgl. auch noch Psalm 19:2 und 50:6 und Psalm 148. In der Rezeptionsgeschichte der hebräischen Bibel ist hebr. <hi xml:lang="ar-Latn">šāmayim</hi> oft als Plural aufgefasst worden. Obgleich das hebräische Wort etymologisch arab. <hi xml:lang="ar-Latn">samāʾ</hi> entspricht, mag der koranische Plural <hi xml:lang="ar-Latn">samawāt</hi> trotzdem einer ähnlichen Tradition verpflichtet sein.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	אֲהַלְלָה שֵׁם־אֱלֹהִים בְּשִׁיר וַאֲגַדְּלֶנּוּ בְתוֹדָה : וְתִיטַב לַיהוָה מִשּׁוֹר פָּר מַקְרִן מַפְרִיס : רָאוּ עֲנָוִים יִשְׂמָחוּ דֹּרְשֵׁי אֱלֹהִים וִיחִי לְבַבְכֶם : כִּי־שֹׁמֵעַ אֶל־אֶבְיוֹנִים יְהוָה וְאֶת־אֲסִירָיו לֹא בָזָה : <hi rendition="bold"> יְהַלְלוּהוּ שָׁמַיִם וָאָרֶץ יַמִּים וְכָל־רֹמֵשׂ בָּם : </hi> כִּי אֱלֹהִים יוֹשִׁיעַ צִיּוֹן וְיִבְנֶה עָרֵי יְהוּדָה וְיָשְׁבוּ שָׁם וִירֵשׁוּהָ : וְזֶרַע עֲבָדָיו יִנְחָלוּהָ וְאֹהֲבֵי שְׁמוֹ יִשְׁכְּנוּ־בָהּ :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	31 Ich will den Namen Gottes rühmen im Lied, / in meinem Danklied ihn preisen. 32 Das gefällt dem Herrn mehr als ein Opferstier, / mehr als Rinder mit Hörnern und Klauen. 33 Schaut her, ihr Gebeugten, und freut euch; / ihr, die ihr Gott sucht: euer Herz lebe auf! 34 Denn der Herr hört auf die Armen, / er verachtet die Gefangenen nicht. 35 <hi rendition="bold">Himmel und Erde sollen ihn rühmen, / die Meere und was sich in ihnen regt.</hi> 36 Denn Gott wird Zion retten, / wird Judas Städte neu erbauen. Seine Knechte werden dort wohnen und das Land besitzen, / 37 ihre Nachkommen sollen es erben; / wer seinen Namen liebt, soll darin wohnen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

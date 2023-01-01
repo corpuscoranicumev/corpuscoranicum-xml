@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 354. Mf. 379. (f. 20-21) Queer8vo, 15 Z. (14x20; 9x14,5-16 cm). — Zustand: unsauber, auch fleckig, besonders in der unteren Hälfte; zum Teil abgescheuert und etwas durchgescheuert; im Text von f. 20 ist ein kleines Loch; die obere Ecke desselben Blattes ist abgerissen. — Material: Pergament, stark, gelb, glatt. — Einband: s. bei 1. — Inhalt: F. 20:                     Sure 40:79 منها  [و] bis 41:11السماء ا[لدنيا] F. 21:                     Sure 42:46 من قبل bis 43:12استويتم Zwischen den beiden Blättern ist eine größere Lücke. Die Schrift ist ziemlich groß und dick, aber nicht besonders zierlich; sie schlägt etwas ins Bräunliche und ist an einigen Stellen abgescheuert. Sie ähnelt schon im Ganzen einem späteren großen Nasḫī. — Die Buchstabenzahl in der Zeile ist 34-36. — Der Zwischenraum zwischen den einzelnen Buchstabengruppen ist 0,2 bis 0,3 cm — Die Wörter können am Ende der Zeilen gebrochen werden. — Die Köpfe der Buchstaben sind meistens dick und fast voll; Anfangs-ا ist ein gleichmäßig dicker Strich; Anfangs-ع hat oben rechts nur eine kleine Rundung; Schluss-م hat den Strich gerade herunter, ن hat nach links eine bedeutende Biegung, zum Teil Rundung, auch ل, obgleich etwas weniger; Schluss-ي hat den Schwung nach links oder auch den Zug nach rechts, mit langem Strich. Schluss-ق setzt unter der Linie eine nach links hin offene Rundung an, ähnlich wie das erste ي; د u. ك gleichen sich nicht mehr völlig und ه gleicht im Anfang und in der Mitte schon sehr der späteren Nasḫī-Form. — Diakritische Punkte stehen wenige, Vokale, durch rote Punkte bezeichnet, ziemlich oft; manche derselben sind verwischt; die Nunation durch 2 rote Punkte über- oder nebeneinander bezeichnet; langes ā öfters nicht ausgedrückt; in diesem Falle steht bisweilen ein grüner senkrechter Strich an der Stelle. Von den Lesezeichen ist nur Hamza bisweilen durch einen grünen Punkt bezeichnet; ein solcher dient einige Male auch beim ح, um es von خ u. ج zu unterscheiden, scheint daher f. 20a, 7 bei جاءتهم unter ح irrtümlich zu stehen. — Versabteilungszeichen stehen nur nach größeren Gruppen in Form großer gelber Punkte. — Die Überschriften sind gelb, ganz kurz: bloß Titel und Verszahl. Randzeichen für Texteinteilung kommen nicht vor.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Ms. or. fol. 379</idno>
+                        <altIdentifier>
+                            <idno>Ms. or. fol. 379 (Ahlwardt 354)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="493">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>136</height>
+                                        <width>205</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="15">
+                                    <p>Die Seiten enthalten 15 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

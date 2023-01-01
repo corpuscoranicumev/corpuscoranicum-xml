@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lobpreis der Gottesmutter Maria</title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>71</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nordmesopotamien</origPlace>
+                            <origDate/>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	Panqītā satwāytā. ʿEnyānē w-qālē w-madrāšē w-sugyātā w-qānūnē [Kompendium für die Winterzeit], Handschrift (1984) im Besitz der syrisch-orthodoxen Kirche St. Jakob (Berlin), S. 150.</edition>
+                    <relatedItem>
+                        <bibl>019:028</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾuḫt Hārūn</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+Das Zitat reflektiert unter anderem die Assoziation Marias mit dem in Numeri 17 erwähnten Aaronsstab; bei der Bezeichnung Marias als "Schwester Aarons" in Q 19:28 könnten solche Vorstellungen im Hintergrund stehen. Tatsächlich ist die bewusste (typologische) Gleichung von Maria und Mirjam im orientalischen Christentum geläufig. Vgl. TUK 0051, TUK 0056 u.a.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>ܠܟܝ ܕܠܥܠ ܡܢ ܗܘܢܐ ܫܠܡ ܠܟܝ ܡܠܝܬ ܛܝܒܘܬܐ ܒܬܘܠܬܐ ܩܕܝܫܬܐ ܕܗܘܝܬܝ ܥܢܢܐ ܗܝ ܩܠܝܠܬܐ: ܕܐܡܪ ܐܫܥܝܐ ܢܒܝܐ: ܒܬܘܠܬܐ ܝܠܕܬ ܐܠܗܐ: ܟܠܢ ܡܘܪܒܝܢܢ܀ ܠܟܝ ܕܒܣܢܝܐ ܐܬܡܬܠܬܝ ܒܓܙܬܐ ܘܒܥܢܢܐ ܘܩܐܒܘܬܐ ܕܕܝܐܬܝܩܝ ܘܡܢܪܬܐ ܘܫܒܛܗ ܕܐܗܪܘܢ ܡܚܬܡܬ ܐܪ̈ܙܐ ܕܢܒ̈ܝܐ ܟܠܢ ܡܘܪܒܝܢ ܀ ܐܘܪܒ ܡܪܢ ܕܘܟܪܢܗܿ: ܕܐܡܐ ܕܝܠܕܬܟ ܒܥܕܬ ܩܘܕܫܐ ܩܬܘܠܝܩܝ: ܘܠܢ ܥܕܪ ܒܨܠܘ̈ܬܗܿ: ܡܢ ܒܝܫܐ ܘܚܝ̈ܠܘܬܗ ܟܠܢ ܡܘܪܒܝܢܢ ܠܥܠܡ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Dir, die du den Verstand übersteigst, Friede sei dir, die du bist voller Gnaden, heilige Jungfrau, die du eine kleine Wolke warst [Anspielung auf 1 Könige 18:44]. So sprach der Prophet Jesaja [7:14]: Die Jungfrau, die Gottesmutter: Wir alle preisen dich, die du verglichen wurdest mit dem Dornbusch, mit einem Wollstück, mit einer Wolke, mit der Bundeslade, mit dem siebenarmigen Leuchter und mit dem Stab Aarons. Dich, die du die geheimen Andeutungen der Propheten bestätigst, preisen wir alle. Mache erhaben, oh Herr, die Erinnerung an sie, die Mutter, die dich gebar, in der heiligen katholischen Kirche. Und helfe uns durch ihre Gebete, vor dem Bösen und seinen Mächten. Wir alle preisen [dich] in Ewigkeit.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

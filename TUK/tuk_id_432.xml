@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1. Brief an die Korinther 9:1-12</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai</persName>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 422.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>432</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Ephesus</origPlace>
+                            <origDate>ca. 55 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>033:040</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ḫātam an-nabiyyīn</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Q 33:40 beschreibt Muhammad als <hi xml:lang="ar-Latn">ḫātam an-nabiyyīn</hi>, "Siegel der Propheten". Speyer schließt sich Josef Horovitz an, der diese Charakterisierung im Sinne "Beglaubiger der Propheten" (anstelle der traditionellen Deutung "letzter Prophet") verstehen will. Er beruft sich dafür unter anderem auf 1 Korinther 9:2, wo "Siegel" (gr. σφραγίς) gleichbedeutend mit "Beglaubigung", "Bestätigung" gebraucht wird. "Mit der Offenbarung des Qorans gelten demnach die früheren prophetischen Offenbarungen für bestätigt, die die Weissagungen von dem einstigen prophetischen Auftreten Mohammeds enthalten." (Speyer, a. a. O., 422 f.) Diese Interpretation passt übrigens auch zu den zahlreichen Koranstellen, denen zufolge spätere Gesandte frühere "bestätigen" (<hi xml:lang="ar-Latn">muṣaddiq</hi>, vgl. 2:89.41.91.97.101, 3:3.39.50.81, 4:47, 5:46.48, 6:92, 35:31, 46:12, 46:30, 61:6). Vgl. auch den Kölner Mani-Kodex (TUK 0526). Zu <hi xml:lang="ar-Latn">ḫāṭam</hi> vgl. Jeffery, Foreign Vocabulary, 120f. Zu <hi xml:lang="ar-Latn">nabīy </hi>vgl. ebd., 276.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	1 Οὐκ εἰμὶ ἐλεύθερος; οὐκ εἰμὶ ἀπόστολος; οὐχὶ Ἰησοῦν τὸν κύριον ἡμῶν ἑόρακα; οὐ τὸ ἔργον μου ὑμεῖς ἐστε ἐν κυρίῳ; 2 εἰ ἄλλοις οὐκ εἰμὶ ἀπόστολος, ἀλλά γε ὑμῖν εἰμι• <hi rendition="bold">ἡ γὰρ σφραγίς μου τῆς ἀποστολῆς ὑμεῖς ἐστε ἐν κυρίῳ. </hi> 3 Ἡ ἐμὴ ἀπολογία τοῖς ἐμὲ ἀνακρίνουσίν ἐστιν αὕτη. 4 μὴ οὐκ ἔχομεν ἐξουσίαν φαγεῖν καὶ πεῖν; 5 μὴ οὐκ ἔχομεν ἐξουσίαν ἀδελφὴν γυναῖκα περιάγειν ὡς καὶ οἱ λοιποὶ ἀπόστολοι καὶ οἱ ἀδελφοὶ τοῦ κυρίου καὶ Κηφᾶς; 6 ἢ μόνος ἐγὼ καὶ Βαρναβᾶς οὐκ ἔχομεν ἐξουσίαν μὴ ἐργάζεσθαι; 7 Τίς στρατεύεται ἰδίοις ὀψωνίοις ποτέ; τίς φυτεύει ἀμπελῶνα καὶ τὸν καρπὸν αὐτοῦ οὐκ ἐσθίει; ἢ τίς ποιμαίνει ποίμνην καὶ ἐκ τοῦ γάλακτος τῆς ποίμνης οὐκ ἐσθίει; 8 Μὴ κατὰ ἄνθρωπον ταῦτα λαλῶ ἢ καὶ ὁ νόμος ταῦτα οὐ λέγει; 9 ἐν γὰρ τῷ Μωϋσέως νόμῳ γέγραπται• οὐ κημώσεις βοῦν ἀλοῶντα. μὴ τῶν βοῶν μέλει τῷ θεῷ 10 ἢ δι᾽ ἡμᾶς πάντως λέγει; δι᾽ ἡμᾶς γὰρ ἐγράφη ὅτι ὀφείλει ἐπ᾽ ἐλπίδι ὁ ἀροτριῶν ἀροτριᾶν καὶ ὁ ἀλοῶν ἐπ᾽ ἐλπίδι τοῦ μετέχειν. 11 εἰ ἡμεῖς ὑμῖν τὰ πνευματικὰ ἐσπείραμεν, μέγα εἰ ἡμεῖς ὑμῶν τὰ σαρκικὰ θερίσομεν; 12 Εἰ ἄλλοι τῆς ὑμῶν ἐξουσίας μετέχουσιν, οὐ μᾶλλον ἡμεῖς; ἀλλ᾽ οὐκ ἐχρησάμεθα τῇ ἐξουσίᾳ ταύτῃ, ἀλλὰ πάντα στέγομεν, ἵνα μή τινα ἐγκοπὴν δῶμεν τῷ εὐαγγελίῳ τοῦ Χριστοῦ.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Bin ich nicht frei? Bin ich nicht ein Apostel? Habe ich nicht Jesus, unseren Herrn, gesehen? Seid ihr nicht mein Werk im Herrn? 2 Wenn ich für andere kein Apostel bin, bin ich es doch für euch. <hi rendition="bold">Ihr seid ja im Herrn das Siegel meines Apostelamtes.</hi> 3 Das aber ist meine Rechtfertigung vor denen, die abfällig über mich urteilen: 4 Haben wir nicht das Recht, zu essen und zu trinken? 5 Haben wir nicht das Recht, eine gläubige Frau mitzunehmen, wie die übrigen Apostel und die Brüder des Herrn und wie Kephas? 6 Sollen nur ich und Barnabas auf das Recht verzichten, nicht zu arbeiten? 7 Wer leistet denn Kriegsdienst und bezahlt sich selber den Sold? Wer pflanzt einen Weinberg und isst nicht von seinem Ertrag? Oder wer weidet eine Herde und trinkt nicht von der Milch der Herde? 8 Sage ich das nur aus menschlicher Einsicht? Sagt das nicht auch das Gesetz? 9 Im Gesetz des Mose steht doch: Du sollst dem Ochsen zum Dreschen keinen Maulkorb anlegen. Liegt denn Gott etwas an den Ochsen? 10 Sagt er das nicht offensichtlich unseretwegen? Ja, unseretwegen wurde es geschrieben. Denn der Pflüger wie der Drescher sollen ihre Arbeit in der Erwartung tun, ihren Teil zu erhalten. 11 Wenn wir für euch die Geistesgaben gesät haben, ist es dann zu viel, wenn wir von euch irdische Gaben ernten? 12 Wenn andere an dem, was euch gehört, teilhaben dürfen, dann erst recht wir. Aber wir haben von diesem Recht keinen Gebrauch gemacht. Vielmehr ertragen wir alles, um dem Evangelium Christi kein Hindernis in den Weg zu legen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

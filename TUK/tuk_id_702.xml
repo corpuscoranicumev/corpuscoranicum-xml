@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jesaja 44:24</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>702</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina, Mesopotamien </origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Anfertigung der Jesajarolle aus Qumran)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>016:078; 039:006</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ḫalaqa; ʾaḫraǧa; buṭūn</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	In der Jesajastelle, in deren Kontext es um die Einzigkeit und Allmacht Gottes geht, findet sich ein Passus, der Gott als denjenigen "der Dich aus dem Mutterleib geformt hat" bezeichnet. Das Thema der 'Erschaffung' bzw. des 'herauskommen Lassens' aus dem Mutterleib findet sich auch im Koran als Zeichen der Allmacht Gottes. Sowohl das Hebräische als auch das Arabische benutzen hier die etymologisch verwandte Wurzel <hi xml:lang="ar-Latn">b-ṭ-n</hi>, hebräisch <hi xml:lang="ar-Latn">bāṭen</hi>, arabisch <hi xml:lang="ar-Latn">buṭūn</hi>, Sg. <hi xml:lang="ar-Latn">baṭn</hi> für 'Mutterleib'. Vgl. Jesaja 44:2, 49:5, Jeremia 1:5; dazu auch Psalm 22:10-11.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	כֹּה־אָמַר יְהוָה גֹּאֲלֶךָ וְיֹצֶרְךָ מִבָּטֶן אָנֹכִי יְהוָה עֹשֶׂה כֹּל נֹטֶה שָׁמַיִם לְבַדִּי רֹקַע הָאָרֶץ מִי אִתִּי</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	So spricht der Herr, dein Erlöser, der dich im Mutterleib geformt hat: Ich bin der Herr, der alles bewirkt, der ganz allein den Himmel ausgespannt hat, der die Erde gegründet hat aus eigener Kraft.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

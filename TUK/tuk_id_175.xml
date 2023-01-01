@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Exodus 32:21-35</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 274.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>175</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung (mit "Moses" statt "Mose")</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>007:159; 010:083</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Anders als die Koranstelle steht der Exodustext im Kontext der Erzählung vom goldenen Kalb. Wie die beiden Koranpassagen berichtet er jedoch von einem Teil des Volkes Israels, der sich - im Gegensatz zum Rest - als gläubig erweist.Dennoch erscheint fraglich, ob die beiden von Speyer angeführten Koranstellen tatsächlich als Reflexe von Exodus 32:21-35 zu interpretieren sind; genauso gut lassen sie sich in dem allgemeinen Sinne deuten, dass sich eben nicht alle Nachkommen der Israeliten als gottgefällig erwiesen haben - eine gegen jüdische Erwählungsansprüche gerichtete Aussage, die auch sonst zu der universalistischen Tendenz des Korans passt. Alternativ: Q 007:159 spricht im gleichen Kontext wie die Bibelstelle von nur einer Anzahl von Israeliten, die sich als rechtgläubig erweisen. Die Aussage in Q 010:083 bezieht sich wohl eher auf die Situation in Ägypten, vor dem eigentlichen Auszug. [DK]</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיֹּאמֶר מֹשֶׁה אֶל־אַהֲרֹן מֶה־עָשָׂה לְךָ הָעָם הַזֶּה כִּי־הֵבֵאתָ עָלָיו חֲטָאָה גְדֹלָה : וַיֹּאמֶר אַהֲרֹן אַל־יִחַר אַף אֲדֹנִי אַתָּה יָדַעְתָּ אֶת־הָעָם כִּי בְרָע הוּא : וַיֹּאמְרוּ לִי עֲשֵׂה־לָנוּ אֱלֹהִים אֲשֶׁר יֵלְכוּ לְפָנֵינוּ כִּי־זֶה מֹשֶׁה הָאִישׁ אֲשֶׁר הֶעֱלָנוּ מֵאֶרֶץ מִצְרַיִם לֹא יָדַעְנוּ מֶה־הָיָה לוֹ : וָאֹמַר לָהֶם לְמִי זָהָב הִתְפָּרָקוּ וַיִּתְּנוּ־לִי וָאַשְׁלִכֵהוּ בָאֵשׁ וַיֵּצֵא הָעֵגֶל הַזֶּה : וַיַּרְא מֹשֶׁה אֶת־הָעָם כִּי פָרֻעַ הוּא כִּי־פְרָעֹה אַהֲרֹן לְשִׁמְצָה בְּקָמֵיהֶם : <hi rendition="bold"> וַיַּעֲמֹד מֹשֶׁה בְּשַׁעַר הַמַּחֲנֶה וַיֹּאמֶר מִי לַיהוָה אֵלָי וַיֵּאָסְפוּ אֵלָיו כָּל־בְּנֵי לֵוִי </hi> : וַיֹּאמֶר לָהֶם כֹּה־אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל שִׂימוּ אִישׁ־חַרְבּוֹ עַל־יְרֵכוֹ עִבְרוּ וָשׁוּבוּ מִשַּׁעַר לָשַׁעַר בַּמַּחֲנֶה וְהִרְגוּ אִישׁ־אֶת־אָחִיו וְאִישׁ אֶת־רֵעֵהוּ וְאִישׁ אֶת־קְרֹבוֹ : וַיַּעֲשׂוּ בְנֵי־לֵוִי כִּדְבַר מֹשֶׁה וַיִּפֹּל מִן־הָעָם בַּיּוֹם הַהוּא כִּשְׁלֹשֶׁת אַלְפֵי אִישׁ : וַיֹּאמֶר מֹשֶׁה מִלְאוּ יֶדְכֶם הַיּוֹם לַיהוָה כִּי אִישׁ בִּבְנוֹ וּבְאָחִיו וְלָתֵת עֲלֵיכֶם הַיּוֹם בְּרָכָה : וַיְהִי מִמָּחֳרָת וַיֹּאמֶר מֹשֶׁה אֶל־הָעָם אַתֶּם חֲטָאתֶם חֲטָאָה גְדֹלָה וְעַתָּה אֶעֱלֶה אֶל־יְהוָה אוּלַי אֲכַפְּרָה בְּעַד חַטַּאתְכֶם : וַיָּשָׁב מֹשֶׁה אֶל־יְהוָה וַיֹּאמַר אָנָּא חָטָא הָעָם הַזֶּה חֲטָאָה גְדֹלָה וַיַּעֲשׂוּ לָהֶם אֱלֹהֵי זָהָב : וְעַתָּה אִם־תִּשָּׂא חַטָּאתָם וְאִם־אַיִן מְחֵנִי נָא מִסִּפְרְךָ אֲשֶׁר כָּתָבְתָּ : וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה מִי אֲשֶׁר חָטָא־לִי אֶמְחֶנּוּ מִסִּפְרִי : וְעַתָּה לֵךְ נְחֵה אֶת־הָעָם אֶל אֲשֶׁר־דִּבַּרְתִּי לָךְ הִנֵּה מַלְאָכִי יֵלֵךְ לְפָנֶיךָ וּבְיוֹם פָּקְדִי וּפָקַדְתִּי עֲלֵיהֶם חַטָּאתָם : וַיִּגֹּף יְהוָה אֶת־הָעָם עַל אֲשֶׁר עָשׂוּ אֶת־הָעֵגֶל אֲשֶׁר עָשָׂה אַהֲרֹן :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	21 Zu Aaron sagte Moses: Was hat dir dieses Volk getan, dass du ihm eine so große Schuld aufgeladen hast? 22 Aaron erwiderte: Mein Herr möge sich doch nicht vom Zorn hinreißen lassen. Du weißt doch, wie böse das Volk ist. 23 Sie haben zu mir gesagt: Mach uns Götter, die uns vorangehen. Denn dieser Moses, der Mann, der uns aus Ägypten heraufgeführt hat - wir wissen nicht, was mit ihm geschehen ist. 24 Da habe ich zu ihnen gesagt: Wer Goldschmuck trägt, soll ihn ablegen. Sie haben mir das Gold übergeben, ich habe es ins Feuer geworfen und herausgekommen ist dieses Kalb. 25 Moses sah, wie verwildert das Volk war. Denn Aaron hatte es verwildern lassen, zur Schadenfreude ihrer Widersacher. 26 <hi rendition="bold">Moses trat an das Lagertor und sagte: Wer für den Herrn ist, her zu mir! Da sammelten sich alle Leviten um ihn.</hi> 27 Er sagte zu ihnen: So spricht der Herr, der Gott Israels: Jeder lege sein Schwert an. Zieht durch das Lager von Tor zu Tor! Jeder erschlage seinen Bruder, seinen Freund, seinen Nächsten. 28 Die Leviten taten, was Mose gesagt hatte. Vom Volk fielen an jenem Tag gegen dreitausend Mann. 29 Dann sagte Moses: Füllt heute eure Hände mit Gaben für den Herrn! Denn jeder von euch ist heute gegen seinen Sohn und seinen Bruder vorgegangen und der Herr hat Segen auf euch gelegt. 30 Am folgenden Morgen sprach Moses zum Volk: Ihr habt eine große Sünde begangen. Jetzt will ich zum Herrn hinaufsteigen; vielleicht kann ich für eure Sünde Sühne erwirken. 31 Moses kehrte zum Herrn zurück und sagte: Ach, dieses Volk hat eine große Sünde begangen. Götter aus Gold haben sie sich gemacht. 32 Doch jetzt nimm ihre Sünde von ihnen! Wenn nicht, dann streich mich aus dem Buch, das du angelegt hast. 33 Der Herr antwortete Moses: Nur den, der gegen mich gesündigt hat, streiche ich aus meinem Buch. 34 Aber jetzt geh, führe das Volk, wohin ich dir gesagt habe. Mein Engel wird vor dir hergehen. Am Tag aber, an dem ich Rechenschaft verlange, werde ich über ihre Sünde mit ihnen abrechnen. 35 Der Herr schlug das Volk mit Unheil, weil sie das Kalb gemacht hatten, das Aaron anfertigen ließ.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

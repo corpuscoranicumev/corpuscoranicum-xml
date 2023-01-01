@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Ägypten</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Bahnasa (Moritz Tafel 39-40)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="348">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Blatt">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament, Schwarzweißphotographien liegen vor</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="18">
+                                    <p>Die Seiten enthalten 18 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Bernard Moritz, Arabic Palaeography. A Collection of Arabic Texts from the First Century of the Hidjra till the Year 1000, Kairo 1905, Tafel 39-40.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <bibl>
+                    <bibl>028:026-028:032</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Maximilian Vogt</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">اںَ</w>
+                    <w n="000000000">حٮرَمَنِ</w>
+                    <w n="000000000">اسٮَحَرٮَ</w>
+                    <w n="000000000">الٯوىُ</w>
+                    <w n="000000000">الاَمٮن</w>
+                    <w n="000000000">قال[اٮى] اُرِٮد</w>
+                    <w n="000000000">أں</w>
+                    <w n="000000000">اُٮکِحَکَ</w>
+                    <w n="000000000">[ا]حدى</w>
+                    <w n="000000000">ابٮٮـ[ـى]هاتٮن</w>
+                    <w n="000000000">على أں</w>
+                    <w n="000000000">ٮَاحُرَنى</w>
+                    <w n="000000000">ثمنىَ</w>
+                    <w n="000000000">حِحَحٍ</w>
+                    <w n="000000000">فاِن</w>
+                    <w n="000000000">أٮممتَ</w>
+                    <w n="000000000">عـ[ـسـ]را ڡمِں</w>
+                    <w n="000000000">عندِکَ</w>
+                    <w n="000000000">ومااُرٮدُأں</w>
+                    <w n="000000000">أشٯ</w>
+                    <w n="000000000">علٮکَ سٮجدنى</w>
+                    <w n="000000000">اِن</w>
+                    <w n="000000000">سَاَالل‍هُ</w>
+                    <w n="000000000">مںَ</w>
+                    <w n="000000000">الصلحٮںَ</w>
+                    <w n="000000000">ٯالَ</w>
+                    <w n="000000000">د لکَ</w>
+                    <w n="000000000">بٮى</w>
+                    <w n="000000000">وٮٮٮَکَ</w>
+                    <w n="000000000">أٮَماالاحلٮں</w>
+                    <w n="000000000">ٯضٮٮ</w>
+                    <w n="000000000">فلا عدونَ</w>
+                    <w n="000000000">علىَ</w>
+                    <w n="000000000">والل‍هُ</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">ماٮٯول</w>
+                    <w n="000000000">وکٮل</w>
+                    <w n="000000000">فلما قصى</w>
+                    <w n="000000000">موسى</w>
+                    <w n="000000000">الأجلَ</w>
+                    <w n="000000000">وسارَبأهلِهِ</w>
+                    <w n="000000000">اَنسَ</w>
+                    <w n="000000000">مں حنٮِ</w>
+                    <w n="000000000">الطورِ</w>
+                    <w n="000000000">ٮاراقالَ</w>
+                    <w n="000000000">لأهلِهِ</w>
+                    <w n="000000000">امکثو ااِٮى</w>
+                    <w n="000000000">اٮست</w>
+                    <w n="000000000">نارالعلىَ</w>
+                    <w n="000000000">اَتٮکم</w>
+                    <w n="000000000">منهابخٮر أوحدوهٍ</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">النارِلعلکم</w>
+                    <w n="000000000">ٮصطلون</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡلمااٮٮهاٮودىَ</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">شاظىِ</w>
+                    <w n="000000000">الوادَالا ٮمں</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الٮٯعهِ</w>
+                    <w n="000000000">المٮرَکهِ</w>
+                    <w n="000000000">مںَ</w>
+                    <w n="000000000">الشجرهِ</w>
+                    <w n="000000000">أن ٮموسى</w>
+                    <w n="000000000">انى</w>
+                    <w n="000000000">أناالل‍هُ</w>
+                    <w n="000000000">رٮُ</w>
+                    <w n="000000000">العلمٮںَ</w>
+                    <w n="000000000">وأن</w>
+                    <w n="000000000">أ لقِ</w>
+                    <w n="000000000">عصاکَ</w>
+                    <w n="000000000">فلمارَأَهاٮَهترُکأٮَهاجانُ ولى</w>
+                    <w n="000000000">مدٮراولَم</w>
+                    <w n="000000000">ٮعَڡٮ</w>
+                    <w n="000000000">ٮموسى</w>
+                    <w n="000000000">أقٮل</w>
+                    <w n="000000000">ولا تحڡ</w>
+                    <w n="000000000">انک</w>
+                    <w n="000000000">مںَ</w>
+                    <w n="000000000">الاَمنٮن</w>
+                    <w n="000000000">اسلک</w>
+                    <w n="000000000">ٮَدَکَ[ڡى] حٮٮکَ</w>
+                    <w n="000000000">تخرح</w>
+                    <w n="000000000">ٮٮصامن</w>
+                    <w n="000000000">عٮرسووا[صمم]</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

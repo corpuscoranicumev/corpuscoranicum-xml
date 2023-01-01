@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:</p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 325. Mq. 689. (fol. 2-3) Quer-vo, 6 Z. (15,5x21; 8x14-15 cm). — Zustand: zwei lose Blätter, nicht ganz sauber, Bl. 2 etwas durchgescheuert. — Material: Pergament, ziemlich stark, besonders f. 3, gelblich, glatt. — Einband: lose Blätter, zusammen mit Bl. 1 und 4. 5 in einem Pappdeckel liegend. — Inhalt: Sure 10:5 لقوم bis 10:13 يعملون Schrift: groß und dick, zum Teil etwas abgescheuert und überhaupt bräunlich-blass geworden. Macht fast schon den Eindruck ganzer Wörter, nicht einzelner Buchstabengruppen. — Zahl der Buchstaben in der Zeile ca. 20-22. — Der Raum zwischen den einzelnen Wörtern ist meistens größer als der zwischen den einzelnen Buchstabengruppen und beträgt etwa 0,5 cm — Die Wörter können am Ende der Zeilen gebrochen werden. — Die Buchstaben haben im Ganzen schon den Charakter des Nasḫī. Anfangs-ا setzt allerdings unten einen Schwung nach rechts an und ع hat oben nach rechts nur eine kleine Rundung; aber Schluss-ن hat schon eine größere Rundung, Schluss-ي hat die spätere Rundung und ist nicht mehr nach links hin angesetzt, د u. ك sind in Größe unterschieden. Bei Schluss-ق ist der Zug unter der Linie noch etwas steif und klein, Schluss-م setzt auf der Linie einen kleinen Strich an. — Diakritische Punkte sind gesetzt in Form kleiner Striche und auch Punkte. — Die Vokale, mit roten Punkten bezeichnet, stehen sorgfältig überall, desgleichen die Nunation, mit 2 roten Punkten über- oder nebeneinander; lang ā ist öfters nicht bezeichnet. — Die Lesezeichen, wie Tašdīd, sind nicht verwendet; nur geht ein roter Querstrich durch den Artikel in den Fällen, wo dieser nicht assimiliet wird. — Die Verse nicht einzeln, sondern in größeren Gruppen von etwa 5 zu 5 Versen abgeteilt; die Fünfer durch große Goldpunkte, die Zehner mit einem größeren Kreise (Goldrand und grüner Füllung), worin die Zahl in Buchstaben steht, bezeichnet. — Eine Überschrift ist hier nicht vorhanden; Randbemerkung für Texteinteilung auch nicht.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Ms. or. quart 689</idno>
+                        <altIdentifier>
+                            <idno>Ms. or. quart 689 (Ahlwardt 325)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="485">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>153</height>
+                                        <width>205</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="6">
+                                    <p>Die Seiten enthalten 6 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

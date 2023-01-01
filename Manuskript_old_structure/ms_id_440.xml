@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 314 Mq. 372. 167 Bl. Quer-4to, 17 Z. (auf f. 130b 18 Z.), (18,5x24; 12,5x17,5 cm ). — Zustand: im Ganzen nicht recht sauber; besonders im Anfang und am Ende fleckig. F. 141 unten durchgerissen und beklebt. — Material: Pergament, stark, glatt, gelb. — Einband: brauner Lederband. — Inhalt: Sure 4:89 الي يوم bis Sure 20:211 وما Es fehlt je ein Blatt nach f. 60 (Sure 9:39-9:51); 61 (Sure 9:65-9:75); 65 (Sure 9:118-9:128). Die Schrift ist ziemlich groß, breit, kräftig und gefällig. Ihre Schwärze ist oft schon etwas in tiefbraun übergegangen, an sehr vielen Stellen aber blasser geworden und an noch viel mehreren abgescheuert, zum Teil sehr erheblich. — Die Zahl der Buchstaben in der Zeile etwa 23-25; der Zwischenraum zwischen den einzelnen Buchstabengruppen ist durchschnittlich mindestens 0,5 cm; das Brechen der Wörter am Ende der Zeilen findet statt. — Die einzelnen Buchstaben haben ganz denselben Charakter wie die bei No. 304 beschriebenen, wie sie auch von derselben Größe sind. — Die diakritischen Punkte fehlen auch hier; die Vokale ziemlich zahlreich durch rote Punkte bezeichnet, die Nunation durch zwei, solche, über- oder nebeneinander stehend. Lang ā im Wort sehr oft nicht ausgedrückt, كتب für كتاب , اصحب für  اصحاب; الصلحت etc. — Lesezeichen, wie Tašdīd, nicht vorhanden. Allein, neben dieser ursprünglichen Textbezeichnung, geht eine andere aus viel späterer Zeit einher, welche den ganzen Text in der mit den späterhin üblichen Vokal- und Lesezeichen (in roter Farbe) vollständig versehen hat, wodurch derselbe ein etwas buntes Aussehen erhalten hat. — Die Versabteilungszeichen stehen nur nach größeren Gruppen in Form größerer Goldrosetten. Die Überschriften in Goldfarbe: bloss Titel und Verszahl. Die der 25. Sure fehlt f. 158a: sie ist von ganz später Hand in flüchtigen modernen Zügen übergeschrieben. — Am Rande keine Bemerkungen über Textabteilung.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Ms. or. quart. 372</idno>
+                        <altIdentifier>
+                            <idno>Ms. or. quart. 372 (Ahlwardt 314)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="440">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>179</height>
+                                        <width>230</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="17">
+                                    <p>Die Seiten enthalten 17 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matthäus 6:19-34</title>
+                <principal>
+                    <persName>Nicolai Sinai</persName>
+                    <persName>Manolis Ulbricht</persName>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Johann-Dietrich Thyen</persName>
+                    <name>Bibel und Koran. Eine Synopse gemeinsamer Überlieferungen, Köln 2000, S. 218-219; Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 454, 456; Karl Ahrens, "Christliches im Qoran. Eine Nachlese", Zeitschrift der Deutschen Morgenländischen Gesellschaft 84 (1930), S. 161.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>370</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Syrien</origPlace>
+                            <origDate>ca. 80-90 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>011:006; 016:079; 029:060</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Q 29:60 begründet die Aufforderung zum Gottvertrauen mit dem Hinweis, dass auch die Tiere ihren Unterhalt von Gott erhalten; vgl. auch Q 11:6, wo ebenfalls Gottes Verantwortung für den Lebensunterhalt der Tiere hervorgehoben wird. Insbesondere Q 29:60 erinnert an Matthäus 6:26, wo in einer ähnlichen Argumentation auf die Vögel verwiesen wird. Auf die Vögel als Zeichen für die Macht Gottes nimmt auch Q 16:79 Bezug; allerdings geht es dort nicht wie in Matthäus 6 um ihre Nahrung, sondern um die Tatsache, dass Gott sie in der Luft "festhält"; vgl. hierzu auch Matthäus 10:29 (kein Sperling fällt zur Erde, ohne dass Gott es will).</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	19 Μὴ θησαυρίζετε ὑμῖν θησαυροὺς ἐπὶ τῆς γῆς, ὅπου σὴς καὶ βρῶσις ἀφανίζει καὶ ὅπου κλέπται διορύσσουσιν καὶ κλέπτουσιν• 20 θησαυρίζετε δὲ ὑμῖν θησαυροὺς ἐν οὐρανῷ, ὅπου οὔτε σὴς οὔτε βρῶσις ἀφανίζει καὶ ὅπου κλέπται οὐ διορύσσουσιν οὐδὲ κλέπτουσιν• 21 ὅπου γάρ ἐστιν ὁ θησαυρός σου, ἐκεῖ ἔσται καὶ ἡ καρδία σου. 22 Ὁ λύχνος τοῦ σώματός ἐστιν ὁ ὀφθαλμός. ἐὰν οὖν ᾖ ὁ ὀφθαλμός σου ἁπλοῦς, ὅλον τὸ σῶμά σου φωτεινὸν ἔσται• 23 ἐὰν δὲ ὁ ὀφθαλμός σου πονηρὸς ᾖ, ὅλον τὸ σῶμά σου σκοτεινὸν ἔσται. εἰ οὖν τὸ φῶς τὸ ἐν σοὶ σκότος ἐστίν, τὸ σκότος πόσον. 24 Οὐδεὶς δύναται δυσὶ κυρίοις δουλεύειν• ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει, ἢ ἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει. οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ. <hi rendition="bold">25 Διὰ τοῦτο λέγω ὑμῖν• μὴ μεριμνᾶτε τῇ ψυχῇ ὑμῶν τί φάγητε [ἢ τί πίητε], μηδὲ τῷ σώματι ὑμῶν τί ἐνδύσησθε. οὐχὶ ἡ ψυχὴ πλεῖόν ἐστιν τῆς τροφῆς καὶ τὸ σῶμα τοῦ ἐνδύματος; 26 ἐμβλέψατε εἰς τὰ πετεινὰ τοῦ οὐρανοῦ ὅτι οὐ σπείρουσιν οὐδὲ θερίζουσιν οὐδὲ συνάγουσιν εἰς ἀποθήκας, καὶ ὁ πατὴρ ὑμῶν ὁ οὐράνιος τρέφει αὐτά• οὐχ ὑμεῖς μᾶλλον διαφέρετε αὐτῶν; </hi> 27 τίς δὲ ἐξ ὑμῶν μεριμνῶν δύναται προσθεῖναι ἐπὶ τὴν ἡλικίαν αὐτοῦ πῆχυν ἕνα; 28 καὶ περὶ ἐνδύματος τί μεριμνᾶτε; καταμάθετε τὰ κρίνα τοῦ ἀγροῦ πῶς αὐξάνουσιν• οὐ κοπιῶσιν οὐδὲ νήθουσιν• 29 λέγω δὲ ὑμῖν ὅτι οὐδὲ Σολομὼν ἐν πάσῃ τῇ δόξῃ αὐτοῦ περιεβάλετο ὡς ἓν τούτων. 30 εἰ δὲ τὸν χόρτον τοῦ ἀγροῦ σήμερον ὄντα καὶ αὔριον εἰς κλίβανον βαλλόμενον ὁ θεὸς οὕτως ἀμφιέννυσιν, οὐ πολλῷ μᾶλλον ὑμᾶς, ὀλιγόπιστοι; 31 μὴ οὖν μεριμνήσητε λέγοντες• τί φάγωμεν; ἤ• τί πίωμεν; ἤ• τί περιβαλώμεθα; 32 πάντα γὰρ ταῦτα τὰ ἔθνη ἐπιζητοῦσιν• οἶδεν γὰρ ὁ πατὴρ ὑμῶν ὁ οὐράνιος ὅτι χρῄζετε τούτων ἁπάντων. 33 ζητεῖτε δὲ πρῶτον τὴν βασιλείαν [τοῦ θεοῦ] καὶ τὴν δικαιοσύνην αὐτοῦ, καὶ ταῦτα πάντα προστεθήσεται ὑμῖν. 34 μὴ οὖν μεριμνήσητε εἰς τὴν αὔριον, ἡ γὰρ αὔριον μεριμνήσει ἑαυτῆς• ἀρκετὸν τῇ ἡμέρᾳ ἡ κακία αὐτῆς.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	19 Sammelt euch nicht Schätze hier auf der Erde, wo Motte und Wurm sie zerstören und wo Diebe einbrechen und sie stehlen, 20 sondern sammelt euch Schätze im Himmel, wo weder Motte noch Wurm sie zerstören und keine Diebe einbrechen und sie stehlen. 21 Denn wo dein Schatz ist, da ist auch dein Herz. 22 Das Auge gibt dem Körper Licht. Wenn dein Auge gesund ist, dann wird dein ganzer Körper hell sein. 23 Wenn aber dein Auge krank ist, dann wird dein ganzer Körper finster sein. Wenn nun das Licht in dir Finsternis ist, wie groß muss dann die Finsternis sein! 24 Niemand kann zwei Herren dienen; er wird entweder den einen hassen und den andern lieben oder er wird zu dem einen halten und den andern verachten. Ihr könnt nicht beiden dienen, Gott und dem Mammon. <hi rendition="bold">25 Deswegen sage ich euch: Sorgt euch nicht um euer Leben und darum, dass ihr etwas zu essen habt, noch um euren Leib und darum, dass ihr etwas anzuziehen habt. Ist nicht das Leben wichtiger als die Nahrung und der Leib wichtiger als die Kleidung? 26 Seht euch die Vögel des Himmels an: Sie säen nicht, sie ernten nicht und sammeln keine Vorräte in Scheunen; euer himmlischer Vater ernährt sie. Seid ihr nicht viel mehr wert als sie?</hi> 27 Wer von euch kann mit all seiner Sorge sein Leben auch nur um eine kleine Zeitspanne verlängern? 28 Und was sorgt ihr euch um eure Kleidung? Lernt von den Lilien, die auf dem Feld wachsen: Sie arbeiten nicht und spinnen nicht. 29 Doch ich sage euch: Selbst Salomo war in all seiner Pracht nicht gekleidet wie eine von ihnen. 30 Wenn aber Gott schon das Gras so prächtig kleidet, das heute auf dem Feld steht und morgen ins Feuer geworfen wird, wie viel mehr dann euch, ihr Kleingläubigen! 31 Macht euch also keine Sorgen und fragt nicht: Was sollen wir essen? Was sollen wir trinken? Was sollen wir anziehen? 32 Denn um all das geht es den Heiden. Euer himmlischer Vater weiß, dass ihr das alles braucht. 33 Euch aber muss es zuerst um sein Reich und um seine Gerechtigkeit gehen; dann wird euch alles andere dazugegeben. 34 Sorgt euch also nicht um morgen; denn der morgige Tag wird für sich selbst sorgen. Jeder Tag hat genug eigene Plage.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

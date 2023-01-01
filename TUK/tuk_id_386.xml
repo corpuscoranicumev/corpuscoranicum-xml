@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Deuteronomium 5:1-3</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Hartwig Hirschfeld</persName>
+                    <name>New Researches into the Composition and Exegesis of the Qoran, London 1902, S. 133; Michel Cuypers, Le Festin. Une lecture de la sourate al-Mâ'ida, Paris 2007, S. 87-88; vgl. Hartmut Bobzin, "The 'Seal of the Prophets'. Towards an Understanding of Muhammad's Prophethood", in: Angelika Neuwirth, Nicolai Sinai, Michael Marx (Hg.), The Qur'an in Context: Literary and Historical Investigations into the Qur'anic Milieu, Leiden 2010, S. 565-583. Zu weiteren deuteronomistischen Bezügen in Sure 5 vgl. auch Intertexte Nr. 383 und Nr. 385.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>386</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung (mit "Moses" statt "Mose")</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>005:003; 005:005</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	In Q 5:3 heißt es im Kontext verschiedener Speisevorschriften, "heute" würden die Ungläubigen hinsichtlich "eures Glaubens" verzweifeln, denn "heute" habe Gott den Glauben der angesprochenen Hörer vollendet; dieselbe Zeitbestimmung "heute" erscheint ein drittes Mal in Vers 5. Möglicherweise handelt es sich dabei um ein der mosaischen Mahnrede aus dem Deuteronomium nachgestaltetes heilsgeschichtliches 'Heute', das, wie Hartmut Bobzin betont, nicht als profane Zeitangabe zu verstehen ist. Die Zeitbestimmung "heute" tritt noch öfter im Deuteronomium auf, der angegebene Text bietet lediglich ein Beispiel unter anderen.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיִּקְרָא מֹשֶׁה אֶל־כָּל־יִשְׂרָאֵל וַיֹּאמֶר אֲלֵהֶם שְׁמַע יִשְׂרָאֵל אֶת־הַחֻקִּים וְאֶת־הַמִּשְׁפָּטִים אֲשֶׁר אָנֹכִי דֹּבֵר בְּאָזְנֵיכֶם <hi rendition="bold"> הַיּוֹם </hi> וּלְמַדְתֶּם אֹתָם וּשְׁמַרְתֶּם לַעֲשֹׂתָם : יְהוָה אֱלֹהֵינוּ כָּרַת עִמָּנוּ בְּרִית בְּחֹרֵב : לֹא אֶת־אֲבֹתֵינוּ כָּרַת יְהוָה אֶת־הַבְּרִית הַזֹּאת כִּי אִתָּנוּ אֲנַחְנוּ אֵלֶּה פֹה <hi rendition="bold"> הַיּוֹם </hi> כֻּלָּנוּ חַיִּים :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Moses rief ganz Israel zusammen. Er sagte zu ihnen: Höre, Israel, die Gesetze und Rechtsvorschriften, die ich euch <hi rendition="bold">heute</hi> vortrage. Ihr sollt sie lernen, auf sie achten und sie halten. 2 Der Herr, unser Gott, hat am Horeb einen Bund mit uns geschlossen. 3 Nicht mit unseren Vätern hat der Herr diesen Bund geschlossen, sondern mit uns, die wir <hi rendition="bold">heute</hi> hier stehen, mit uns allen, mit den Lebenden.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

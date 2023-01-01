@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Tobias J. Jocham</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Das Transliterat dieser Handschrift ist mit einem geringfügig modifizierten System wiedergegeben; so werden die einzelnen Worte durch ein spatium abgegrenzt und einzelne, gegenüber dem Kairiner Text fehlende Zeichen durch eine leere, runde Klammerung markiert: vgl. die defektive Wiedergabe von <hi rendition="em">qāla </hi>mit ڧ()ل . Die geschweiften Klammer deuten ein über den <hi rendition="em">rasm </hi>hinausgehendes Zeichen an, oder weisen auf ein radiertes oder korrigiertes Zeichen hin.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country/>
+                        <settlement>Chester Beatty Library</settlement>
+                        <institution> Dublin</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>Is. 1615 II</idno>
+                        <altIdentifier>
+                            <idno>Ms CBL 1615 II</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="418">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>355</height>
+                                        <width>275</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	David Lewis James, Qur'ans And Bindings From The Chester Beatty Library: A Facsimile Exhibition, Al Tajir-World of Islam Trust 1980.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <bibl>
+                    <bibl>085:003-087:005</bibl>
+                    <editor>
+                        <persName>Tobias J. Jocham</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ش()هد ومشهود </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڧتل اصحب الاخدود </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> النار ذات الوڧود </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اذ [هم ] علٮها ٯعود </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وهم علے ما ٮڡعلوں بالمومنٮں شهود </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وما نڧمو[ا مٮهم ] الا اں ٮومنوا بالل‍ه العزٮز الحمٮد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الذے له ملک السموت والارض والل‍ه علے کل ش{ا}ى شهٮد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں الذٮں ڡتنوا المومنٮں والمومنت ثم لم ٮتوبوا ڡلهم عذ()ب جهنم ولهم عذ()ب الحرٮٯ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں الذٮں امنوا وعملوا الصلحت لهم جن{ا}ت تجرى مں تحتها الانهر ذلک الڡوز الکبٮر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں بطش ربک لشدٮد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> {اںه هو ٮبدى} ويعٮد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وهو الغڡور الودود </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ذو{ا} العرش المحٮد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡع()ل لما ٮرٮد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> هل اتٮک [ح]دٮث الجنود </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡرعوں وثمود </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> بل الذٮں کڡروا ڡى تکذٮٮ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والل‍ه مں وراٮهم محٮط </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> [ب]ل هو ڧراں مجٮد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> فى لوح محڡوط </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮسمالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والسما والط()رٯ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وما ادرٮک ما الط()رٯ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ا لنحم الث()ڧب </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں کل نڡس لما علٮها ح()ڡظ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> {ل}{ڡ}لٮنطر الاٮسں مم حلٯ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> حلٯ مں ما د()ڡٯ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮخرح مں بٮں الصلب والتر()ٮب </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> انه على رجع[ه ] [ل]ڧ()در </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮوم تبلى السر()ٮر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡما له مں ڧوه ولا ن()صر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والسما ذات ال[رح]ع[ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] والارض ذات الصدع </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> انه لڧول ڡصل </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وما هو بالهزل </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> انهم ٮکٮدوں کٮدا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> واکٮد کٮدا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡمهل الکڡرٮں {و}مهلهم روٮدا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ا Leerzeile [بسم]الل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> سبح اسم ربک الاعلے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الدے خلٯ ڡس[و]ے [</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] [والذى] ڧدر ڡهدے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والذے اخرح المرعے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡحعله عثا اح[و]ے[ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ]</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>087:006-089:006</bibl>
+                    <editor>
+                        <persName>Tobias J. Jocham</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">[سٮ]ڧرٮک ڡلا تنسے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الا ما شا الل‍ه انه ٮعلم الجهر وما ٮخڡے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ونٮ[سرک ] [للٮس]رے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡذکر اں نڡعت الذکرے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> سٮذکر مں ٮخشے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وٮتجنٮها ا[لا] شٯے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الذے ٮصلے النار الکٮرے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ثم لا ٮموت ڡٮها ولا ٮحٮے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڧد اڡل() مں تزکے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وذکر اسم ربه ڡصلے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> بل ٮوثروں الحٮوه الدنٮا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و الاخره خٮر وابڧے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں هذا لڡے الصحڡ الاولے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> صحڡ ابرهٮم وموسے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile ٮسمالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> هل اتٮک حدٮث الغشٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وجوه ٮومٮد خشعه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ع()مله ن()صبه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> تصلے نارا ح()مٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> تسڧى مں عٮں انٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ل[ٮس ] لهم طع()م الا مں ضرٮع </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لا ٮسمں ولا ٮغنى مں جوع </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وحوه ٮومٮد ن()عمه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لسعٮها ر()ضٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡى جنه عالٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لا تسمع ڡٮها لغٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡٮها عٮں ج()رٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡٮها سرر مرڡوعه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> واکو()ب موضوعه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ونم()ر[ٯ ] مصڡوڡه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وزر()بے مبثوثه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اڡلا ٮنطروں الى الابل کٮڡ خلڧت </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والى السما کٮڡ رڡعت </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والى الجب()ل کٮڡ نصبت </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والى الار[ص ] کٮڡ سطحت </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡذکر انما انت مذکر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لست علٮهم بمصٮ[ط]ر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الا مں تولى وکڡر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡٮعذبه الل‍ه العذ()ب الاکبر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں الٮنا اٮ()بهم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ثم اں علٮنا حس()ٮهم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile ٮسم</w>
+                    <w n="000000000">الل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والڡجر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ولٮ()ل عشر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والشڡع والوت[ر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] [والٮل اد]ا[ ٮس]ر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> هل ڡى ذلک ڧسم لذى حجر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الم تر کٮڡ ڡعل رٮک [ٮعاد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ]</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>089:007-090:020</bibl>
+                    <editor>
+                        <persName>Tobias J. Jocham</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ارم ذات العماد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> التى لم ٮخلٯ مثلها ڡے البلد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وثمود الذٮں جابوا الصخر بالواد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وڡرعوں ذا الاوت()د </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الذٮں طغوا ڡے البلد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡاکثروا ڡٮها ا لڡساد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡصب علٮهم ربک سوط عذ()ب </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں ربک لب()لم[رصاد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] ڡاما الانسں اذا ما ابتلٮه ربه ڡاکرمه ونعمه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡٮڧول رٮى اکرمں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و اما اذا ما ابتلٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡڧدر علٮه ررڧه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡٮڧول ربى اهنں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> کلا بل لا تکر موں الٮتٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ولا تحضوں على طع()م المسکٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وتاکلوں التر()ث اکل[ا ] لما </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وتحبوں المال حبا حما </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> کلا اذا دکت الارض دکا دکا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وجا ربک والملک صڡا صڡا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وجاے ٮومٮد بجهنم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮومٮذ ٮتذکر الانسں وانى له الذکرے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮڧول ٮلٮتنى ڧدمت لحٮ()ٮے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡٮومٮذ لا ٮعذب عذ()به احد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ولا ٮوثٯ وث()ڧه احد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮاٮتها النڡس المطمٮنه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ار حعے الے ربک ر()ضٮه مرضٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡادخلے ڡى عبدے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وادخلے جنتے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile ٮسمالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لا اڧسم بهذا الٮلد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وانت حل بهدا الٮل[د </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] وولد وما ولد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لڧد خلڧنا الانسں ڡے کبد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اٮحسب اں لں ٮڧدر علٮه ا[حد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] ٮڧول اهلکت ملا لبدا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اٮحسب اں لم ٮره احد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الم نجعل له عٮنٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ولس[اٮا ] وشڡتٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وهدٮنه النجدٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡلا اڧتحم العڧبه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وما ادرٮک ما العڧبه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> [ٯک ] [ر]ڧبه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> او اطعم ڡے ٮوم ذى مسغبه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮتٮما ذا مڧربه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> او مسکٮنا ذا مت[ربة </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] [ث]م کاں مں الذٮں امنوا وتو()صوا بالصبر وتو()صوا بالمرحمه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اولٮک [اصحٮ ] المٮمنه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والذٮں کڡروا ٮاٮ{ٮ}تنا هم اصحب المشمه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> علٮه[م ٮ]ا[ر موصده </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ]</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>091:001-093:011</bibl>
+                    <editor>
+                        <persName>Tobias J. Jocham</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسمالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والشمس وضحٮها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والڧمر اذا تلٮها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> [والن]ه()ر اذا جلٮها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والٮل اذا ٮغشٮها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والسما وما بنٮها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والارض وما [طحٮه]ا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ونڡس وما سوٮها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡالهمها ڡجورها وتڧوٮها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڧد اڡلح مں زکٮها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وڧد خاب مں دسٮها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> کذبت ثمود بطغوٮها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اذ ا نبعث اشڧٮها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡڧ()ل لهم رسول الل‍ه نڧ()ه الل‍ه وسڧٮها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡکذبوه [ٯ]عڧروها ڡدمدم علٮهم ربهم بذنبهم ڡسوٮها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٯلا ٮخ()ڡ عڧٮ{ٮ}ها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile ٮسم الل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والٮل اذا ٮغشے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والنه()ر اذا تحلے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وما حلٯ الذکر والانثے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں سعٮکم لشتے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡاما مں اعطے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> واتڧے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و صدٯ ٮالح[س]نے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡسنٮسره للٮسرے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> واما مں بخل وااستعنے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وکذب [ٮالح]سنے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡسنٮسره للعسرے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وما ٮعنے عنه م()له اذا تردے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں علٮنا [لله]دے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> {ا}واں لنا للاخره والاولے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡانذرتکم ںارا تلطے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لا ٮصلٮها الا [الاسٯى </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">] الذے کذب وتولے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وسنجنبها الاتڧے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الذے ٮوتے ماله ٮترکے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و [ما لا]حد عنده مں ٮعمه تجزے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الا ابتغا وجه ربه الاعلے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ولسوڡ لرصے [</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">] ا Leerzeile [ٮسم] الل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والصحے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والٮل اذا سحے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ما ودعک ربک وما [ٯلى] </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وللاخره خٮر لک مں الاولے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ولسوڡ ٮعطٮک ربک ڡترصے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ال[م ] [ٮحدک] ٮتٮما ڡاوے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ووجدک ض()لا ڡهدے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ووجدک ع()ٮلا ڡاغنے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡ[اما ] [الٮٮٮم ڡ]لا تڧهر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> واما الس()ٮل ڡلا تنهر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> واما بنعمه ربک ڡحدث </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>094:001-097:005</bibl>
+                    <editor>
+                        <persName>Tobias J. Jocham</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسمالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الم نشرح لک صدرک </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ووضعنا ع[نک ] وزرک </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الذى انڧص طهرک </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ورڡعنا لک ذکرک </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡاں مع العسر ٮسرا [</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں] مع العسر ٮسرا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡاذا ڡرعت ڡانصب </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والى ربک ڡارعٮ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile ٮسمالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والتٮں والزٮتوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وطور سٮٮٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وهدا ال[ٮلد ] الامٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لڧد خلڧنا الانسں ڡى احسں تڧوٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ثم رددنه اسڡل سڡلٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ا[لا ا] لذٮں امنوا وعملوا الصلحت ڡلهم اجر غٮر ممنوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡما ٮ[کد] بک بعد بالدٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الس الل‍ه باحکم الحکمٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile ٮسمالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اڧرا باسم ربک الذى خلٯ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> خلٯ {لے}{ال}اٮسں مں عل[ٯ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] اڧرا وربک الاکرم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الذے علم بالڧلم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> علم الانسں ما لم ٮعل[م </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] کلا اں الانسں لٮطغے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں راه استغنے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں الے ربک الرجع{ا}ے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اراٮت [الد]ے ٮنهے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> عبدا اذا صلے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ار{ا}ٮت اں کاں علے الهدے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> او امر بالٮ[ٯو]ے[ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] ارٮت اں کذب وتولے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الم ٮعلم باں الل‍ه ٮرے </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> کلا لٮں لم ٮنت[ه ] لٮسڡعا بالن()صٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ن()صٮ کدٮه خاطٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡلٮدع ناد[ٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] سندع الرب()نٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> کلا لا تطعه واسجد واٯترب [</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] Leerzeile [ٮ]سمالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> انا انزلنه ڡى لٮله الڡدر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وما ادرٮک ما لٮل[ه ] الڧدر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">() خٮر مں الڡ شهر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> تنزل الملٮکه والروح ڡٮها ٮا[دں رٮهم مں ] [کل امر.</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> سلم هى ]حت[ى مطلع الڡحر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ]</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>098:001-100:011</bibl>
+                    <editor>
+                        <persName>Tobias J. Jocham</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">[ٮ]سم الل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لم ٮکں الذٮں کڡروا مں اهل الکتب [و]المشرکٮں منڡکٮں حتى تاتٮهم البٮنه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> رسول مں الل‍ه ٮتلوا [ص]حڡا مطهره </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡٮها کٮب ڡٮمه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وما تڡرٯ الذٮں اوتوا الکتب الا مں بعد ما جاتهم البٮنه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وما امروا الا لٮعبدوا الل‍ه مخلصٮں له الدٮں حنڡا وٮڧٮموا الصلوه وٮوتوا الزکوه وذلک دٮں [الٯ]ٮمه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں الذٮں کڡروا مں اهل الکتٮ والمشرکٮں ڡى نار جهنم [حل]دٮں ڡٮها اولٮک هم شر البرٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں الذٮں امنوا وعملوا الصلحت [ا]ولٮک هم خٮر البرٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> جزا()هم عند رٮهم حنت عدں تجرى مں تحته[ا ] الانهر خلدٮں ڡٮها ابدا رضى الل‍ه عنهم ورضوا عنه ذلک لمں حشى ربه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile [ٮس]مالل‍ه الرحمں الرحمں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اذا زلزلت الارض زلز()لها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> واخرحت [ال]ارض اثڧ()لها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وڧ()ل الانسں ما لها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮومٮذ تحدث اخب()رها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮاں [رٮ]ک اوحى لها </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮومٮذ ٮصدر الناس اشت()تا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لٮروا ()عملهم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡمں [ٮع]ل مثڧ()ل ذره خٮرا ٮره </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ومں ٮعمل مثڧ()ل ذره شرا ٮره </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile [ٮس]م الل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والعدٮت ضبحا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡالمورٮت ڡدحا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> [ڡال]مغٮرت صبحا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡاثرں به نڧعا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡوسطں به حمعا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں الانسں لربه [لکٮو]د </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وانه على ذلک لشهٮد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وانه لحب الخٮر لشدٮد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اڡ[لا] [ٮعلم ادا ٮع]ث[ر] ما ڡے الڧبور </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وحصل ما ڡى الصدور </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں ربهم ٮهم ٮومٮذ ل[حٮٮر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ]</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>101:001-105:001</bibl>
+                    <editor>
+                        <persName>Tobias J. Jocham</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسم الل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الڧ()رعه {</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">} ما الڧ()رعه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وما ادرٮک ما ا[لٯار] عه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮوم ٮکوں الناس ک()لڡر()ش المبثوث </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وتکوں الجبال ک()لعه[ں ا] لمنڡوش </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡاما مں ثڧلت موزٮنه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡهو ڡى عٮشه ر()صٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وا[ما مں] خڡت مورٮنه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡامه ه()وٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وما ادرٮک ما هٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> نار ح()مٮه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile بسمالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اله()کم الٮک()ثر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> حتى زرتم المڧ()بر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ک[لا ] سوڡ تعلموں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ثم کلا سوڡ تعلموں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> کلا لو تعلموں علم الٮ[ٯٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] لتروں الححٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ثم لترونها عٮں الٮڧٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ثم لتسلں ٮومٮذ عں الٮع[ٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] Leerzeile ٮسمالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> والعصر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں الانسں لڡے خسر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الا [الدٮں ا] منوا وعملوا الصلحت وتو()صوا بالحٯ وتو()صوا بالص[ٮر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ] Leerzeile ٮسمالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وٮل لکل همزه لمزه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الذے حم[ع مالا وعد] ده </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮهسب اں ماله اخلده </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> کلا لٮنبذں ڡى الحطمه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وما ا[درٮک] ما الحطمه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> نار الل‍ه الموڧده </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> التى تطلع على الاڡد[ه </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اٮها ] علٮهم موصده </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡى عمد ممدده </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile بسم الل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الم تر کٮڡ ڡعل ربک [ٮاصحٮ الڡٮل ]</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>105:002-110:002</bibl>
+                    <editor>
+                        <persName>Tobias J. Jocham</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ل </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الم ٮحعل کٮدهم ڡى ٮصلٮل </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وارسل علٮهم طٮرا اٮابٮل </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> [ٮر]مٮهم ٮحح()ره مں سجٮل </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡحعلهم کعصڡ ماکول </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile [ٮ]سمالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لا()لڡ ٯرٮش </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الڡهم رحله الشتا والصٮڡ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡلٮعبدوا رب هذا الٮٮت </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الذے اطعمهم مں جوع وامنهم مں حوڡ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile [ٮس]مالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ارٮت الذے ٮکذب ٮالدٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡذلک الذے [ٮد]ع الٮتٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ولا ٮحض علے طع()م المسکٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡوٮل للمصلٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> [ا]لذٮں هم عں صل()تهم ساهوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الذٮں هم ٮر()وں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وٮمنعوں الماعوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile [ٮس]مالل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> انا اعطٮنک الکوثر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡصل لرٮک وانحر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں شانٮک هو الابتر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile [ٮسم ا]لل‍ه الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڧل ٮاٮها الکڡروں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لا اعبد ما تعبد [وں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و]لا انتم عبدوں ما اعبد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ولا انا ع()بد ما عبدثم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ولا [اٮٮم] عبدوں ما اعبد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لکم دٮنکم ولے دٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> Leerzeile [ٮسم الل‍ه] الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اذا جا نصر الل‍ه والڡتح </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وراٮت الناس ٮدحلوں</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

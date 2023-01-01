@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Psalm 4:1-9</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>624</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Endredaktion des Psalters)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990. </edition>
+                    <relatedItem>
+                        <bibl>094:001</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p> לַמְנַצֵּחַ בִּנְגִינוֹת מִזְמוֹר לְדָוִד :   בְּקָרְאִי עֲנֵנִי אֱלֹהֵי צִדְקִי <hi rendition="bold">  בַּצָּר הִרְחַבְתָּ לִּי  </hi> חָנֵּנִי וּשְׁמַע תְּפִלָּתִי :   בְּנֵי אִישׁ עַד־מֶה כְבוֹדִי לִכְלִמָּה תֶּאֱהָבוּן רִיק תְּבַקְשׁוּ כָזָב סֶלָה :   וּדְעוּ כִּי־הִפְלָה יְהוָה חָסִיד לוֹ יְהוָה יִשְׁמַע בְּקָרְאִי אֵלָיו :   רִגְזוּ וְאַל־תֶּחֱטָאוּ אִמְרוּ בִלְבַבְכֶם עַל־מִשְׁכַּבְכֶם וְדֹמּוּ סֶלָה :   זִבְחוּ זִבְחֵי־צֶדֶק וּבִטְחוּ אֶל־יְהוָה :   רַבִּים אֹמְרִים מִי־יַרְאֵנוּ טוֹב נְסָה־עָלֵינוּ אוֹר פָּנֶיךָ יְהוָה :   נָתַתָּה שִׂמְחָה בְלִבִּי מֵעֵת דְּגָנָם וְתִירוֹשָׁם רָבּוּ :   בְּשָׁלוֹם יַחְדָּו אֶשְׁכְּבָה וְאִישָׁן כִּי־אַתָּה יְהוָה לְבָדָד לָבֶטַח תּוֹשִׁיבֵנִי : </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>1 [Für den Chormeister. Mit Saitenspiel. Ein Psalm Davids.] 2 Wenn ich rufe, erhöre mich, / Gott, du mein Retter! <hi rendition="bold">Du hast mir Raum geschaffen, als mir angst war.</hi> / Sei mir gnädig und hör auf mein Flehen! 3 Ihr Mächtigen, wie lange noch schmäht ihr meine Ehre, / warum liebt ihr den Schein und sinnt auf Lügen? [Sela] 4 Erkennt doch: Wunderbar handelt der Herr an den Frommen; / der Herr erhört mich, wenn ich zu ihm rufe. 5 Ereifert ihr euch, so sündigt nicht! / Bedenkt es auf eurem Lager und werdet still! [Sela] 6 Bringt rechte Opfer dar / und vertraut auf den Herrn! 7 Viele sagen: "Wer lässt uns Gutes erleben?" / Herr, lass dein Angesicht über uns leuchten! 8 Du legst mir größere Freude ins Herz, / als andere haben bei Korn und Wein in Fülle. 9 In Frieden leg ich mich nieder und schlafe ein; / denn du allein, Herr, lässt mich sorglos ruhen. </p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

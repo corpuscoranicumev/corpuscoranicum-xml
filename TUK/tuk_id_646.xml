@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Exodus 14:13</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>646</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate/>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	Menachem Cohen (Hg.), Mikra'ot Gedolot Haketer: A revised and augmented scientific edition of "Mikra'ot Gedolot" based on the Aleppo Codex and Early Medieval MSS, Tel Aviv 1992.</edition>
+                    <relatedItem>
+                        <bibl>002:050; 002:053</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">furqān</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Der koranische Text (2:50) spricht ebenfalls, wie die Exodus-Passage (hier nach dem Targum) von der Errettung vor Pharao, arabisch <hi xml:lang="ar-Latn">ʾanǧaynākum</hi>. Besonders erinnert aber der Zusatz <hi xml:lang="ar-Latn">wa-ʾantum tanẓurūna</hi>, also die Betonung der Augenzeugenschaft an den biblischen Text: "Schauet die Errettung" <hi xml:lang="ar-Latn">ḥzō yāt purqānā</hi> und dann nochmal <hi xml:lang="ar-Latn">lā tōspūn l-meḥzēhōn ʿōd ʿad ʿālam</hi> "(so wie heute) werdet ihr sie (die Ägypter) nie wieder sehen". Desweiteren enthält der targumische Text das Wort <hi xml:lang="ar-Latn">purqānā</hi> für "Errettung", welches in Q 2:53 ebenfalls erwähnt wird. Im hebräischen Text steht dafür <hi xml:lang="ar-Latn">yəšūʿāh</hi>. Um die sprachliche Nähe von ar. <hi xml:lang="ar-Latn">furqān</hi> und aramäisch <hi xml:lang="ar-Latn">purqānā</hi> zu illustrieren, wurde hier der targumische Text (Onqelos) verwendet.</p>
+                    <p>
+
+	Zu <hi xml:lang="ar-Latn">furqān </hi>vgl. auch Jeffery, Foreign vocabulary S. 225-229.</p>
+                </body>
+            </text>
+            <text xml:lang="arc-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַאְמַר מֹשַׁה לְעַמָא לָא תִדחְלַון אִתעַתַדֻו וַחזוֹ יָת <hi rendition="bold"> פֻורקָנָא </hi> דַיוי דְעָבֵיד לְכוֹן יוֹמָא דֵין אְרֵי כמא דַחזֵיתוֹן יָת מִצרָאֵי יוֹמָא דֵין לָא תוֹסְפֻון לְמִחזֵיהוֹן עוֹד עַד עָלְמָא</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Und Moses sagte zum Volk: „Habt keine Angst und macht euch bereit und schauet die <hi xml:lang="ar-Latn">Purqānā</hi> (Errettung), welche Gott für euch an diesem Tag gemacht hat. Wahrlich, so wie ihr heute die Ägypter seht, so werdet ihr sie sicherlich nie wieder sehen.“</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

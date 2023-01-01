@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>2. Clemensbrief 5:1-7</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Karl Ahrens</persName>
+                    <name>"Christliches im Qoran. Eine Nachlese", Zeitschrift der Deutschen Morgenländischen Gesellschaft 84 (1930), S. 48.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>308</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate>Mitte 2. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Franz Zeller (Übers.), Die Apostolischen Väter, München 1914.</bibl>
+                <bibl>
+                    <edition>
+
+	J. B. Lightfoot (Hg.), The Apostolic Fathers: revised texts with introductions, notes, dissertations, and translations, London 1889-1890.</edition>
+                    <relatedItem>
+                        <bibl>020:135</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ṣirāṭ sawiyy</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	siraat sawii wie oft? Synonym: siraat mustaqiim. hodos orthä. tris.aa. Ausformulieren. Vgl. auch <hi xml:lang="ar-Latn">sabīl</hi>, etwa in <hi xml:lang="ar-Latn">sabīl ar-rušd</hi> 007:146. Zu <hi xml:lang="ar-Latn">ṣirāṭ</hi> (variae lectiones <hi xml:lang="ar-Latn">sirāṭ, zirāṭ</hi>) vgl. auch Jeffery, Foreign vocabulary S. 195f.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	Ὅθεν ἀδελφοί καταλείψαντες τὴν παροικίαν τοῦ κόσμου τούτου ποιήσωμεν τὸ θέλημα τοῦ καλέσαντος ἡμᾶς καὶ μὴ φοβηθῶμεν ἐξελθεῖν ἐκ τοῦ κόσμου τούτου 2 λέγει γὰρ ὁ κύριος Ἔσεσθε ὡς ἀρνία ἐν μέσῳ λύκων 3 ἀποκριθεὶς δὲ ὁ Πέτρος αὐτῷ λέγει Ἐὰν οὗν διασπαράξωσιν οἱ λύκοι τὰ ἀρνία 4 εἷπεν ὁ Ἰησοῦς τῷ Πέτρῳ Μὴ φοβείσθωσαν τὰ ἀρνία τοὺς λύκους μετὰ τὸ ἀποθανεῖν αὐτά καὶ ὑμεῖς μὴ φοβεῖσθε τοὺς ἀποκτέννοντας ὑμᾶς καὶ μηδὲν ὑμῖν δυναμένους ποιεῖν ἀλλὰ φοβεῖσθε τὸν μετὰ τὸ ἀποθανεῖν ὑμᾶς ἔχοντα ἐξουσίαν ψυχῆς καὶ σώματος τοῦ βαλεῖν εἰς γέενναν πυρός 5 καὶ γινώσκετε ἀδελφοί ὅτι ἡ ἐπιδημία ἡ ἐν τῷ κόσμῳ τούτῳ τῆς σαρκὸς ταύτης μικρά ἐστιν καὶ ὀλιγοχρόνιος ἡ δὲ ἐπαγγελία τοῦ Χριστοῦ μεγάλη καὶ θαυμαστή ἐστιν καὶ ἀνάπαυσις τῆς μελλούσης βασιλείας καὶ ζωῆς αἰωνίου 6 τί οὗν ἐστὶν ποιήσαντας ἐπιτυχεῖν αὐτῶν εἰ μὴ τὸ ὁσίως καὶ δικαίως ἀναστρέφεσθαι καὶ τὰ κοσμικὰ ταῦτα ὡς ἀλλότρια ἡγεῖσθαι καὶ μὴ ἐπιθυμεῖν αὐτῶν 7 ἐν γὰρ τῷ ἐπιθυμεῖν ἡμᾶς κτήσασθαι ταῦτα ἀποπίπτομεν <hi rendition="bold">τῆς ὁδοῦ τῆς δικαίας</hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1. Deshalb, Brüder, wollen wir aufgeben das Verweilen in dieser Welt und den Willen dessen tun, der uns berufen hat und uns nicht fürchten vor dem Abschied aus dieser Welt. 2. Denn der Herr sagt: "Ihr werdet sein wie Schafe mitten unter Wölfen." 3. Und Petrus gab ihm zur Antwort: "Wenn nun die Wölfe die Schafe zerreißen?" 4. Jesus sagte zu Petrus: "Die Schafe sollen sich nach ihrem Tode vor den Wölfen nicht fürchten; auch ihr sollt die nicht fürchten, die euch töten, aber euch sonst nichts antun können; fürchtet vielmehr den, der nach eurem Tode die Macht hat, Seele und Leib in das Feuer der Hölle zu stürzen." 5. Auch wollet ihr bedenken, Brüder, daß der Aufenthalt in dieser Welt des Fleisches kurz und von geringer Dauer, die Verheißung Christi aber groß und wunderbar ist und Ruhe im künftigen Reiche und im ewigen Leben. 6. Was müssen wir nun tun, um diese Güter zu erlangen? Nichts als heilig und gerecht wandeln, die Dinge dieser Welt für feindlich halten und ihrer nicht begehren. 7. Denn wenn wir nach ihrem Besitze verlangen, verlieren wir <hi rendition="bold">den Weg der Gerechtigkeit</hi>.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

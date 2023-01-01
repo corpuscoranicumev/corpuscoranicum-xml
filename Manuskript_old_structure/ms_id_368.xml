@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Tobias J. Jocham</persName>
+                    <persName>Tolou Khademalsharieh</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Witkam, Inventory 2007: "Or. 14.545 a-c<lb/> Arabic, parchment, 6 ff.<lb/> Qur’an. A collection of three sheaves containing fragments on parchment, written in Higazi or Higazi-like script, originating from two different Qur’ans.<lb/> Fragment a, consisting of 4 leaves.<lb/> (1) ff. 1a-b. Qur’an 2:269 - 2:282<lb/> (2) ff. 2a-4b. Qur’an 17:40 - 17:110.<lb/> Fragment b, consisting of 1 leaf, with text: Qur’an 16:96 - 16:114. A leaf from the same Qur’an which is kept in Paris, BNF, Arabe 131 [sic!] (Catalogue by F. Déroche, p. 67 and plate<lb/> IX). Fragment c, below, comes from the same Qur’an.<lb/> Fragment c, consisting of 1 leaf, with text Qur’an 63:1 - 64:4. From the same Qur’an as Fragment b, above.<lb/> Provenance: Purchased in May 1979 from Mr. H.C. Jorissen, former Dutch ambassador in Beirut, where he had purchased te fragments.<lb/> (in Ar. 4767)" Danach gehört dieses Manuscriptfragment zu MS Paris BnF Arabe 331 (s. François Déroche, Les manuscrits du Coran. Aux origines de la calligraphie coranique. Paris 1983 (Bibliothèque Nationale. Département des Manuscrits. Catalogue des manuscrits arabes. Deuxième partie, Tome I, 1, p. 67 u. Tabelle IX)</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Gehört zu einem Bündel von insgesamt 6 Blättern, siehe auch Ms Leiden Cod. Or. 14.545(a) und Ms Leiden Cod. Or. 14.545(c).</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Niederlande</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Cod. Or. 14.545b</idno>
+                        <altIdentifier>
+                            <idno>Ms Leiden Cod. Or. 14.545(b)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="368">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Fragment">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>400</height>
+                                        <width>320</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="19">
+                                    <p>Die Seiten enthalten 19 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Witkam, Inventory 2007
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <bibl>
+                    <bibl>016:096-016:105</bibl>
+                    <editor>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Tolou Khademalsharieh</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">مـ]ـاعندكم</w>
+                    <w n="000000000">ٮنفد</w>
+                    <w n="000000000">وماعند</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">باٯ</w>
+                    <w n="000000000">و[لٮحرٮں] [ا]لذٮن</w>
+                    <w n="000000000">صبروااحرهم</w>
+                    <w n="000000000">ٮاحسں</w>
+                    <w n="000000000">ماکانوا [ٮعمـ]ـلوں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">عمل</w>
+                    <w n="000000000">صلحا</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">ذکر</w>
+                    <w n="000000000">اوانثى</w>
+                    <w n="000000000">وهـ[ـو] مومن</w>
+                    <w n="000000000">ڡلنحـ[ـٮٮـ]ـنه</w>
+                    <w n="000000000">حٮوه</w>
+                    <w n="000000000">طٮبه</w>
+                    <w n="000000000">ولنـ[ـحر]ٮنهم</w>
+                    <w n="000000000">احر[هم] ٮاحسن</w>
+                    <w n="000000000">ماکانواٮعملوں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ڡاذاٯر[ات</w>
+                    <w n="000000000">ا]لٯر ان</w>
+                    <w n="000000000">فاستعد</w>
+                    <w n="000000000">ٮالل‍ه</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">الشٮطں</w>
+                    <w n="000000000">الرحٮم</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ا[ٮه</w>
+                    <w n="000000000">لٮس] له</w>
+                    <w n="000000000">سلطں</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">الذٮں</w>
+                    <w n="000000000">امنوا[و]على</w>
+                    <w n="000000000">ر[ٮهم</w>
+                    <w n="000000000">ٮٮو] کلوں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">انماسلطنه</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">الدٮن</w>
+                    <w n="000000000">ٮتو[لوٮه</w>
+                    <w n="000000000">و] الدٮن</w>
+                    <w n="000000000">هم</w>
+                    <w n="000000000">به</w>
+                    <w n="000000000">[مـ]ـشرکوں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">واذا[ٮدلٮااٮه] مکان</w>
+                    <w n="000000000">ا[ٮـ]ـه</w>
+                    <w n="000000000">والل‍ه</w>
+                    <w n="000000000">اعلم</w>
+                    <w n="000000000">ٮما</w>
+                    <w n="000000000">ٮنزل</w>
+                    <w n="000000000">ڡا[لوا] انما</w>
+                    <w n="000000000">انت</w>
+                    <w n="000000000">مفتر</w>
+                    <w n="000000000">بل</w>
+                    <w n="000000000">اکثرهم</w>
+                    <w n="000000000">لاٮعلمون100</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">؟ٯل</w>
+                    <w n="000000000">نز له</w>
+                    <w n="000000000">ر؟وح</w>
+                    <w n="000000000">الٯدس</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">رٮک</w>
+                    <w n="000000000">بالحٯ</w>
+                    <w n="000000000">لٮثبت</w>
+                    <w n="000000000">ا لذٮں</w>
+                    <w n="000000000">امنواوهدى</w>
+                    <w n="000000000">وٮشرى</w>
+                    <w n="000000000">للمسلمٮں</w>
+                    <w n="000000000"/>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ولٯد</w>
+                    <w n="000000000">نعلم</w>
+                    <w n="000000000">انهم</w>
+                    <w n="000000000">ٮٯولون</w>
+                    <w n="000000000">انما</w>
+                    <w n="000000000">ٮعلمه</w>
+                    <w n="000000000">بشر</w>
+                    <w n="000000000">ـ لساں</w>
+                    <w n="000000000">الدى</w>
+                    <w n="000000000">ٮلحدون</w>
+                    <w n="000000000">الٮه</w>
+                    <w n="000000000">اعجـ[مـ]ـى</w>
+                    <w n="000000000">[وهد] السان</w>
+                    <w n="000000000">عربى</w>
+                    <w n="000000000">مبٮں</w>
+                    <w n="000000000"/>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">الذ[ٮں]</w>
+                    <w n="000000000">لا[ٮومٮوں</w>
+                    <w n="000000000">ٮا] ٮٮت</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">لا</w>
+                    <w n="000000000">ٮهدٮهم</w>
+                    <w n="000000000">الل‍ه[ولهم</w>
+                    <w n="000000000">عداٮ] الٮم</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">انما</w>
+                    <w n="000000000">ٮفترى</w>
+                    <w n="000000000">الکذ[ٮ</w>
+                    <w n="000000000">الدٮں</w>
+                    <w n="000000000">لاٮو]</w>
+                    <w n="000000000">مٮوں</w>
+                    <w n="000000000">باٮٮت</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">وا[ ـ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>016:106-016:114</bibl>
+                    <editor>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Tolou Khademalsharieh</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">کڡر</w>
+                    <w n="000000000">بالل‍ه</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">بعد</w>
+                    <w n="000000000">اٮمنه</w>
+                    <w n="000000000">الامن</w>
+                    <w n="000000000">اکره</w>
+                    <w n="000000000">و[ٯلٮه] مطمٮں</w>
+                    <w n="000000000">ٮالاٮمں</w>
+                    <w n="000000000">ولکن</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">شرح</w>
+                    <w n="000000000">بالکفر</w>
+                    <w n="000000000">[صد]ر[ا] [ڡـ]ـعلٮهم</w>
+                    <w n="000000000">غضب</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">ولهم</w>
+                    <w n="000000000">عذاب</w>
+                    <w n="000000000">عطٮم</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ذ [لک]ٮانهم</w>
+                    <w n="000000000">استحبواالحٮوه</w>
+                    <w n="000000000">الدنٮاعلى [ا]لاخره</w>
+                    <w n="000000000">واں</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">لاٮهدى</w>
+                    <w n="000000000">الٯوم</w>
+                    <w n="000000000">الکفر [ٮں]اولٮک</w>
+                    <w n="000000000">الدٮن</w>
+                    <w n="000000000">طبع</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">ٯلوبهم</w>
+                    <w n="000000000">و سمعهم</w>
+                    <w n="000000000">وا[ٮصر]هم</w>
+                    <w n="000000000">واولٮک</w>
+                    <w n="000000000">هم</w>
+                    <w n="000000000">العفلوں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> [لاحرم</w>
+                    <w n="000000000">]انهم</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الاخره</w>
+                    <w n="000000000">هم</w>
+                    <w n="000000000">الخسروں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> [ٮم</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ر]بک</w>
+                    <w n="000000000">للدٮں</w>
+                    <w n="000000000">هجروامں</w>
+                    <w n="000000000">بعدمافتنوا [ٮم</w>
+                    <w n="000000000">]حهدواوصبرواان</w>
+                    <w n="000000000">ربک</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">بعدها لعفو[ر]رحٮم</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">تاتى</w>
+                    <w n="000000000">کل</w>
+                    <w n="000000000">نفس</w>
+                    <w n="000000000">ٮحدل</w>
+                    <w n="000000000">عن نفسها</w>
+                    <w n="000000000">وتوفى</w>
+                    <w n="000000000">کل</w>
+                    <w n="000000000">نفس</w>
+                    <w n="000000000">ماعملت</w>
+                    <w n="000000000">وهم</w>
+                    <w n="000000000">لا [ٮطلـ]ـموں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">(10)وضرب</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">مثلا</w>
+                    <w n="000000000">ٯرٮه</w>
+                    <w n="000000000">کانت [امٮه]مطمٮنه</w>
+                    <w n="000000000">ٮاتٮها</w>
+                    <w n="000000000">رزقها</w>
+                    <w n="000000000">رعدا</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">کل</w>
+                    <w n="000000000">مکا [ںڡکڡر]ت</w>
+                    <w n="000000000">با[ٮعم</w>
+                    <w n="000000000">الل‍ه]</w>
+                    <w n="000000000">ڡاذقها</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">لباس [الحوع</w>
+                    <w n="000000000">والحـ]ـوف</w>
+                    <w n="000000000">بماکانواٮصنعوں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> [ولٯدحاهم</w>
+                    <w n="000000000">ر]سول</w>
+                    <w n="000000000">منهم</w>
+                    <w n="000000000">[ڡـ]ـکدبوه</w>
+                    <w n="000000000">فاخذ [هم</w>
+                    <w n="000000000">العداٮ</w>
+                    <w n="000000000">وهـ]ـم</w>
+                    <w n="000000000">طلموں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">فکلواممار [رٯکم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">حلالا]طٮباواشکروانعمت</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

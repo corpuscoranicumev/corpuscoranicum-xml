@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matthäus 7:24-27</title>
+                <principal>
+                    <persName>Nicolai Sinai</persName>
+                    <persName>Manolis Ulbricht</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Johann-Dietrich Thyen</persName>
+                    <name>Bibel und Koran. Eine Synopse gemeinsamer Überlieferungen, Köln 2000, S. 220-221; Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 450, 454.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>373</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Syrien</origPlace>
+                            <origDate>ca. 80-90 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>002:264-002:265; 009:109</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Q 9:109 verwendet dasselbe Bild wie Matthäus 7:24-27: Frömmigkeit und Gottesfurcht sind wie ein Haus, das auf Fels gebaut ist; die Bösen dagegen sind wie jemand, der sein Haus auf Sand bzw. am Rande eines Steilufers baut. An Matthäus 7 erinnert auch Q 2:264-265. An beiden Stellen wird die Differenz zwischen Guten und Bösen durch das Bild eines Regengusses veranschaulicht. Vgl. auch Matthäus 13:3-8, 20-21.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	24 Πᾶς οὖν ὅστις ἀκούει μου τοὺς λόγους τούτους καὶ ποιεῖ αὐτούς, ὁμοιωθήσεται ἀνδρὶ φρονίμῳ, ὅστις ῷκοδόμησεν αὐτοῦ τὴν οἰκίαν ἐπὶ τὴν πέτραν• 25 καὶ κατέβη ἡ βροχὴ καὶ ἦλθον οἱ ποταμοὶ καὶ ἔπνευσαν οἱ ἄνεμοι καὶ προσέπεσαν τῇ οἰκίᾳ ἐκείνῃ, καὶ οὐκ ἔπεσεν, τεθεμελίωτο γὰρ ἐπὶ τὴν πέτραν. 26 καὶ πᾶς ὁ ἀκούων μου τοὺς λόγους τούτους καὶ μὴ ποιῶν αὐτοὺς ὁμοιωθήσεται ἀνδρὶ μωρῷ, ὅστις ῷκοδόμησεν αὐτοῦ τὴν οἰκίαν ἐπὶ τὴν ἄμμον• 27 καὶ κατέβη ἡ βροχὴ καὶ ἦλθον οἱ ποταμοὶ καὶ ἔπνευσαν οἱ ἄνεμοι καὶ προσέκοψαν τῇ οἰκίᾳ ἐκείνῃ, καὶ ἔπεσεν καὶ ἦν ἡ πτῶσις αὐτῆς μεγάλη.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	24 Wer diese meine Worte hört und danach handelt, ist wie ein kluger Mann, der sein Haus auf Fels baute. 25 Als nun ein Wolkenbruch kam und die Wassermassen heranfluteten, als die Stürme tobten und an dem Haus rüttelten, da stürzte es nicht ein; denn es war auf Fels gebaut. 26 Wer aber meine Worte hört und nicht danach handelt, ist wie ein unvernünftiger Mann, der sein Haus auf Sand baute. 27 Als nun ein Wolkenbruch kam und die Wassermassen heranfluteten, als die Stürme tobten und an dem Haus rüttelten, da stürzte es ein und wurde völlig zerstört.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 357. We. 1932. 10 Bl. Quer-8vo, 7 Z. (10,5x16; 5x11 cm). —Zustand: einige Blätter sind sehr fleckig, wie f. 10, imText beschädigt, wie f. 1, oder auch bloß am Rande, wie f. 5-8. Dieselben sind ausgebessert. Im Übrigen ziemlich gut. — Material: Pergament, stark, gelb, glatt. — Einband: roter Kattunband. — Inhalt: Sure 43:27 كلمة bis 45:5 بعد ال‍له Die Schrift ist im Allgemeinen kräftig, gleichmäßig, groß und gedrängt. Bl. 1, 3b u. 10 sind etwas vergilbt, die übrigen Blätter haben eine schöne schwarze Tinte. — Die Buchstabenzahl der Zeilen ist ca. 28-30. — Der Raum zwischen den einzelnen Buchstabengruppen ist hier überall eng. Abbrechen der Wörter am Ende der Zeilen findet statt. — Schluss-م hat den Strich, ganz klein, auf der Linie; Schluss-ق geht etwas unter die Linie, mit einem Schwung nach links; Schluss-ن geht ziemlich mit kleiner Biegung hinab, um mit geradem Strich sich links zu wenden; ك u. د gleichen einander sehr, auch م u. ق, inmitten eines Wortes, zum Teil auch ر u. و, Schluss-ي hat den Schwung nach links, Anfangs-ع hat oben nur eine kleine Rundung. Anfangs-ا hat unten nach rechts einen größeren Schwung. — Die diakritischen Punkte sind weder überall gesetzt, noch, wo sie stehen, überall deutlich. So scheint an manchen Stellen bei ق nur ein Punkt angewandt, desgleichen aber auch für ف (gleichfalls oben), z.B. f. 2b, 7. Aber auseinigen Stellen ist doch deutlich, dass ق mit 2 Punkten bezeichnet (und zu bezeichnen) ist. ش hat in der Regel keine Punkte, kommt aber doch auch vor mit deren Stellung, wie sie später üblich war. ت hat an mehr als einer Stelle bloß einen Punkt. — Die Vokale, rote Punkte, stehen eigentlich nur selten, besonders das u; lang ā wird im Worte oft nicht bezeichnet; die Nunation nur selten (durch 2 rote Punkte übereinander) angedeutet. Von den Lesezeichen (Hamza, Tašdīd, u.s.w.) ist keines gesetzt. Kurz, die Lesung des Textes ist schwierig. Versabteilungen sind nur für größere Gruppen durch einen großen gelben Punkt bezeichnet. — Die Überschriften sind in gelber Farbe: bloß Titel mit Angabe der Verszahl. — Am Rande stehen keine Zeichen für die Textabteilung.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Wetzstein II 1932</idno>
+                        <altIdentifier>
+                            <idno>Wetzstein II 1932 (Ahlwardt 357)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="474">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>104</height>
+                                        <width>166</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="7">
+                                    <p>Die Seiten enthalten 7 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

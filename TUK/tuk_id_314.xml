@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief an die Römer 12:1-21</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Karl Ahrens</persName>
+                    <name>"Christliches im Qoran. Eine Nachlese", Zeitschrift der Deutschen Morgenländischen Gesellschaft 84 (1930), S. 49; Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 454-455.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>314</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Korinth</origPlace>
+                            <origDate>ca. 56/57 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>013:022; 023:096; 028:054; 041:034</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Der koranische Aufruf, man solle "das Schlechte mit dem Guten" zurückweisen, erinnert an Römer 12:21.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	Παρακαλῶ οὖν ὑμᾶς, ἀδελφοί, διὰ τῶν οἰκτιρμῶν τοῦ θεοῦ παραστῆσαι τὰ σώματα ὑμῶν θυσίαν ζῶσαν ἁγίαν εὐάρεστον τῷ θεῷ, τὴν λογικὴν λατρείαν ὑμῶν• 2 καὶ μὴ συσχηματίζεσθε τῷ αἰῶνι τούτῳ, ἀλλὰ μεταμορφοῦσθε τῇ ἀνακαινώσει τοῦ νοὸς εἰς τὸ δοκιμάζειν ὑμᾶς τί τὸ θέλημα τοῦ θεοῦ, τὸ ἀγαθὸν καὶ εὐάρεστον καὶ τέλειον. 3 Λέγω γὰρ διὰ τῆς χάριτος τῆς δοθείσης μοι παντὶ τῷ ὄντι ἐν ὑμῖν μὴ ὑπερφρονεῖν παρ᾽ ὃ δεῖ φρονεῖν ἀλλὰ φρονεῖν εἰς τὸ σωφρονεῖν, ἑκάστῳ ὡς ὁ θεὸς ἐμέρισεν μέτρον πίστεως. 4 καθάπερ γὰρ ἐν ἑνὶ σώματι πολλὰ μέλη ἔχομεν, τὰ δὲ μέλη πάντα οὐ τὴν αὐτὴν ἔχει πρᾶξιν, 5 οὕτως οἱ πολλοὶ ἓν σῶμά ἐσμεν ἐν Χριστῷ, τὸ δὲ καθ᾽ εἷς ἀλλήλων μέλη. 6 ἔχοντες δὲ χαρίσματα κατὰ τὴν χάριν τὴν δοθεῖσαν ἡμῖν διάφορα, εἴτε προφητείαν κατὰ τὴν ἀναλογίαν τῆς πίστεως, 7 εἴτε διακονίαν ἐν τῇ διακονίᾳ, εἴτε ὁ διδάσκων ἐν τῇ διδασκαλίᾳ, 8 εἴτε ὁ παρακαλῶν ἐν τῇ παρακλήσει• ὁ μεταδιδοὺς ἐν ἁπλότητι, ὁ προϊστάμενος ἐν σπουδῇ, ὁ ἐλεῶν ἐν ἱλαρότητι. 9 Ἡ ἀγάπη ἀνυπόκριτος. ἀποστυγοῦντες τὸ πονηρόν, κολλώμενοι τῷ ἀγαθῷ, 10 τῇ φιλαδελφίᾳ εἰς ἀλλήλους φιλόστοργοι, τῇ τιμῇ ἀλλήλους προηγούμενοι, 11 τῇ σπουδῇ μὴ ὀκνηροί, τῷ πνεύματι ζέοντες, τῷ κυρίῳ δουλεύοντες, 12 τῇ ἐλπίδι χαίροντες, τῇ θλίψει ὑπομένοντες, τῇ προσευχῇ προσκαρτεροῦντες, 13 ταῖς χρείαις τῶν ἁγίων κοινωνοῦντες, τὴν φιλοξενίαν διώκοντες. 14 εὐλογεῖτε τοὺς διώκοντας [ὑμᾶς], εὐλογεῖτε καὶ μὴ καταρᾶσθε. 15 χαίρειν μετὰ χαιρόντων, κλαίειν μετὰ κλαιόντων. 16 τὸ αὐτὸ εἰς ἀλλήλους φρονοῦντες, μὴ τὰ ὑψηλὰ φρονοῦντες ἀλλὰ τοῖς ταπεινοῖς συναπαγόμενοι. μὴ γίνεσθε φρόνιμοι παρ᾽ ἑαυτοῖς. 17 μηδενὶ κακὸν ἀντὶ κακοῦ ἀποδιδόντες, προνοούμενοι καλὰ ἐνώπιον πάντων ἀνθρώπων• 18 εἰ δυνατὸν τὸ ἐξ ὑμῶν, μετὰ πάντων ἀνθρώπων εἰρηνεύοντες• 19 μὴ ἑαυτοὺς ἐκδικοῦντες, ἀγαπητοί, ἀλλὰ δότε τόπον τῇ ὀργῇ, γέγραπται γάρ• ἐμοὶ ἐκδίκησις, ἐγὼ ἀνταποδώσω, λέγει κύριος. 20 ἀλλὰ ἐὰν πεινᾷ ὁ ἐχθρός σου, ψώμιζε αὐτόν• ἐὰν διψᾷ, πότιζε αὐτόν• τοῦτο γὰρ ποιῶν ἄνθρακας πυρὸς σωρεύσεις ἐπὶ τὴν κεφαλὴν αὐτοῦ. 21 <hi rendition="bold">μὴ νικῶ ὑπὸ τοῦ κακοῦ ἀλλὰ νίκα ἐν τῷ ἀγαθῷ τὸ κακόν.</hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Angesichts des Erbarmens Gottes ermahne ich euch, meine Brüder, euch selbst als lebendiges und heiliges Opfer darzubringen, das Gott gefällt; das ist für euch der wahre und angemessene Gottesdienst. 2 Gleicht euch nicht dieser Welt an, sondern wandelt euch und erneuert euer Denken, damit ihr prüfen und erkennen könnt, was der Wille Gottes ist: was ihm gefällt, was gut und vollkommen ist. 3 Aufgrund der Gnade, die mir gegeben ist, sage ich einem jeden von euch: Strebt nicht über das hinaus, was euch zukommt, sondern strebt danach, besonnen zu sein, jeder nach dem Maß des Glaubens, das Gott ihm zugeteilt hat. 4 Denn wie wir an dem einen Leib viele Glieder haben, aber nicht alle Glieder denselben Dienst leisten, 5 so sind wir, die vielen, ein Leib in Christus, als einzelne aber sind wir Glieder, die zueinander gehören. 6 Wir haben unterschiedliche Gaben, je nach der uns verliehenen Gnade. Hat einer die Gabe prophetischer Rede, dann rede er in Übereinstimmung mit dem Glauben; 7 hat einer die Gabe des Dienens, dann diene er. Wer zum Lehren berufen ist, der lehre; 8 wer zum Trösten und Ermahnen berufen ist, der tröste und ermahne. Wer gibt, gebe ohne Hintergedanken; wer Vorsteher ist, setze sich eifrig ein; wer Barmherzigkeit übt, der tue es freudig. 9 Eure Liebe sei ohne Heuchelei. Verabscheut das Böse, haltet fest am Guten! 10 Seid einander in brüderlicher Liebe zugetan, übertrefft euch in gegenseitiger Achtung! 11 Laßt nicht nach in eurem Eifer, laßt euch vom Geist entflammen und dient dem Herrn! 12 Seid fröhlich in der Hoffnung, geduldig in der Bedrängnis, beharrlich im Gebet! 13 Helft den Heiligen, wenn sie in Not sind; gewährt jederzeit Gastfreundschaft! 14 Segnet eure Verfolger; segnet sie, verflucht sie nicht! 15 Freut euch mit den Fröhlichen und weint mit den Weinenden! 16 Seid untereinander eines Sinnes; strebt nicht hoch hinaus, sondern bleibt demütig! Haltet euch nicht selbst für weise! 17 Vergeltet niemand Böses mit Bösem! Seid allen Menschen gegenüber auf Gutes bedacht! 18 Soweit es euch möglich ist, haltet mit allen Menschen Frieden! 19 Rächt euch nicht selber, liebe Brüder, sondern laßt Raum für den Zorn (Gottes); denn in der Schrift steht: Mein ist die Rache, ich werde vergelten, spricht der Herr. 20 Vielmehr: Wenn dein Feind Hunger hat, gib ihm zu essen, wenn er Durst hat, gib ihm zu trinken; tust du das, dann sammelst du glühende Kohlen auf sein Haupt. 21 <hi rendition="bold">Laß dich nicht vom Bösen besiegen, sondern besiege das Böse durch das Gute!</hi>
+                    </p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

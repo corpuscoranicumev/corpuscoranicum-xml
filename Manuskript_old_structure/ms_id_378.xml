@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>011:073-011:095; 074:001-074:027; 074:034-074:056</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Irak</country>
+                        <settlement>Bagdad (Iraq Museum</settlement>
+                        <institution> Ms 678), Hartford Seminary, London (unbekannt)</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Kufischer Kodex im Iraq Museum (ms. 678)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="378">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Codex">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>480</height>
+                                        <width>540</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="25">
+                                    <p>Die Seiten enthalten 25 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Yassine Dutton, "An Umayyad Fragment Of The Qur'an And Its Dating", Journal Of Qur'anic Studies 9/2 (2007), S. 57-87.
+
+	Ṣalāḥaddīn al-Munaǧǧid, Dirāsāt fī tārīḫ al-ḫaṭṭ al-ʿarabī munḏ bidāyatih ilā nihāyat al-ʿaṣr al-umawi, Bairūt, Dār al-kitāb al-ǧadīd 1972, S. 88, Plate 45.
+
+	D. A. Kerr, The Illuminated Manuscripts Of Hartford Seminary: The Art Of Christian-Muslim Relations, 1994, Hartford Seminary Bookstore: Connecticut, p.12.
+
+	Sotheby's (Hrsg.), Arts of the Islamic World, 2004 (13th October 2004), London 2004, S. 10–11.
+
+	Marcus Fraser &amp; W. Kwiatkowski, Ink And Gold: Islamic Calligraphy, London 2006, hrsg. von Sam Fogg, London, S. 18–21.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

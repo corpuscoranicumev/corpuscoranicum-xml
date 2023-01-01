@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Tobias J. Jocham</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Textstelle überarbeiten! TJJ</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Jemen</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="4">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Blatt">
+                            <supportDesc>
+                                <support>
+                                    <material>Bruchstück, nur wenige Worte Text vorhanden</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>15x</height>
+                                        <width>5</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="1">
+                                    <p>Die Seite enthält eine Zeile.</p>
+                                    <p>Ein Teil der Trennzeile zwischen zwei Sūren ist erhalten. [Originalkommentar] It is clear that these fragments do not belong to the same copy of the [Qurʾān] in spite of the similarity in using the red dots for diacritics and the green dots to indicate the [Hamza]. The last fragment is copied in [Kūfī Muaqaq] script. Only a part from the end of [Sūrat] [Ṭāha] appears in this fragment, together with a part of the [Sūrah] division and a part of the [Basmala] of [Sūrat] [al-’Anbiyā’].</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <bibl>
+                    <bibl>020:135-021:000</bibl>
+                    <editor>
+                        <persName>Tobias J. Jocham</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">لسَوى</w>
+                    <w n="000000000">ومں ٮد</w>
+                    <w n="000000000">الله</w>
+                    <w n="000000000">ٮو</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

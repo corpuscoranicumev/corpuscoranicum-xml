@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genesis 11:1-9</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Koran, Gräfenhainichen 1931, S. 116-117, 283.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>224</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>028:038; 040:036-040:037</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Den angegebenen Koranstellen zufolge läßt sich Pharao ein hoch aufragendes Schloss (<hi xml:lang="ar-Latn">ṣarḥ</hi>) errichten, um auf ihm zu Gott emporzusteigen. Von einem entsprechenden  Vorhaben Pharaos ist in der biblischen Moseserzählung nicht die Rede. Der Koran erinnert in diesem Motiv mehr an die Geschichte vom Turmbau zu Babel aus dem Buch Genesis. In beiden Fällen soll die Turmbauerzählung die Überheblichkeit der Menschen bzw. Pharaos sowie das Streben nach Macht und bleibender Geltung veranschaulichen. Eine vielleicht engere Parallele zur koranischen Version findet sich in der Turmbauerzählung des Jubiläenbuches (TUK Nr. 0926), die den Grund für den Turmbau ähnlich wie der Koran schildert. Allerding bleibt dennoch fraglich, inwiefern der Koran hier überhaupt ein aus der biblischen Literatur bekanntes Motiv aufgreift, da bei einer Assoziation Pharaos mit imposanten Bauwerken eine Anspielung auf die Pyramiden, die sowohl aus literarischen Quellen, als auch aus eigener Anschauung bekannt gewesen sein können, durchaus naheliegt. Interessant ist, daß die koranische Erzählung den aus der biblischen Estergeschichte (vgl. TUK Nr. 0427) bekannten Haman hier mit Pharao und dem Turmbau verknüpft. Für eine mögliche Assoziation Hamans mit Pharao in der rabbinischen Literatur vgl. TUK Nr. 1061.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיְהִי כָל־הָאָרֶץ שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים : וַיְהִי בְּנָסְעָם מִקֶּדֶם וַיִּמְצְאוּ בִקְעָה בְּאֶרֶץ שִׁנְעָר וַיֵּשְׁבוּ שָׁם : וַיֹּאמְרוּ אִישׁ אֶל־רֵעֵהוּ הָבָה נִלְבְּנָה לְבֵנִים וְנִשְׂרְפָה לִשְׂרֵפָה וַתְּהִי לָהֶם הַלְּבֵנָה לְאָבֶן וְהַחֵמָר הָיָה לָהֶם לַחֹמֶר : וַיֹּאמְרוּ הָבָה נִבְנֶה־לָּנוּ עִיר וּמִגְדָּל וְרֹאשׁוֹ בַשָּׁמַיִם וְנַעֲשֶׂה־לָּנוּ שֵׁם פֶּן־נָפוּץ עַל־פְּנֵי כָל־הָאָרֶץ : וַיֵּרֶד יְהוָה לִרְאֹת אֶת־הָעִיר וְאֶת־הַמִּגְדָּל אֲשֶׁר בָּנוּ בְּנֵי הָאָדָם : וַיֹּאמֶר יְהוָה הֵן עַם אֶחָד וְשָׂפָה אַחַת לְכֻלָּם וְזֶה הַחִלָּם לַעֲשׂוֹת וְעַתָּה לֹא־יִבָּצֵר מֵהֶם כֹּל אֲשֶׁר יָזְמוּ לַעֲשׂוֹת : הָבָה נֵרְדָה וְנָבְלָה שָׁם שְׂפָתָם אֲשֶׁר לֹא יִשְׁמְעוּ אִישׁ שְׂפַת רֵעֵהוּ : וַיָּפֶץ יְהוָה אֹתָם מִשָּׁם עַל־פְּנֵי כָל־הָאָרֶץ וַיַּחְדְּלוּ לִבְנֹת הָעִיר : עַל־כֵּן קָרָא שְׁמָהּ בָּבֶל כִּי־שָׁם בָּלַל יְהוָה שְׂפַת כָּל־הָאָרֶץ וּמִשָּׁם הֱפִיצָם יְהוָה עַל־פְּנֵי כָּל־הָאָרֶץ :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Alle Menschen hatten die gleiche Sprache und gebrauchten die gleichen Worte. 2 Als sie von Osten aufbrachen, fanden sie eine Ebene im Land Schinar und siedelten sich dort an. 3 Sie sagten zueinander: Auf, formen wir Lehmziegel und brennen wir sie zu Backsteinen. So dienten ihnen gebrannte Ziegel als Steine und Erdpech als Mörtel. 4 Dann sagten sie: Auf, bauen wir uns eine Stadt und einen Turm mit einer Spitze bis zum Himmel und machen wir uns damit einen Namen, dann werden wir uns nicht über die ganze Erde zerstreuen. 5 Da stieg der Herr herab, um sich Stadt und Turm anzusehen, die die Menschenkinder bauten. 6 Er sprach: Seht nur, ein Volk sind sie und eine Sprache haben sie alle. Und das ist erst der Anfang ihres Tuns. Jetzt wird ihnen nichts mehr unerreichbar sein, was sie sich auch vornehmen. 7 Auf, steigen wir hinab und verwirren wir dort ihre Sprache, sodass keiner mehr die Sprache des anderen versteht. 8 Der Herr zerstreute sie von dort aus über die ganze Erde und sie hörten auf, an der Stadt zu bauen. 9 Darum nannte man die Stadt Babel [Wirrsal], denn dort hat der Herr die Sprache aller Welt verwirrt, und von dort aus hat er die Menschen über die ganze Erde zerstreut.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

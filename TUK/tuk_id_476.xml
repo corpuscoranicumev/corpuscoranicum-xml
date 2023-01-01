@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jesaja 34:1-8</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 445. Vgl. David Brady, "The Book of Revelation and the Qur'an: Is there a possible literary relationship?", Journal of Semitic Studies 23 (1978), S. 216-225.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>476</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina, Mesopotamien</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Anfertigung der Jesajarolle aus Qumran)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung (modifiziert)</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>021:104; 039:067</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die beiden Koranstellen sprechen davon, wie Gott am Tag des Jüngsten Gerichts den Himmel zusammenfaltet wie ein Schriftstück. Dieses Bild geht auf die hier zitierte Schilderung des Strafgerichts über Edom in Jesaja 34 zurück und wird später in der Offenbarung des Johannes 6:14 (TUK Nr. 0126) aufgegriffen, um das Hereinbrechen des Jüngsten Tages zu beschreiben.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	קִרְבוּ גוֹיִם לִשְׁמֹעַ וּלְאֻמִּים הַקְשִׁיבוּ תִּשְׁמַע הָאָרֶץ וּמְלֹאָהּ תֵּבֵל וְכָל־צֶאֱצָאֶיהָ : כִּי קֶצֶף לַיהוָה עַל־כָּל־הַגּוֹיִם וְחֵמָה עַל־כָּל־צְבָאָם הֶחֱרִימָם נְתָנָם לַטָּבַח : וְחַלְלֵיהֶם יֻשְׁלָכוּ וּפִגְרֵיהֶם יַעֲלֶה בָאְשָׁם וְנָמַסּוּ הָרִים מִדָּמָם : וְנָמַקּוּ כָּל־צְבָא הַשָּׁמַיִם <hi rendition="bold"> וְנָגֹלּוּ כַסֵּפֶר הַשָּׁמָיִם </hi> וְכָל־צְבָאָם יִבּוֹל כִּנְבֹל עָלֶה מִגֶּפֶן וּכְנֹבֶלֶת מִתְּאֵנָה : כִּי־רִוְּתָה בַשָּׁמַיִם חַרְבִּי הִנֵּה עַל־אֱדוֹם תֵּרֵד וְעַל־עַם חֶרְמִי לְמִשְׁפָּט : חֶרֶב לַיהוָה מָלְאָה דָם הֻדַּשְׁנָה מֵחֵלֶב מִדַּם כָּרִים וְעַתּוּדִים מֵחֵלֶב כִּלְיוֹת אֵילִים כִּי זֶבַח לַיהוָה בְּבָצְרָה וְטֶבַח גָּדוֹל בְּאֶרֶץ אֱדוֹם : וְיָרְדוּ רְאֵמִים עִמָּם וּפָרִים עִם־אַבִּירִים וְרִוְּתָה אַרְצָם מִדָּם וַעֲפָרָם מֵחֵלֶב יְדֻשָּׁן : כִּי יוֹם נָקָם לַיהוָה שְׁנַת שִׁלּוּמִים לְרִיב צִיּוֹן :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Kommt her, ihr Völker, und hört, / horcht auf, ihr Nationen! Die Erde und alles, was sie erfüllt, / die Welt und alles, was auf ihr sprosst, sollen es hören, 2 dass der Herr über alle Völker erzürnt ist, / dass er zornig ist auf all ihre Heere. Er hat sie dem Untergang geweiht / und zum Schlachtopfer bestimmt. 3 Die Erschlagenen wirft man hinaus, / der Gestank ihrer Leichen steigt auf,die Berge triefen von ihrem Blut, / 4 alle Heere des Himmels zerfließen. <hi rendition="bold">Wie eine Buchrolle rollt sich der Himmel zusammen,</hi> / sein ganzes Heer welkt dahin, wie Laub am Weinstock verwelkt, / wie Früchte am Feigenbaum schrumpfen. 5 Am Himmel erscheint das Schwert des Herrn. / Seht her, es fährt auf Edom herab, / auf das Volk, das der Herr im Gericht dem Untergang weiht. 6 Das Schwert des Herrn ist voll Blut, / es trieft von Fett, vom Blut der Lämmer und Böcke, / vom Nierenfett der Widder; denn der Herr hält in Bozra ein Opferfest ab, / ein großes Schlachtfest in Edom. 7 Da fallen die Büffel und Kälber, / die Stiere und Ochsen. Ihr Land wird betrunken vom Blut, / ihr Erdreich ist getränkt von Fett. 8 Denn der Herr hat einen Tag der Rache bestimmt, / ein Jahr der Vergeltung für den Streit um Zion.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

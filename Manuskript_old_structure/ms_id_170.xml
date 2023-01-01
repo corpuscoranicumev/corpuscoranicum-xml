@@ -1,0 +1,4369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Michael Marx</persName>
+                    <persName>Tobias J. Jocham</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Bei Déroche (Abbasid Tradition, S. 35) finden sich einige Hinweise auf Inschriften, die eine ähnliche Form der Buchstaben mim und ha belegen. Dies könnte sich für eine Datierung als nützlich erweisen.<lb/>
+                        <lb/> Referenzen:<lb/> Adolf Grohmann, Arabische Paläographie, Wien 1971, S. 79-80, Abb. 44<lb/> Miriam Rosen-Ayalon; M. Ben-Tor: The Early Arab Period in the Negev, Jerusalem o. Jahr, Inschrift Nr. 305<lb/> Bernard Moritz (Ed.), Arabic Palaeography. A Collection of Arabic Texts from the first Century of the Hidjra til the Year 1000, Kairo 1905, Tafel 13-16.</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Ägypten</country>
+                        <settlement>Kairo: Sayyida Zainab</settlement>
+                        <institution> zuvor Al-Hussein-Moschee</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>Auch unter der Bezeichnung "Muṣḥaf ʿUṯmān" bekannt.</idno>
+                        <altIdentifier>
+                            <idno>Kodex Sayyida Zainab</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="170">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Codex">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>570</height>
+                                        <width>680</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p>- keine kontinuierliche Verstrennung<lb/> - farbige Versgruppen-Trenner nach jeweils 10 Versen, offenbar mit Zählung<lb/> - zwischen den Suren farbige Ornamentbänder im <hi rendition="ar-Latn">clavii</hi>-Stil</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	http://www.islamic-awareness.org/Quran/Text/Mss/hussein.html<lb/>
+	B. Moritz (Ed.), Arabic Palaeography: A Collection Of Arabic Texts From The First Century Of The Hidjra Till The Year 1000, Kairo 1905, Pl. 13-16<lb/>
+	T. Altikulaç, Hz. Osman’a Nisbet Edilen Mushaf- I Şerîf (Kahire El-Meşhedü’l-Hüseynî Nüshası), 2009, Volumes I and II, Organization of the Islamic Conference Research Centre for Islamic History, Art and Culture: Istanbul (Turkey)
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <bibl>
+                    <bibl>114:000-114:006</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم</w>
+                    <w n="000000000">ٯل</w>
+                    <w n="000000000">اعود ٮرٮ</w>
+                    <w n="000000000">الٮاس</w>
+                    <w n="000000000">ملک الٮاس</w>
+                    <w n="000000000">اله</w>
+                    <w n="000000000">الٮاس</w>
+                    <w n="000000000">مں سر</w>
+                    <w n="000000000">الوسواس</w>
+                    <w n="000000000">الحٮا س</w>
+                    <w n="000000000">الدى</w>
+                    <w n="000000000">ٮوسوس ڡى</w>
+                    <w n="000000000">صدور</w>
+                    <w n="000000000">الٮاس؟ مں</w>
+                    <w n="000000000">الحٮه</w>
+                    <w n="000000000">والٮاس</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>113:000-113:005</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم</w>
+                    <w n="000000000">قل</w>
+                    <w n="000000000">اعود ٮرٮ</w>
+                    <w n="000000000">الڡلٯ مں</w>
+                    <w n="000000000">سر</w>
+                    <w n="000000000">ماحلٯ</w>
+                    <w n="000000000">ومن</w>
+                    <w n="000000000">سر</w>
+                    <w n="000000000">ا</w>
+                    <w n="000000000">عاسٯ</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">و ٯٮ</w>
+                    <w n="000000000">ومں سر</w>
+                    <w n="000000000">الٮڡٮٮ</w>
+                    <w n="000000000">ڡى العٯد</w>
+                    <w n="000000000">ومں</w>
+                    <w n="000000000">سر حاسد</w>
+                    <w n="000000000">اد</w>
+                    <w n="000000000">حسد</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>111:004-112:004</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">مرٮه</w>
+                    <w n="000000000">حماله</w>
+                    <w n="000000000">الحطٮ ڡى</w>
+                    <w n="000000000">حٮدها</w>
+                    <w n="000000000">حٮل</w>
+                    <w n="000000000">مں مسد ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں</w>
+                    <w n="000000000">الرحٮم ٯل</w>
+                    <w n="000000000">هو</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">احد الل‍ه</w>
+                    <w n="000000000">الصمد</w>
+                    <w n="000000000">لم</w>
+                    <w n="000000000">ٮلد</w>
+                    <w n="000000000">ولم</w>
+                    <w n="000000000">ٮو لد</w>
+                    <w n="000000000">ولم</w>
+                    <w n="000000000">ٮكں</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">كڡوا</w>
+                    <w n="000000000">احد</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>110:003-111:004</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ڡسٮح</w>
+                    <w n="000000000">ٮحمد</w>
+                    <w n="000000000">ر ٮک</w>
+                    <w n="000000000">واسٮعڡر ﻩ</w>
+                    <w n="000000000">اٮه</w>
+                    <w n="000000000">كاں</w>
+                    <w n="000000000">ٮوا ٮا ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#ٮٮٮ ٮدا</w>
+                    <w n="000000000">اٮى</w>
+                    <w n="000000000">لهٮ وٮٮ#</w>
+                    <w n="000000000">مااعٮى</w>
+                    <w n="000000000">عٮه ماله</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">كسٮ سٮصلى</w>
+                    <w n="000000000">ٮارا</w>
+                    <w n="000000000">دا ٮ</w>
+                    <w n="000000000">لهٮ</w>
+                    <w n="000000000">وا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>109:004-110:002</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">عٮد</w>
+                    <w n="000000000">ماعٮدٮم</w>
+                    <w n="000000000">ولا اٮٮم</w>
+                    <w n="000000000">عاٮدوں</w>
+                    <w n="000000000">ما اعٮد</w>
+                    <w n="000000000">لكم</w>
+                    <w n="000000000">د ٮٮكم</w>
+                    <w n="000000000">ولى</w>
+                    <w n="000000000">دٮں ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">حا</w>
+                    <w n="000000000">ٮصر</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">وا لڡٮح#</w>
+                    <w n="000000000">وراٮٮ</w>
+                    <w n="000000000">ا لٮاس</w>
+                    <w n="000000000">ٮدحلوں</w>
+                    <w n="000000000">ڡى دٮں</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">اڡواحا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>108:001-109:004</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">عطٮٮک الكوٮر</w>
+                    <w n="000000000">ڡصل</w>
+                    <w n="000000000">لر ٮک</w>
+                    <w n="000000000">واٮحر</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">سا ٮٮک</w>
+                    <w n="000000000">هو</w>
+                    <w n="000000000">الاٮٮر ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">لرحمں الرحٮم</w>
+                    <w n="000000000">ٯل</w>
+                    <w n="000000000">ٮاٮها الكاڡروں</w>
+                    <w n="000000000">لااعٮد ماٮعٮدوں</w>
+                    <w n="000000000">ولا</w>
+                    <w n="000000000">اٮٮم عٮدوں</w>
+                    <w n="000000000">مااعٮد</w>
+                    <w n="000000000">ولااٮا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>107:002-108:001</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الدى</w>
+                    <w n="000000000">ٮدع الٮٮٮم</w>
+                    <w n="000000000">ولاٮحض على</w>
+                    <w n="000000000">طعام</w>
+                    <w n="000000000">المسكٮں ڡوٮل</w>
+                    <w n="000000000">للمصلٮں</w>
+                    <w n="000000000">الدٮن هم</w>
+                    <w n="000000000">عں</w>
+                    <w n="000000000">صلاٮهم ساهوں</w>
+                    <w n="000000000">الد ٮں</w>
+                    <w n="000000000">هم</w>
+                    <w n="000000000">ٮراوں</w>
+                    <w n="000000000">و؟ ٮمٮعوں</w>
+                    <w n="000000000">الماعون ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">اٮا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>106:002-107:002</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">لسٮا</w>
+                    <w n="000000000">والصٮڡ ڡلٮعٮدوا</w>
+                    <w n="000000000">رٮ هدا</w>
+                    <w n="000000000">الٮٮٮ#</w>
+                    <w n="000000000">ا لدى</w>
+                    <w n="000000000">اطعمهم مں</w>
+                    <w n="000000000">حوع</w>
+                    <w n="000000000">وامٮهم من</w>
+                    <w n="000000000">حوف# ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمن الرحٮم#</w>
+                    <w n="000000000">ارٮٮ الدى</w>
+                    <w n="000000000">ٮكدٮ ٮالدٮں#</w>
+                    <w n="000000000">ڡدلک</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>105:002-106:002</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">كٮدهم</w>
+                    <w n="000000000">ڡى ٮصلٮل#</w>
+                    <w n="000000000">وارسل</w>
+                    <w n="000000000">علٮهم</w>
+                    <w n="000000000">طٮرا</w>
+                    <w n="000000000">ا ٮاٮٮل#</w>
+                    <w n="000000000">ٮرمٮهم</w>
+                    <w n="000000000">ٮححر ﻩ</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">سحٮل#</w>
+                    <w n="000000000">ڡحعلهم كعصڡ ماكول# ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">لاٮلڡ ٯرٮس</w>
+                    <w n="000000000">الڡهم</w>
+                    <w n="000000000">رحله</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>104:006-105:002</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الموٯده</w>
+                    <w n="000000000">ا لٮى</w>
+                    <w n="000000000">ٮطلع</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">الا ڡده</w>
+                    <w n="000000000">اٮها</w>
+                    <w n="000000000">علٮهم موصده#</w>
+                    <w n="000000000">ڡى عمد</w>
+                    <w n="000000000">ممدده# ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمن الرحٮم#</w>
+                    <w n="000000000">الم</w>
+                    <w n="000000000">ٮر؟ كٮڡ</w>
+                    <w n="000000000">ڡعل</w>
+                    <w n="000000000">ر ٮک</w>
+                    <w n="000000000">ٮاصحٮ</w>
+                    <w n="000000000">ا لڡٮل#</w>
+                    <w n="000000000">الم</w>
+                    <w n="000000000">ٮحعل</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>103:003-104:006</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮالصٮر بسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">وٮل</w>
+                    <w n="000000000">لكل همره</w>
+                    <w n="000000000">لمره</w>
+                    <w n="000000000">الدى حمع</w>
+                    <w n="000000000">مالا</w>
+                    <w n="000000000">وعدد ﻩ</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">ٮحسٮ</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ماله</w>
+                    <w n="000000000">ا حلده#</w>
+                    <w n="000000000">كلا</w>
+                    <w n="000000000">لٮٮٮد</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الحطمه وما</w>
+                    <w n="000000000">ادرٮک ما</w>
+                    <w n="000000000">الحطمه#</w>
+                    <w n="000000000">ٮار</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>102:007-103:003</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">لٮروٮها</w>
+                    <w n="000000000">عٮںَ</w>
+                    <w n="000000000">الٮٯٮں</w>
+                    <w n="000000000">ا ٮم</w>
+                    <w n="000000000">لٮسلن</w>
+                    <w n="000000000">ٮومٮدعن</w>
+                    <w n="000000000">ا لٮعٮم# ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">والعصر اں</w>
+                    <w n="000000000">الاٮسں</w>
+                    <w n="000000000">لڡى حسر#</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">الدٮں امٮوا</w>
+                    <w n="000000000">وعملوا الصلحت</w>
+                    <w n="000000000">وٮو صوا</w>
+                    <w n="000000000">ٮالحٯ# وٮوصوا</w>
+                    <w n="000000000">؟</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>101:010-102:006</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">هٮه</w>
+                    <w n="000000000">ٮار</w>
+                    <w n="000000000">حامٮه ٮِسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">الهٮکم الٮکٮر#</w>
+                    <w n="000000000">حٮا</w>
+                    <w n="000000000">رر ٮم</w>
+                    <w n="000000000">المٯٮر#</w>
+                    <w n="000000000">كلا سوڡ</w>
+                    <w n="000000000">ٮعلموں# ٮم</w>
+                    <w n="000000000">كلا</w>
+                    <w n="000000000">سوڡَ ٮعلموں#</w>
+                    <w n="000000000">كلا</w>
+                    <w n="000000000">لو ٮعلموں</w>
+                    <w n="000000000">علم</w>
+                    <w n="000000000">الٮٯٮں لٮروں</w>
+                    <w n="000000000">الححٮم؟</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>101:002-101:010</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">القرعه#</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">اد درٮک</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">الٯرعه#</w>
+                    <w n="000000000">ٮو م</w>
+                    <w n="000000000">ٮكوں</w>
+                    <w n="000000000">الناس</w>
+                    <w n="000000000">كا الڡراس</w>
+                    <w n="000000000">المٮٮوٮ وٮكوں</w>
+                    <w n="000000000">الحٮال كالعهن</w>
+                    <w n="000000000">المٮڡوش فاما</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮٯلٮ</w>
+                    <w n="000000000">مورٮٮه ڡهو</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">عٮسه</w>
+                    <w n="000000000">ر صٮه#</w>
+                    <w n="000000000">واما</w>
+                    <w n="000000000">من؟ حڡٮ</w>
+                    <w n="000000000">مورٮٮه</w>
+                    <w n="000000000">ڡا مه</w>
+                    <w n="000000000">هوٮه#</w>
+                    <w n="000000000">وما ادرٮک</w>
+                    <w n="000000000">ما</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>100:006-101:001</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">الاٮسں</w>
+                    <w n="000000000">لرٮه</w>
+                    <w n="000000000">لكٮو د#</w>
+                    <w n="000000000">واٮه</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">د لک</w>
+                    <w n="000000000">لسهٮد#</w>
+                    <w n="000000000">واٮه؟ لحٮ</w>
+                    <w n="000000000">الحٮر</w>
+                    <w n="000000000">لسدٮد# اڡلا</w>
+                    <w n="000000000">ٮعلم</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">ٮعٮر</w>
+                    <w n="000000000">ماڡى</w>
+                    <w n="000000000">الٯٮور وحصل</w>
+                    <w n="000000000">ماڡى</w>
+                    <w n="000000000">الصد ور</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">رٮهم</w>
+                    <w n="000000000">ٮهم</w>
+                    <w n="000000000">ٮو مٮد</w>
+                    <w n="000000000">لحٮٮر ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمن</w>
+                    <w n="000000000">الرحٮمں#المرعه</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>099:007-100:005</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">مٮٯل</w>
+                    <w n="000000000">دره</w>
+                    <w n="000000000">حٮرا ٮره</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">ومن</w>
+                    <w n="000000000">ٮعمل</w>
+                    <w n="000000000">مٮٯل دره</w>
+                    <w n="000000000">سر</w>
+                    <w n="000000000">ٮره# ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمن الرحٮم#</w>
+                    <w n="000000000">وا؟ لعدٮٮ</w>
+                    <w n="000000000">صٮحا# فا</w>
+                    <w n="000000000">لمورٮٮ</w>
+                    <w n="000000000">ٯدحا# ڡالمعٮرٮ</w>
+                    <w n="000000000">صٮحا# ڡاٮرں</w>
+                    <w n="000000000">ٮه</w>
+                    <w n="000000000">ٮڡعا#</w>
+                    <w n="000000000">ڡو؟</w>
+                    <w n="000000000">سطں</w>
+                    <w n="000000000">ٮه</w>
+                    <w n="000000000">حمعا#</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>099:000-099:007</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">ادا رلرلٮ</w>
+                    <w n="000000000">الارص رلرلها#</w>
+                    <w n="000000000">واحرحٮ الارص</w>
+                    <w n="000000000">اثٯلها# وٯال</w>
+                    <w n="000000000">الاٮسں</w>
+                    <w n="000000000">مالها ٮومٮد</w>
+                    <w n="000000000">ٮحدٮ</w>
+                    <w n="000000000">ا حٮرها#</w>
+                    <w n="000000000">ٮاں</w>
+                    <w n="000000000">رٮک اوحى</w>
+                    <w n="000000000">لها#</w>
+                    <w n="000000000">ٮومٮد ٮصدر</w>
+                    <w n="000000000">الٮاس</w>
+                    <w n="000000000">ا سٮٮا#</w>
+                    <w n="000000000">لٮروا</w>
+                    <w n="000000000">ا؟ عملهم#</w>
+                    <w n="000000000">فمں</w>
+                    <w n="000000000">ٮعمل</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>098:006-098:008</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">سر</w>
+                    <w n="000000000">الٮرٮه#ان</w>
+                    <w n="000000000">الذ ٮں</w>
+                    <w n="000000000">امنوا</w>
+                    <w n="000000000">وعملو ا</w>
+                    <w n="000000000">الصلحٮ</w>
+                    <w n="000000000">او لٮک</w>
+                    <w n="000000000">هم</w>
+                    <w n="000000000">حٮر</w>
+                    <w n="000000000">الٮرٮه# حراوهم</w>
+                    <w n="000000000">عٮد</w>
+                    <w n="000000000">رٮِهم حناٮ</w>
+                    <w n="000000000">عدں؟ ٮحرى</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">ٮحٮها</w>
+                    <w n="000000000">ا لانهر</w>
+                    <w n="000000000">حلدٮں</w>
+                    <w n="000000000">فٮها</w>
+                    <w n="000000000">اٮد</w>
+                    <w n="000000000">ا</w>
+                    <w n="000000000">رصى</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">عٮهم ورصوا</w>
+                    <w n="000000000">عٮه</w>
+                    <w n="000000000">ذ لک</w>
+                    <w n="000000000">لمں</w>
+                    <w n="000000000">حشى</w>
+                    <w n="000000000">رٮه#</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>098:004-098:006</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الٮٮٮه#</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">امروا الا</w>
+                    <w n="000000000">لٮعٮدوا</w>
+                    <w n="000000000">الل‍ه محلصٮں</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">الدٮں حنفا</w>
+                    <w n="000000000">وٮٯٮموا</w>
+                    <w n="000000000">ا لصلوه</w>
+                    <w n="000000000">وٮوٮو</w>
+                    <w n="000000000">ا الركوه</w>
+                    <w n="000000000">ود لک</w>
+                    <w n="000000000">دٮں</w>
+                    <w n="000000000">الٯٮمه# اں</w>
+                    <w n="000000000">الدٮںَ</w>
+                    <w n="000000000">كڡر وا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">اهل</w>
+                    <w n="000000000">الكٮٮ والمسركٮںَ</w>
+                    <w n="000000000">ڡى نار</w>
+                    <w n="000000000">حهٮم</w>
+                    <w n="000000000">حلدٮں ڡٮها</w>
+                    <w n="000000000">اولٮک</w>
+                    <w n="000000000">هم</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>098:000-098:004</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمن الرحٮم#</w>
+                    <w n="000000000">لم</w>
+                    <w n="000000000">ٮكں الدٮں</w>
+                    <w n="000000000">كڡروا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">اهل</w>
+                    <w n="000000000">الكٮٮ والمسركٮن</w>
+                    <w n="000000000">مٮڡكٮںَ حٮا</w>
+                    <w n="000000000">ٮاٮٮهم</w>
+                    <w n="000000000">الٮٮٮه#</w>
+                    <w n="000000000">ر سول</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">ٮٮلوا صحڡا</w>
+                    <w n="000000000">مطهره# فٮها</w>
+                    <w n="000000000">كٮٮ</w>
+                    <w n="000000000">ٯٮمه# وما</w>
+                    <w n="000000000">ٮڡرٯ</w>
+                    <w n="000000000">الدٮں</w>
+                    <w n="000000000">ا وٮوا</w>
+                    <w n="000000000">الكٮٮ</w>
+                    <w n="000000000">ا لا</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">بعد</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">حاٮهم؟</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>097:000-097:005</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">اٮا</w>
+                    <w n="000000000">اٮر لٮه</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">لٮله</w>
+                    <w n="000000000">الٯد ر</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">ادرٮک ما</w>
+                    <w n="000000000">لٮله</w>
+                    <w n="000000000">الٯدر#</w>
+                    <w n="000000000">لٮله</w>
+                    <w n="000000000">الٯدر</w>
+                    <w n="000000000">حٮر</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ا لڡ</w>
+                    <w n="000000000">سهر#ٮٮرل</w>
+                    <w n="000000000">ا لملٮكه</w>
+                    <w n="000000000">والروح فٮها</w>
+                    <w n="000000000">ٮِاذں</w>
+                    <w n="000000000">رٮهم</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">كل</w>
+                    <w n="000000000">امر</w>
+                    <w n="000000000">سلم</w>
+                    <w n="000000000">هى حٮا</w>
+                    <w n="000000000">مطلع</w>
+                    <w n="000000000">الڡحر#</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>096:012-096:019</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">لٮٯوى#</w>
+                    <w n="000000000">ارٮٮ</w>
+                    <w n="000000000">اں كدٮ</w>
+                    <w n="000000000">وٮولى# الم</w>
+                    <w n="000000000">ٮعلم</w>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">ٮر ى#</w>
+                    <w n="000000000">كلا</w>
+                    <w n="000000000">لٮں</w>
+                    <w n="000000000">لم</w>
+                    <w n="000000000">ٮٮٮه لٮسڡعا</w>
+                    <w n="000000000">ٮِالنصٮه</w>
+                    <w n="000000000">ٮَصٮه كدٮه</w>
+                    <w n="000000000">خطٮه# ڡلٮدع</w>
+                    <w n="000000000">ٮادٮه#؟ سٮدع</w>
+                    <w n="000000000">الرٮٮٮه# كلا</w>
+                    <w n="000000000">لاٮطعه</w>
+                    <w n="000000000">و اسحد</w>
+                    <w n="000000000">واٯٮرٮ</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>096:003-096:012</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الاكرم#</w>
+                    <w n="000000000">الد ى</w>
+                    <w n="000000000">علم</w>
+                    <w n="000000000">ٮالٯلم#</w>
+                    <w n="000000000">علم الاٮسں</w>
+                    <w n="000000000">مالم</w>
+                    <w n="000000000">ٮعلم# كلا</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">الاٮسں؟ لٮطعى#</w>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">راه اسٮعٮى#</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">الى؟ رٮک</w>
+                    <w n="000000000">الرحعى# ارٮٮ</w>
+                    <w n="000000000">الدى ٮٮهى</w>
+                    <w n="000000000">عٮدا</w>
+                    <w n="000000000">اد ا</w>
+                    <w n="000000000">صلى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">ارٮٮ ان</w>
+                    <w n="000000000">كان</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">الهد؟ ى#</w>
+                    <w n="000000000">وامر</w>
+                    <w n="000000000">ٮا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>095:006-096:003</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">وعملواالصلحٮ ڡلهم</w>
+                    <w n="000000000">احر</w>
+                    <w n="000000000">عير</w>
+                    <w n="000000000">ممٮو ن#</w>
+                    <w n="000000000">ڡما</w>
+                    <w n="000000000">ٮكدبک ٮعد</w>
+                    <w n="000000000">ٮالدٮں#</w>
+                    <w n="000000000">الٮس الل‍ه</w>
+                    <w n="000000000">ٮاحكم</w>
+                    <w n="000000000">الحكمٮں# ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">اٯرا</w>
+                    <w n="000000000">ٮا سم</w>
+                    <w n="000000000">رٮک</w>
+                    <w n="000000000">الدى</w>
+                    <w n="000000000">حلٯ</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">حلٯ</w>
+                    <w n="000000000">الاٮسں</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">علٯ اٯرا</w>
+                    <w n="000000000">ورٮک</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>094:008-095:006</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">والى</w>
+                    <w n="000000000">رٮک</w>
+                    <w n="000000000">ڡارعٮ ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمن الرحٮم#</w>
+                    <w n="000000000">والٮٮں والرٮٮوں#</w>
+                    <w n="000000000">وطو ر</w>
+                    <w n="000000000">سٮٮٮں#</w>
+                    <w n="000000000">وهدا الٮلد</w>
+                    <w n="000000000">الامٮں#</w>
+                    <w n="000000000">لٯد حلٯٮا</w>
+                    <w n="000000000">الاٮسں</w>
+                    <w n="000000000">ڡى احسن</w>
+                    <w n="000000000">ٮٯوٮم#</w>
+                    <w n="000000000">ثمَ</w>
+                    <w n="000000000">رد دٮه</w>
+                    <w n="000000000">اسڡل</w>
+                    <w n="000000000">سڡلٮں# الاادٮں</w>
+                    <w n="000000000">امٮوا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>094:000-094:007</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">الم</w>
+                    <w n="000000000">ٮسر ح</w>
+                    <w n="000000000">لک</w>
+                    <w n="000000000">صدرک ووصعٮا</w>
+                    <w n="000000000">عنک</w>
+                    <w n="000000000">وررک</w>
+                    <w n="000000000">الدى اٮٯص</w>
+                    <w n="000000000">طهرک ورڡعٮا</w>
+                    <w n="000000000">لک</w>
+                    <w n="000000000">د كرک#</w>
+                    <w n="000000000">ڡاں</w>
+                    <w n="000000000">مع العسر</w>
+                    <w n="000000000">ٮسرا</w>
+                    <w n="000000000">اں مع</w>
+                    <w n="000000000">العسر</w>
+                    <w n="000000000">يسرا</w>
+                    <w n="000000000">ڡا دا</w>
+                    <w n="000000000">ڡرعٮ ڡاٮصٮ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>093:003-093:011</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">رٮک</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">ٯلى#</w>
+                    <w n="000000000">وللاحر ﻩ</w>
+                    <w n="000000000">حٮر</w>
+                    <w n="000000000">لک</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">الاولى# ولسوڡ</w>
+                    <w n="000000000">ٮعطٮک</w>
+                    <w n="000000000">رٮک</w>
+                    <w n="000000000">ڡٮرصى#</w>
+                    <w n="000000000">الم ٮحدک</w>
+                    <w n="000000000">ٮٮٮما</w>
+                    <w n="000000000">ڡاوى# ووحدک</w>
+                    <w n="000000000">صلا ڡَهدى#</w>
+                    <w n="000000000">ووحد کَ</w>
+                    <w n="000000000">عٮلا</w>
+                    <w n="000000000">ڡاعٮى#</w>
+                    <w n="000000000">ڡاما الٮٮٮم</w>
+                    <w n="000000000">ڡلا</w>
+                    <w n="000000000">ٮٯهر</w>
+                    <w n="000000000">واما الساٮل</w>
+                    <w n="000000000">ڡلا</w>
+                    <w n="000000000">ٮٮهر</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">و اما</w>
+                    <w n="000000000">ٮٮعمه</w>
+                    <w n="000000000">رٮک</w>
+                    <w n="000000000">ڡحدٮ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>092:018-093:003</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الدى</w>
+                    <w n="000000000">ٮوٮى</w>
+                    <w n="000000000">ماله ٮٮركى#</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">لاحد عٮده</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮعمه</w>
+                    <w n="000000000">ٮحرى الااٮٮعا</w>
+                    <w n="000000000">وحه</w>
+                    <w n="000000000">رٮه</w>
+                    <w n="000000000">الاعلى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">ولسوڡ يرصى# ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">وا؟ لصحى</w>
+                    <w n="000000000">والٮل</w>
+                    <w n="000000000">اد ا</w>
+                    <w n="000000000">سحى#</w>
+                    <w n="000000000">ماودعک</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>092:008-092:017</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">واما</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮحل</w>
+                    <w n="000000000">واٮعٮى# وكدٮ</w>
+                    <w n="000000000">ٮالحسٮى# ڡسٮٮسره</w>
+                    <w n="000000000">للعسرى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وما</w>
+                    <w n="000000000">ٮعٮى</w>
+                    <w n="000000000">عٮه</w>
+                    <w n="000000000">ماله</w>
+                    <w n="000000000">اد ا</w>
+                    <w n="000000000">ٮركى#</w>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">علٮٮا للهدى#</w>
+                    <w n="000000000">واں</w>
+                    <w n="000000000">لٮا الاحره</w>
+                    <w n="000000000">والاولى ڡاٮدرٮكم</w>
+                    <w n="000000000">ٮارا ٮلصى#</w>
+                    <w n="000000000">لا</w>
+                    <w n="000000000">ٮصلٮها الا</w>
+                    <w n="000000000">الاسٯى#</w>
+                    <w n="000000000">الد ى</w>
+                    <w n="000000000">كدٮ</w>
+                    <w n="000000000">وٮو لى#</w>
+                    <w n="000000000">وسٮحٮٮها</w>
+                    <w n="000000000">الاٮٯى</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>091:015-092:007</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮحاڡ</w>
+                    <w n="000000000">عٯٮها# ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">والٮل</w>
+                    <w n="000000000">ا ذا</w>
+                    <w n="000000000">ٮعسى#</w>
+                    <w n="000000000">والٮها ر</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">ٮحلى#</w>
+                    <w n="000000000">وما حلٯ</w>
+                    <w n="000000000">الدكر</w>
+                    <w n="000000000">والا ٮٮى</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">سعٮكم</w>
+                    <w n="000000000">لسٮى# ڡامى</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">اعطى</w>
+                    <w n="000000000">وا ٮٯى#</w>
+                    <w n="000000000">وصدٯ</w>
+                    <w n="000000000">ٮا لحسٮى#</w>
+                    <w n="000000000">ڡسٮٮسره</w>
+                    <w n="000000000">للٮسرى#</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>091:007-091:015</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">سوٮها#</w>
+                    <w n="000000000">فالهمها</w>
+                    <w n="000000000">ڡحور ها</w>
+                    <w n="000000000">وٮٯوٮها#</w>
+                    <w n="000000000">ٯد</w>
+                    <w n="000000000">اڡلح</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">ركٮها#</w>
+                    <w n="000000000">وٯدحا ٮ</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">دسٮها</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">كد ٮٮ</w>
+                    <w n="000000000">ٮمود</w>
+                    <w n="000000000">ٮطعو ٮها</w>
+                    <w n="000000000">اد</w>
+                    <w n="000000000">اٮٮعٮ</w>
+                    <w n="000000000">ا شٯٮها#</w>
+                    <w n="000000000">ڡٯال</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">ر؟</w>
+                    <w n="000000000">سول</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">ناٯه</w>
+                    <w n="000000000">الل‍ه وسٯٮها#</w>
+                    <w n="000000000">ڡكد بوه</w>
+                    <w n="000000000">ڡعٯروها</w>
+                    <w n="000000000">ڡد مدم</w>
+                    <w n="000000000">علٮهم</w>
+                    <w n="000000000">رٮهم ٮد؟ٮهم</w>
+                    <w n="000000000">ڡسوٮها</w>
+                    <w n="000000000">ولا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>090:020-091:007</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮار</w>
+                    <w n="000000000">موصده</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمن الرحٮم#</w>
+                    <w n="000000000">والسمس وضحٮها</w>
+                    <w n="000000000">والٯمر</w>
+                    <w n="000000000">ا دا</w>
+                    <w n="000000000">ٮلٮها</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">والٮها ر</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">حلٮها</w>
+                    <w n="000000000">و الٮل</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">ٮعسٮها# والسما</w>
+                    <w n="000000000">وماٮٮٮها# والارص</w>
+                    <w n="000000000">وما طحٮها#</w>
+                    <w n="000000000">وٮڡس</w>
+                    <w n="000000000">وما</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>090:014-090:020</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">او</w>
+                    <w n="000000000">اطعم</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">ٮو م</w>
+                    <w n="000000000">دى</w>
+                    <w n="000000000">مسعٮه# ٮٮٮما</w>
+                    <w n="000000000">دا</w>
+                    <w n="000000000">مٯرٮه</w>
+                    <w n="000000000">ا و</w>
+                    <w n="000000000">مسكٮٮا</w>
+                    <w n="000000000">ذا</w>
+                    <w n="000000000">متر ٮه#</w>
+                    <w n="000000000">ٮم</w>
+                    <w n="000000000">كان</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">الد ٮن</w>
+                    <w n="000000000">امٮوا</w>
+                    <w n="000000000">وٮوصو اٮالصٮر</w>
+                    <w n="000000000">وٮواصو اٮالمرحمه#</w>
+                    <w n="000000000">اولٮک</w>
+                    <w n="000000000">اصحٮ</w>
+                    <w n="000000000">المٮمٮه# والدٮں</w>
+                    <w n="000000000">كڡروا ٮاٮٮٮا</w>
+                    <w n="000000000">هم</w>
+                    <w n="000000000">اصحٮ المشٮمه#</w>
+                    <w n="000000000">علٮهم</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>090:003-090:013</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">ولد#</w>
+                    <w n="000000000">لٯد</w>
+                    <w n="000000000">حلٯنا الاٮسں</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">كٮَد# اٮحسٮ</w>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">لں</w>
+                    <w n="000000000">ٮٯد ر</w>
+                    <w n="000000000">علٮه</w>
+                    <w n="000000000">احد#ٮٯول</w>
+                    <w n="000000000">ا هلكت</w>
+                    <w n="000000000">مالا</w>
+                    <w n="000000000">لٮدا# اٮحسٮ</w>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">لم</w>
+                    <w n="000000000">ٮره</w>
+                    <w n="000000000">ا حد#</w>
+                    <w n="000000000">الم</w>
+                    <w n="000000000">ٮحعل</w>
+                    <w n="000000000">له؟ عٮٮٮں</w>
+                    <w n="000000000">ولسٮا</w>
+                    <w n="000000000">وسڡٮٮں# وهدٮٮه</w>
+                    <w n="000000000">الٮحدٮں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡلا</w>
+                    <w n="000000000">اٯٮحم</w>
+                    <w n="000000000">العٯٮه# وماادرٮک</w>
+                    <w n="000000000">ما العٯٮه#</w>
+                    <w n="000000000">ڡک</w>
+                    <w n="000000000">رٯٮه</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>089:027-090:003</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮاٮٮها</w>
+                    <w n="000000000">الٮڡس</w>
+                    <w n="000000000">المطمٮٮه ارحعى</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">ربک راصٮه</w>
+                    <w n="000000000">مرضٮه ڡادحلى</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">عٮا دى</w>
+                    <w n="000000000">وادحلى</w>
+                    <w n="000000000">حٮٮى ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">لااٯسم ٮهدا</w>
+                    <w n="000000000">الٮلد واٮٮ</w>
+                    <w n="000000000">حل</w>
+                    <w n="000000000">ٮهدا الٮلد</w>
+                    <w n="000000000">وولد</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>089:021-089:026</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">دكت</w>
+                    <w n="000000000">الارص</w>
+                    <w n="000000000">دكا دكا#</w>
+                    <w n="000000000">حا</w>
+                    <w n="000000000">رٮک والملک</w>
+                    <w n="000000000">صفا صفا#</w>
+                    <w n="000000000">وحاى ٮومٮد</w>
+                    <w n="000000000">ٮحهٮم</w>
+                    <w n="000000000">ٮومٮد ٮٮدكر</w>
+                    <w n="000000000">الاٮسں</w>
+                    <w n="000000000">و اٮى</w>
+                    <w n="000000000">لهالدكرى# ٮٯول</w>
+                    <w n="000000000">ٮلٮٮٮى</w>
+                    <w n="000000000">ٯدمٮ</w>
+                    <w n="000000000">لحٮٮى#</w>
+                    <w n="000000000">ڡٮومٮد</w>
+                    <w n="000000000">لاٮعد ٮ</w>
+                    <w n="000000000">عداٮه</w>
+                    <w n="000000000">احد# ولاٮٮٯ</w>
+                    <w n="000000000">وٮٯه</w>
+                    <w n="000000000">احد#</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>089:015-089:021</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">وٮعمه</w>
+                    <w n="000000000">ڡٮٯول</w>
+                    <w n="000000000">رٮى اكرمں</w>
+                    <w n="000000000">واما</w>
+                    <w n="000000000">ا دا</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">اٮٮلٮه</w>
+                    <w n="000000000">ڡٯدر</w>
+                    <w n="000000000">علٮه</w>
+                    <w n="000000000">ررٯه؟ ڡٮٯول</w>
+                    <w n="000000000">رٮى</w>
+                    <w n="000000000">اهٮں كلا</w>
+                    <w n="000000000">بل</w>
+                    <w n="000000000">لاٮكرمو ں</w>
+                    <w n="000000000">الٮٮٮم</w>
+                    <w n="000000000">ولاٮحصو ں</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">طعام</w>
+                    <w n="000000000">ا المسكٮں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">وٮاكلو ں</w>
+                    <w n="000000000">الٮراٮ</w>
+                    <w n="000000000">اكلا لما</w>
+                    <w n="000000000">وٮحٮوں</w>
+                    <w n="000000000">الما ل</w>
+                    <w n="000000000">حبا</w>
+                    <w n="000000000">حما#</w>
+                    <w n="000000000">ک</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>089:009-089:015</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الدٮن</w>
+                    <w n="000000000">حاٮوا</w>
+                    <w n="000000000">ا؟ لصحر</w>
+                    <w n="000000000">ٮالواد</w>
+                    <w n="000000000">#و ڡرعون</w>
+                    <w n="000000000">دى</w>
+                    <w n="000000000">ا الاوٮد</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">الدٮں طعوا</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الٮلد #فاكٮروا</w>
+                    <w n="000000000">فٮها</w>
+                    <w n="000000000">ا لفساد#</w>
+                    <w n="000000000">ڡصب علٮهم</w>
+                    <w n="000000000">رٮک</w>
+                    <w n="000000000">سوط عداب</w>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">ر؟ ٮک</w>
+                    <w n="000000000">لٮالمرصد#</w>
+                    <w n="000000000">فا ما</w>
+                    <w n="000000000">الاٮسن</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">ا ٮٮلٮه</w>
+                    <w n="000000000">رٮه</w>
+                    <w n="000000000">ڡاكرمه</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>089:000-089:009</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">والڡحر#</w>
+                    <w n="000000000">و لٮل</w>
+                    <w n="000000000">عسر</w>
+                    <w n="000000000">والسڡع والوٮر#والٮل</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">ٮسر#</w>
+                    <w n="000000000">هل</w>
+                    <w n="000000000">ڡى دلک</w>
+                    <w n="000000000">ٯسملدى</w>
+                    <w n="000000000">ححر#الم</w>
+                    <w n="000000000">ٮر</w>
+                    <w n="000000000">كٮڡ ڡعل</w>
+                    <w n="000000000">رٮک</w>
+                    <w n="000000000">ٮعاد ارم</w>
+                    <w n="000000000">داٮ</w>
+                    <w n="000000000">ا لعماد</w>
+                    <w n="000000000">#الٮى</w>
+                    <w n="000000000">لم</w>
+                    <w n="000000000">ٮحلٯ</w>
+                    <w n="000000000">مٮلها</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الٮلاد</w>
+                    <w n="000000000">وٮمود</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>088:019-088:026</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮصٮٮ#</w>
+                    <w n="000000000">واللا رص</w>
+                    <w n="000000000">كٮڡ</w>
+                    <w n="000000000">سطحت</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡدكر</w>
+                    <w n="000000000">اٮما</w>
+                    <w n="000000000">اٮٮ مذكر</w>
+                    <w n="000000000">لسٮَ</w>
+                    <w n="000000000">علٮهم ٮمصٮطر</w>
+                    <w n="000000000">ا لا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮولى</w>
+                    <w n="000000000">وكفر ڡٮعدٮه</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">العذ اٮ</w>
+                    <w n="000000000">الاكٮر اں</w>
+                    <w n="000000000">الٮٮا</w>
+                    <w n="000000000">اٮٮهم</w>
+                    <w n="000000000">ٮم ان</w>
+                    <w n="000000000">علٮٮا</w>
+                    <w n="000000000">حساٮهم</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>088:010-088:019</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">عالٮه#</w>
+                    <w n="000000000">لاٮسمع</w>
+                    <w n="000000000">ڡٮها لعٮه</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ڡٮها</w>
+                    <w n="000000000">عٮں</w>
+                    <w n="000000000">حارٮه فٮها</w>
+                    <w n="000000000">سرر</w>
+                    <w n="000000000">مرڡوعه# واكوٮ</w>
+                    <w n="000000000">مو صوعه</w>
+                    <w n="000000000">وٮمرٯ؟ مصڡوڡه#</w>
+                    <w n="000000000">وررٮى مٮثوٮه#</w>
+                    <w n="000000000">اڡلا</w>
+                    <w n="000000000">ٮٮطر وں</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">الاٮل</w>
+                    <w n="000000000">كٮڡَ</w>
+                    <w n="000000000">حلٯٮ</w>
+                    <w n="000000000">و الى</w>
+                    <w n="000000000">السما</w>
+                    <w n="000000000">كٮڡ رڡعت#</w>
+                    <w n="000000000">والى الحِٮال</w>
+                    <w n="000000000">كٮڡ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>088:000-088:010</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">هل</w>
+                    <w n="000000000">اٮٮک حدٮث</w>
+                    <w n="000000000">العسٮه# وحوه</w>
+                    <w n="000000000">ٮومٮدحسعه# عمِله</w>
+                    <w n="000000000">نصبه</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">ٮصلى</w>
+                    <w n="000000000">ٮار</w>
+                    <w n="000000000">ا</w>
+                    <w n="000000000">حامٮه#ٮسٯى</w>
+                    <w n="000000000">من عٮں</w>
+                    <w n="000000000">اٮٮه#</w>
+                    <w n="000000000">لٮس</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">طعا</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">صرٮع</w>
+                    <w n="000000000">لا ٮسمں</w>
+                    <w n="000000000">ولاٮعٮى</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">حو ع#</w>
+                    <w n="000000000">وحوه</w>
+                    <w n="000000000">ٮومٮد نعمه#</w>
+                    <w n="000000000">لسعٮها</w>
+                    <w n="000000000">را؟ صٮه#</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">جٮه</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>087:012-087:019</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮصلى</w>
+                    <w n="000000000">الٮار</w>
+                    <w n="000000000">الكٮر ى#ٮم</w>
+                    <w n="000000000">لاٮموت</w>
+                    <w n="000000000">فٮها</w>
+                    <w n="000000000">ولا</w>
+                    <w n="000000000">ٮحٮى</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">ٯد</w>
+                    <w n="000000000">اڡلح</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">تركى#</w>
+                    <w n="000000000">ودكر</w>
+                    <w n="000000000">اسم</w>
+                    <w n="000000000">رٮه</w>
+                    <w n="000000000">ڡصلى#</w>
+                    <w n="000000000">بل توٮروں</w>
+                    <w n="000000000">الحٮوﻩ</w>
+                    <w n="000000000">الد ٮٮا</w>
+                    <w n="000000000">والاحره</w>
+                    <w n="000000000">حٮر</w>
+                    <w n="000000000">واٮٯى</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">هدا لڡى</w>
+                    <w n="000000000">الصحڡ</w>
+                    <w n="000000000">الا ولى</w>
+                    <w n="000000000">صحڡ</w>
+                    <w n="000000000">اٮرهٮم</w>
+                    <w n="000000000">و موسى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>087:002-087:012</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">حلٯ</w>
+                    <w n="000000000">ڡسوى#</w>
+                    <w n="000000000">والدى ٯدر</w>
+                    <w n="000000000">ڡهدى#</w>
+                    <w n="000000000">وا لدى</w>
+                    <w n="000000000">احرح</w>
+                    <w n="000000000">المر عى</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">فحعله</w>
+                    <w n="000000000">عثا</w>
+                    <w n="000000000">احوى# سٮٯرٮک</w>
+                    <w n="000000000">ڡلا</w>
+                    <w n="000000000">ٮٮسى# الا</w>
+                    <w n="000000000">ماسا</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">اٮه؟ ٮعلم</w>
+                    <w n="000000000">الحهر</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">ٮحڡى# وٮٮسرک</w>
+                    <w n="000000000">للٮسرى# فدكر</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ٮڡعٮ الدكرى#</w>
+                    <w n="000000000">سٮد كر</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">ٮحسى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">وٮٮحٮٮها الاسٯى#</w>
+                    <w n="000000000">الدى</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>086:012-087:002</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ص</w>
+                    <w n="000000000">داٮ</w>
+                    <w n="000000000">الصد ع#</w>
+                    <w n="000000000">اٮه</w>
+                    <w n="000000000">لٯول</w>
+                    <w n="000000000">ڡصل</w>
+                    <w n="000000000">و ما</w>
+                    <w n="000000000">هو</w>
+                    <w n="000000000">ٮالهرل#</w>
+                    <w n="000000000">اٮهم</w>
+                    <w n="000000000">ٮكٮد ون</w>
+                    <w n="000000000">كٮدا#</w>
+                    <w n="000000000">وا كٮٮد</w>
+                    <w n="000000000">كٮدا# فمهل</w>
+                    <w n="000000000">الكفرٮں امهلهم</w>
+                    <w n="000000000">روٮدا# ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">سٮح</w>
+                    <w n="000000000">ٮاسم رٮک</w>
+                    <w n="000000000">الاعلى#</w>
+                    <w n="000000000">الدى</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>086:001-086:012</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">والطرٯ#</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">اد رٮک</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">الطرٯ</w>
+                    <w n="000000000">ا لٮحم</w>
+                    <w n="000000000">الٮٯٮ#</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">كل ٮڡس</w>
+                    <w n="000000000">لما</w>
+                    <w n="000000000">علٮها</w>
+                    <w n="000000000">حڡط# ڡلٮٮطر</w>
+                    <w n="000000000">الاٮسں</w>
+                    <w n="000000000">مم</w>
+                    <w n="000000000">حلٯ حلٯ</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">داڡٯ</w>
+                    <w n="000000000">ٮحر ح</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮٮن</w>
+                    <w n="000000000">الصلب</w>
+                    <w n="000000000">و الٮرٮٮ#</w>
+                    <w n="000000000">اٮه</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">ر حعه</w>
+                    <w n="000000000">لٯدر#</w>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">ٮٮلى</w>
+                    <w n="000000000">ا لسرٮر#</w>
+                    <w n="000000000">ڡما</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٯوه</w>
+                    <w n="000000000">و لا</w>
+                    <w n="000000000">ٮصر</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">والسما</w>
+                    <w n="000000000">د ات</w>
+                    <w n="000000000">الرحع</w>
+                    <w n="000000000">والار</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>085:015-086:001</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">المحٮد#</w>
+                    <w n="000000000">ڡعال</w>
+                    <w n="000000000">لما</w>
+                    <w n="000000000">ٮرٮد# هل</w>
+                    <w n="000000000">اٮٮک</w>
+                    <w n="000000000">حدٮٮ</w>
+                    <w n="000000000">ا لحٮود#</w>
+                    <w n="000000000">ڡرعوں</w>
+                    <w n="000000000">وٮمو د</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">ٮل</w>
+                    <w n="000000000">الدٮںَ</w>
+                    <w n="000000000">كڡرو ا</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">ٮكدٮٮ#</w>
+                    <w n="000000000">وا لل‍ه</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">وراهم</w>
+                    <w n="000000000">محٮط</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮل</w>
+                    <w n="000000000">هو</w>
+                    <w n="000000000">ٯران</w>
+                    <w n="000000000">محٮد#</w>
+                    <w n="000000000">ڡى لوح</w>
+                    <w n="000000000">محڡوط ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمن الرحٮم#</w>
+                    <w n="000000000">والسما</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>085:010-085:015</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮٮوٮوا</w>
+                    <w n="000000000">ڡلهم</w>
+                    <w n="000000000">عد اٮ</w>
+                    <w n="000000000">حهٮم</w>
+                    <w n="000000000">واهم</w>
+                    <w n="000000000">عد اٮالحرٮٯ</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">اںَ</w>
+                    <w n="000000000">ا لدٮں</w>
+                    <w n="000000000">امٮوا</w>
+                    <w n="000000000">وعملو ا</w>
+                    <w n="000000000">الصلحٮ</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">حٮا ٮ</w>
+                    <w n="000000000">ٮَحرى</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮحٮها</w>
+                    <w n="000000000">ا لاٮهر</w>
+                    <w n="000000000">دلک</w>
+                    <w n="000000000">الڡور</w>
+                    <w n="000000000">الکٮٮر#</w>
+                    <w n="000000000">اںَ</w>
+                    <w n="000000000">ٮطش رٮک</w>
+                    <w n="000000000">لسدٮد</w>
+                    <w n="000000000">اٮه هو</w>
+                    <w n="000000000">ٮٮدى</w>
+                    <w n="000000000">وٮعٮد#</w>
+                    <w n="000000000">و هو</w>
+                    <w n="000000000">الغڡور</w>
+                    <w n="000000000">الودو د#</w>
+                    <w n="000000000">دو</w>
+                    <w n="000000000">العرس</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>085:005-085:010</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الوٯود#</w>
+                    <w n="000000000">اد</w>
+                    <w n="000000000">هم</w>
+                    <w n="000000000">علٮها</w>
+                    <w n="000000000">ٯعود#</w>
+                    <w n="000000000">وهم</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">ماٮڡعلوں</w>
+                    <w n="000000000">ٮالمومٮٮں سهود#</w>
+                    <w n="000000000">وماٮٯمو ا</w>
+                    <w n="000000000">مٮهم</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ٮومٮو ا</w>
+                    <w n="000000000">ٮالل‍ه</w>
+                    <w n="000000000">العرٮر</w>
+                    <w n="000000000">الحمٮد# الدى</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">ملکالسمو ٮ</w>
+                    <w n="000000000">والارص</w>
+                    <w n="000000000">وا لل‍ه</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">كل</w>
+                    <w n="000000000">سى سهٮد#</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">الدٮں ڡٮَٮوا</w>
+                    <w n="000000000">المومٮٮں والمومٮٮ</w>
+                    <w n="000000000">ٮم</w>
+                    <w n="000000000">لم؟</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>084:025-085:005</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الصلحٮ</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">احر عٮر</w>
+                    <w n="000000000">ممٮوں ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">والسما داٮ</w>
+                    <w n="000000000">الٮروح والٮوم</w>
+                    <w n="000000000">الموعود وسهد</w>
+                    <w n="000000000">ومسهو د#</w>
+                    <w n="000000000">ٯٮل</w>
+                    <w n="000000000">اصحٮ</w>
+                    <w n="000000000">الاحدود#ا لٮار</w>
+                    <w n="000000000">داٮ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>084:018-084:025</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">والٯمر</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">ا ٮسٯ#</w>
+                    <w n="000000000">لٮركٮںَ</w>
+                    <w n="000000000">طٮٯا</w>
+                    <w n="000000000">عں</w>
+                    <w n="000000000">طٮٯ#</w>
+                    <w n="000000000">ڡما</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">لا ٮومٮوں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">وادا ٯرى</w>
+                    <w n="000000000">علٮهم</w>
+                    <w n="000000000">الٯرا ں</w>
+                    <w n="000000000">لاٮسحدوں#</w>
+                    <w n="000000000">ٮل</w>
+                    <w n="000000000">ا لدٮں</w>
+                    <w n="000000000">كڡروا</w>
+                    <w n="000000000">ٮكدٮوں#</w>
+                    <w n="000000000">والل‍ه اعلم</w>
+                    <w n="000000000">ٮما</w>
+                    <w n="000000000">ٮوعوں# ڡٮسرهم</w>
+                    <w n="000000000">ٮعداٮ الٮم#</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">الدٮں امٮوا</w>
+                    <w n="000000000">وعملوا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>084:009-084:017</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮٮٯلٮ</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">اهله مسرورا#</w>
+                    <w n="000000000">واما</w>
+                    <w n="000000000">مں اوٮى</w>
+                    <w n="000000000">كٮٮه</w>
+                    <w n="000000000">ور ا</w>
+                    <w n="000000000">طهره</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ڡسوڡ ٮدعوا</w>
+                    <w n="000000000">ٮٮورا#</w>
+                    <w n="000000000">و ٮصلى</w>
+                    <w n="000000000">سعٮرا#</w>
+                    <w n="000000000">اٮه كاں</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">اهله مسرورا#</w>
+                    <w n="000000000">اٮه</w>
+                    <w n="000000000">طں اں</w>
+                    <w n="000000000">لں</w>
+                    <w n="000000000">ٮحور#</w>
+                    <w n="000000000">ٮلى</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ر ٮه</w>
+                    <w n="000000000">كاں</w>
+                    <w n="000000000">ٮه</w>
+                    <w n="000000000">ٮصٮر ا#</w>
+                    <w n="000000000">ڡلا</w>
+                    <w n="000000000">اٯسم</w>
+                    <w n="000000000">ٮالسڡٯ والٮل</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">وسٯ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>084:001-084:009</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">اٮسٯٮ</w>
+                    <w n="000000000">وادٮٮ لرٮها</w>
+                    <w n="000000000">وحٯٮ#</w>
+                    <w n="000000000">وا؟ دا</w>
+                    <w n="000000000">الارص</w>
+                    <w n="000000000">مد ٮ#والٯٮ</w>
+                    <w n="000000000">ماڡٮها وٮحلٮ#</w>
+                    <w n="000000000">وادٮٮ</w>
+                    <w n="000000000">لرٮها</w>
+                    <w n="000000000">وحٯٮ#</w>
+                    <w n="000000000">ٮاٮها الاٮسں</w>
+                    <w n="000000000">اٮک</w>
+                    <w n="000000000">كد ح</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">رٮک</w>
+                    <w n="000000000">كد حا</w>
+                    <w n="000000000">ڡملٯٮه</w>
+                    <w n="000000000">ڡاما</w>
+                    <w n="000000000">من اوٮى</w>
+                    <w n="000000000">کٮٮه؟ ٮٮمٮه</w>
+                    <w n="000000000">ڡسوڡ</w>
+                    <w n="000000000">ٮحسٮ حسا</w>
+                    <w n="000000000">ٮا</w>
+                    <w n="000000000">ٮسٮرا#</w>
+                    <w n="000000000">و</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>083:031-084:001</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ڡكهٮں#وادا</w>
+                    <w n="000000000">را وهم</w>
+                    <w n="000000000">ٯالوا</w>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">هولا لضالوں#</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">ارسلو ا</w>
+                    <w n="000000000">علٮهم</w>
+                    <w n="000000000">حڡطٮں#</w>
+                    <w n="000000000">ڡا لٮوم</w>
+                    <w n="000000000">الدٮن</w>
+                    <w n="000000000">امٮوا مں</w>
+                    <w n="000000000">الكڡار</w>
+                    <w n="000000000">ٮصحكو ں#</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">الارٮک</w>
+                    <w n="000000000">ٮٮطر وں#</w>
+                    <w n="000000000">هل</w>
+                    <w n="000000000">ٮوٮ</w>
+                    <w n="000000000">الكڡار ما</w>
+                    <w n="000000000">كاٮوا</w>
+                    <w n="000000000">ٮڡعلوں# ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں</w>
+                    <w n="000000000">ا لرحٮم#</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">السما</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>083:025-083:031</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">محٮوم#</w>
+                    <w n="000000000">حٮمه</w>
+                    <w n="000000000">مسک وڡى</w>
+                    <w n="000000000">دلک</w>
+                    <w n="000000000">ڡلٮٮٮاڡس المٮٮڡسوں#</w>
+                    <w n="000000000">مراحه</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮسٮٮم#</w>
+                    <w n="000000000">عٮٮا</w>
+                    <w n="000000000">ٮسرٮ ٮها</w>
+                    <w n="000000000">المٯرٮوں#</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">الدٮں</w>
+                    <w n="000000000">احرموا كاٮوا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">الدٮں امٮوا</w>
+                    <w n="000000000">ٮصحكو ں#</w>
+                    <w n="000000000">وادا</w>
+                    <w n="000000000">مروا ٮهم</w>
+                    <w n="000000000">ٮٮعمروں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">وا دا</w>
+                    <w n="000000000">اٮٯلٮواا لى</w>
+                    <w n="000000000">اهلهم</w>
+                    <w n="000000000">اٮٯلٮوا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>083:017-083:025</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">هدا</w>
+                    <w n="000000000">الدى</w>
+                    <w n="000000000">كٮٮم ٮه</w>
+                    <w n="000000000">ٮكدٮوں#</w>
+                    <w n="000000000">كلا</w>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">كٮٮ</w>
+                    <w n="000000000">الاٮرار</w>
+                    <w n="000000000">لڡى</w>
+                    <w n="000000000">علٮٮں</w>
+                    <w n="000000000">وماادر ٮک</w>
+                    <w n="000000000">ماعلٮوں#</w>
+                    <w n="000000000">كٮٮ</w>
+                    <w n="000000000">مرٯوم</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٮسهدهُ المٯرٮوں#</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">الا ٮرَار</w>
+                    <w n="000000000">لڡى</w>
+                    <w n="000000000">ٮعٮم#</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">ا لارٮک</w>
+                    <w n="000000000">ٮٮطروں# ٮعرڡ</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">وحو ههم</w>
+                    <w n="000000000">ٮصره</w>
+                    <w n="000000000">الٮعٮم ٮسٯوں</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">رحٮٯ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>083:010-083:017</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">للمكدٮٮں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">الدٮں ٮكدٮوں</w>
+                    <w n="000000000">ٮٮوم</w>
+                    <w n="000000000">ا لدٮں#وما</w>
+                    <w n="000000000">ٮكدٮ [ه</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">كل</w>
+                    <w n="000000000">معٮدا ٮٮم#ادا</w>
+                    <w n="000000000">ٮٮلى</w>
+                    <w n="000000000">علٮه</w>
+                    <w n="000000000">اٮٮٮا</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">اسطٮر الاولٮں#</w>
+                    <w n="000000000">كلا</w>
+                    <w n="000000000">ٮل</w>
+                    <w n="000000000">ر اں</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">ٯلوٮهم</w>
+                    <w n="000000000">ماكا ٮو</w>
+                    <w n="000000000">ٮكسٮوں#</w>
+                    <w n="000000000">كلا اٮهم</w>
+                    <w n="000000000">عٮد</w>
+                    <w n="000000000">رٮهم</w>
+                    <w n="000000000">ٮومٮد لمححوٮوں#ٮم</w>
+                    <w n="000000000">اٮهم</w>
+                    <w n="000000000">لصال وا</w>
+                    <w n="000000000">الححٮم#</w>
+                    <w n="000000000">ٮم</w>
+                    <w n="000000000">ٮٯال</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>083:002-083:010</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">اكٮلوا</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">الٮا س</w>
+                    <w n="000000000">ٮسٮوڡوں#</w>
+                    <w n="000000000">واد ا</w>
+                    <w n="000000000">كالوهم</w>
+                    <w n="000000000">او</w>
+                    <w n="000000000">ور ٮوهم</w>
+                    <w n="000000000">ٮحسروں#</w>
+                    <w n="000000000">الا؟ ٮطں</w>
+                    <w n="000000000">اولٮک</w>
+                    <w n="000000000">اٮهم مٮعوٮوں#</w>
+                    <w n="000000000">لٮوم</w>
+                    <w n="000000000">عطٮم# ٮوم</w>
+                    <w n="000000000">ٮٯوم</w>
+                    <w n="000000000">الناس</w>
+                    <w n="000000000">لرٮ العالمٮں#</w>
+                    <w n="000000000">كلا</w>
+                    <w n="000000000">ان كٮٮ</w>
+                    <w n="000000000">الڡحار؟ لڡى</w>
+                    <w n="000000000">سحٮں#</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">اد رٮک</w>
+                    <w n="000000000">ماسحٮں#</w>
+                    <w n="000000000">كٮٮ مرٯوم#</w>
+                    <w n="000000000">وٮل</w>
+                    <w n="000000000">ٮومٮد</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>082:016-083:002</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">وماهو</w>
+                    <w n="000000000">علٮها</w>
+                    <w n="000000000">ٮعٮٮٮں#</w>
+                    <w n="000000000">و ما</w>
+                    <w n="000000000">ادرٮک</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">ٮو؟ م</w>
+                    <w n="000000000">الدٮں#</w>
+                    <w n="000000000">ثم</w>
+                    <w n="000000000">ماا درٮک</w>
+                    <w n="000000000">ماٮوم</w>
+                    <w n="000000000">ا؟ الدٮں#</w>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">لاٮملک نڡس</w>
+                    <w n="000000000">لٮڡس</w>
+                    <w n="000000000">سٮا</w>
+                    <w n="000000000">والا مر</w>
+                    <w n="000000000">ٮومٮد</w>
+                    <w n="000000000">لل‍ه ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم</w>
+                    <w n="000000000">وٮل</w>
+                    <w n="000000000">للمطڡڡٮں# الدٮں</w>
+                    <w n="000000000">ادا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>082:007-082:015</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الدى</w>
+                    <w n="000000000">حلٯک</w>
+                    <w n="000000000">ڡسو ٮک</w>
+                    <w n="000000000">ڡعدلک</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">ا ى</w>
+                    <w n="000000000">صوره</w>
+                    <w n="000000000">ماسا ركبک# كلا</w>
+                    <w n="000000000">ٮل</w>
+                    <w n="000000000">ٮكدٮون</w>
+                    <w n="000000000">ٮا لدٮں#</w>
+                    <w n="000000000">وان</w>
+                    <w n="000000000">علٮكم</w>
+                    <w n="000000000">لحڡطٮں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">كرما كٮٮٮں#</w>
+                    <w n="000000000">ٮعلموں</w>
+                    <w n="000000000">ما ٮڡعلوں#</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">الاٮرار لڡى</w>
+                    <w n="000000000">ٮعٮم#</w>
+                    <w n="000000000">واں</w>
+                    <w n="000000000">ا لڡحار</w>
+                    <w n="000000000">لڡى</w>
+                    <w n="000000000">ححٮم#</w>
+                    <w n="000000000">؟ ٮصلونها</w>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">الدٮں#</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>082:000-082:006</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم#</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">السما</w>
+                    <w n="000000000">اٮڡطرٮ وادا</w>
+                    <w n="000000000">الكوا كٮ</w>
+                    <w n="000000000">اٮٮٮرٮ وادا</w>
+                    <w n="000000000">الٮحار</w>
+                    <w n="000000000">ڡحرٮ</w>
+                    <w n="000000000">وادا الٯٮور</w>
+                    <w n="000000000">ٮعٮرٮ علمٮ</w>
+                    <w n="000000000">ٮڡس</w>
+                    <w n="000000000">ماٯد مٮ</w>
+                    <w n="000000000">واحرٮ ٮاٮها</w>
+                    <w n="000000000">الاٮسں</w>
+                    <w n="000000000">ماعر ک</w>
+                    <w n="000000000">ٮرٮک</w>
+                    <w n="000000000">الكرٮم</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>081:022-081:029</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮمحٮوں#</w>
+                    <w n="000000000">ولٯدرا ﻩ</w>
+                    <w n="000000000">ٮالاڡٯ</w>
+                    <w n="000000000">المٮٮں#</w>
+                    <w n="000000000">وما هو</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">العٮٮ</w>
+                    <w n="000000000">ٮصٮٮں# وماهو</w>
+                    <w n="000000000">ٮٯول</w>
+                    <w n="000000000">سٮطں</w>
+                    <w n="000000000">ر حٮم#</w>
+                    <w n="000000000">ڡاٮں</w>
+                    <w n="000000000">ٮدهٮوں#</w>
+                    <w n="000000000">ا ں</w>
+                    <w n="000000000">هو</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">دكر</w>
+                    <w n="000000000">للعلمٮں لمں</w>
+                    <w n="000000000">سا</w>
+                    <w n="000000000">مٮكم</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ٮسٮٯٮم وماٮساوں</w>
+                    <w n="000000000">الاان ٮسا</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">رٮ العالمٮں#</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>081:013-081-022</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الحٮه</w>
+                    <w n="000000000">ارلڡٮ</w>
+                    <w n="000000000">علمٮ ٮڡس</w>
+                    <w n="000000000">مااحصرٮ# ڡلا</w>
+                    <w n="000000000">اٯسم</w>
+                    <w n="000000000">ٮالحٮس الحوار</w>
+                    <w n="000000000">الكٮس# والٮل</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">عسعس والصٮح</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">ٮٮڡس#</w>
+                    <w n="000000000">اٮه</w>
+                    <w n="000000000">لٯول</w>
+                    <w n="000000000">رسو ل</w>
+                    <w n="000000000">كرٮم</w>
+                    <w n="000000000">#دى</w>
+                    <w n="000000000">ٯوه</w>
+                    <w n="000000000">عٮد</w>
+                    <w n="000000000">دى</w>
+                    <w n="000000000">العرس</w>
+                    <w n="000000000">مكٮں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">مطا ع</w>
+                    <w n="000000000">ٮم</w>
+                    <w n="000000000">امٮں#وما</w>
+                    <w n="000000000">صاحٮكم</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>081:005-081:013</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">وادا</w>
+                    <w n="000000000">الوحوس حسرٮ#</w>
+                    <w n="000000000">وادا</w>
+                    <w n="000000000">الٮحار</w>
+                    <w n="000000000">سحرٮ</w>
+                    <w n="000000000">#وا دا</w>
+                    <w n="000000000">الٮڡوس</w>
+                    <w n="000000000">روحت</w>
+                    <w n="000000000">#وادا</w>
+                    <w n="000000000">المود ﻩ</w>
+                    <w n="000000000">سٮلٮ#</w>
+                    <w n="000000000">ٮاى</w>
+                    <w n="000000000">د ٮٮ</w>
+                    <w n="000000000">ٯٮلٮ#</w>
+                    <w n="000000000">واد االصحڡ</w>
+                    <w n="000000000">ٮسرٮ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">وادا</w>
+                    <w n="000000000">السما كسطٮ# وادا</w>
+                    <w n="000000000">الححٮم سعرٮ</w>
+                    <w n="000000000">وادا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>080:042-081:004</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">اولک</w>
+                    <w n="000000000">هم</w>
+                    <w n="000000000">الكڡر ﻩ</w>
+                    <w n="000000000">الڡحره</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">السمس</w>
+                    <w n="000000000">كورٮ وادا</w>
+                    <w n="000000000">الٮحوم</w>
+                    <w n="000000000">ا ٮكدرٮ#</w>
+                    <w n="000000000">و ادا</w>
+                    <w n="000000000">الحٮال</w>
+                    <w n="000000000">سٮر ٮ#</w>
+                    <w n="000000000">وادا</w>
+                    <w n="000000000">ا لعسار</w>
+                    <w n="000000000">عطلٮ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>080:031-080:041</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">واٮا#</w>
+                    <w n="000000000">مٮعالكم</w>
+                    <w n="000000000">ولا ٮعمكم</w>
+                    <w n="000000000">ڡادا</w>
+                    <w n="000000000">حات الصحه</w>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">ٮفر</w>
+                    <w n="000000000">ا لمر</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">احٮه</w>
+                    <w n="000000000">وامه واٮٮه</w>
+                    <w n="000000000">وصحٮٮه</w>
+                    <w n="000000000">وٮٮٮه #لكل</w>
+                    <w n="000000000">امرى</w>
+                    <w n="000000000">مٮهم</w>
+                    <w n="000000000">ٮومٮد</w>
+                    <w n="000000000">ساں</w>
+                    <w n="000000000">ٮعٮٮه وحوه</w>
+                    <w n="000000000">ٮومٮد؟ مسڡره</w>
+                    <w n="000000000">صحكه</w>
+                    <w n="000000000">مسٮٮسره</w>
+                    <w n="000000000">ووحو ﻩ</w>
+                    <w n="000000000">ٮومٮد</w>
+                    <w n="000000000">علٮها</w>
+                    <w n="000000000">؟عٮر ﻩ</w>
+                    <w n="000000000">ٮرهٯها</w>
+                    <w n="000000000">ٯتره</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>080:019-080:031</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮطڡه</w>
+                    <w n="000000000">حلٯه</w>
+                    <w n="000000000">ڡٯدر ﻩ</w>
+                    <w n="000000000">#ٮم</w>
+                    <w n="000000000">السٮٮل</w>
+                    <w n="000000000">ٮسره</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮم</w>
+                    <w n="000000000">اماٮه</w>
+                    <w n="000000000">ڡاٯٮره#ٮم ادا</w>
+                    <w n="000000000">سا</w>
+                    <w n="000000000">اٮسره كلا</w>
+                    <w n="000000000">لما</w>
+                    <w n="000000000">ٮٯص</w>
+                    <w n="000000000">ماامر ﻩ</w>
+                    <w n="000000000">#ڡلٮٮطر</w>
+                    <w n="000000000">الاٮسں</w>
+                    <w n="000000000">ا لى</w>
+                    <w n="000000000">طعمه</w>
+                    <w n="000000000">اٮا</w>
+                    <w n="000000000">صٮٮٮا الما</w>
+                    <w n="000000000">صٮا#</w>
+                    <w n="000000000">ٮم</w>
+                    <w n="000000000">سٯٯٮا الارص</w>
+                    <w n="000000000">سٯا ٮٮٮٮا</w>
+                    <w n="000000000">ڡٮها</w>
+                    <w n="000000000">حٮا</w>
+                    <w n="000000000">وعٮٮا ٯصٮا#</w>
+                    <w n="000000000">ورٮٮوٮا</w>
+                    <w n="000000000">وٮحلا وحدٮٯ</w>
+                    <w n="000000000">علٮاوڡاكهه</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>080:010-080:018</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">عٮه</w>
+                    <w n="000000000">ٮلهى</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">كلااٮها</w>
+                    <w n="000000000">ٮدكره</w>
+                    <w n="000000000">ڡمں شا</w>
+                    <w n="000000000">دكره</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">صحڡ</w>
+                    <w n="000000000">مكر مه</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">مرڡوعه مطهره</w>
+                    <w n="000000000">ٮاٮدى</w>
+                    <w n="000000000">سڡره</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">كرا م</w>
+                    <w n="000000000">ٮرره</w>
+                    <w n="000000000">ٯٮل</w>
+                    <w n="000000000">الاٮسں مااكڡره</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">اى سى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">حلٯه</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>079:046-080:010</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">كاٮهُم؟ٮوم؟ٮروٮها؟</w>
+                    <w n="000000000">لم ٮلٮٮوا</w>
+                    <w n="000000000">الاعسٮه</w>
+                    <w n="000000000">او</w>
+                    <w n="000000000">صحٮها# ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں الرحٮم</w>
+                    <w n="000000000">عٮس</w>
+                    <w n="000000000">وٮولى</w>
+                    <w n="000000000">اں حاه</w>
+                    <w n="000000000">الاعمى</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">ٮدرٮک لعله</w>
+                    <w n="000000000">ٮركى</w>
+                    <w n="000000000">ٮدكر</w>
+                    <w n="000000000">ڡٮٮڡعه</w>
+                    <w n="000000000">الدكرى</w>
+                    <w n="000000000">اما</w>
+                    <w n="000000000">مں اسٮعٮى</w>
+                    <w n="000000000">ڡاٮٮ</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">ٮصدى وما</w>
+                    <w n="000000000">علٮک</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">ٮركى</w>
+                    <w n="000000000">واما</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">حاک</w>
+                    <w n="000000000">ٮسعى</w>
+                    <w n="000000000">وهو</w>
+                    <w n="000000000">ٮحسى</w>
+                    <w n="000000000">ڡاٮٮ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>079:038-079:045</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الدٮٮا#</w>
+                    <w n="000000000">ڡان</w>
+                    <w n="000000000">الححٮم</w>
+                    <w n="000000000">هى</w>
+                    <w n="000000000">الماوى#</w>
+                    <w n="000000000">وا ما</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">حاڡ</w>
+                    <w n="000000000">مٯام</w>
+                    <w n="000000000">ر ٮه</w>
+                    <w n="000000000">وٮهى</w>
+                    <w n="000000000">الٮڡس</w>
+                    <w n="000000000">عں</w>
+                    <w n="000000000">الهوى#</w>
+                    <w n="000000000">ڡان</w>
+                    <w n="000000000">الحٮه هى</w>
+                    <w n="000000000">الماوى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮسلوٮک</w>
+                    <w n="000000000">عن</w>
+                    <w n="000000000">السا عه</w>
+                    <w n="000000000">اٮان</w>
+                    <w n="000000000">مرسها؟</w>
+                    <w n="000000000">ڡٮم</w>
+                    <w n="000000000">اٮٮ</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">د كرٮها#</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">ر ٮک</w>
+                    <w n="000000000">مٮٮهها</w>
+                    <w n="000000000">اٮما</w>
+                    <w n="000000000">اٮٮ</w>
+                    <w n="000000000">مٮدر</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮحسها#</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>Es fehlt wohl ein Blatt mit der Textstelle 079:019-079:030!!!!!!!!!!!!!</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>079:030-079:038</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">والارص</w>
+                    <w n="000000000">ٮعد</w>
+                    <w n="000000000">د لک</w>
+                    <w n="000000000">دحٮها</w>
+                    <w n="000000000">احر ح</w>
+                    <w n="000000000">مٮها</w>
+                    <w n="000000000">ماها</w>
+                    <w n="000000000">ومر عها#</w>
+                    <w n="000000000">والحٮال</w>
+                    <w n="000000000">ار سٮها#</w>
+                    <w n="000000000">مٮعا</w>
+                    <w n="000000000">لكم</w>
+                    <w n="000000000">ولا ٮعمكم</w>
+                    <w n="000000000">ڡادا</w>
+                    <w n="000000000">حا</w>
+                    <w n="000000000">ٮ</w>
+                    <w n="000000000">الطمه</w>
+                    <w n="000000000">الكٮر ى#</w>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">ٮٮدكر الاٮسں</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">سعى#</w>
+                    <w n="000000000">وٮر رٮ</w>
+                    <w n="000000000">الححٮم</w>
+                    <w n="000000000">لمن</w>
+                    <w n="000000000">ٮر ى#</w>
+                    <w n="000000000">ڡاما</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">طعى</w>
+                    <w n="000000000">واٮر</w>
+                    <w n="000000000">الحٮوه</w>
+                    <w n="000000000">؟</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>Die Schrift unterscheidet sich vom Rest, Verstrenner mitten im Wort?!?</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>079:008-079:019</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ڡلوٮ</w>
+                    <w n="000000000">ٮومٮدو</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">حڡه</w>
+                    <w n="000000000">اٮصر ها</w>
+                    <w n="000000000">حسعه</w>
+                    <w n="000000000">ٮٯولوں</w>
+                    <w n="000000000">اٮا</w>
+                    <w n="000000000">مردو دوں</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الحڡره</w>
+                    <w n="000000000">ادا</w>
+                    <w n="000000000">كٮا</w>
+                    <w n="000000000">عطاما</w>
+                    <w n="000000000">ٮحره</w>
+                    <w n="000000000">ٯالوا</w>
+                    <w n="000000000">ٮلک  ادا</w>
+                    <w n="000000000">كره</w>
+                    <w n="000000000">حسره</w>
+                    <w n="000000000">ڡاٮما</w>
+                    <w n="000000000">هى</w>
+                    <w n="000000000">رحره</w>
+                    <w n="000000000">؟</w>
+                    <w n="000000000">واحده</w>
+                    <w n="000000000">ڡادا</w>
+                    <w n="000000000">هم</w>
+                    <w n="000000000">ٮالسهره#</w>
+                    <w n="000000000">هل</w>
+                    <w n="000000000">اٮٮک حدٮٮ</w>
+                    <w n="000000000">موسى</w>
+                    <w n="000000000">اد</w>
+                    <w n="000000000">ٮادٮه</w>
+                    <w n="000000000">رٮه</w>
+                    <w n="000000000">ٮالوادى</w>
+                    <w n="000000000">المٯدس</w>
+                    <w n="000000000">طو ى</w>
+                    <w n="000000000">ادهٮ</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">ڡرعوں</w>
+                    <w n="000000000">اٮه</w>
+                    <w n="000000000">طعى</w>
+                    <w n="000000000">ڡٯل</w>
+                    <w n="000000000">هل</w>
+                    <w n="000000000">لک</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ٮركى</w>
+                    <w n="000000000">وا هدٮک</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">رٮک</w>
+                    <w n="000000000">ڡٮحسى</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>Die Schrift unterscheidet sich vom Rest</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>078:039-079:007</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">دلک</w>
+                    <w n="000000000">الٮوم</w>
+                    <w n="000000000">الحٯ</w>
+                    <w n="000000000">ڡمں</w>
+                    <w n="000000000">سا</w>
+                    <w n="000000000">اتحد</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">رٮه</w>
+                    <w n="000000000">ماٮا</w>
+                    <w n="000000000">اٮا</w>
+                    <w n="000000000">اٮدرٮاكم</w>
+                    <w n="000000000">عداٮا</w>
+                    <w n="000000000">ٯرٮٮا</w>
+                    <w n="000000000">#ٮوم</w>
+                    <w n="000000000">ٮٮطر</w>
+                    <w n="000000000">المر</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">ٯدمٮ</w>
+                    <w n="000000000">ٮداه</w>
+                    <w n="000000000">وٮٯول</w>
+                    <w n="000000000">الكاڡر</w>
+                    <w n="000000000">ٮالٮٮٮى</w>
+                    <w n="000000000">كٮٮ</w>
+                    <w n="000000000">ٮراٮا ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں</w>
+                    <w n="000000000">الرحٮم#</w>
+                    <w n="000000000">وٮر؟عٮ</w>
+                    <w n="000000000">عرٯا</w>
+                    <w n="000000000">والٮسطٮ ٮسطا</w>
+                    <w n="000000000">والسٮحٮ</w>
+                    <w n="000000000">سٮحا</w>
+                    <w n="000000000">ڡسٮٯٮ سٮقا</w>
+                    <w n="000000000">ڡالمدٮراٮ</w>
+                    <w n="000000000">امرا</w>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">ٮرحڡ</w>
+                    <w n="000000000">الراحڡه</w>
+                    <w n="000000000">ٮٮٮعها</w>
+                    <w n="000000000">الرادڡه</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>078:033-078:038</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">اعٮ</w>
+                    <w n="000000000">اتراباوکاسا</w>
+                    <w n="000000000">دهٯا</w>
+                    <w n="000000000">لاٮسمعوں</w>
+                    <w n="000000000">ڡٮها</w>
+                    <w n="000000000">لعوا</w>
+                    <w n="000000000">ولاكدٮا</w>
+                    <w n="000000000">حر ا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">رٮک</w>
+                    <w n="000000000">عطا</w>
+                    <w n="000000000">حسا ٮا#</w>
+                    <w n="000000000">رٮ</w>
+                    <w n="000000000">السموٮ</w>
+                    <w n="000000000">ولارص</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">ٮٮٮهما</w>
+                    <w n="000000000">الرحمن</w>
+                    <w n="000000000">لاٮملكوں</w>
+                    <w n="000000000">مٮه</w>
+                    <w n="000000000">حطاٮ#ا</w>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">ٮٯوم</w>
+                    <w n="000000000">ا لروح</w>
+                    <w n="000000000">والملٮكه</w>
+                    <w n="000000000">صڡا</w>
+                    <w n="000000000">لاٮٮكلموں</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ادں</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">الرحمں</w>
+                    <w n="000000000">وٯال</w>
+                    <w n="000000000">صواٮا</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>Auf der Recto-Seite trennt der Seitenumbruch das letzte Wort (وَكَوَاعِبَ).</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>078:024-078:033</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ڡٮها</w>
+                    <w n="000000000">ٮردا</w>
+                    <w n="000000000">ولاسر اٮا#</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">حمٮما</w>
+                    <w n="000000000">و عسٯا#</w>
+                    <w n="000000000">حرا</w>
+                    <w n="000000000">وڡٯا؟</w>
+                    <w n="000000000">اٮهم</w>
+                    <w n="000000000">كاٮوا</w>
+                    <w n="000000000">لاٮر حوں</w>
+                    <w n="000000000">حساٮا#</w>
+                    <w n="000000000">وکد ٮوا</w>
+                    <w n="000000000">ٮاٮٮٮا</w>
+                    <w n="000000000">كداٮا</w>
+                    <w n="000000000"># كل</w>
+                    <w n="000000000">سى</w>
+                    <w n="000000000">احصٮٮه</w>
+                    <w n="000000000">كٮٮا#</w>
+                    <w n="000000000">ڡدوٯوا</w>
+                    <w n="000000000">ڡلں</w>
+                    <w n="000000000">ٮرٮدكم</w>
+                    <w n="000000000">ا لا</w>
+                    <w n="000000000">عداٮا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">اں؟</w>
+                    <w n="000000000">للمٮٯٮں</w>
+                    <w n="000000000">مڡرا#</w>
+                    <w n="000000000">حد ٮٯ</w>
+                    <w n="000000000">واعٮٮا</w>
+                    <w n="000000000">#وكو</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>078:016-078:024</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">الڡصل</w>
+                    <w n="000000000">كاں</w>
+                    <w n="000000000">مٮٯٮا#</w>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">ٮٮڡح</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الصور</w>
+                    <w n="000000000">ڡٮاٮوں؟</w>
+                    <w n="000000000">اڡواحا#</w>
+                    <w n="000000000">وڡٮحٮ</w>
+                    <w n="000000000">السما</w>
+                    <w n="000000000">ڡكاٮٮ</w>
+                    <w n="000000000">اٮوٮا</w>
+                    <w n="000000000">#و سٮرٮُ</w>
+                    <w n="000000000">الحٮال</w>
+                    <w n="000000000">فكاٮت</w>
+                    <w n="000000000">سراٮا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">حهٮم</w>
+                    <w n="000000000">كاٮٮ</w>
+                    <w n="000000000">مرصدا</w>
+                    <w n="000000000">#للطا عٮں</w>
+                    <w n="000000000">ماٮ#ا</w>
+                    <w n="000000000">لٮٮںَ</w>
+                    <w n="000000000">ڡٮها</w>
+                    <w n="000000000">ا حٯٮا#</w>
+                    <w n="000000000">لاٮدوٯوںَ؟</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:134-021:003</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">رٮٮا</w>
+                    <w n="000000000">لولا</w>
+                    <w n="000000000">ارسلٮ</w>
+                    <w n="000000000">الٮٮا؟</w>
+                    <w n="000000000">رسولا</w>
+                    <w n="000000000">ڡٮٮٮع</w>
+                    <w n="000000000">اٮٮک</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٯٮل</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ٮدل</w>
+                    <w n="000000000">وٮحرى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">ٯل</w>
+                    <w n="000000000">كل</w>
+                    <w n="000000000">مٮرٮص</w>
+                    <w n="000000000">ڡٮرٮصوا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">(5)ڡسٮعلموں</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">اصحٮ</w>
+                    <w n="000000000">الصرط</w>
+                    <w n="000000000">السوى</w>
+                    <w n="000000000">ومں</w>
+                    <w n="000000000">اهٮدى</w>
+                    <w n="000000000">ٮسم</w>
+                    <w n="000000000">ال‍له</w>
+                    <w n="000000000">الرحمن</w>
+                    <w n="000000000">الرحٮم</w>
+                    <w n="000000000">اٯٮرٮ</w>
+                    <w n="000000000">للٮاس</w>
+                    <w n="000000000">حساٮهم</w>
+                    <w n="000000000">وهم</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">عڡله</w>
+                    <w n="000000000">معرصوں</w>
+                    <w n="000000000">ماٮاٮٮهم</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">دکرمں</w>
+                    <w n="000000000">رٮهم</w>
+                    <w n="000000000">محث</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">اسٮمعوه</w>
+                    <w n="000000000">وهم</w>
+                    <w n="000000000">ٮلعٮوں</w>
+                    <w n="000000000">لهٮه</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:130-020:134</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ڡسٮح</w>
+                    <w n="000000000">واطراڡ</w>
+                    <w n="000000000">الٮهار</w>
+                    <w n="000000000">لعلک</w>
+                    <w n="000000000">ٮرصى</w>
+                    <w n="000000000">ولاٮمدں</w>
+                    <w n="000000000">عٮٮٮک</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">مٮعٮا</w>
+                    <w n="000000000">ٮه</w>
+                    <w n="000000000">ارواحا</w>
+                    <w n="000000000">مٮهم</w>
+                    <w n="000000000">رهره</w>
+                    <w n="000000000">الحٮوه</w>
+                    <w n="000000000">الدٮٮا</w>
+                    <w n="000000000">لٮڡٮٮهم</w>
+                    <w n="000000000">ڡٮه</w>
+                    <w n="000000000">وررٯ</w>
+                    <w n="000000000">رٮک</w>
+                    <w n="000000000">حٮر</w>
+                    <w n="000000000">واٮٯى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">(10)</w>
+                    <w n="000000000">وامر</w>
+                    <w n="000000000">اهلک</w>
+                    <w n="000000000">ٮاصلوه</w>
+                    <w n="000000000">وا؟ صطٮر</w>
+                    <w n="000000000">علٮها</w>
+                    <w n="000000000">لاٮسلک</w>
+                    <w n="000000000">ررٯا</w>
+                    <w n="000000000">ٮحں</w>
+                    <w n="000000000">ٮررٯک</w>
+                    <w n="000000000">والعٯٮه</w>
+                    <w n="000000000">للٮٯوى</w>
+                    <w n="000000000">وٯالوا</w>
+                    <w n="000000000">لولا</w>
+                    <w n="000000000">ٮاٮٮٮا</w>
+                    <w n="000000000">ٮاٮه</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">رٮه</w>
+                    <w n="000000000">اولم</w>
+                    <w n="000000000">ٮاٮهم</w>
+                    <w n="000000000">ٮٮٮه</w>
+                    <w n="000000000">ماڡى</w>
+                    <w n="000000000">الصحڡ</w>
+                    <w n="000000000">الاولى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">ولواٮا</w>
+                    <w n="000000000">اهلكٮهم</w>
+                    <w n="000000000">ٮعداٮ</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٯٮله</w>
+                    <w n="000000000">لٯالوا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:126-020:130</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">وكدلک</w>
+                    <w n="000000000">الٮوم</w>
+                    <w n="000000000">ٮٮسى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">وكد لک</w>
+                    <w n="000000000">ٮحرى</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">اسرڡ</w>
+                    <w n="000000000">ولم</w>
+                    <w n="000000000">ٮو مں</w>
+                    <w n="000000000">ٮاٮٮٮ</w>
+                    <w n="000000000">رٮه</w>
+                    <w n="000000000">ولعدٮ</w>
+                    <w n="000000000">ا لاحره</w>
+                    <w n="000000000">اسد</w>
+                    <w n="000000000">واٮٯى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">اڡلم</w>
+                    <w n="000000000">ٮهد</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">كم</w>
+                    <w n="000000000">اهلكٮا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٯٮلهم</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">الٯروں</w>
+                    <w n="000000000">ٮمسوں</w>
+                    <w n="000000000">ڡى[</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">؟؟]مسكٮهم</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">دلک</w>
+                    <w n="000000000">لاٮٮ</w>
+                    <w n="000000000">لاولى</w>
+                    <w n="000000000">ا لٮهى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ولولا</w>
+                    <w n="000000000">كلمه</w>
+                    <w n="000000000">سٮٯٮ</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ر ٮِک</w>
+                    <w n="000000000">لكاں</w>
+                    <w n="000000000">لراما</w>
+                    <w n="000000000">واحل</w>
+                    <w n="000000000">مسمى</w>
+                    <w n="000000000">ڡا صٮر</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">ماٮٯولوں</w>
+                    <w n="000000000">وسٮح</w>
+                    <w n="000000000">ٮحمد</w>
+                    <w n="000000000">رٮک</w>
+                    <w n="000000000">ٯٮل</w>
+                    <w n="000000000">طلوع</w>
+                    <w n="000000000">السمس</w>
+                    <w n="000000000">و ٯٮل</w>
+                    <w n="000000000">عروٮها</w>
+                    <w n="000000000">ومں</w>
+                    <w n="000000000">اٮاى</w>
+                    <w n="000000000">الٮل</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:121-020:126</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮحصڡں</w>
+                    <w n="000000000">علٮهما</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ورٯ</w>
+                    <w n="000000000">الحٮه؟</w>
+                    <w n="000000000">وعصى</w>
+                    <w n="000000000">ادم</w>
+                    <w n="000000000">رٮه</w>
+                    <w n="000000000">ڡعوى</w>
+                    <w n="000000000">ٮم</w>
+                    <w n="000000000">احٮٮه</w>
+                    <w n="000000000">رٮه</w>
+                    <w n="000000000">ڡٮاٮ</w>
+                    <w n="000000000">علٮه؟</w>
+                    <w n="000000000">وهدى</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">اهٮطا</w>
+                    <w n="000000000">مٮها</w>
+                    <w n="000000000">حمٮعا</w>
+                    <w n="000000000">ٮعصكم</w>
+                    <w n="000000000">لٮعص</w>
+                    <w n="000000000">عدو</w>
+                    <w n="000000000">ڡاما</w>
+                    <w n="000000000">ٮاٮٮٮكم</w>
+                    <w n="000000000">مٮى</w>
+                    <w n="000000000">هدى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">(10)</w>
+                    <w n="000000000">ڡمں</w>
+                    <w n="000000000">ٮٮع</w>
+                    <w n="000000000">هداى</w>
+                    <w n="000000000">ڡلا</w>
+                    <w n="000000000">ٮصل</w>
+                    <w n="000000000">ولاٮسٯى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ومں</w>
+                    <w n="000000000">اعر ص</w>
+                    <w n="000000000">عں</w>
+                    <w n="000000000">دكرى</w>
+                    <w n="000000000">ڡاں</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">معٮسه</w>
+                    <w n="000000000">صٮكا</w>
+                    <w n="000000000">وٮحسره</w>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">الٯٮمه</w>
+                    <w n="000000000">اعمى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">رٮى</w>
+                    <w n="000000000">لم</w>
+                    <w n="000000000">حسرٮٮى</w>
+                    <w n="000000000">ا عمى</w>
+                    <w n="000000000">وٯد</w>
+                    <w n="000000000">كٮٮ</w>
+                    <w n="000000000">ٮصٮرا[</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">؟]ٯال</w>
+                    <w n="000000000">كدلک</w>
+                    <w n="000000000">اٮٮک</w>
+                    <w n="000000000">اٮٮٮا</w>
+                    <w n="000000000">ڡٮسٮٮها؟</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:115-020:121</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ولم</w>
+                    <w n="000000000">ٮحد</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">عرما</w>
+                    <w n="000000000">#واد</w>
+                    <w n="000000000">ٯلٮا</w>
+                    <w n="000000000">للملٮكه</w>
+                    <w n="000000000">اسحدوا</w>
+                    <w n="000000000">لادم</w>
+                    <w n="000000000">ڡسحدوا</w>
+                    <w n="000000000">الااٮلٮس</w>
+                    <w n="000000000">اٮى</w>
+                    <w n="000000000">ڡٯلٮا</w>
+                    <w n="000000000">ٮادم</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">هدا</w>
+                    <w n="000000000">عدو</w>
+                    <w n="000000000">لک</w>
+                    <w n="000000000">و لروحک</w>
+                    <w n="000000000">ڡلا</w>
+                    <w n="000000000">ٮحرحٮكما</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">الحٮه</w>
+                    <w n="000000000">ڡٮسٯى#</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">لک</w>
+                    <w n="000000000">لاٮحو ع</w>
+                    <w n="000000000">ڡٮها</w>
+                    <w n="000000000">ولا</w>
+                    <w n="000000000">ٮعرى#</w>
+                    <w n="000000000">واٮک</w>
+                    <w n="000000000">لاٮطموا</w>
+                    <w n="000000000">ڡٮها</w>
+                    <w n="000000000">ولا</w>
+                    <w n="000000000">ٮصحى#</w>
+                    <w n="000000000">ڡو سوس</w>
+                    <w n="000000000">الٮه</w>
+                    <w n="000000000">السٮطں</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">ٮاد م</w>
+                    <w n="000000000">هل</w>
+                    <w n="000000000">ادلک</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">سحره</w>
+                    <w n="000000000">ا لحلد</w>
+                    <w n="000000000">وملک</w>
+                    <w n="000000000">لاٮٮلى#</w>
+                    <w n="000000000">ڡاكلا</w>
+                    <w n="000000000">منها</w>
+                    <w n="000000000">ڡٮدٮ</w>
+                    <w n="000000000">لهما</w>
+                    <w n="000000000">سوٮهما</w>
+                    <w n="000000000">وطڡٯا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:110-020:115</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮه</w>
+                    <w n="000000000">علما#</w>
+                    <w n="000000000">وعٮٮ</w>
+                    <w n="000000000">الوحوه</w>
+                    <w n="000000000">للحى</w>
+                    <w n="000000000">الٯٮوم</w>
+                    <w n="000000000">وٯد</w>
+                    <w n="000000000">حاٮ</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">حمل</w>
+                    <w n="000000000">طلما#</w>
+                    <w n="000000000">ومں</w>
+                    <w n="000000000">ٮعمل</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">الصلحٮ</w>
+                    <w n="000000000">وهو</w>
+                    <w n="000000000">مومں</w>
+                    <w n="000000000">ڡلا</w>
+                    <w n="000000000">ٮحاڡ</w>
+                    <w n="000000000">علٮهم</w>
+                    <w n="000000000">طلما</w>
+                    <w n="000000000">ولاهصم#ا</w>
+                    <w n="000000000">وكدلک</w>
+                    <w n="000000000">اٮر اٮه</w>
+                    <w n="000000000">ٯراٮا</w>
+                    <w n="000000000">عرٮٮا</w>
+                    <w n="000000000">وصرڡٮا؟</w>
+                    <w n="000000000">ڡٮه</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">الوعٮد</w>
+                    <w n="000000000">لعلهم</w>
+                    <w n="000000000">ٮٮٯوں</w>
+                    <w n="000000000">او</w>
+                    <w n="000000000">ٮحدٮ</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">دكرا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ڡٮعلى</w>
+                    <w n="000000000">ا</w>
+                    <w n="000000000">ل‍له</w>
+                    <w n="000000000">الملک</w>
+                    <w n="000000000">الحٯ</w>
+                    <w n="000000000">ولا</w>
+                    <w n="000000000">ٮعحل</w>
+                    <w n="000000000">ٮالٯراں</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">ٯٮل</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ٮٯصى</w>
+                    <w n="000000000">الٮک</w>
+                    <w n="000000000">وحٮه</w>
+                    <w n="000000000">و ٯل</w>
+                    <w n="000000000">رٮى</w>
+                    <w n="000000000">ردٮى</w>
+                    <w n="000000000">علما#</w>
+                    <w n="000000000">ولٯد</w>
+                    <w n="000000000">عهدٮا</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">ادم</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٯٮل</w>
+                    <w n="000000000">ڡٮسى</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:103-020:110</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">لٮٮٮم</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">عسر[</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">؟]ا</w>
+                    <w n="000000000">ٮحں</w>
+                    <w n="000000000">اعلم</w>
+                    <w n="000000000">ٮما</w>
+                    <w n="000000000">ٮٯولوں</w>
+                    <w n="000000000">اد</w>
+                    <w n="000000000">ٮٯول</w>
+                    <w n="000000000">امٮلهم</w>
+                    <w n="000000000">طرٮٯه</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">لٮثٮم</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">ٮوما#</w>
+                    <w n="000000000">وٮسلوٮک</w>
+                    <w n="000000000">عں</w>
+                    <w n="000000000">الحٮال</w>
+                    <w n="000000000">ڡٯل</w>
+                    <w n="000000000">ٮٮسڡها</w>
+                    <w n="000000000">رٮى</w>
+                    <w n="000000000">ٮسڡا#</w>
+                    <w n="000000000">ڡٮدر ها</w>
+                    <w n="000000000">ٯاعا</w>
+                    <w n="000000000">صڡصڡا#</w>
+                    <w n="000000000">لاٮرى</w>
+                    <w n="000000000">ڡٮها</w>
+                    <w n="000000000">عوحا</w>
+                    <w n="000000000">ولا</w>
+                    <w n="000000000">امٮا#</w>
+                    <w n="000000000">ٮومٮد</w>
+                    <w n="000000000">ٮٮٮعوں</w>
+                    <w n="000000000">الداعى</w>
+                    <w n="000000000">لاعوح</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">وحشعت</w>
+                    <w n="000000000">الاصوٮ</w>
+                    <w n="000000000">للرحمں</w>
+                    <w n="000000000">ڡلا</w>
+                    <w n="000000000">ٮسمع</w>
+                    <w n="000000000">الاهمسا</w>
+                    <w n="000000000">ٮومٮد</w>
+                    <w n="000000000">لاٮٮڡع</w>
+                    <w n="000000000">السڡعه</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ادں</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">الرحمں</w>
+                    <w n="000000000">ور صى</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">ٯولا</w>
+                    <w n="000000000">ٮعلم</w>
+                    <w n="000000000">ماٮٮں</w>
+                    <w n="000000000">اٮد ٮهم</w>
+                    <w n="000000000">وماحلڡهم</w>
+                    <w n="000000000">ولاٮحٮطوں</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:097-020:103</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">موعدا</w>
+                    <w n="000000000">لں</w>
+                    <w n="000000000">ٮحلڡه</w>
+                    <w n="000000000">واٮطر</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">الهکِ</w>
+                    <w n="000000000">الدى</w>
+                    <w n="000000000">طلٮ</w>
+                    <w n="000000000">علٮه</w>
+                    <w n="000000000">عكڡا</w>
+                    <w n="000000000">لٮحرٯٮه</w>
+                    <w n="000000000">ٮم</w>
+                    <w n="000000000">لٮٮسڡٮه</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الٮم</w>
+                    <w n="000000000">ٮسڡا</w>
+                    <w n="000000000">اٮما</w>
+                    <w n="000000000">الهكم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الدى</w>
+                    <w n="000000000">لا</w>
+                    <w n="000000000">اله</w>
+                    <w n="000000000">الا؟</w>
+                    <w n="000000000">هو</w>
+                    <w n="000000000">وسع</w>
+                    <w n="000000000">كل</w>
+                    <w n="000000000">سى</w>
+                    <w n="000000000">علما#</w>
+                    <w n="000000000">كدلک</w>
+                    <w n="000000000">ٮٯص</w>
+                    <w n="000000000">علٮک</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">اٮٮا</w>
+                    <w n="000000000">ماٯد</w>
+                    <w n="000000000">#سٮٯ</w>
+                    <w n="000000000">و ٯد</w>
+                    <w n="000000000">اٮِٮٮک</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">لدنا</w>
+                    <w n="000000000">دكرا؟ مں</w>
+                    <w n="000000000">اعرص</w>
+                    <w n="000000000">عٮه</w>
+                    <w n="000000000">ڡاٮه</w>
+                    <w n="000000000">ٮحمل</w>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">ا لٯٮمه</w>
+                    <w n="000000000">وررا</w>
+                    <w n="000000000">حلدٮں#</w>
+                    <w n="000000000">ڡٮه؟ وسا</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">الٯٮمه</w>
+                    <w n="000000000">حملا</w>
+                    <w n="000000000">ٮوم؟</w>
+                    <w n="000000000">ٮٮفح</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الصور</w>
+                    <w n="000000000">وٮحسر</w>
+                    <w n="000000000">المحر مٮں</w>
+                    <w n="000000000">ٮومٮد</w>
+                    <w n="000000000">ررٯا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">ٮٮحڡٮوں</w>
+                    <w n="000000000">ٮٮٮهم</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:092-020:097</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">ٮهروں</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">مٮعک</w>
+                    <w n="000000000">اد</w>
+                    <w n="000000000">راٮٮهم صلوا</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">ٮٮٮعں</w>
+                    <w n="000000000">اڡعصَٮٮ</w>
+                    <w n="000000000">ا مرى#ٯال</w>
+                    <w n="000000000">ٮٮٮوم</w>
+                    <w n="000000000">لاٮاحد</w>
+                    <w n="000000000">ٮلحٮٮى ٮراسى</w>
+                    <w n="000000000">اٮى</w>
+                    <w n="000000000">حسٮٮ</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ٮٯول</w>
+                    <w n="000000000">ڡرٯٮ</w>
+                    <w n="000000000">ٮٮں</w>
+                    <w n="000000000">ٮٮى</w>
+                    <w n="000000000">اسرٮل</w>
+                    <w n="000000000">و؟ لم</w>
+                    <w n="000000000">ٮرٯٮ</w>
+                    <w n="000000000">ٯولى#</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">ڡما</w>
+                    <w n="000000000">؟ حطٮک</w>
+                    <w n="000000000">ٮا</w>
+                    <w n="000000000">سمرى#</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">ٮصر ٮ</w>
+                    <w n="000000000">ٮما</w>
+                    <w n="000000000">لم</w>
+                    <w n="000000000">ٮٮصروا</w>
+                    <w n="000000000">ٮه</w>
+                    <w n="000000000">ڡٯٮصٮ</w>
+                    <w n="000000000">ٯٮصه</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">اٮر</w>
+                    <w n="000000000">الرسول</w>
+                    <w n="000000000">ڡٮٮدٮها</w>
+                    <w n="000000000">وكدلک</w>
+                    <w n="000000000">سولٮ</w>
+                    <w n="000000000">لى</w>
+                    <w n="000000000">ٮڡسى؟ ٯال</w>
+                    <w n="000000000">ڡدهٮ</w>
+                    <w n="000000000">ڡاں</w>
+                    <w n="000000000">لک</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">ا لحٮوه</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ٮٯول</w>
+                    <w n="000000000">لامساس</w>
+                    <w n="000000000">واں</w>
+                    <w n="000000000">لک</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:087-020:091</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">حملٮا</w>
+                    <w n="000000000">اورارا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">رٮٮه</w>
+                    <w n="000000000">الٯوم</w>
+                    <w n="000000000">ڡٯدڡٮهاڡكدلک</w>
+                    <w n="000000000">الٯى</w>
+                    <w n="000000000">ا لسمرى</w>
+                    <w n="000000000">ڡاحرح</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">عحلا</w>
+                    <w n="000000000">حسد ا</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">حوار</w>
+                    <w n="000000000">ڡٯالوا</w>
+                    <w n="000000000">هدا</w>
+                    <w n="000000000">ا لهكم</w>
+                    <w n="000000000">واله</w>
+                    <w n="000000000">موسى</w>
+                    <w n="000000000">ڡٮسى</w>
+                    <w n="000000000">اڡلا</w>
+                    <w n="000000000">ٮروں</w>
+                    <w n="000000000">الاٮرحع</w>
+                    <w n="000000000">الٮهم</w>
+                    <w n="000000000">ٯولا</w>
+                    <w n="000000000">و لاٮملک</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">صرا</w>
+                    <w n="000000000">ولاٮڡعا</w>
+                    <w n="000000000">و لٯد</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">هروں</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٯٮل</w>
+                    <w n="000000000">ٮٯوم</w>
+                    <w n="000000000">اٮما</w>
+                    <w n="000000000">ڡٮٮٮم</w>
+                    <w n="000000000">ٮه</w>
+                    <w n="000000000">واں</w>
+                    <w n="000000000">رٮكم</w>
+                    <w n="000000000">ا لرحمں</w>
+                    <w n="000000000">ڡاٮٮعوٮى</w>
+                    <w n="000000000">واطٮعوا</w>
+                    <w n="000000000">امرى</w>
+                    <w n="000000000">ٯالوا</w>
+                    <w n="000000000">لں</w>
+                    <w n="000000000">ٮٮرح</w>
+                    <w n="000000000">علٮه</w>
+                    <w n="000000000">عكڡٮں</w>
+                    <w n="000000000">حٮى</w>
+                    <w n="000000000">ٮرحع</w>
+                    <w n="000000000">الٮٮا</w>
+                    <w n="000000000">موسى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:083-020:087</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">اعحلک</w>
+                    <w n="000000000">عں</w>
+                    <w n="000000000">ڡومک</w>
+                    <w n="000000000">ٮمو سى</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">هم</w>
+                    <w n="000000000">اولاعلى</w>
+                    <w n="000000000">اٮرى</w>
+                    <w n="000000000">و عحلٮ</w>
+                    <w n="000000000">الٮک</w>
+                    <w n="000000000">رٮ</w>
+                    <w n="000000000">لٮرصى</w>
+                    <w n="000000000">ڡا ل</w>
+                    <w n="000000000">ڡاٮاٯد</w>
+                    <w n="000000000">ڡٮٮا</w>
+                    <w n="000000000">ٯومک</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮعد ک</w>
+                    <w n="000000000">واصلهم</w>
+                    <w n="000000000">السمرى</w>
+                    <w n="000000000">ڡر حع</w>
+                    <w n="000000000">موسى</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">ٯومه</w>
+                    <w n="000000000">عصٮں اسڡا</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">ٮٯوم</w>
+                    <w n="000000000">الم</w>
+                    <w n="000000000">ٮعدكم</w>
+                    <w n="000000000">رٮكم</w>
+                    <w n="000000000">وعدا</w>
+                    <w n="000000000">حسٮا</w>
+                    <w n="000000000">اڡطال</w>
+                    <w n="000000000">علٮكم</w>
+                    <w n="000000000">العهد</w>
+                    <w n="000000000">ام</w>
+                    <w n="000000000">اردٮم</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ٮحل</w>
+                    <w n="000000000">علٮكم</w>
+                    <w n="000000000">عصٮ</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">رٮكم</w>
+                    <w n="000000000">ڡاحلڡٮم</w>
+                    <w n="000000000">موعدى</w>
+                    <w n="000000000">ٯالوا</w>
+                    <w n="000000000">ما احلڡٮا</w>
+                    <w n="000000000">موعدک</w>
+                    <w n="000000000">ٮملكٮا</w>
+                    <w n="000000000">ولكٮا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:078-020:082</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮحٮوده</w>
+                    <w n="000000000">ڡعسٮهم</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">الٮم</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">؟  عسٮهمواصل</w>
+                    <w n="000000000">فرعوں</w>
+                    <w n="000000000">وٯومه</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">هدى</w>
+                    <w n="000000000">ٮٮٮى</w>
+                    <w n="000000000">اسرٮٮل</w>
+                    <w n="000000000">ٯد</w>
+                    <w n="000000000">ا؟ ٮحٮٮاكم</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">عدوكم</w>
+                    <w n="000000000">وو؟ عدٮكم</w>
+                    <w n="000000000">حاٮٮ</w>
+                    <w n="000000000">الطور</w>
+                    <w n="000000000">ا لاٮمں</w>
+                    <w n="000000000">وٮرلٮا</w>
+                    <w n="000000000">علٮكم</w>
+                    <w n="000000000">المں</w>
+                    <w n="000000000">و السلوى</w>
+                    <w n="000000000">#كلوا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">طٮٮٮ ماررٯٮكم</w>
+                    <w n="000000000">ولاٮطعوا#</w>
+                    <w n="000000000">ڡٮه</w>
+                    <w n="000000000">ڡٮحل</w>
+                    <w n="000000000">علٮكم</w>
+                    <w n="000000000">عصٮى</w>
+                    <w n="000000000">ومں</w>
+                    <w n="000000000">ٮحلل</w>
+                    <w n="000000000">علٮه</w>
+                    <w n="000000000">عصٮى</w>
+                    <w n="000000000">ڡٯد</w>
+                    <w n="000000000">هوى  واٮى</w>
+                    <w n="000000000">عڡار</w>
+                    <w n="000000000">لمں</w>
+                    <w n="000000000">ٮاٮ</w>
+                    <w n="000000000">وا مں</w>
+                    <w n="000000000">وعمل</w>
+                    <w n="000000000">صلحا</w>
+                    <w n="000000000">ٮم</w>
+                    <w n="000000000">اهٮدى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>Vorletzte Zeile, hinterer Teil: Stehen da noch Zeichen, welche nicht transliteriert wurden? (js)</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>020:073-020:078</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ومااكرهٮٮا</w>
+                    <w n="000000000">علٮه</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">سحر والل‍ه</w>
+                    <w n="000000000">حٮر</w>
+                    <w n="000000000">واٮٯى#</w>
+                    <w n="000000000">اٮه</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮاٮ</w>
+                    <w n="000000000">رٮه</w>
+                    <w n="000000000">محرما</w>
+                    <w n="000000000">ڡاں</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">حهٮم</w>
+                    <w n="000000000">لاٮموٮ</w>
+                    <w n="000000000">ڡٮها</w>
+                    <w n="000000000">ولاٮحٮى#ومں</w>
+                    <w n="000000000">ٮاٮه</w>
+                    <w n="000000000">مومٮا</w>
+                    <w n="000000000">ٯد عمل</w>
+                    <w n="000000000">الصلحٮ</w>
+                    <w n="000000000">ڡاولٮک</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">ا لدرحٮ</w>
+                    <w n="000000000">العلى#</w>
+                    <w n="000000000">حٮاٮ</w>
+                    <w n="000000000">عد ں</w>
+                    <w n="000000000">ٮحرى</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮحٮها</w>
+                    <w n="000000000">الاٮهر</w>
+                    <w n="000000000">حلدٮں ڡٮها</w>
+                    <w n="000000000">ودلک</w>
+                    <w n="000000000">حرا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮركى ولٯد</w>
+                    <w n="000000000">اوحٮٮا</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">موسى</w>
+                    <w n="000000000">اں اسر</w>
+                    <w n="000000000">ٮعٮادى</w>
+                    <w n="000000000">ڡاصرٮ</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">طر ٮٯا</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الٮحرٮٮسا</w>
+                    <w n="000000000">لاٮحڡ</w>
+                    <w n="000000000">دركا</w>
+                    <w n="000000000">ولاٮحسى#ڡٮٮعهم</w>
+                    <w n="000000000">ڡرعوں؟</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:071-020:073</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">امٮٮم</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">ٯٮل</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ادں</w>
+                    <w n="000000000">لكم</w>
+                    <w n="000000000">اٮه؟</w>
+                    <w n="000000000">لكٮٮركم</w>
+                    <w n="000000000">الدى</w>
+                    <w n="000000000">علمكم</w>
+                    <w n="000000000">ا لسحر</w>
+                    <w n="000000000">ڡلاٯطعں</w>
+                    <w n="000000000">اٮدٮكم</w>
+                    <w n="000000000">وا رحلكم</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">حاڡ</w>
+                    <w n="000000000">ولا؟ صلٮٮكم</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">حدوع</w>
+                    <w n="000000000">ا لٮحل</w>
+                    <w n="000000000">ولٮعلمں</w>
+                    <w n="000000000">اٮٮا</w>
+                    <w n="000000000">اسد</w>
+                    <w n="000000000">عد اٮا</w>
+                    <w n="000000000">واٮٯى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٯالوا</w>
+                    <w n="000000000">لں</w>
+                    <w n="000000000">ٮوٮر ک</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">ماحاٮا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">الٮٮٮٮ والدى</w>
+                    <w n="000000000">ڡطرٮا</w>
+                    <w n="000000000">ڡاٯص</w>
+                    <w n="000000000">ما اٮٮ</w>
+                    <w n="000000000">ٯاص</w>
+                    <w n="000000000">اٮما</w>
+                    <w n="000000000">ٮٯصى# هده</w>
+                    <w n="000000000">الحٮوه</w>
+                    <w n="000000000">الدٮٮااٮا</w>
+                    <w n="000000000">امٮا</w>
+                    <w n="000000000">ٮرٮٮا</w>
+                    <w n="000000000">لٮعڡر</w>
+                    <w n="000000000">لٮا</w>
+                    <w n="000000000">حطٮٮا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:064-020:071</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">اسٮعلى</w>
+                    <w n="000000000">ٯالوا</w>
+                    <w n="000000000">ٮموسى</w>
+                    <w n="000000000">اما</w>
+                    <w n="000000000">اں ٮلٯى</w>
+                    <w n="000000000">واما</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ٮكوں</w>
+                    <w n="000000000">ٮحں</w>
+                    <w n="000000000">اول</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">الٯى#</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">ٮل</w>
+                    <w n="000000000">الٯوا</w>
+                    <w n="000000000">ڡادا</w>
+                    <w n="000000000">حٮلهم</w>
+                    <w n="000000000">وعصٮهم</w>
+                    <w n="000000000">ٮحٮل</w>
+                    <w n="000000000">الٮه</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">سحرهم</w>
+                    <w n="000000000">اٮها</w>
+                    <w n="000000000">ٮسعى#ڡاوحس</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">ٮڡسه</w>
+                    <w n="000000000">حٮڡه</w>
+                    <w n="000000000">موسى</w>
+                    <w n="000000000">ٯلٮا</w>
+                    <w n="000000000">لا؟ ٮحڡ</w>
+                    <w n="000000000">اٮک</w>
+                    <w n="000000000">اٮٮ</w>
+                    <w n="000000000">الاعلى#و الٯ</w>
+                    <w n="000000000">ماڡى</w>
+                    <w n="000000000">ٮمٮٮک</w>
+                    <w n="000000000">ٮلٯڡ</w>
+                    <w n="000000000">ما؟ صٮعوااٮما</w>
+                    <w n="000000000">صٮعوا</w>
+                    <w n="000000000">كٮد</w>
+                    <w n="000000000">سحر</w>
+                    <w n="000000000">ولاٮڡلح</w>
+                    <w n="000000000">السحرحٮٮ</w>
+                    <w n="000000000">اٮى ڡالٯى</w>
+                    <w n="000000000">السحره</w>
+                    <w n="000000000">سحدا</w>
+                    <w n="000000000">ٯالوا</w>
+                    <w n="000000000">ا مٮا</w>
+                    <w n="000000000">ٮرٮَ</w>
+                    <w n="000000000">هروں</w>
+                    <w n="000000000">وموسى</w>
+                    <w n="000000000">ٯال</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:060-020:064</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ڡرعوں</w>
+                    <w n="000000000">ڡحمع</w>
+                    <w n="000000000">كٮده</w>
+                    <w n="000000000">ٮم</w>
+                    <w n="000000000">اٮى ٯال</w>
+                    <w n="000000000">لهم</w>
+                    <w n="000000000">موسى!وٮلكم</w>
+                    <w n="000000000">لاٮڡٮر وا</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">كدٮا</w>
+                    <w n="000000000">ڡٮسحٮكم</w>
+                    <w n="000000000">ٮعداٮ</w>
+                    <w n="000000000">وٯد</w>
+                    <w n="000000000">حاٮ</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">اڡٮرى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ڡٮٮرعوا</w>
+                    <w n="000000000">امر هم</w>
+                    <w n="000000000">ٮٮٮهم</w>
+                    <w n="000000000">واسروا</w>
+                    <w n="000000000">الٮحوى ڡالوا</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">هداں</w>
+                    <w n="000000000">لساحراں</w>
+                    <w n="000000000">ٮر ٮداں</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ٮحرحاكم</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ار صكم</w>
+                    <w n="000000000">ٮسحرهما</w>
+                    <w n="000000000">وٮدهٮا</w>
+                    <w n="000000000">؟ ٮطرٮٯٮكم</w>
+                    <w n="000000000">المٮلى</w>
+                    <w n="000000000">ڡاحمعو ا</w>
+                    <w n="000000000">كٮدكم</w>
+                    <w n="000000000">ٮم</w>
+                    <w n="000000000">اٮٮوا</w>
+                    <w n="000000000">صڡا وٯد</w>
+                    <w n="000000000">اڡلح</w>
+                    <w n="000000000">الٮوم</w>
+                    <w n="000000000">مں؟</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:054-020:060</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">اٮعمكم</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">دلک</w>
+                    <w n="000000000">لاٮٮ لاولى</w>
+                    <w n="000000000">الٮهى#</w>
+                    <w n="000000000">منها</w>
+                    <w n="000000000">حلٯٮكم وڡٮها</w>
+                    <w n="000000000">ٮعٮدكم</w>
+                    <w n="000000000">ومنها</w>
+                    <w n="000000000">ٮحر حكم</w>
+                    <w n="000000000">ٮاره</w>
+                    <w n="000000000">احرى#</w>
+                    <w n="000000000">ولٯد ارٮٮه</w>
+                    <w n="000000000">اٮٮٮا</w>
+                    <w n="000000000">كلها</w>
+                    <w n="000000000">ڡكد ٮ</w>
+                    <w n="000000000">واٮى#</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">احٮٮٮا</w>
+                    <w n="000000000">لٮحرحٮا مں</w>
+                    <w n="000000000">ارصٮا</w>
+                    <w n="000000000">ٮسحرک</w>
+                    <w n="000000000">ٮموسى ڡلٮا</w>
+                    <w n="000000000">ٮٮٮک</w>
+                    <w n="000000000">ٮسحر</w>
+                    <w n="000000000">مٮله</w>
+                    <w n="000000000">ڡاحعل</w>
+                    <w n="000000000">ٮٮٮٮا وٮٮٮک</w>
+                    <w n="000000000">موعد</w>
+                    <w n="000000000">ا</w>
+                    <w n="000000000">لاٮحلڡه</w>
+                    <w n="000000000">ٮحں ولا</w>
+                    <w n="000000000">اٮٮ</w>
+                    <w n="000000000">مكاٮا</w>
+                    <w n="000000000">سوى</w>
+                    <w n="000000000">ٯا ل</w>
+                    <w n="000000000">موعدكم</w>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">الرٮٮه</w>
+                    <w n="000000000">واں</w>
+                    <w n="000000000">ٮحسر</w>
+                    <w n="000000000">الٮاس</w>
+                    <w n="000000000">صحى#</w>
+                    <w n="000000000">ڡٮولى</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:048-020:054</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">اٮا</w>
+                    <w n="000000000">ٯد</w>
+                    <w n="000000000">اوحى</w>
+                    <w n="000000000">الٮٮااں</w>
+                    <w n="000000000">العدا؟</w>
+                    <w n="000000000">ٮ</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">كدٮ</w>
+                    <w n="000000000">وٮولى</w>
+                    <w n="000000000">ٯا ل</w>
+                    <w n="000000000">ڡمں</w>
+                    <w n="000000000">رٮكما</w>
+                    <w n="000000000">ىموسى</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">رٮٮا الدى</w>
+                    <w n="000000000">اَعطى</w>
+                    <w n="000000000">كل</w>
+                    <w n="000000000">سى</w>
+                    <w n="000000000">حلٯه</w>
+                    <w n="000000000">ٮم هدى#</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">ڡما</w>
+                    <w n="000000000">ٮال</w>
+                    <w n="000000000">الٯروں</w>
+                    <w n="000000000">ا لاولى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">علمها</w>
+                    <w n="000000000">عٮد</w>
+                    <w n="000000000">رٮى ڡى</w>
+                    <w n="000000000">كٮٮ</w>
+                    <w n="000000000">لاٮصل</w>
+                    <w n="000000000">رٮى</w>
+                    <w n="000000000">ولاٮٮسى الدى</w>
+                    <w n="000000000">حعل</w>
+                    <w n="000000000">لكم</w>
+                    <w n="000000000">الارص مهدا</w>
+                    <w n="000000000">وسلک</w>
+                    <w n="000000000">لكم</w>
+                    <w n="000000000">ڡٮها سٮلا</w>
+                    <w n="000000000">واٮرل</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">السما</w>
+                    <w n="000000000">ڡا؟ حرحٮاُ</w>
+                    <w n="000000000">ٮِه</w>
+                    <w n="000000000">اروحا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮٮاٮ</w>
+                    <w n="000000000">سٮى</w>
+                    <w n="000000000">كلوا</w>
+                    <w n="000000000">وارعوا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:041-020:047</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">لٮڡسى</w>
+                    <w n="000000000">ادهٮ</w>
+                    <w n="000000000">اٮٮ</w>
+                    <w n="000000000">واحو ک</w>
+                    <w n="000000000">ٮاٮٮى</w>
+                    <w n="000000000">ولا</w>
+                    <w n="000000000">ٮٮٮا</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">دكرى #ادهٮا</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">ڡرعوں</w>
+                    <w n="000000000">اٮه</w>
+                    <w n="000000000">؟ طعى#</w>
+                    <w n="000000000">ڡٯولا</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">ڡولا</w>
+                    <w n="000000000">لىٮا</w>
+                    <w n="000000000">لعله ٮدكر</w>
+                    <w n="000000000">او</w>
+                    <w n="000000000">ٮحسى#</w>
+                    <w n="000000000">ٯالا</w>
+                    <w n="000000000">رٮٮا</w>
+                    <w n="000000000">اٮٮا</w>
+                    <w n="000000000">ٮحاڡ</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ٮڡرط</w>
+                    <w n="000000000">علٮٮا او</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ٮطعى#ٯال</w>
+                    <w n="000000000">لا</w>
+                    <w n="000000000">ٮحاڡا</w>
+                    <w n="000000000">ا ٮٮى</w>
+                    <w n="000000000">معكما</w>
+                    <w n="000000000">اسمع</w>
+                    <w n="000000000">وارى#</w>
+                    <w n="000000000">ڡا ٮٮه</w>
+                    <w n="000000000">ڡٯولا</w>
+                    <w n="000000000">اٮا</w>
+                    <w n="000000000">رسولارٮک</w>
+                    <w n="000000000">ڡا رسل</w>
+                    <w n="000000000">معَٮِا</w>
+                    <w n="000000000">ٮٮى</w>
+                    <w n="000000000">اسرٮل</w>
+                    <w n="000000000">ولا</w>
+                    <w n="000000000">ٮعد ٮهم</w>
+                    <w n="000000000">ٯد</w>
+                    <w n="000000000">حٮٮک</w>
+                    <w n="000000000">ٮاٮه</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">رٮک والسلام</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">اٮٮع</w>
+                    <w n="000000000">الهدى#</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:039-020:041</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ڡاٯدڡٮه</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الىم</w>
+                    <w n="000000000">ڡٮلٮٯڡه</w>
+                    <w n="000000000">ا لٮم</w>
+                    <w n="000000000">ٮالسحل</w>
+                    <w n="000000000">ىاحده</w>
+                    <w n="000000000">عدولى وعدو</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">والٯٮٮ</w>
+                    <w n="000000000">علٮک محٮه</w>
+                    <w n="000000000">مٮى</w>
+                    <w n="000000000">ولٮصٮع</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">عٮٮى</w>
+                    <w n="000000000">ا د</w>
+                    <w n="000000000">ٮمسى</w>
+                    <w n="000000000">احٮک</w>
+                    <w n="000000000">ڡٮٯول</w>
+                    <w n="000000000">هل</w>
+                    <w n="000000000">ا دلكم</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ىكڡله</w>
+                    <w n="000000000">ڡر حعٮک</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">امک</w>
+                    <w n="000000000">كى</w>
+                    <w n="000000000">ٮٯر عىٮها</w>
+                    <w n="000000000">ولا</w>
+                    <w n="000000000">ٮحرں</w>
+                    <w n="000000000">وٯٮلٮ ٮڡسا</w>
+                    <w n="000000000">ڡٮحٮٮک</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">العم</w>
+                    <w n="000000000">وڡٮٮک ڡٮوٮا</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">ڡلٮٮٮ</w>
+                    <w n="000000000">سٮٮں</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">اهل مدٮں</w>
+                    <w n="000000000">ٮم</w>
+                    <w n="000000000">حٮٮ</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">ٯد ر</w>
+                    <w n="000000000">ٮموسى</w>
+                    <w n="000000000">واصطٮعٮک</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:025-020:039</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">رٮ</w>
+                    <w n="000000000">اسرح</w>
+                    <w n="000000000">لى</w>
+                    <w n="000000000">صدرى</w>
+                    <w n="000000000">و؟ ٮسر</w>
+                    <w n="000000000">لى</w>
+                    <w n="000000000">امرى#</w>
+                    <w n="000000000">واحلل</w>
+                    <w n="000000000">عٯده</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">لساٮى#ٮڡٯهوا</w>
+                    <w n="000000000">ٯولى</w>
+                    <w n="000000000">وا؟ حعل</w>
+                    <w n="000000000">لى</w>
+                    <w n="000000000">وررا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">اهلى</w>
+                    <w n="000000000">هروں</w>
+                    <w n="000000000">احى</w>
+                    <w n="000000000">اسدد</w>
+                    <w n="000000000">ٮه</w>
+                    <w n="000000000">اررى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">واسر؟ كه</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">امرى</w>
+                    <w n="000000000">كى</w>
+                    <w n="000000000">ٮسٮحک كٮىرا#</w>
+                    <w n="000000000">وٮدكرک</w>
+                    <w n="000000000">كٮٮرا اٮک</w>
+                    <w n="000000000">كٮٮ</w>
+                    <w n="000000000">ٮٮا</w>
+                    <w n="000000000">ٮصٮرا#</w>
+                    <w n="000000000">ڡال؟</w>
+                    <w n="000000000">ٯد</w>
+                    <w n="000000000">اوٮٮٮ</w>
+                    <w n="000000000">سولک</w>
+                    <w n="000000000">موسى ولٯد</w>
+                    <w n="000000000">مٮٮا</w>
+                    <w n="000000000">علٮک</w>
+                    <w n="000000000">مره</w>
+                    <w n="000000000">احرى اداوحٮٮا</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">امک</w>
+                    <w n="000000000">ماٮو حى#</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">اٯدڡٮه</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الٮٮوت</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:016-020:025</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ڡٮردى#</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">ٮلک</w>
+                    <w n="000000000">ٮٮمٮٮک</w>
+                    <w n="000000000">ٮمو سى</w>
+                    <w n="000000000">#</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">هى</w>
+                    <w n="000000000">عصاى</w>
+                    <w n="000000000">اٮوكو اعلٮها</w>
+                    <w n="000000000">واهس</w>
+                    <w n="000000000">ٮها</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">عٮمى</w>
+                    <w n="000000000">و لىڡٮها</w>
+                    <w n="000000000">مارٮ</w>
+                    <w n="000000000">احرى#ٯال</w>
+                    <w n="000000000">ا لٯهاٮموسى</w>
+                    <w n="000000000">ڡالٯٮها</w>
+                    <w n="000000000">ڡادا</w>
+                    <w n="000000000">هى  حٮه</w>
+                    <w n="000000000">ٮسعى#</w>
+                    <w n="000000000">ٯال</w>
+                    <w n="000000000">حدها</w>
+                    <w n="000000000">ولاٮحڡ سٮعٮدها</w>
+                    <w n="000000000">سٮرٮها</w>
+                    <w n="000000000">الاولى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">(20)</w>
+                    <w n="000000000">واصمم</w>
+                    <w n="000000000">ٮدک</w>
+                    <w n="000000000">الى</w>
+                    <w n="000000000">حٮا حک</w>
+                    <w n="000000000">ٮحرح</w>
+                    <w n="000000000">ٮٮصامں</w>
+                    <w n="000000000">عٮر  سواٮه</w>
+                    <w n="000000000">احرى#لٮرٮک</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ا ٮٮٮا</w>
+                    <w n="000000000">الكٮكرى#</w>
+                    <w n="000000000">ادهٮ</w>
+                    <w n="000000000">ا لى</w>
+                    <w n="000000000">ڡرعوں</w>
+                    <w n="000000000">اٮه</w>
+                    <w n="000000000">طعى#</w>
+                    <w n="000000000">ٯال</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:010-020:016</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">لعلى</w>
+                    <w n="000000000">اٮٮكم</w>
+                    <w n="000000000">مٮها</w>
+                    <w n="000000000">ٮٯٮس</w>
+                    <w n="000000000">او</w>
+                    <w n="000000000">احد على</w>
+                    <w n="000000000">الٮار</w>
+                    <w n="000000000">هدى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ڡلما</w>
+                    <w n="000000000">اٮٮها ٮودى</w>
+                    <w n="000000000">ٮموسى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">(10)</w>
+                    <w n="000000000">اٮى</w>
+                    <w n="000000000">اٮا</w>
+                    <w n="000000000">رـ ٮک</w>
+                    <w n="000000000">ڡاخلع</w>
+                    <w n="000000000">ٮعلٮک</w>
+                    <w n="000000000">اٮک</w>
+                    <w n="000000000">ٮالو اد</w>
+                    <w n="000000000">المٯدس</w>
+                    <w n="000000000">طاوى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">و ا</w>
+                    <w n="000000000">نااحترٮک</w>
+                    <w n="000000000">ڡاسٮمع</w>
+                    <w n="000000000">لما</w>
+                    <w n="000000000">ٮو حى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">اننى</w>
+                    <w n="000000000">اٮا</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">لا</w>
+                    <w n="000000000">اله</w>
+                    <w n="000000000">الا  انا</w>
+                    <w n="000000000">فاعٮدٮى</w>
+                    <w n="000000000">واڡم</w>
+                    <w n="000000000">الصلو ﻩ</w>
+                    <w n="000000000">لدكرى</w>
+                    <w n="000000000">[</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">]ان</w>
+                    <w n="000000000">الساعه</w>
+                    <w n="000000000">ا ٮٮه</w>
+                    <w n="000000000">اكاد</w>
+                    <w n="000000000">اخڡٮها</w>
+                    <w n="000000000">لٮحرى</w>
+                    <w n="000000000">كل ٮڡس</w>
+                    <w n="000000000">ٮما</w>
+                    <w n="000000000">تسعى</w>
+                    <w n="000000000">[</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">]ڡلا</w>
+                    <w n="000000000">ٮصدٮک عٮها</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">لاٮومں</w>
+                    <w n="000000000">ٮها</w>
+                    <w n="000000000">واٮٮع</w>
+                    <w n="000000000">هوٮه</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>020:002-020:010</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">مااٮرلٮا</w>
+                    <w n="000000000">علٮک</w>
+                    <w n="000000000">الڡراں</w>
+                    <w n="000000000">لٮسڡى</w>
+                    <w n="000000000"/>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">ا لاٮدكره</w>
+                    <w n="000000000">لمں</w>
+                    <w n="000000000">ٮحسى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٮٮرٮلا</w>
+                    <w n="000000000">ممن</w>
+                    <w n="000000000">حلٯ</w>
+                    <w n="000000000">الارض</w>
+                    <w n="000000000">والسماوٮ</w>
+                    <w n="000000000">ا لعلى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">الرحمں</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">العرس</w>
+                    <w n="000000000">اسٮوى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> له</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">السماوٮ</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الارص</w>
+                    <w n="000000000">وماٮٮٮهما</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">ٮحت</w>
+                    <w n="000000000">الٮرى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">وان</w>
+                    <w n="000000000">ٮحهر</w>
+                    <w n="000000000">ٮالٯول</w>
+                    <w n="000000000">ڡاٮه ٮعلم</w>
+                    <w n="000000000">السر</w>
+                    <w n="000000000">واحڡى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ال‍له</w>
+                    <w n="000000000">لااـ له</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">هو</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">لاسما</w>
+                    <w n="000000000">الحسٮى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> وهل</w>
+                    <w n="000000000">اٮٮک</w>
+                    <w n="000000000">حدٮٮ</w>
+                    <w n="000000000">موسى[</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">] ادراٮارا</w>
+                    <w n="000000000">ڡٯال</w>
+                    <w n="000000000">لاهله</w>
+                    <w n="000000000">ا مكٮوا</w>
+                    <w n="000000000">اٮى</w>
+                    <w n="000000000">اٮسٮ</w>
+                    <w n="000000000">ٮاراـ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>019:093-020:001</bibl>
+                    <editor>
+                        <persName>Tolou Khademalsharieh; Dorothea Reule; Tobias J. Jocham; Emaan Safah</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں</w>
+                    <w n="000000000">الرحٮم</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">طه</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matthäus 6:5-15</title>
+                <principal>
+                    <persName>Manolis Ulbricht</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>H. Winkler</persName>
+                    <name>"Fātiḥa und Vaterunser", Zeitschrift für Semitistik 6 (1928), S. 238-246.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>593</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Syrien</origPlace>
+                            <origDate>ca. 80-90 n. Chr. </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>001:001-001:007</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Winkler geht davon aus, dass eine Abhängigkeit der <hi xml:lang="ar-Latn">Fātiḥa</hi> – der ersten Sure im Koran – vom christlichen Vaterunser besteht. Dafür sprächen die „Anklänge an […] Ausdrücke“, die besonders in jüdischem und christlichem Umfeld in Hymnen und Liturgie gebraucht wurden (Winkler, o.a.W., S. 238) (vgl. dazu Thronvers Q 2:255, Winkler S. 242, Anm. 1). Damit wolle Muḥammad einerseits seinen Anhängern ein dem christlichen Lob- und Bittgebet – dem Vaterunser – entsprechendes Pendant geben, andererseits sei somit der Koran – dessen Suren im Groben der Länge nach geordnet sind – durch ein Lobgebet (Q 1 al- Fātiḥa) eröffnet und durch zwei Abschwörungssuren (Q 113 <hi xml:lang="ar-Latn">Sūrat-al-Falaq</hi>, <hi xml:lang="ar-Latn">Q 114 Sūrat-an-Nās</hi>) beschlossen (S. 238) worden. Unmittelbare Anklänge an das christliche Vaterunser seien nicht zu erwarten, vielmehr habe Muḥammad seinen Gläubigen „sein eigenes Vaterunser geben“ (S. 242) wollen.<lb/>
+
+	„Gerade das Gebetswesen ist unter dem Einfluß der älteren Offenbarungsreligionen entwickelt worden.“ (S. 240) Dies erscheint einleuchtend, da einerseits Muḥammad „[i]n dem religiösen Leben seiner Landsleute […] niemals eine Vorlage für ein solches Gebet finden“ konnte (S. 242) und andererseits die in Arabien ansässigen Christen „das im Kultus unentbehrliche Vaterunser [als] Mindestmaß christlicher Kenntnis“ (S. 240) sicherlich gekannt haben.<lb/>
+
+	Äußere Ähnlichkeiten zwischen Vaterunser und <hi xml:lang="ar-Latn">Fātiḥa</hi>: Beide weisen eine Siebenzahl der Verse bzw. <hi xml:lang="ar-Latn">’āyāt</hi> auf (S. 240); sie werden beide von der Gemeinde rezitiert (S. 238) und jeweils von ihr mit der Bekräftigungsformel <hi xml:lang="ar-Latn">amēn</hi> bzw. <hi xml:lang="ar-Latn">’amīn</hi> beendet (S. 238f.); sie wurden von Christus bwz. Muḥammad – also den Verkündern der jeweiligen Religion – direkt eingesetzt (S. 239); bei beiden Gebeten bestand die Möglichkeit, dass sie von einfältigen Gläubigen auch als „Zauberformeln“ interpretiert werden konnten (S. 240f. bzw. 239).<lb/>
+
+	Innere Ähnlichkeiten (im Folgenden S. 244-246) bestehen im gemeinsamen Merkmal, dass die Gläubigen ihre Bitten in der ersten Person Pluralis an Gott richten (S. 242, 245). Weiterhin gliedern sich beide Gebete in drei Teile: a) Anrede bzw. Anrufung Gottes, im Koran als Basmala-Formel (Mt. 6:9b, Q 1:1), b) Gott betreffende Aussagen (Mt. 6:9c-10, Q 1:2-4), c) das menschliche Dasein betreffende Aussagen (M. 6:11-13, Q 1:5-7).<lb/>
+
+	Zu Teil a) Anrede bzw. Anrufung Gottes, im Koran als Basmala-Formel (Mt. 6:9b, Q 1:1): „Der «Vater» und die «Herrschaft des Vaters» sind nach Auffassung der Christen selber vor allem durch Barmherzigkeit charakterisiert [Muḥammad war dies bekannt, vgl. Q 57:27]. Deshalb könnte etwa an dieser Stelle der «barmherzige Erbarmer» dem Πάτερ [<hi xml:lang="ar-Latn">pater</hi>] entsprechen. Dem «im Himmel» der Anrede entspricht etwa der «Herr der Welten» des ersten Fātiḥa-Verses“ (S. 245).<lb/>
+
+	Zu Teil b) Gott betreffende Aussagen (Mt. 6:9c-10, Q 1:2-4): „[D]em «Geheiligt werde…» [Mt. 6:9c, entspricht etwa] das «Lob sei Allah» [Q 1:2]. Mit der zweiten Bitte des Vaterunsers [Mt. 6:10a] konnte Muhammed nichts anfangen, das Reich Gottes war eine ausgesprochen christliche Vorstellung, aber nicht unpassend stellt Muhammed an diese Stelle nochmals den auch von ihm erkannten «barmherzigen Erbarmer» [Q 1:3]. Auch die dritte Bitte [Mt. 6:10b+c] ist für Muhammed nicht annehmbar; der Wunsch, dass Gottes Wille geschehen möge, musste ihm fast als Lästerung Allahs erscheinen, dessen Wille unbedingt geschah, ohne dass dabei der Mensch irgendetwas dazutun oder unterlassen könnte. Diese seine Auffassung von dem Willen Allahs kommt zum Ausdruck in dem «Herrn des Gerichtstages», einer Wendung, die Muhammed offenbar deshalb an diese Stelle [Q 1:4] gesetzt hat, um der christlichen seine eigene Auffassung von Gott gegenüberzustellen […], im Koran findet sich sonst nirgends der Ausdruck [<hi xml:lang="ar-Latn">mālik yaum ad-dīn</hi>]. So schimmert Muhammeds Orientierung am Vaterunser in den ersten drei Versen der <hi xml:lang="ar-Latn">Fātiḥa</hi> noch durch, diese Verse «gehören Allah».“ (S. 245)<lb/>
+
+	Zu Teil c) das menschliche Dasein betreffende Aussagen (M. 6:11-13, Q 1:5-7): „In den folgenden Versen sprechen die Menschen. In der <hi xml:lang="ar-Latn">Fātiḥa</hi> wie im Vaterunser setzt gerade hier die erste Person Pluralis ein. Der vierten Bitte um das tägliche Brot wird Muhammed einigermaßen gerecht, wenn er im entsprechenden vierten Verse der <hi xml:lang="ar-Latn">Fātiḥa</hi> [Q 1:5] sagt: «Dir dienen wir und Dich <hi xml:lang="ar-Latn">bitten wir um Hilfe</hi>» [Kursiva im Original gesperrt gedruckt]. Die folgende Bitte um Vergebung der Sünden ersetzt Muhammed durch die Bitte um rechte Leitung, damit im fünften und sechsten Verse [Q 1:5+6] die fünfte, sechste und siebente Bitte des Vaterunsers zusammenfassend [Mt. 6:12-13a]. An dieser Stelle erscheint mir die Umwandlung der zusammengefassten christlichen Bitten um Vergebung der Sünden, Bewahrung vor Versuchung und Erlösung von dem Übel in das islamische Äquivalent sichtbar zutage liegen. Das Wesen Allahs ist eben die <hi xml:lang="ar-Latn"> hidāya </hi>, die rechte Leitung, die dem Gläubigen, der auf die durch Muhammed verkündete Botschaft hört, die Möglichkeit gibt zum Heile zu gelangen […]. Der siebente Vers der <hi xml:lang="ar-Latn">Fātiḥa</hi> bezeugt vielleicht noch in ganz besonderer Weise, dass Muhammed dieses Gebet gebildet hat, damit auch seine Gemeinde ein Vaterunser haben möge; denn er unterstreicht die hervorragende Stellung der Muslime unter den Völkern: [<hi xml:lang="ar-Latn">al-maġḍūbi ʿalayhim</hi>] ist in alten Traditionen eine Bezeichnung für die Juden und [<hi xml:lang="ar-Latn">aḍ-ḍālīn</hi>] für die Christen […].“ (S. 245f.)<lb/>
+
+	Vgl. auch TUK 0342.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	5 Καὶ ὅταν προσεύχησθε, οὐκ ἔσεσθε ὡς οἱ ὑποκριταί, ὅτι φιλοῦσιν ἐν ταῖς συναγωγαῖς καὶ ἐν ταῖς γωνίαις τῶν πλατειῶν ἑστῶτες προσεύχεσθαι, ὅπως φανῶσιν τοῖς ἀνθρώποις• ἀμὴν λέγω ὑμῖν, ἀπέχουσιν τὸν μισθὸν αὐτῶν. 6 σὺ δὲ ὅταν προσεύχῃ, εἴσελθε εἰς τὸ ταμεῖόν σου καὶ κλείσας τὴν θύραν σου πρόσευξαι τῷ πατρί σου τῷ ἐν τῷ κρυπτῷ• καὶ ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυπτῷ ἀποδώσει σοι. 7 Προσευχόμενοι δὲ μὴ βατταλογήσητε ὥσπερ οἱ ἐθνικοί, δοκοῦσιν γὰρ ὅτι ἐν τῇ πολυλογίᾳ αὐτῶν εἰσακουσθήσονται. 8 μὴ οὖν ὁμοιωθῆτε αὐτοῖς• οἶδεν γὰρ ὁ πατὴρ ὑμῶν ὧν χρείαν ἔχετε πρὸ τοῦ ὑμᾶς αἰτῆσαι αὐτόν. 9 οὕτως οὖν προσεύχεσθε ὑμεῖς• <hi rendition="bold">Πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς• ἁγιασθήτω τὸ ὄνομά σου• 10 ἐλθέτω ἡ βασιλεία σου• γενηθήτω τὸ θέλημά σου, ὡς ἐν οὐρανῷ καὶ ἐπὶ γῆς• 11 τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον• 12 καὶ ἄφες ἡμῖν τὰ ὀφειλήματα ἡμῶν, ὡς καὶ ἡμεῖς ἀφήκαμεν τοῖς ὀφειλέταις ἡμῶν• 13 καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ. </hi> [Ὅτι σοῦ ἐστιν ἡ βασιλεία καὶ ἡ δύναμις καὶ ἡ δόξα εἰς τοὺς αἰῶνας• ἀμήν] 14 Ἐὰν γὰρ ἀφῆτε τοῖς ἀνθρώποις τὰ παραπτώματα αὐτῶν, ἀφήσει καὶ ὑμῖν ὁ πατὴρ ὑμῶν ὁ οὐράνιος• 15 ἐὰν δὲ μὴ ἀφῆτε τοῖς ἀνθρώποις, οὐδὲ ὁ πατὴρ ὑμῶν ἀφήσει τὰ παραπτώματα ὑμῶν.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	5 Wenn ihr betet, macht es nicht wie die Heuchler. Sie stellen sich beim Gebet gern in die Synagogen und an die Straßenecken, damit sie von den Leuten gesehen werden. Amen, das sage ich euch: Sie haben ihren Lohn bereits erhalten. 6 Du aber geh in deine Kammer, wenn du betest, und schließ die Tür zu; dann bete zu deinem Vater, der im Verborgenen ist. Dein Vater, der auch das Verborgene sieht, wird es dir vergelten. 7 Wenn ihr betet, sollt ihr nicht plappern wie die Heiden, die meinen, sie werden nur erhört, wenn sie viele Worte machen. 8 Macht es nicht wie sie; denn euer Vater weiß, was ihr braucht, noch ehe ihr ihn bittet. 9 So sollt ihr beten: <hi rendition="bold">Unser Vater im Himmel, dein Name werde geheiligt, 10 dein Reich komme, dein Wille geschehe wie im Himmel, so auf der Erde. 11 Gib uns heute das Brot, das wir brauchen. 12 Und erlaß uns unsere Schulden, wie auch wir sie unseren Schuldnern erlassen haben. 13 Und führe uns nicht in Versuchung, sondern rette uns vor dem Bösen. </hi>[Denn dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit. Amen.] 14 Denn wenn ihr den Menschen ihre Verfehlungen vergebt, dann wird euer himmlischer Vater auch euch vergeben. 15 Wenn ihr aber den Menschen nicht vergebt, dann wird euch euer Vater eure Verfehlungen auch nicht vergeben.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht über den erfolgreichen Raubzug der Ġanī gegen die Ṭayyiʾ</title>
+                <principal>
+                    <persName>Nora K. Schmid</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>683</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Arabische Halbinsel</origPlace>
+                            <origDate>Ende 5. / Anfang 6. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Nora K. Schmid nach F. Krenkow (Hg. und Übers.), The Poems of Ṭufail Ibn ʿAuf al-Ghanawī and aṭ-Ṭirimmāḥ Ibn Ḥakīm aṭ-Ṭāʾyī, London 1927, S. 1.</bibl>
+                <bibl>
+                    <edition>
+
+	F. Krenkow (Hg. und Übers.), The Poems of Ṭufail Ibn ʿAuf al-Ghanawī and aṭ-Ṭirimmāḥ Ibn Ḥakīm aṭ-Ṭāʾyī, London 1927, S. 2 (arabischer Text).</edition>
+                    <relatedItem>
+                        <bibl>053:005</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">šadīd al-quwā</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Im Koran bezieht sich die Wendung <hi xml:lang="ar-Latn">šadīd al-quwā</hi> auf Gott.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>
+
+	١ بِالْعُفْرِ دَارَ مِنْ جَمِيلَةَ هَيَّجَتْ     سَوَالِفَ حُبٍّ فِي فُؤَادِكَ مُنْصِبِ</p>
+                    <p>
+
+	٢ وَكُنْتَ إِذَا بَانَتْ بِهَا غَرْبَةُ النًَّوَى     شَدِيدَ القُوَى لَمْ تَدْرِ مَا قََوْلُ مُشْغِبِ</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

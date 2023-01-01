@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pseudomatthäusevangelium 20:1-2</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Wilhelm Rudolph</persName>
+                    <name>Die Abhängigkeit des Qorans von Judentum und Christentum, Stuttgart 1922, S. 79; vgl. D. Sidersky, Les origines des légendes musulmanes dans le Coran, Paris 1933, S. 142 f.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>459</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate>vor 8./9. Jh. (Endredaktion der lateinischen Fassung)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Wilhelm Schneemelcher (Hg.), Neutestamentliche Apokryphen, Bd. 1: Evangelien, Tübingen 1990, S. 368.</bibl>
+                <bibl>
+                    <edition>
+
+	Konstantin von Tischendorf (Hg.), Evangelia Apocrypha adhibitis plurimus codicibus graecis et latinis maximam partem nunc primum consultis atque ineditorum copia insignibus, Leipzig 1876, S. 87-88.</edition>
+                    <relatedItem>
+                        <bibl>019:023-019:026</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die eigentliche Geburtsgeschichte Jesu aus Lukas 2 (vgl. TUK 0231) erscheint im Koran nicht. Stattdessen berichtet Q 19:22, dass Maria sich zur Geburt Jesu "an einen fernen Ort zurückzieht"; ab Q 19:23 folgt dann eine Szene, die einem Abschnitt aus dem Pseudo-Matthäus-Evangelium ähnelt, dort jedoch im Kontext der Flucht Marias und Josephs nach Ägypten und nicht in dem der Geburt Jesu steht. Im Koran fungiert diese Episode gleichsam als Substitut für die lukanische Geburtsgeschichte. Es ist unwahrscheinlich, dass das lediglich als eine zufällige Übertragung oder Verwechslung zu erklären ist; denn wenn der Koran Maria zum Zeitpunkt der Geburt als schutzlos, verstoßen und dem Verhungern und Verdursten nahe schildert, so passt dies gut zu einem auch in den übrigen Erzählperikopen der Sure durchkonjugierten Thema: Gott nimmt sich derer an, die um seinetwillen ihre zwischenmenschlichen Bindungen aufs Spiel setzen und dadurch in höchste Bedrängnis geraten.</p>
+                </body>
+            </text>
+            <text xml:lang="lat-Latn" type="orig">
+                <body>
+                    <p>
+
+	20:1 Factum est autem die tertia profectionis suae ut Maria nimio solis ardore fatigaretur in eremo, et videns arborem palmae dixit ad Ioseph: Quiescam paululum sub umbra eius. Ioseph autem festinans duxit eam ad palmam et descendere eam fecit de iumento. Cumque resedisset Maria, respiciens ad comam palmae vidit eam plenam pomis, et dixit ad Ioseph: Desidero, si fieri posset, ut ex istis fructius huius palmae perciperem. Et ait ad eam Ioseph: Miror te dicere hoc, cum videas quantae sit altitudinis palma ista, et quod tu de palmae fructibus cogitas edere. Ego magis de aquae penuria cogito, quae nobis iam defecit in utribus, et non habemus unde nos et iumenta refocillare valeamus.20:2 Tunc infantulus Iesus laeto vultu in sinu matris suae residens ait ad palmam: Flectere arbor et de fructibus tuis refice matrem meam. Et confestim ad hanc vocem inclinavit palma cacumen suum usque ad plantas Mariae, et collegerunt ex ea fructus quibus omnes refecti sunt. Postquam vero collecta sunt omnia poma eius, inclinata manebat, expectans ut eius ad imperium resurgeret ad cuius imperium fuerat inclinata. Tunc Iesus dixit ad eam: Erige te palma et confortare, et esto consors arborum mearum quae sunt in paradiso patris mei. Aperi autem ex radicibus tuis venam quae absconsa est in terra, et fluant ex ea aquae ad satietatem nostram. et statim erecta est palma, et coeperunt per radices eius egredi fontes aquarum limpidissimi et frigidi et dulcissimi nimis. Videntes autem fontes aquarum gavisi sunt gaudio magno, et satiati sunt cum omnibus iumentis et hominibus gratias agentes deo.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	20:1 Am dritten Tage ihrer Reise, während sie weiterzogen, traf es sich, daß die selige Maria von der allzugroßen Sonnenhitze in der Wüste müde wurde, und als sie einen Palmbaum sah, sagte sie zu Joseph: "Ich möchte im Schatten dieses Baumes ein wenig ausruhen." So führte Joseph sie denn eilends zur Palme und ließ sie vom Lasttier herabsteigen. Als die selige Maria sich niedergelassen hatte, schaute sie zur Palmkrone hinauf und sah, daß sie voller Früchte hing. Da sagte sie zu Joseph: "Ich wünschte, man könnte von diesen Früchten der Palme holen." Joseph aber sprach zu ihr: "Es wundert mich, daß du dies sagst; denn du siehst doch, wie hoch diese Palme ist, und (es wundert mich), daß du (auch nur) daran denkst, von den Palmfrüchten zu essen. Ich für meinen Teil denke eher an den Mangel an Wasser, das uns in den Schläuchen bereits ausgeht, und wir haben nichts, womit wir uns und die Lasttiere erfrischen können." 2 Da sprach das Jesuskind, das mit fröhlicher Miene in seiner Mutter Schoß saß, zur Palme: "Neige, Baum, deine Äste, und mit deiner Frucht erfrische meine Mutter." Und alsbald senkte die Palme auf diesen Anruf hin ihre Spitze bis zu den Füßen der seligen Maria, und sie sammelten von ihr Früchte, an denen sie sich alle labten. Nachdem sie alle ihre Früchte gesammelt hatten, verblieb sie aber in gesenkter Stellung und wartete darauf, sich auf den Befehl dessen wieder aufzurichten, auf dessen Befehl sie sich gesenkt hatte. Da sprach Jesus zu ihr: "Richte dich auf, Plame, werde stark und geselle dich zu meinen Bäumen, die im Paradies meines Vaters sind. Und erschließe unter deinen Wurzeln eine Wasserader, die in der Erde verborgen ist, und die Wasser mögen fließen, damit wir aus ihr unseren Durst stillen." Da richtete sie sich sofort auf, und eine ganz klare, frische und völlig helle Wasserquelle begann an ihrer Wurzel zu sprudeln. Als sie aber die Wasserquelle sahen, freuten sie sich gewaltig, und sie löschten ihren Durst, sie selber, alle Lasttiere und alles Vieh. Dafür dankten sie Gott.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

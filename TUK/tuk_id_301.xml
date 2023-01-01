@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richter 7:1-8</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 368.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>301</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>Vor 5.-6. Jh.  vor Chr. (Redaktion des deuteronomistischen Geschichtswerks) </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>002:249</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Wie in Richter 7 wird im Koran von einer Reduzierung der Truppen durch Gott berichtet. Ist es jedoch im Koran Saul (Ṭālūt), der seine Truppen auf die Probe stellt, so ist im vorliegenden Intertext Jerubbaal (Gideon) derjenige, der nach Gottes Weisung seine Männer mustert. In beiden Fällen entscheidet das Verhalten der Männer beim Trinken am Fluss darüber, wer im Heer verbleibt und wer umkehrt. Ist in der Bibel die Unterscheidungsnorm die Art des Trinkens, bestimmt im Koran Trinken oder Nichttrinken über die Männer. Im Koran wird zudem die Musterung der Männer explizit mit einer Glaubensprüfung in Verbindung gebracht.</p>
+                    <p>
+
+	Daneben vermutet Speyer, S. 368, noch einen Zusammenhang zwischen der Koranstelle und 1 Samuel 14:24ff. ("Die Israeliten aber waren an jenem Tag in Bedrängnis geraten. Darum stellte Saul das Volk unter einen Fluch und sagte: Verflucht sei jeder, der vor dem Abend etwas ißt, bevor ich mich an meinen Feinden gerächt habe. Das Volk nahm also bis zum Abend keine Nahrung zu sich.").</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיַּשְׁכֵּם יְרֻבַּעַל הוּא גִדְעוֹן וְכָל־הָעָם אֲשֶׁר אִתּוֹ וַיַּחֲנוּ עַל־עֵין חֲרֹד וּמַחֲנֵה מִדְיָן הָיָה־לוֹ מִצָּפוֹן מִגִּבְעַת הַמּוֹרֶה בָּעֵמֶק : וַיֹּאמֶר יְהוָה אֶל־גִּדְעוֹן רַב הָעָם אֲשֶׁר אִתָּךְ מִתִּתִּי אֶת־מִדְיָן בְּיָדָם פֶּן־יִתְפָּאֵר עָלַי יִשְׂרָאֵל לֵאמֹר יָדִי הוֹשִׁיעָה לִּי : וְעַתָּה קְרָא נָא בְּאָזְנֵי הָעָם לֵאמֹר מִי־יָרֵא וְחָרֵד יָשֹׁב וְיִצְפֹּר מֵהַר הַגִּלְעָד וַיָּשָׁב מִן־הָעָם עֶשְׂרִים וּשְׁנַיִם אֶלֶף וַעֲשֶׂרֶת אֲלָפִים נִשְׁאָרוּ : וַיֹּאמֶר יְהוָה אֶל־גִּדְעוֹן עוֹד הָעָם רָב הוֹרֵד אוֹתָם אֶל־הַמַּיִם וְאֶצְרְפֶנּוּ לְךָ שָׁם וְהָיָה אֲשֶׁר אֹמַר אֵלֶיךָ זֶה יֵלֵךְ אִתָּךְ הוּא יֵלֵךְ אִתָּךְ וְכֹל אֲשֶׁר־אֹמַר אֵלֶיךָ זֶה לֹא־יֵלֵךְ עִמָּךְ הוּא לֹא יֵלֵךְ : וַיּוֹרֶד אֶת־הָעָם אֶל־הַמָּיִם וַיֹּאמֶר יְהוָה אֶל־גִּדְעוֹן כֹּל אֲשֶׁר־יָלֹק בִּלְשׁוֹנוֹ מִן־הַמַּיִם כַּאֲשֶׁר יָלֹק הַכֶּלֶב תַּצִּיג אוֹתוֹ לְבָד וְכֹל אֲשֶׁר־יִכְרַע עַל־בִּרְכָּיו לִשְׁתּוֹת : וַיְהִי מִסְפַּר הַמֲלַקְקִים בְּיָדָם אֶל־פִּיהֶם שְׁלֹשׁ מֵאוֹת אִישׁ וְכֹל יֶתֶר הָעָם כָּרְעוּ עַל־בִּרְכֵיהֶם לִשְׁתּוֹת מָיִם : וַיֹּאמֶר יְהוָה אֶל־גִּדְעוֹן בִּשְׁלֹשׁ מֵאוֹת הָאִישׁ הַמֲלַקְקִים אוֹשִׁיעַ אֶתְכֶם וְנָתַתִּי אֶת־מִדְיָן בְּיָדֶךָ וְכָל־הָעָם יֵלְכוּ אִישׁ לִמְקֹמוֹ : וַיִּקְחוּ אֶת־צֵדָה הָעָם בְּיָדָם וְאֵת שׁוֹפְרֹתֵיהֶם וְאֵת כָּל־אִישׁ יִשְׂרָאֵל שִׁלַּח אִישׁ לְאֹהָלָיו וּבִשְׁלֹשׁ־מֵאוֹת הָאִישׁ הֶחֱזִיק וּמַחֲנֵה מִדְיָן הָיָה לוֹ מִתַּחַת בָּעֵמֶק :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Am frühen Morgen brach Jerubbaal - das ist Gideon - mit allen Leuten, die er bei sich hatte, auf und sie errichteten bei der Harod-Quelle ihr Lager; das Lager Midians war nördlich davon beim Hügel More in der Ebene. 2 Der Herr sagte zu Gideon: Die Leute, die du bei dir hast, sind zu zahlreich, als dass ich Midian in deine Gewalt geben könnte. Sonst könnte sich Israel mir gegenüber rühmen und sagen: Meine eigene Hand hat mich gerettet. 3 Ruf daher so laut, dass die Leute es hören: Wer sich fürchtet und Angst hat, soll umkehren. Gideon musterte sie und darauf kehrten von den Leuten zweiundzwanzigtausend um, während zehntausend bei ihm blieben. 4 Doch der Herr sagte zu Gideon: Die Leute sind immer noch zu zahlreich. Führ sie hinab ans Wasser; dort will ich sie für dich mustern. Von wem ich sagen werde: Er soll mit dir gehen!, der soll mitgehen, und jeder, von dem ich zu dir sagen werde: Dieser soll nicht mit dir gehen!, der soll nicht mitgehen. 5 Gideon führte die Leute zum Wasser hinab und der Herr sagte zu ihm: Stell alle, die das Wasser mit der Zunge auflecken, wie es ein Hund tut, auf einen besonderen Platz, und ebenso alle, die sich zum Trinken hinknien. 6 Die Zahl derer, die das Wasser aufleckten, betrug dreihundert Mann. Alle übrigen Leute aber knieten sich hin, um das Wasser zu trinken, indem sie es mit der Hand zum Mund führten. 7 Der Herr sagte zu Gideon: Durch die dreihundert Mann, die (das Wasser) aufgeleckt haben, will ich euch retten; ich werde Midian in deine Gewalt geben. Alle übrigen Leute sollen nach Hause gehen. 8 Gideon entließ also alle Israeliten, jeden zu seinem Zelt, und sie nahmen die Verpflegung der Leute und ihre Widderhörner mit. Nur die dreihundert Mann behielt er bei sich. Das Lager Midians lag unterhalb von ihm in der Ebene.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

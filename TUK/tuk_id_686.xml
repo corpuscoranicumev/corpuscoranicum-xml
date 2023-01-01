@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mēmrā d-ʿal tuqqānā da-brītā, Gedicht über die Erschaffung der Welt </title>
+                <principal>
+                    <persName>David Kiltz (Anmerkung) Yousef Kouriyhe</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>686</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nordmesopotamien </origPlace>
+                            <origDate>vor 521</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz, Yousef Kouriyhe</bibl>
+                <bibl>
+                    <edition>
+
+	Paul Bedjan, Homiliae Selectae Mar-Jacobi Sarugensis, Band. 3, Paris 1905, S. 6.</edition>
+                    <relatedItem>
+                        <bibl>003:097; 029:006; 039:007</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ġanīy</hi>; <hi xml:lang="ar-Latn">ġanīy ʿan</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die Koranstellen sagen aus, dass Gott der Menschen nicht bedarf (<hi xml:lang="ar-Latn">ʾinna llāha (la-)ġaniyyun ʿankum</hi> bzw. <hi xml:lang="ar-Latn">ʿani l-ʿālamīn</hi>); und dies unabhängig davon, ob sie sich bemühen (Q 29:6 <hi xml:lang="ar-Latn">wa-man ǧāhada fa-ʾinnamā yuǧāhidu li-nafsihī</hi>) oder ungläubig sind (Q 3:97, 39:7 <hi xml:lang="ar-Latn">man kafara</hi> bzw. <hi xml:lang="ar-Latn">ʾ</hi>
+                        <hi xml:lang="ar-Latn">
+                        in takfurū</hi>).Das Gedicht des Jakob von Sarug beschreibt in programmatischer Weise, dass Gott die Welt aus Gnade erschaffe, seiner Geschöpfe aber in keiner Weise bedürfe. Das Konzept, welches im Koran artikuliert wird, findet sich auch hier im syrischsprachigen Christentum. Vgl. dazu auch den Intertext Nr. 303.Erwähnt sei hier auch die rabbinische Interpretation des Gottesnamen <hi xml:lang="ar-Latn">šadday</hi> als <hi xml:lang="ar-Latn">še-day</hi> 'der sich selbst genug ist'. Obwohl es sich bei letzterem wohl um eine künstliche Gelehrtenetymologie handelt, zeigt sie doch das Vorhandensein der grundsätzlichen Idee des 'Sich-Selbst-Genügens' Gottes.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	ܘܠܐ ܚܫܚܝܢ ܠܗ ܠܐ ܫܡ̈ܫܐ ܘܠܐ ܬܫܡܫܬܐ:ܘܠܐ ܛܥܘܢ̈ܐ ܘܠܐ ܣܢܝܩ ܢܪܟܒ ܥܠ ܕܟܕܝܢܝܢ܀ ܘܥܒܝܕ ܗܘ ܠܗ ܐܬܪܐ ܪܒܐ ܘܫܪܐ ܬܡܢ:ܟܕ ܡܬܓܐܐ ܟܕ ܡܬܒܣܡ ܗܘ ܡܢ ܝܬܗ܀ ܟܕ ܡܬܩܕܫ ܡܢ ܪܘܚܦܐ ܕܩܕܝܫܘܬܗ:ܟܕ ܗܘ ܟܝܢܗ ܡܠܐ ܒܘܪ̈ܟܬܐ ܟܝܢܝ̈ܬܐ܀ ܟܕ ܡܬܝܩܪ ܒܓܝ̈ܓܠܐ ܕܫܘܒܚܐ ܕܐܠܗܘܬܗ: ܘܠܐ ܣܢܝܩ ܢܒܪܐ ܐܦܠܐ ܡܕܡ ܡܢ ܒܪ̈ܝܬܐ܀ ܘܡܬܪܡܪܡ ܗܘܐ ܐܝܬܝܐ ܪܒܐ ܡܢ ܐܝܬܘܬܗ:ܘܫܪܐ ܗܘ ܒܗ ܘܠܐ ܐܝܬ ܐܬܪܐ ܕܠܐ ܡܠܐ ܡܢܗ܀ ܘܕܠܘ ܒܗ ܪ̈ܚܡܐ ܕܟܝܢܐܝܬ ܐܝܬܝܗܘܢ ܒܗ:ܕܢܒܪܐ ܒܪܝܬܐ ܟܕ ܠܐ ܣܢܝܩ ܗܘܐ ܥܠ ܒܪ̈ܝܬܐ܀ ܠܘ ܣܘܢܩܢܗ ܒܥܐ ܕܢܡܠܐ ܒܥܠܡܐ ܕܒܪܐ:ܐܠܐ ܡܛܠ ܕܐܝܬܘܗܝ ܛܒܐ ܒܪܐ ܒܪ̈ܝܬܐ܀</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Und nicht braucht er Diener und nicht Dienst:Und nicht Träger und nicht Angeschirrte braucht er.Und er hat für sich einen großen Ort gemacht und er weilt dort:Während er genießt, während er sich erfreut aus sich selbst.Während er geheiligt wird vom gnadenvollen Herabkommen seiner eigenen Heiligkeit:Während sein Wesen voller wesenhafter Segnungen ist.Während er geehrt wird durch die Ruhmessphären seiner eigenen Göttlichkeit.Und ihm ermangelt nichts, dass er erschaffe auch nur irgendeine Schöpfung.Erhöht wird der große Seiende durch sein eigenes Dasein.Und darin weilt er und es gibt keinen Ort, der nicht von ihm erfüllt wäre.Und wie sollte Gnade ihm nicht wesenhaft sein,wo er doch erschafft ohne irgendetwas Erschaffenes zu benötigen?Ohne ihrer zu bedürfen wollte er die Welt, welche er erschuf, füllen.Wieso also, wenn nicht, weil er gut ist, erschuf er die Geschöpfe?</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

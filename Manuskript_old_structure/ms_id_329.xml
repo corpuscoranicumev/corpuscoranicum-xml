@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Tobias J. Jocham</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Vollständige Notiz von Gallica (<ref target="http://gallica.bnf.fr/ark:/12148/btv1b8447033q">Verknüpfung</ref>): Titel : Fragments coraniques de la collection Seymour de Ricci. Coran<lb/> Titel : Fragments coraniques de la collection Seymour de Ricci. القرآن<lb/> Mitarbeiter : Ricci (S. de). Ancien possesseur<lb/> Type : manuscrit<lb/> Sprache :<lb/> Format : Fragment de parchemin. 123 mm. × 182 mm. 9 lignes sont visibles (les l. 1, 7, 8 et 9 sont considérablement mutilées et ne présentent que quelques caractères) ; deux mains sont reconnaissables. - Recto : graphie comparable à celle de Arabe 7195 (notice 285), proche de. - B I a. - Verso : graphie à rapprocher du groupe. - ḥiğāzī. - II, ou plutôt du manuscrit reproduit dans B. Moritz. - Arabic palaeography. - , Le Caire, 1905, pl. 44 ; les différences portent essentiellement sur le. - nūn. - final (qui a plus d'ampleur dans notre fragment) et sur le. - hā. - ʾ (qui, à l'intérieur d'un mot, est à cheval sur la ligne d'écriture). - Quelques points diacritiques (le. - qāf. - est indiqué par un point placé au-dessus de la tête de la lettre) ; vocalisation absente. Quatre points superposés (. - 1.1.1. - ) séparent les versets (recto, l. 3) ; la trace d'un décor rubriqué (. - alif. - ?) marque la fin de IV, 131 (recto, l. 6). - Hauteur des lignes : 15 à 16 mm entre deux traits de la réglure. Réglure à la pointe sèche du côté chair (verso) du fragment. Encre brune<lb/> Copyright : domaine public<lb/> Benutzeridentifizierung : ark:/12148/btv1b8447033q<lb/> Quelle : Bibliothèque nationale de France, Département des manuscrits, Arabe 7194<lb/> Herkunft : bnf.fr<lb/> Beschreibung : Al-Qur'ān<lb/> Beschreibung : R° : IV, 129 ( ta ʿ] dilū ) à IV, 133 ( ḏālika qad [ īran ) et un fragment de IV, 134 ( wa-l-ʾa [ ẖirati ) V° : IV, 135 ( šu ] hadāʾa ) à IV, 139 ( al-ʿizzata )<lb/> Beschreibung : Provient de la collection Seymour de Ricci ; acheté à Assouan, le 4 janvier 1909, comme provenant de l'île d'Éléphantine</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Frankreich</country>
+                        <settlement>Paris</settlement>
+                        <institution> Bibliothèque nationale de France</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>ms.arabe.7194</idno>
+                        <altIdentifier>
+                            <idno>Ms. Paris BnF Arabe 7194</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="329">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Fragment">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>123</height>
+                                        <width>182</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p>Vier Punkte kennzeichnen einen Verstrenner.</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	François Déroche: Catalogue des manuscrits arabes ; 2. Manuscrits musulmans. Tome I, Les manuscrits du Coran. Aux origines de la calligraphie coraniqueue / Bibliothèque nationale, Département des manuscrits, Paris 1983, S. 152-153.
+
+	<hi rendition="em">idem</hi>., La transmission écrite du coran dans les débuts de l’Islam: le codex parisino-petropolitanus, 2009, <hi rendition="em">op. cit.</hi>, Plates 22 &amp; 23.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

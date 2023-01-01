@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>	רא</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>349</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate/>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"/>
+                <bibl>
+                    <edition/>
+                    <relatedItem>
+                        <bibl>001:002; 002:131; 005:028; 006:045; 006:071; 006:162; 007:054; 007:061; 007:067; 007:104; 007:121; 010:010; 010:037; 026:016; 026:023; 026:047; 026:077; 026:098; 026:109; 026:127; 026:145; 026:164; 026:180; 026:192; 027:008; 027:044; 028:030; 032:002; 037:087; 037:182; 039:075; 040:064; 040:065; 040:066; 041:009; 043:046; 045:036; 056:080; 059:016; 069:043; 081:029; 083:006</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">rabb al-ʿālamīn</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Hebräisch <hi xml:lang="ar-Latn">melek ha-ʿōlām</hi> (vgl. etwa Psalm 10:16) entspricht annährend dem arabischen <hi xml:lang="ar-Latn">rabb al-ʿālamīn</hi>. Beide Begriffe, sowohl <hi xml:lang="ar-Latn">melek</hi> als auch <hi xml:lang="ar-Latn">rabb</hi> bezeichnen Gott als 'Herrscher, obersten Souverän'. Besonders häufig findet sich der hebräische Begriff in Gebetsanfängen der Form: <hi xml:lang="ar-Latn">Bārūk atā ʾAdōnāy ʾelōheynū melek ha-ʿōlām
+                     </hi>. "Gesegnet (bzw. gepriesen) seiest Du Herr unser Gott, König der Welt (Ewigkeit)". Dieser Gebetsanfang erinnert besonders an die Fātiḥa: <hi xml:lang="ar-Latn">Al-ḥamdu lillāhi rabbi l-ʿālamīn</hi> "Preis sei Gott dem Herrn der Welten". Obgleich hebräisch <hi xml:lang="ar-Latn">bārūk</hi> formal eher zu arabisch <hi xml:lang="ar-Latn">tabāraka</hi> passt (vgl. Baumstark, "Jüdischer und christlicher Gebetstypus im Koran", Der Islam 16.1 (1927), S. 229–248), kann es auch die Semantik des 'Preises' haben. Es findet sich also in beiden Fällen eine Preisformel, gefolgt von der Affirmation Gottes als absoluten Souverän der Welt (<hi xml:lang="ar-Latn">melek ha-ʿōlām</hi> bzw. <hi xml:lang="ar-Latn">rabb al-ʿālamīn</hi>).<lb/>
+
+	Es gibt aber auch Unterschiede. So wird Gott im jüdischen Gebet direkt angesprochen, während der Koran auf Gott in der 3. Person referiert.<lb/>
+
+	Desweiteren fehlt im Koran der typisch jüdische Bezug auf 'unseren Gott', vgl. dazu auch etwa den Unterschied zwischen dem jüdischen Glaubensbekenntnis<lb/>
+                        <hi xml:lang="ar-Latn">šmaʿ Yiśrāʾēl ʾAdōnāy ʾelōheynū, ʾAdōnāy ʾeḥād</hi> und dem Anfang von Q 112: <hi xml:lang="ar-Latn">qul huwa llāhu aḥad</hi>, wo im letzteren ebenfalls der 'wir'-Bezug fehlt (vgl. Intertext Nr. 6).<lb/>
+
+	Desweiteren steht im Hebräischen <hi xml:lang="ar-Latn">ʿōlām</hi>, Singular, 'die Welt', im Arabischen dagegen ein Plural <hi xml:lang="ar-Latn">ʿālamīn</hi>, welcher auch 'Menschen' bzw. 'Welten', möglicherweise die diesseitige und jenseitige impliziert.<lb/>
+
+	Unser Intertext passt zudem noch zur dritten Zeile von Q 1, welche Gott als <hi xml:lang="ar-Latn">mālik yaum ad-dīn</hi> 'Souverän des Jüngsten Gerichts' nennt. So wird Gott auch im hier zitierten jüdischen Gebet als Richter gepriesen.<lb/>
+
+	Desweiteren klingt in <hi xml:lang="ar-Latn">al-ḥamdu lillāh</hi> 'Preis sei Gott' auch die hochfrequente syrische Formel <hi xml:lang="ar-Latn">šubḥā l-allāhā</hi> mit an, welche sich prominent in der Liturgie, bzw. am Anfang und Ende allgemein christlich-religiöser Texte findet. Zu <hi xml:lang="ar-Latn">ʿālamīna</hi> vgl. Jeffery, Foreign vocabulary S. 208f.<lb/>
+
+	[Datierung des Intertextes?]</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	ברוך אתה ה' אלהינו מלך העולם האל החי הטוב והמטיב אל אמת דיין אמת שופט צדק ולוקח נפשות</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Gepriesen seist Du Herr, unser Gott, König der Welt/Ewigkeit, der lebendige Gott, der Gute, der Gutes tuende, der Gott der Wahrheit/ Gerechtigkeit, der Richter der Wahrheit/ Gerechtigkeit, Rechtgeber, und Nehmer der Seelen (Leben).</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

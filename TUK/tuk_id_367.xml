@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matthäus 5:38-42</title>
+                <principal>
+                    <persName>Nicolai Sinai (Anmerkung)</persName>
+                    <persName>Manolis Ulbricht</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Johann-Dietrich Thyen</persName>
+                    <name>Bibel und Koran. Eine Synopse gemeinsamer Überlieferungen, Köln 2000, S. 216-217; Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 317,454.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>367</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Syrien</origPlace>
+                            <origDate>ca. 80-90 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>005:045; 016:126</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Sowohl die beiden Koranstellen als auch Matthäus 5:38-39 relativieren das alttestamentliche <hi xml:lang="ar-Latn">ius talionis</hi> aus Exodus 21:24; Q 5:45 nimmt sogar explizit Bezug auf das biblische "Auge um Auge, Zahn um Zahn", während Q 16:126 das Talio-Prinzip nur allgemein umschreibt. Dabei fällt ein wichtiger Unterschied zwischen den Koranstellen und der neutestamentlichen Regelung ins Auge: Während die Talio in Matthäus 5 ganz außer Kraft gesetzt wird, wird sie im Koran grundsätzlich anerkannt und durch einen Aufruf zur Vergebung nur ergänzt. In der späteren jüdischen Tradition wird das <hi xml:lang="ar-Latn">ius talionis</hi> nicht mehr wörtlich aufgefasst, sondern eine Entschädigung gefordert (vgl. Baba Qamma Mischna VIII, 1).</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	38 Ἠκούσατε ὅτι ἐρρέθη• ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ καὶ ὀδόντα ἀντὶ ὀδόντος. 39 ἐγὼ δὲ λέγω ὑμῖν μὴ ἀντιστῆναι τῷ πονηρῷ• ἀλλ᾽ὅστις σε ῥαπίζει εἰς τὴν δεξιὰν σιαγόνα [σου], στρέψον αὐτῷ καὶ τὴν ἄλλην• 40 καὶ τῷ θέλοντί σοι κριθῆναι καὶ τὸν χιτῶνά σου λαβεῖν, ἄφες αὐτῷ καὶ τὸ ἱμάτιον• 41 καὶ ὅστις σε ἀγγαρεύσει μίλιον ἕν, ὕπαγε μετ᾽αὐτοῦ δύο. 42 τῷ αἰτοῦντί σε δός, καὶ τὸν θέλοντα ἀπὸ σοῦ δανίσασθαι μὴ ἀποστραφῇς.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	38 Ihr habt gehört, dass gesagt worden ist: Auge für Auge und Zahn für Zahn. 39 Ich aber sage euch: Leistet dem, der euch etwas Böses antut, keinen Widerstand, sondern wenn dich einer auf die rechte Wange schlägt, dann halt ihm auch die andere hin. 40 Und wenn dich einer vor Gericht bringen will, um dir das Hemd wegzunehmen, dann lass ihm auch den Mantel. 41 Und wenn dich einer zwingen will, eine Meile mit ihm zu gehen, dann geh zwei mit ihm. 42 Wer dich bittet, dem gib, und wer von dir borgen will, den weise nicht ab.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

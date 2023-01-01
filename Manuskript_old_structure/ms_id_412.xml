@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Andreas Ismail Mohr</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Enthaltener Text:basmala; Formel mit Q-Text aus Q 059:022 = Q 059:023; Formel mit Q-Text aus Q 020:047, Bitte nacharbeiten! TJJ Folgende Angaben nach der Züricher Datenbank: Anweisungen in Bezug auf die Getreidehändler (ʾišqawh; 7. 1. 710 CE - 5. 2. 710 CE   Image - Text Inv. No.: P.Heid.inv.Arab. 8 recto and verso + P.Heid.inv.Arab. 9 recto Material: papyrus Height: 96 cm. Width: 21 cm. Language(s): Arabic, Greek Kind: Official letter, administrative document Scribe(s): ʿabd ăl lāh ĭbn nuʿmān<lb/> Date as on document: rabīʿ 91 AH &gt; ? &gt; 3 91  (richtig: Rabīʿ al-awwal !; so eindeutig im Text, Zeile 2 v.u.!) An koranischen Zitaten, Wendungen kommen vor: Z. 1 = <hi rendition="em">basmala</hi>.<lb/>
+                        <lb/> In Z. 3-4: In dem Satz <hi rendition="em">fa-ʾinnī ʾaḥmadu l[lāha] llaḏī lā ilāha ʾillā huwa </hi>liegt eine koranische Wendung vor:<lb/>
+                        <hi rendition="em">huwa llāhu llaḏī lā ilāha ʾillā huwa</hi> = Q 059:022, 059:023<lb/>
+                        <lb/> Hier in Z. 40-41 (nach meiner Zählung [Z. 5 und 4 v.u.]):  <hi rendition="em">wa-s-salāmu ʿal[ā] mani ttabaʿa l-hudā </hi>= Q 020:047<lb/> Die Orthografie entspricht der des Kairoer Koran (<hi rendition="em">salām </hi>defektiv);  jedoch <hi rendition="em">ʿalā </hi>{ʿly} sieht wie <hi rendition="em">ʿal </hi>{ʿl} aus – nur schreibtechnische/kalligrafische Verkürzung, d.h. unterer Teil des „lām“ = yāʾ? Offensichtlich ist hier wie auch an andere Stelle (Z. 8 v.u.) ʿalā verkürzt als {ʿl} geschrieben. </p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Papyrus: P.Heid.Arab. I 02</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="412">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Papyrus</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>96 </height>
+                                        <width> 21 </width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Folgende Angaben nach der Züricher Datenbank:
+
+	Edition(s): Becker, P.Heid.Arab. I 2 Emendation(s): Dietrich, Topkapi p. 40; Diem, Aphrodito p. 254 Translation(s): Becker, P.Heid.Arab. I 2 Image(s): Becker, P.Heid.Arab. I pl. II a-b TM: 106481
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <bibl>
+                    <bibl>001:001;059:022;059:023;020:047</bibl>
+                    <editor>
+                        <persName>Andreas Ismail Mohr</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000"> من قرّة بن شريك إلى بسيل صحب أشفوه إشقوه     *2 في الطعام     1 بسم الله الرّحمن الرّحيم     2 من قرّة بن شريك إلى     3 بسيل صحب أشفوه إشقوه فإنّي     4 أحمد الله الّذى لا إله إلّا هو     5 أمّا بعد فڑ٭٭ فانظر الّذي كان بقي على أهل أرضك     5a ٭٭٭     5b ٭٭٭     6 ٭٭٭ا بأيديهم فلا يبيعون     7 منه شيئا تربّصا بالنّاس     8 وانتظار غلاء السّعر     9 وأيم وإيم الله لا أنبأنّ     10 برجل حبس طعامه     11 أن يبيعه إلّا أنهبته أنهيته     12 فانظر فمن كان بأرضك     13 من التّجّار الّذين يشترون     14 الأطعمة ويجمعونها     15 فمرهم فليبيعوا طعامهم     16 ومر كلّ تاجر فليحمل     17 نصف ما عنده     18 من الطعام إلى     19 الفسطاط واكتب إليّ     20 مع كلّ تاجر يقدم     21 من قبلك ما حمل     22 حين يقبل ثمّ مرهم فليبيعوه     23 بالفسطاط فإنّي قد     24 أمرت صاحب المكس     25 أن يعلم پعلّم ما يقدمون به     26 من ذلك فإنّ     27 الطّعام نافق بالفسطاط     28 ليس يقدم أحد بطعام     29 إلّا أنفقه وانظر     30 النصف الباقي     31 فليبيعوه في أهل الأرض     32 فإن لم ينفق في الأرض     33 فليحمله إلى الفسطاط     34 ولا توحرن ذلك     35 ومر به حين يأتيك     36 كتبي هذا وابعث     37 على ذلك من ينفذه فإنّي     38 قد أمرت العمّال     39 كلّهم بذلك فاكفني     40 ذلك ولا ألومنّك فيه والسّلم     41 على من اتبع الهدى وكتب     42 عبد الله بن نعمن في     43 شهر ربيع الأول سنة     44 إحدى وتسعين     44   1. (2) bi-smi llāhi r-raḥmāni r-raḥīmi 2. (3) min Qurrah ibn Šarīk ʾilā 3. (a) Basīl ṣāḥib ʾIšqauh (ʾAšqauh), fa-ʾinnī ʾaḥ- 4. (5) -madu ll[āha] llaḏī lā ʾilāha ʾillā huwa 5. (6) [.....] ṣk (?) 6. (7) [..] bi-ʾaidīhim fa-lā yabtaġūna [yabīʿūna] (?) 7.(8) minhu šaiʾan tarabbuṣan bi-n-nāsi 8.(9) wa-ntiẓār (?) ... ... 40.(41) (5 v.u.)  ḏālika wa-lā [?...... minka] fīhi wa-s-salāmu 41.(42)  (4 v.u.) ʿal(ă?) [!] mani ttabaʿa l-hudā,  wa-kataba 42.(43) ʿAbd Allāh ibn Nuʿmān fī 43.(44) [šahr ?] Rabīʿ al-ʾawwal sanat 44.(45) [... ti]sʿīn Edition hier nach The Arabic papyrology database, Zürich,  http://orientw.uzh.ch:8080/apd/show_new.jsp   Übersetzung:   1. Im Namen Gottes, des barmherzigen Erbarmers. 2. Von Qurra ibn Šarīk an 3. Basīl (Basileios), den Vorsteher von Išqauh (Kōm Ešqauh, Aphroditō). Ich  4. preise Go[tt], außer dem es keinen (anderen) Gott gibt, 5. [.....] =??? 6. [..] mit ihren Händen, und so begehren/verkaufen sie nicht   ... 40 (5 v.u.)  diese und nicht ......  von dir darin. Der Friede (Heilsgruß) 41. (4 v.u.) sei auf dem, der der Rechtleitung folgt.  (Dies) schrieb 42. ʿAbdallāh ibn Nuʿmān im 43. [Monat?] Rabīʿ al-ʾawwal im Jahre 44. [.... ne]unzig.   Anmerkungen: Der Name in Zeile 3 dürfte Basīl zu lesen sein; er gibt den griechischen Namen Basileios wieder. Im Koptischen scheinen die Formen Basile, Basileios und Basilios häufig vorzukommen (siehe Monika Hasitzka, Namen in koptischen dokumentarischen Texten [2007], S. 19-20 ).    </w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

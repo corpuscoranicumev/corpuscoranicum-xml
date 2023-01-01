@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lebensgeschichte der Gottesmutter Maria</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>Samuel Teber</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>37</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate/>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz unter Mitarbeit von Samuel Teber</bibl>
+                <bibl>
+                    <edition>
+
+	J. I. Çiçek (Hg.), Tašʿītā d-Yāldat Allāhā Maryam men mawlādāh ʿdammā l-šunnāyāh [Die Lebensgeschichte der Gottesmutter Maria von ihrer Geburt bis zu ihrer Himmelfahrt], Losser (Niederlande) 2001, S. 9-11.</edition>
+                    <relatedItem>
+                        <bibl>019:027-019:029</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾuḫt Hārūn</hi>, <hi xml:lang="ar-Latn">farī</hi>, <hi xml:lang="ar-Latn">baġī</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Dieser Teil der syrischen Lebensgeschichte der Gottesmutter Maria schließt unmittelbar an TUK 0035 an. Zum Text im Allgemeinen und zu seinem ungeklärten Verhältnis zum Protevangelium des Jakobus vgl. die Anmerkung zu TUK 0034. In Q 19:27-29 wird erzählt, wie Maria mit ihrem neugeborenen Kind zu ihrem Volk zurückkehrt und aufgrund ihrer vermeintlichen Unzucht zur Rede gestellt wird; der syrische Text dagegen – der Abschnitt 13:1 bis 16:2 im Protevangelium entspricht (vgl. TUK 0497) – berichtet, wie Josef und die Priester Maria <hi xml:lang="ar-Latn">vor</hi> der Geburt Jesu angesichts ihrer Schwangerschaft Vorwürfe machen. Trotz der unterschiedlichen Stellung im Handlungsgang ähneln sich beide Situationen: Sie dramatisieren den bei Lukas gar nicht erwähnten und in Matthäus 1:18-25 nur kurz thematisierten gesellschaftlichen Eklat, den Marias uneheliche Schwangerschaft hervorrufen musste. Interessant ist dabei insbesondere, dass die im syrischen Text Josef und den Priestern zugeschriebenen Vorwürfe jeweils auf Marias Aufenthalt im Tempel Bezug nehmen ("Wozu hast du dich herabgelassen, du, die du im Allerheiligsten aufgewachsen bist?"), während Maria in Q 19:28 als "Schwester Aarons" angeredet wird. Wahrscheinlich haben beide Äußerungen eine ähnliche Absicht: Sie kontrastieren Marias Verbindung mit dem Tempel bzw. dem aaronidischen Priestergeschlecht mit ihrer angeblichen Unkeuschheit. Die koranische Bezeichnung Marias als "Schwester Aarons" ist also sehr wahrscheinlich nicht durch eine Verwechslung Marias mit Mirjam, der Schwester Mosis, zu erklären. Diese Deutung wird auch durch die übrigen Datenbankeinträge zu Q 19:28 gestützt.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	ܘܟܕ ܗܘܐ ܝܪܚܐ ܕܫܬܐ ܐܬܐ ܝܘܣܦ ܡܢ ܒܢܝܢܐ ܕܒܢܐ ܗܘܐ ܘܥܠ ܠܒܝܬܗ ܘܐܫܟܚܳܗܿ ܠܡܪܝܡ ܟܕ ܒܛܢܐ. ܘܛܪܦ ܗܘܐ ܐܝ̈ܕܘܗܝ ܥܠ ܐܦ̈ܘܗܝ ܘܫܕܐ ܢܦܫܗ ܥܠ ܐܪܥܐ ܘܒܟܐ ܡܪܝܪܐܝܬ ܘܐܡܪ܆ ܒܐܝܠܝܢ ܐܦ̈ܐ ܐܶܚܘܪ ܠܘܬܟ ܡܪܝܐ ܐܠܗܐ. ܐܘ ܡܢܐ ܐܡܪ ܐܘ ܐܶܨܠܐ ܥܠ ܗܕܶܐ ܛܠܝܬܐ. ܡܛܠ ܕܟܕ ܒܬܘܠܬܐ ܗ̱ܝ ܕܒܪܬܗܿ ܡܢ ܗܝܟܠܗ ܕܡܪܝܐ. ܘܠܐ ܢܛܪܬܗܿ ܐܝܟ ܕܦܩܕܘܢܝ̱ ܟܗܢ̈ܐ ܘܥܡܐ. ܡܢܘ ܟܝ ܢܟܠܢܝ̱ ܐܘ ܡܢܘ ܥܒܰܕ ܒܝܫܬܐ ܗܕܶܐ ܒܒܝܬܝ̱. ܡܢܘ ܫܒܗܿ ܠܗܕܶܐ ܥܠܝܡܬܐ ܒܬܘܠܬܐ ܘܛܰܘܫܗܿ. ܕܠܡܐ ܟܝ ܠܝ ܓܕܫ ܡܢ ܕܪܝܫ ܗܰܘ ܡܕܡ ܕܠܐܒܘܢ ܐܕܡ ܓܕܫ. ܕܒܥܕܢܐ ܕܡܫܒܚ ܗܘܐ ܠܐܠܗܐ܆ ܐܬܐ ܚܘܝܐ ܘܐܫܟܚܗܿ ܠܚܘܐ ܒܠܚܘܕܝܗܿ ܘܐܛܥܝܗܿ. ܗܟܢܐ ܓܕܫ ܐܦ ܠܝ. ܗܝܕܝܢ ܩܡ ܝܘܣܦ ܡܢ ܐܪܥܐ ܘܩܪܐ ܠܡܪܝܡ ܘܐܡܪ ܠܗܿ. ܐܢܬܬܐ ܕܒܛܝܠܘܬܗ ܕܐܠܗܐ ܐܝܬ ܗܘܐ ܥܠܝܟܝ̱܆ ܗܟܢܐ ܕܰܥܒܰܬܝ ܡܢܰܘ. ܠܡܢܐ ܥܒܰܕܬܝ̱ ܗܟܢܐ ܘܛܥܝܬܝ ܠܡܪܝܐ ܐܠܗܟܶܝ̱ . ܠܡܢܐ ܡܟܶܟܬܝ̱ ܢܦܫܟܝ̱ ܐܢܬܝ̱ ܕܐܬܪܒܝܬܝ ܒܩܕܘܫܩܘܕ̈ܫܝܢ . ܗܝܕܝܢ ܒܟܬ ܡܪܝܡ ܡܪܝܪܐܝܬ ܘܐܡܪܬ ܚܝ ܗ̱ܘ ܡܪܝܐ ܐܠܗܐ ܕܐܢܐ ܕܟܝܐ ܐ̱ܢܐ ܘܓܒܪܐ ܠܐ ܚܟܝܡ ܠܝ. ܐܡܪ ܝܘܣܦ ܡܢ ܐܝܟܐ ܗܘܳܐ ܗܢܐ ܕܐܝܬ ܒܟܪܣܟܝ̱. ܐܡܪܐ ܡܪܝܡ ܠܐ ܝܕܥܐ ܐ̱ܢܐ. ܘܕܚܶܠ ܝܘܣܦ ܛܒ ܘܟܪܝܰܬ ܠܗ ܥܠܝܗܿ. ܘܫܐܠܗܿ ܬܘܒ ܕܡܢܐ ܐܥܒܕ ܠܟܝ̱. ܘܐܬܚܫܒ ܟܐܢܐ ܒܢܦܫܗ ܘܐܡܪ܆ ܐܢ ܐܶܛܰܫܶܐ ܥܠܝܗܿ ܗܐ ܚܛܳܗܰܐ ܗ̱ܘ. ܘܡܫܬܟܚ ܐܢܐ ܕܩܐܡ ܐܢܐ ܠܘܩܒܠ ܢܡܘܣܐ ܕܡܪܝܐ. ܘܐܢ ܐܓܠܐ ܥܠܝܗܿ ܠܒܢ̈ܝ ܐܝܣܪܐܝܠ ܕܚܠ ܐܢܐ ܕܠܡܐ ܪܘܚܐ ܩܕܝܫܐ ܐܝܬ ܒܗܿ ܘܡܫܬܟܚ ܐܢܐ ܕܕܡܐ ܙܟܝܐ ܡܫܠܡ ܐܢܐ ܠܡܘܬܐ. ܡܢܐ ܗܟܝܠ ܐܥܒܕ ܠܗܿ ܐܫܪܝܗܿ ܒܟܣܝܐ ܡܢ ܠܘܬܝ̱. ܗܝܕܝܢ ܐܕܪܟܗ ܠܠܝܐ ܘܡܠܐܟܐ ܕܡܪܝܐ ܐܬܚܙܝ ܠܗ ܒܚܠܡܐ ܘܐܡܪ ܠܗ ܝܘܣܦ ܠܐ ܬܕܚܠ ܡܢ ܗܕܶܐ ܛܠܝܬܐ ܗܰܘ ܓܝܪ ܕܐܝܬ ܒܗܿ ܡܢ ܪܘܚܐ ܗ̱ܘ ܕܩܘܕܫܐ. ܬܐܠܰܕܝ̱ ܕܝܢ ܒܪܐ ܘܬܩܪܶܐ ܫܡܗ ܝܫܘܥ. ܗܽܘ ܢܦܪܩܝܘܗܝ ܠܥܠܡܐ ܡܢ ܚܛܗܰܘ̈ܗܝ. ܗܝܕܝܢ ܩܡ ܝܘܣܦ ܡܢ ܫܢܬܗ ܘܡܫܰܒܰܚ ܗܘܐ ܠܐܠܗܐ ܕܝܣܪܐܝܠ. ܗܰܘ ܕܝܗܒܠܗܿ ܛܝܒܘܬܐ ܘܢܛܪܗܿ. ܘܐܬܐ ܠܘܬܗ ܚܢܢܝܐ ܣܦܪܐ ܘܐܡܪ ܠܗ ܠܝܘܣܦ܆ ܠܡܢܐ ܠܐ ܐܬܚܙܺܝܬ ܒܝܬ ܟܢܘܫܬܐ. ܘܐܡܪ ܝܘܣܦ ܕܠܰܐܶܐ ܗ̱ܘܺܝܬ ܡܢ ܐܘܪܚܐ ܘܐܬܬܢܝܚܬ ܡܢ ܝܘܡܐ ܩܕܡܝܐ. ܘܗܦܟ ܚܢܢܝܐ ܘܚܙܐ ܠܡܪܝܡ ܕܪܒܐ ܟܪܣܗܿ ܘܐܙܠ ܠܘܬ ܪ̈ܒܝ ܟܗܢ̈ܐ ܘܐܡܪ ܠܗܘܢ . ܗܰܘ ܕܐܢܬܘܢ ܣܗܶܕܬܘܢ ܥܠܘܗܝ܆ ܥܰܘܠܐ ܪܒܐ ܥܒܕ. ܘܐܡܪ ܟܗ̈ܢܐ ܡܢܘ ܗܢܐ. ܐܡܪ ܠܗܘܢ ܚܢܢܝܐ ܫܕܪܘ ܕܚܫ̈ܐ ܘܡܫܟܚ̈ܝܢ ܐܢܬܘܢ ܠܗܿ ܠܒܬܘܠܬܐ ܕܪܒܐ ܟܪܣܗܿ. ܘܐܶܙܱܠܘ ܕܚܫ̈ܐ ܘܐܶܫܟܚܘܗܿ ܐܝܟ ܕܐܡܪ ܠܗܘܢ ܚܢܢܝܐ. ܘܐܘܒܶܠܘ ܕܚ̈ܫܐ ܠܡܪܝܡ ܘܠܝܘܣܦ ܠܗܝܟܠܐ ܘܐܩܝܡܘ ܐܢܘܢ ܒܕܝܢܐ. ܘܐܡܪܘ ܟܗ̈ܢܐ ܠܡܪܝܡ܆ ܡܪܝܡ ܡܢܘ ܗܢܐ ܕܥܒܕܬܝ̱. ܠܡܢܐ ܡܰܟܶܟܬܝ̱ ܢܦܫܟܝ ܐܢܬܝ ܕܐܬܪܒܝܬܝ ܒܩܕܘܫܩܘܕ̈ܫܝܢ ܘܩܒܠܬܝ ܣܝܒܪܬܐ ܡܢ ܐܝܕ̈ܝ ܡܠܐܟ̈ܐ.<lb/>
+
+	ܘܫܡܥܬܝ ܬܫܒܚ̈ܬܐ ܬܪܬܝܢ ܙܒܢ̈ܝܢ. ܡܐܢܐ ܗܝ ܗܕܐ ܕܥܒܕܬܝ؟ ܗܝܕܝܢ ܒܟܬ ܡܪܝܡ ܡܪܝܪܐܝܬ ܘܐܡܪܬ ܚܲܝ ܗܘ ܡܪܝܐ ܐܠܗܐ ܕܐܢܐ ܕܟܝܐ ܐܢܐ (ܘܓܒܪܐ ܠܐ ܚܟܝܡ ܠܝ). ܘܐܡܪ ܐܦ ܝܘܣܦ ܠܟܗ̈ܢܐ ܚܲܝ ܗܘ ܡܪܝܐ ܐܠܗܝ ܕܐܢܐ ܕܟܐ ܐܢܐ ܡܢܗܿ ܐܡܪ ܠܗ ܪܒ ܟܗ̈ܢܐ ܠܐ ܬܣܗܕ ܕܓܠܘܬܐ ܐܠܐ ܐܡܪ ܫܪܪܐ. ܐܢܬ ܓܢܒܬ ܡܫܬܘܬܟ ܘܠܐ ܐܘܕܥܬ ܠܒܢ̈ܝ ܐܝܣܪܐܝܠ. ܘܠܐ ܐܬܪܟܢܬ ܬܚܝܬ ܐܝܕܐ ܚܝܠܬܢܝܬܐ ܕܡܪܝܐ. ܕܢܗܘܐ ܡܒܪܲܟ ܙܪܥܟ. ܝܘܣܦ ܕܝܢ ܫܬܩ ܠܗ. ܘܐܡܪ ܠܗ ܪܒܟܗ̈ܢܐ ܝܘܣܦ ܦܲܢܐ ܡܛܠ ܒܬܘܠܬܐ ܗܝ ܕܕܒܪܬ ܡܢ ܗܝܟܠܗ ܕܡܪܝܐ. ܝܘܣܦ ܕܝܢ ܩܐܡ ܗܘܐ ܘܡܕܡܥ. ܘܐܘܣܦ ܬܘܒ ܟܗܢܐ ܘܐܡܪ ܠܗܘܢ ܡܫܩܐ ܐܢܐ ܠܟܘܢ ܡܝ̈ܐ ܕܒܘܚܪܢܐ. ܘܗܢܘܢ ܢܓܠܘܢ ܚܛܗܝ̈ܟܘܢ ܩܕܡ ܟܠܢܫ. ܫܩܠ ܟܗܢܐ ܡܝ̈ܐ ܘܐܫܩܝ ܗܘܐ ܠܝܘܣܦ ܘܫܕܪܗ ܠܛܘܪܐ. ܘܣܠܩ ܘܢܚܬ ܝܘܣܦ ܟܕ ܚܠܝܡ. ܘܐܫܩܝ ܐܦ ܠܡܪܝܲܡ ܘܫܕܪܗܿ ܠܛܘܪܐ ܘܢܚܬܬ ܐܦ ܗܝ ܟܕ ܚܠܝܡܐ. ܘܐܬܕܡܪܘ ܟܠܗ ܥܡܐ ܒܬܕܡܘܪܬܐ ܕܚܙܲܘ. ܕܐܝܟܢܐ ܠܐ ܐܬܢܲܟܝ ܚܕ ܡܢܗܘܢ ܘܐܡܪ ܠܗܘܢ ܟܗܢ̈ܐ ܐܦܠܐ ܚܢܢ ܕܿܝܢܝܢܢ ܠܟܘܢ. ܘܫܕܪܘ ܐܢܘܢ ܕܢܐܙܠܘܢ ܠܒܝܬܗܘܢ. ܘܕܒܪܗܿ ܝܘܣܦ ܠܒܝܬܗ ܟܕ ܡܫܒܚ ܠܐܠܗܐ ܕܐܝܣܪܐܝܠ܀<lb/>
+
+	 </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Im sechsten Monat kam Josef zurück von seiner Baustelle und betrat sein Haus und sah, dass Maria schwanger war. Er schlug die Hände auf sein Gesicht und warf sich auf den Boden, weinte bitterlich und sagte: "Mit was für einem Gesicht soll ich dich anschauen, O Herr, mein Gott? Und was soll ich dir sagen oder was soll ich beten über dieses Mädchen? Denn als Jungfrau brachte ich sie aus dem Tempel des Herrn. Ich habe sie nicht so beschützt, wie mir die Priester und das Volk befohlen haben. Wer hat gegen mich intrigiert, wer hat dieses Böse in meinem Haus getan? Wer hat sich diesem jungfräulichen Mädchen genähert und es verunreinigt? So soll mir das zustoßen, was am Anfang unserem Vater Adam zustieß: dass in der Zeit, in der er Gott pries, die Schlange kam und Eva alleine sah und sie verführte. So geschah es auch mir." Dann stand Josef vom Boden auf, rief Maria und sagte zu ihr: "Frau, auf der Gottes Gnade war, was hast du getan? Warum hast du dies getan und Gott, deinen Herrn, vergessen? <hi rendition="bold">Wozu hast du dich herabgelassen, du, die du im Allerheiligsten aufgewachsen bist?"</hi> Da weinte Maria bitterlich und sagte: "So wahr Gott, der Herr lebt, ich bin rein und kein Mann hat sich mir genähert." Josef sagte: "Woher stammt dann das, was in deinem Schoß ist?" Und Maria sagte: "Ich weiss es nicht." Doch Josef fürchtete sich sehr und wurde wegen ihr betrübt. Und er fragte sie wieder, was er mit ihr tun solle. Und der Rechtschaffene dachte für sich: "Es ist Sünde zu verbergen, was mit ihr ist. Man wird meinen, ich empörte mich gegen das Gesetz des Herrn. Und wenn ich ihre Angelegenheit den Söhnen Israels offenbare, fürchte ich, falls der Heilige Geist in ihr ist, dass man denkt, ich habe heiliges Blut dem Tode übergeben. Was soll ich nun mit ihr tun? Ich werde sie im Verborgenen von mir fort gehen lassen." Dann kam die Nacht heran, und ein Engel des Herrn erschien ihm im Traum und sagte zu ihm: "Josef! Mache Dir keine Sorgen wegen dieser jungen Frau. Der in ihr ist, ist vom Heiligen Geist. Sie wird einen Sohn gebären, und du sollst ihn Jesus nennen. Er wird die Menschen von ihren Sünden erlösen." Dann wachte Josef aus seinem Schlaf auf und pries den Gott Israels, der ihr Gnade gegeben und sie beschützt hatte.Der Schriftgelehrte Hananija kam zu ihm und sagte zu Josef: "Warum erscheinst du nicht in der Synagoge?" Und Josef sagte, er habe sich am ersten Tag zu Hause ausruhen müssen. Hananija ging und sah Maria, die hochschwanger war. Er ging zu den Hohepriestern und sagte zu ihnen: "Der, für den ihr eingestanden seid, hat einen großen Frevel begangen." Und die Priester sagten: "Welchen?" Hananija sagte zu ihnen: "Schickt die Wächter und ihr werdet sie sehen, die Jungfrau, die hochschwanger ist." Und die Wächter gingen und sahen sie, wie es ihnen Hananija gesagt hatte. Die Wächter brachten Maria und Josef in den Tempel und stellten sie vor das Gericht. Die Priester sagten zu Maria: <hi rendition="bold">"Maria, was hast Du getan? Warum hast du dich erniedrigt, du, die du im Allerheiligsten aufgewachsen bist und deine Speise aus den Händen von Engeln empfangen hast?</hi> Du hast die Lobpreisungen zweimal gehört. Was hast du getan?" Da weinte Maria bitterlich und sagte: "So wahr Gott, der Herr lebt, ich bin rein und kein Mann hat mich erkannt." Und auch Josef sagte zu den Priestern: "Beim lebendigen Gott, meinem Herrn, ich habe mich nicht an ihr vergangen." Der Hohepriester sagte zu ihm: "Lege kein falsches Zeugnis ab, sondern sage die Wahrheit. Du hast heimlich geheiratet und es den Söhnen Israels nicht mitgeteilt. Und du hast dich nicht unter die mächtige Hand des Herrn geneigt, so dass deine Nachkommen gesegnet seien." Josef aber schwieg. Und der Hohepriester sagte: "Josef, antworte bezüglich der Jungfrau, die du aus dem Tempel des Herrn gebracht hast." Josef aber stand da und weinte. Und der Priester entschied und sagte zu ihnen: "Ich werde euch das Ordalwasser trinken lassen. Es wird eure Sünden vor allen Menschen offenbaren." Der Priester nahm das Wasser, ließ Josef trinken und schickte ihn auf einen Berg. Josef bestieg den Berg, kam wieder herab und war gesund. Und er [der Priester] ließ auch Maria trinken und schickte sie auf den Berg, und als sie herab kam, war auch sie gesund. Das ganze Volk war erstaunt über das Wunder, das sie sahen, nämlich, dass keiner von ihnen erkrankte. Und die Priester sagten zu ihnen: "Auch wir werden euch nicht richten." Und sie schickten [sie] nach Hause. Josef brachte sie [Maria] in sein Haus und pries den Gott Israels.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

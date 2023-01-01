@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Michael Marx</persName>
+                    <persName>Tobias J. Jocham</persName>
+                    <persName>Jens Sauer</persName>
+                    <persName>Veronica Faiz</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Die folia 1 und 2 haben einen Schriftspiegel von 142 mm x 250 mm, die folia 3 bis 6 einen Schriftspiegel 143 mm x 242 mm.<lb/> Die folia 1 und 2 haben 13 Zeilen, die folia 3 bis 6 haben 12 Zeilen. liste in dfg-antrag   Allgemein: Eine scriptio inferior ist leicht zu erkennen (?) kein erkennbarer Korrekturgang (evtl. Korrektur:Folio 2v/Z.9) keine farbige Tinte Verstrenner meist in Form von ca. 3-6 kleinen Strichen; kaum Verzierung der Verstrenner (minimale Verzierungen: F. 3v/Z.5; F. 6r/Z.8; F. 4v/Z.12) Zeilenzahl: 1r-2v: 13 Zeilen; 3r-6v: 12 Zeilen   Besonderheit: durchgängig Schreibung von شاى Rechtschreibfehler: سمش statt شمس (F. 3r/Z. 6) rasm-Abweichung: على statt عن (F. 1v/Z. 10) bemerkenswerte Worttrennung: ال‍له über zwei Zeilen! (F. 1r/Z. 1-Z. 2) nūn am Wortende sehr stark nach unten gezogen, j-förmig Alif maqsura am Wortende meist nach unten geschrieben Übergang von Sure 14 zu Sure 15 nur durch einen deutlichen neuen Zeilenanfang markiert, jedoch keinerlei Schmuckzeile (F. 4r/Z. 5- Z. 6)   Diakritika: mindestens eine spätere bzw. gesonderte Diakritika-Überarbeitung (Unterschied Tinte und Schreibgerät) Diakritika sind sehr fein gesetzt, sehr feines Schreibgerät nur stellenweise ausführliche Diakritikasetzung Setzen der Diakritika uneinheitlich: Bsp.: اٮوٮه (F. 1r /Z. 4) und ابوٮه (F. 1r/Z. 5) Bsp.: الارض (F. 1r/Z. 10.) und الارص (F. 1v/Z. 2)   Duktus: Ḥ iǧazi Buchstaben steil leichte Rechtsneigung besonders dichte Schriftführung: 1r-4r (Ausnahme 2v!); ab 4v: Buchstaben stehen weiter auseinander, möglicherweise andere Schriftführung!</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Frankreich</country>
+                        <settlement>Paris</settlement>
+                        <institution> Bibliothèque nationale de France</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>Ms Arabe 326</idno>
+                        <altIdentifier>
+                            <idno>Ms. Paris BnF Arabe 326 (a)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="27">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>270</height>
+                                        <width>178</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	François Déroche, Catalogue des Manuscrits Arabes. Deuxième partie. Manuscrits Musulmans. Tome I,1. Les Manuscrits du Coran. Aux origines de la calligraphie coranique, Paris 1983, S. 59, 161.<lb/>
+	Noja 2000
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <bibl>
+                    <bibl>012:096-012:103</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Emaan Safah</persName>
+                        <persName>Veronica Faiz</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الڧٮه على وجهه ٯارٮد ٮصٮرا ڧ()ل الم اٯل لکم انى اعلم من ا ل‍له ما لا تعلموں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڧ()لوا ٮا ب()نا استغڡر لنا ذنو ٮنا انا کنا حطٮن </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڧ()ل سوڡ استغڡر لکم ربى انه هو الغڡور الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡلما دحلوا على ٮوسڡ ()اوى الٮه اٮوٮه و ڧ()ل ادخلوا مصر ان شا ال‍له امنين </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و رڡع ابوٮه على العرش و خروا له سجدا و ڧ()ل ٮاٮت هدا ٮاوٮل راٮى مں ڧبل ڧد حعلها رٮے حڧا و ڧد احسں ٮے اذا حرحنى من السجں و جا بکم من الٮد و مں ٮعد ان ٮرغ الشٮطن ٮٮٮى و بٮن اخوٮى ان ربى لطٮڡ لما ٮشا انه هو العلٮم الحکٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> رب ڧد اتٮتنى مں الملک و علمتنى من ٮاوٮل الاح()دٮت ڡ()طر السموت و الارض اٮٮ و لى ڡى الدنٮا و الاحر ﻩ ٮوٯنى مسلما و الحڧنى ٮالصلحيں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> دلک مں انبا الغٮب نو حٮه الٮک و ما کٮت لدٮهم اذا حمعوا امرهم و [هم] ٮمکر[وں] {</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">} {ڡ}ما اکٮر الناس و لو حرصت {ب}مومنٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ما ()سل[هم]</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>012:104-012:111</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Emaan Safah</persName>
+                        <persName>Veronica Faiz</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">{علٮه} من [ا]جر ان هو [ا]لادکر للعلمٮن </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و کا[ٮ]ں من ايه ڡى السمو ٮ و الالرص ٮمروں علٮها و هم عنها معرصون </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ما ٮومن ا کٮرهم ٮا ل‍له الا و هم مسرکون </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اٯامنوا ان ٮاٮٮهم عشٮه مں عد()ب ال‍له او ٮاتٮهم الساعه بغٮه و هم لا ٮسعروں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٯل هده سبٮلى ادعوا الى ال‍له على ٮصٮره انا و مں اتبعنى و سٮحں ال‍له و ما انا مں المشرکٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ما ارسلنا مں ڧبلک الارج()لا ںو حى الٮهم مں اهل الڧرى اڡلم ٮسٮروا ڡے الارص ڡٮنظروا کٮڡ کاں عڧبه ال{ذ}ٮں مں ڧبلهم و ل{ٮ}دار الاخره حٮ[ر] لل{د}ٮں اتڧوا اڡلا ٮعڧلوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> حتى اذا استٮس الرسل و ظٮوا انهم ڧد کد بوا [ح]اه[م ]نصرن[ا] ڡنجى مں ٮشا و لا {ٮ}رد باسنا ع{لى} الڧوم المجر مٮن </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لڧد کاں ڡے ڧصصهم عٮره لاولے الالبب ما کاں [حد]ٮثا [ٮڡٮر]ى و لکں تصدٮٯ الذى بٮں ٮدٮه و تڡصٮل کل ش{ا}ے و [هدى] و ر[حم]ه لڧو[م] ٮوم[نو]ن </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>014:016-014:022</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Emaan Safah</persName>
+                        <persName>Veronica Faiz</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ما صدٮد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮتجرعه و لا ٮکاد ٮسٮعه و ٮاتيه الموت مں کل مکاں و ما هو بمٮت و مں وراه عداٮ علٮط </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> مٮل الدٮں کڡروا ٮرٮهم اعملهم کرم()د اشٮدٮ به  الرٮح ڡى ٮوم ع()صڡ لا ٮٯدروں مما کسبوا على ش{ا} ى دلک هو الضلل البعٮد </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الم ٮر اں ال‍له حلٯ السمو ت و الارص بلحٯ ان ٮشا ٮدهبکم و ٮات بحلڧ حد ٮد ()</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ما دلک على ال‍له ٮعزٮر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ٮرزو ال‍له جمٮعا ڡٯ()ل ا لضعڡ()ا للدٮں استکبروا انا کنا لکم تبعا ڡهل اٮتم مغنوں عنا مں عداٮ ال‍له مں شاى ٯ()لوا لو هدٮنا ال‍له لهدٮنکم سو ا علٮنا اجزعنا ام صبرنا ما لنا مں محٮص ()</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">() و ٯ()ل السٮطں لما ٯصى الامر ان ال‍له وعدکم وعد الحٯ و وعدت[کم ] ڡاحلڡٮکم و ما کان لى علٮکم مں سلطں الا اں دع[و] ٮکم ڡاستجبتم لے ڡل{ا} ٮلوموٮى و لوموا اٮڡسکم [ما اٮا ]</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>014:022-014:030</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Emaan Safah</persName>
+                        <persName>Veronica Faiz</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮمصرحکم و ما اٮٮم بمصرخى انى کڡرت ٮما اشر کتموں من ڧبل ان الطلمٮن لهم عداب الٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ادحل الدٮں امنو و عملوا الصلحت جنا ٮ ٮجرى من ٮحٮها الانهر حلدٮں ڡٮها ٮادں رٮهم تحيتهم ڡٮها سلم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الم ٮر کٮڡ صرٮ ال‍له مثلا کلمه طيبه کشجره طٮبه اصلها ث()بت و ڡرعها ڡے السما ()</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">() توٮى اکلها کل حٮں ٮادں ربها و ٮضرٮ ال‍له الامٮ()ل للناس لعلهم ٮتدکروں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و مثل کلمه حبٮثه کشجره خبٮثه اجتثت مں ڡوٯ الارض ما لها من ڧرار </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮثبت ال‍له الذٮن امنوا ٮلڧول ا لث()بت ڡے الحٮوه الدٮٮا و ڡى الاحره و ٮضل ال‍له الطلمٮں [و] ٮڡعل ال‍له ما ٮشا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الم ٮر الى الدٮں ٮدلوا ٮعمت ال‍له کڡرا و احلوا ٯومهم دار الٮوار </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> حهنم [ٮص]لوٮها و بٮس الڧرار </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ح{ع}لوا ل‍له اٮد()دا لٮضلوا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>014:030-014:037</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Emaan Safah</persName>
+                        <persName>Veronica Faiz</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">عں سٮٮله ٯل تمتعوا ڡاں مصٮرکم الے النار </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٯل لع{ٮد}ى الد ٮں امنوا ٮٯٮموا الصلوه و ٮٮڡڧوا مما رزڧنهم سرا و عل()نٮه من ڧبل ان ٮاتى ٮوم لاٮٮع ڡٮه و لاحلل </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ال‍له الدے حلڧ السموت  و الارض و انزل من السما ڡاحرج به مں الثمرت رر ڧا لکم و سخر لکم الڢلک لتجرى ڡى البحر  ٮامره و سخر لکم الاٮهر ()</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">() و سخر لکم السم{ش} و الٯمر دابٮن و سخر لكم اليل و النه()ر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ا{ت}ٮکم من کل ماسالتموه و ان تعدوا ٮعمت ال‍له لاٮحصوها اں الانسن لطلوم کڢار </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و اذ ڧ()ل ابره()م رٮ اجعل هدا البلد امنا و ا جنبنى و بنى ان نعٮد الاصن()م </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> رب انهن اصللن کثٮرا من الناس ڡمن تبعنى ڡانه منى و من عص()نى ڡانک غڡور رحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ربنا اٮے اسک{ٮت} من درٮتى بواد غٮر دى ررع عند بٮتک ا[ل]{م}حرم رٮنا لٮڧ{ٮ}موا الصلوه ڡاجع[ل] اڡده مں الناس ٮهوى اليهم و ارزڧهم من الٮمرت لعلهم ٮشکرو[ں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> رٮٮا ]</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>014:038-014:047</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Emaan Safah</persName>
+                        <persName>Veronica Faiz</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">اٮک {ٮ}علم ما ٮحڡى و ما نعلں و ما ٮحڡى على ال‍له مں شاى ڡى الارص و لا ڡى السما </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الحمد ل‍له الدے وهب لى على الکبر اسمعٮل و اسحٯ ان رٮى لسمٮع الدعا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> رب احعلنى مڧٮم الصلوه و من درٮٮر ربنا و تڧٮل دعا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> رٮنا اعڡر لى و لولدى و للمومنٮن ٮوم ٮڧوم الحساب </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و لا تحسبن ال‍له عڡلا عما ٮعمل الطلموں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> انما ٮوخرهم لٮوم ٮشحص ڡٮه الابصر </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> مهطعٮں مڧنعى رو{ا} سهم لا ٮرٮد الٮهم طرڡهم و ا ڡدتهم هوا </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و اندر الناس ٮوم ٮاتٮهم العد()ب ڡٮڧول الدٮں ظلمو ا رٮٮا اخرنا الے اجل ڧرٮب نجب دعوتک و نتبع الرسل او لم تکو نوا اڧسمتم من ڧبل ما لکم مں زوال </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و سکٮتم ڡے مسکں الدٮں ظلموا انڡسهم و تبٮن لکم کيف ڡعلنا بهم و صربنا لکم الامث()ل </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ڧد مکروا مکرهم و عٮد ال‍له مکرهم و ان کاں مکرهم [لٮر]ول منه الجبال </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و لا ٮحسبن ال‍له مخلڡ وعده رسله اں ال‍له</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>014:047-015:010</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Emaan Safah</persName>
+                        <persName>Veronica Faiz</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">عرٮر دو{ا} اٮٮڧ()م </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ٮوم تبدل الارص عٮر الارص و السموت و ٮرزوا ل‍له الوحد الٯهار </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ٮرى المحرمٮں ٮوميد مڧرٮٮں ڡى الاصڡ()د </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> سر()بٮلهم مں ٯطر()ن و ٮعسى وحوههم النار ()</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">() لٮجزى ال‍له کل نڡس ما کسبت اں ال‍له سرٮع الحساب </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> هدا بلغ للناس و لٮندروا به و لٮعلموا لنما هو اله وحد و لٮذکر اول()ا الالبب </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٮسم ال‍له الرحمں الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الر تلک اٮت الکتب و ڧراں مبٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ربما ٮود الذٮں کڡروا لو کانوا مسلمٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ذرهم ٮاکلوا و ٮتمتعو ا و ٮلههم الامل ڡسوڡ ٮعلموں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ما اهلکنا مں ڧرٮه الا ولها کت()ب معلوم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ما تسبٯ مں امه اجلها و ما ٮستخروں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ڧالوا ٮا ٮها الذى نزل علٮه الدکر انک لمجٮوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لو ما تاتٮنا بالملٮکه اں کنت مں الصد ڧٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ما {ت}نزل الملٮکه الا ٮ()لحڧ و ما کانوا ادا مٮطرٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> انا نح[ں ] نزلنا الدکر و انا له لحڡطوں {</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">} و لٯد ارسلنا من ڧبلک [ڡے سٮع ]</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>015:010-015:025</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Emaan Safah</persName>
+                        <persName>Veronica Faiz</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الاولٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ما ٮاٮٮهم مں رسول الا کاٮوا به ٮستهزون </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> کدلک نسلکه ڡے ڧلوٮ المجرمٮن </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لا ٮومنوں به و ڧد حلت سنه الاولٮن </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و لو ڡتحنا عليهم بابا من السما ڡطلوا ڡٮه ٮعرجون ()</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">()  لٯالوا انما سکرت ابصرٮا بل نحن ڧوم مسحورون </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و لڧد جعلنا ڡے السما ٮروجا و زٮنها للنطرٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و حڢطنها مں کل شٮطں رجٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الا مں استرڧ السمع ڡاتبعه شه()ب مبٮن </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و الار ص مددنها و الڧٮنا ڡٮها روسى و انبتنا ڡٮها من کل شاى مو زوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و حعلنا لکم ڡٮها معٮش و مں لستم له ٮررٯٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و اں مں شاى الا عندنا حر()ٮنه و ما ننزله الا بڧدر معلوم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ارسلنا الرٮح لوٯح ڡانزلنا مں السما ما ڡاسٯٮنکموه و ما انتم له بخزنٮن </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و اںا لںحں نحى و نمٮت و نحن الورثوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و لڧد علمنا المسٮٯدمٮں [مٮ]کم و لڧد علمنا المستخرٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ان ربک هو ٮحسرهم انه حکٮم</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>015:025-015:045</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Emaan Safah</persName>
+                        <persName>Veronica Faiz</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">علٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و لڧد خلڧنا الانسن من صلصل مں حما مسنون </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و الح()ن خلڧنه من ڧبل مں نار السموم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و اد ڧ()ل ربک للمليکه اٮے حلٯ بشرا مں صلصل من حما مسنوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡادا سوٮته و ٮڡ{خ}ت ڡٮه مں روحى ڡٯعوا له سجدٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡسجد الملٮکه کلهم احمعون </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الا ابلٮس ابى اں ٮکوں مع السحدٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڧ()ل ٮابلس ما لک الاتکوں مع السحدٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڧ()ل لم اکں لاسجد لبشر خلڧته مں صلصل مں حما مسنوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڧ()ل ڡاخرج منها ڡانک رجٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و اں علٮک اللعنه الے ٮوم الدٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڧ()ل رٮ ڡانظرنى الى ٮوم ٮبعثوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٯ()ل ڡانک من المنطرٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الى ٮوم الوڧت المعلوم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٯ()ل رب بما اغو ٮتنى لارٮنن لهم ڡى الارص و لاغوٮنهم اجمعٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الا عب()دک مںهم المحلصٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٯ()ل هدا صرط على مستڧٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں عب()دى لٮس لک عل[ٮهم] سلطں الا من اتبعک مں الع()وٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ان جهنم لموعدهم احمعٮں[ </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">] لها سبعه ابوب لکل باب مٮهم جز مٯسوم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ان المٮڧٮن ڡى جن{ا}ٮ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>015:045-015:065</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Emaan Safah</persName>
+                        <persName>Veronica Faiz</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">و عٮوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ادحلوها ٮسلم امٮٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ٮرعٮا ما ڡے صدورهم مں عل احو ٮا على سرر متڧٮلٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لاٮمسهم ڡٮها نصٮ و ما هم منها بمحرحٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> نبى عب()دى اٮى اٮا العڡور الرحٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و اں عد()ٮى هو العد()ٮ الالٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و نبٮهم عن صٮڡ ابرهٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اذ دحلوا علٮه ڡٯالوا سل()ما ڡ()ل اٮا منکم وحلوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٯالوا لا ٮوحل انا نبشرک ٮعل()م عليم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٯ()ل ابشر ٮموٮى على اں مسنى الکبر ڡبم تبسروں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡالوا ٮسرن()ک بالحڧ ڡلا ٮکں مں الڧنطٮن </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڧ()ل و مں ٮڧنط مں رحمه ربه الا الضالوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڧ()ل ڡما حطٮکم اٮها المرسلوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٯالوا انا ارسلٮا الے ڧوم مجرمٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الا ال لوط اٮا لمنجوهم احمعٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الا امر()ته ڧدرٮا انها لمں الغ()برٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡلما حا ال لوط المرساون </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡل() انکم ٯو [م] منکرون </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٯالوا بل حٮن()ک بما کاٮوا ڡٮه ٮمتروں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و اٮٮٮ()ک [ٮا]لحٯ و اٮا لص()دڧوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡاسر باهلک ٮٯطع مں ال()يل</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>015:065-015:081</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Emaan Safah</persName>
+                        <persName>Veronica Faiz</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">و ا{ن}بع ادٮرهم و لا ٮلتڡت منکم احد و امضوا حيث ٮومروں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ٯضٮنا الٮه دلک الامر ان د()بر هولا مٯطو ع مصبحٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و حا اهل المدٮنه ٮستبشرون </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڧ()ل اں هولا صٮڡے ڡلا ٮڡصهوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و اتڧوا ال‍له  و لا تخزوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٯالوا او لم ٮٮهک عں العلمٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ٯ()ل هولا بناٮے ان کن{ت}م ڡ()علٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لعمرک انهم لڡے سکرتهم ٮعمهوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡاحدٮهم الصٮحه مشرٯٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡحعلنا ع()لٮها س()ڡلها و امطرنا علٮهم حج()ره مں سحٮل </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں ڡى دلک لاٮ()ت للمتوسمٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و اںها لبسبٮل مڧٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں ڡى دلک لاٮه للمومنٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ان کاں اصح()[ٮ] الاٮکه لط()لمٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡاٮتڧمنا منهم و انهما لبام()م مبٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و لڧد کدب اصح()ب الحجر المرسل[ٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">] و اتٮن()هم اٮ()تنا ڡکاٮوا عنها معرصٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و کا [ٮوا]</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>015:082-015:099</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Tobias J. Jocham</persName>
+                        <persName>Emaan Safah</persName>
+                        <persName>Veronica Faiz</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮنحتوں مں الجب()ل بٮوٮا امنٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡاحدٮهم الصٮحه مصبحٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡما اعٮى عنهم ما کاٮوا ٮکسٮوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ما حلٯٮا ا لسم()و()ت و الارص و ما ٮٮٮهما الا بالحٯ و اں السا عه لاتٮه ڡاصڡح الصڡح الحمٮل </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اں ربک هو الحل()ٯ العلٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و لڧد اتٮنک سٮعا من المٮٮى و الٯرں العطٮم </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لا ٮمدں عٮنٮک الے ما متعٮا ٮه ازو() جا منهم و لا تحرں علٮهم و احڡصں حن()حک للمومنٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و ڧل انى انا النذٮر المبٮن </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> کما انزلنا على المڧتسمٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الدٮں جعلو ا الڧر()ں عصٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡوربک ل[ن]س()لنهم احمعٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> عما کانوا ٮعملوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡاصدع بما تومر و اعرص عن المشرکٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> انا کڢٮن()ک المستهرٮن [ال]دٮں ٮحعلوں مع ال‍له الها احر ڡسوڡ ٮعلموں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و لڧد ٮعلم اٮک ٮصٮٯ صدرک [ٮما ٮٯ]ولوں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ڡ[سٮح] [ٮح]مد رٮک و کں من الس()حدٮں </w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> و اعبد رٮک حٮى</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

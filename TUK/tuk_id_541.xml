@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht Nr. 8:1-4 (Schulthess)</title>
+                <principal>
+                    <persName>Nicolai Sinai (Texterfassung: Daria Zadorojnaia</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>J. Frank-Kamenetzky</persName>
+                    <name>Untersuchungen über das Verhältnis der dem Umajja b. Abi ṣ Ṣalt zugeschriebenen Gedichte zum Qorān, Kirchhain N.-L. 1911, S. 6. Vgl. J. W. Hirschberg, Jüdische und christliche Lehren im vor- und frühislamischen Arabien. Ein Beitrag zur Entstehungsgeschichte des Islams, Krakau 1939, S. 74.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>541</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Aṭ-Ṭāʾif (Ḥiǧāz)?</origPlace>
+                            <origDate>Anfang 7. Jh.?</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 76-77.</bibl>
+                <bibl>
+                    <edition>Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 16 f.; Bahǧa ʿAbdalġafūr al-Ḥadīṯī, Umayya ibn abī ṣ-Ṣalt: Ḥayātuhū wa-šiʿruhū, Bagdad 1975, S. 354-355.</edition>
+                    <relatedItem>
+                        <bibl>002:231; 002:232; 002:234; 002:235; 002:282; 003:145; 004:077; 006:002; 006:060; 006:128; 007:034; 007:135; 007:185; 010:011; 010:049; 011:003; 011:104; 013:002; 013:038; 014:010; 014:044; 015:005; 016:061; 017:099; 020:129; 022:005; 022:033; 023:043; 028:029; 029:005; 029:053; 030:008; 031:029; 035:013; 035:045; 039:005; 039:042; 040:067; 042:014; 046:003; 063:010; 063:011; 065:002; 065:004; 071:004</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾaǧal</hi>; <hi xml:lang="ar-Latn">muʾaǧǧal</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Zur umstrittenen Authentizität der Umayya ibn abī ṣ-Ṣalt zugeschriebenen Gedichte vgl. die Anmerkung zu Intertext Nr. 420. Der vorliegende Ausschnitt aus einem Gedicht, in dem offenbar ein Sohn Umayyas getadelt wird, gehört zu denjenigen Texten des Umayya zugeschriebenen Korpus, die weitgehend von koranischen Elementen frei sind und thematisch und stilistisch den Konventionen der altarabischen Dichtung entsprechen; insofern spricht <hi xml:lang="ar-Latn">prima facie</hi> einiges für die die Echtheit des Textes. Frank-Kamenetzky getraut sich wegen des Korananklangs in V. 4 dennoch nicht, eine eindeutige Entscheidung über die Authentizitätsfrage zu treffen (a. a. O., S. 48), weist jedoch darauf hin, dass die Begriffe <hi xml:lang="ar-Latn">ʾ</hi>
+                        <hi xml:lang="ar-Latn">
+                        aǧal</hi> und <hi xml:lang="ar-Latn">muʾaǧǧal</hi> in der vorislamischen Dichtung insgesamt öfter vorkommen (S. 36, Anm. 1): Die Vorstellung, dass der Todeszeitpunkt des Einzelnen vorherbestimmt ist, dürfte als solche altarabisch sein; sie wird im Koran dann insofern 'theologisiert', als Gott jetzt als derjenige erscheint, der die Vorherbestimmung vornimmt. Darüber hinaus haben im Koran auch ganze Völkerschaften (vgl. Q 7:34) sowie die Himmelskörper (vgl. Q 13:2) einen <hi xml:lang="ar-Latn">ʾ</hi>
+                        <hi xml:lang="ar-Latn">
+                        aǧal</hi>, wobei letzterer wohl mit dem Weltende identisch ist. - Aus einem anderen Grund als der Verwendung von <hi xml:lang="ar-Latn">muʾaǧǧal</hi> zweifelt Bahǧa ʿAbdalġafūr al-Ḥadīṯī (<hi xml:lang="ar-Latn">Umayya ibn abī ṣ-Ṣalt: Ḥayātuhū wa-šiʿruhū</hi>, Bagdad 1975, S. 354) an der Echtheit des Gedichts: Ihm zufolge wirkt der Text "abbasidisch" und gehe deshalb nicht auf Umayya zurück. Leider bringt al-Ḥadīṯī keinerlei philologische Belege für seine Einschätzung bei.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>١ غَذَوْتُك مَوْلوداً وعُلْتُك يافِعاً     تُعَلُّ بما أحْني عليك وتُنْهَلُ<lb/>٢ اذا ليلة ٌ نابَتْك بالشَكْوِ لَم أبِتْ     لِشَكْواك إلاّ ساهِراً أتَمَلْمَلُ<lb/>٣ كأنّي أنا الَمْطروقُ دونَك بالذي     طُرِقْتَ به دوني فعَيْنايَ تَهْمُل<lb/>٤ تَخافُ الرَدَى نفسي عليك وإنّها     لتَعْلَمُ أنّ المَوْتَ <hi rendition="bold">وقتٌ</hi>
+                        <hi rendition="bold">مُؤَجَّل</hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>1. Ich habe dich ernährt, seit du geboren warst, und dich unterhalten, als du heranwuchsest; immer wurdest du wieder getränkt dank meiner Hingabe an dich.<lb/>2. Wenn eine Nacht dich mit Krankheit überraschte, so fand ich darob keine Ruhe, sondern wälzte mich wachend auf dem Lager,<lb/>3. als wäre ich, nicht du, der Betroffene, während doch gerade du es warst, und meine Augen strömten von Tränen,<lb/>4. aus Angst, es möchte mit dir zu Ende gehen, denn ich weiss ja, dass der Tod <hi rendition="bold">für eine bestimmte Zeit festgesetzt</hi> ist.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

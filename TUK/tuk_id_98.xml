@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Babylonischer Talmud, Sota, 12b</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Abraham Geiger</persName>
+                    <name>Was hat Mohammed aus dem Judenthume aufgenommen?, 2. Auflage, Leipzig 1902, S. 154; Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 244.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>98</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Mesopotamien</origPlace>
+                            <origDate>vor 7. Jh. n. Chr. (Endredaktion)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Lazarus Goldschmidt (Übers.), Der Babylonische Talmud, Berlin 1930-36, Bd. 6, S. 48 f.</bibl>
+                <bibl>
+                    <edition>
+
+	Ausgabe Romm, Wilna 1880-86.</edition>
+                    <relatedItem>
+                        <bibl>028:012</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Geiger und Speyer sehen im hier angegebenen Text aus dem Talmud den Hintergrund für die koranische Aussage, dass "Gott Moses die Ammen verboten habe". Das "Er sagte" des Talmudtextes ist in der Auslegungsgeschichte (wo? bei Speyer und Geiger jeweils Gott) sowohl auf Gott als auch auf Moses bezogen worden. Trifft erstere Vermutung zu, so würde dies einen noch stärkeren Bezug zwischen Q 28:12 und der zitierten Talmudstelle ergeben.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	ותאמר אחותו אל בת פרעה האלך וקראתי לך אשה מינקת מן העבריות - ומאי שנא מעבריות? מלמד, שהחזירוהו למשה על כל המצריות כולן ולא ינק, אמר: פה שעתיד לדבר עם השכינה יינק דבר טמא ? והיינו דכתיב: את מי יורה דעה וגו', למי יורה דעה ולמי יבין שמועה? לגמולי מחלב ולעתיקי משדים.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	"Da sprach seine Schwester zu der Tochter des Pharao: Soll ich gehen und dir eine Amme von den Hebräerinnen rufen?" [Exodus 2:7] Warum gerade von den Hebräerinnen? - Dies lehrt, daß man Moses allen ägyptischen Frauen herumreichte, er aber nicht saugen wollte. Er sagte: Soll etwa der Mund, der dereinst mit der Göttlichkeit reden wird, Unreines saugen? Hierauf deutet der Schriftvers: "Wen will er Erkenntnis lehren, wen mit seiner Predigt unterrichten? Von der Milch Entwöhnte, von der Brust Genommene." [Jesaia 28:9]</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

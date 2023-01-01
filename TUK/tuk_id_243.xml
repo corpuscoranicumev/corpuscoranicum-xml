@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Exodus 13:21-22</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Vgl. Johann-Dietrich Thyen</persName>
+                    <name>Bibel und Koran. Eine Synopse gemeinsamer Überlieferungen, Köln 2000, S. 122-123; Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 294.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>243</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>002:057; 007:160</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Q 2:57 und Q 7:160 sind jeweils Teil eines längeren Abschnittes, der verschiedene Ereignisse aus der Exoduserzählung behandelt. Beide Suren stellen dabei die Undankbarkeit und Widerspenstigeit der Israeliten der von Gott erwiesenen Gnade gegenüber. Zu den in diesem Kontext erwähnten Wohltaten Gottes gehört auch eine Wolke, die den Israeliten während der Wüstenwanderung Schatten spendet. Dies hat keine direkte Parallele in der Hebräischen Bibel, erinnert aber an verschiedene Stellen im Buch Exodus, in denen Gott in einer Wolke erscheint. So begleitet im hier zitierten Text Gott in einer Wolkensäule die Israeliten und zeigt ihnen den Weg, in Exodus 14:19 bietet die Wolke Schutz vor der Verfolgung durch die Ägypter, und in Exodus 16:10 erscheint Gott in einer Wolke und spricht mit Moses.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיהוָה הֹלֵךְ לִפְנֵיהֶם יוֹמָם בְּעַמּוּד עָנָן לַנְחֹתָם הַדֶּרֶךְ וְלַיְלָה בְּעַמּוּד אֵשׁ לְהָאִיר לָהֶם לָלֶכֶת יוֹמָם וָלָיְלָה : לֹא־יָמִישׁ עַמּוּד הֶעָנָן יוֹמָם וְעַמּוּד הָאֵשׁ לָיְלָה לִפְנֵי הָעָם :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	21 Der Herr zog vor ihnen her, bei Tag in einer Wolkensäule, um ihnen den Weg zu zeigen, bei Nacht in einer Feuersäule, um ihnen zu leuchten. So konnten sie Tag und Nacht unterwegs sein. 22 Die Wolkensäule wich bei Tag nicht von der Spitze des Volkes und die Feuersäule nicht bei Nacht.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

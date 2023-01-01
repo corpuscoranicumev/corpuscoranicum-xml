@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>021:035-021:038 Im Auktionskatalog wird das Fragment wie folgt beschrieben: "Another folio from the same Qur'an is in the Nasser D. Khalili Collection, and according to François Déroche its letter forms recall the characteristics of the D Group (Déroche 1992, no. 69, p.126). Moreover, he concludes that the Khalili leaf might have originated from MS. 322 in the Institute of Oriental Studies in Leningrad (al-Munajjid 1960, pl.1, and Petrosyan et al 1995, no. 2, pp.114-115). Other sections, bifolia and leaves from the same Quran were sold in these rooms on 9th April 2008, lot 12; Christie's, London, 15 October 2002, lots 44-52 and 8th April 2008, lot 12; Sam Fogg, Islamic Calligraphy, cat.7, no.3, pp.14-15." TJ: bitte das Bild eingeben</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country/>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Sotheby's, 8. Okt. 2008, 10 Uhr, Lot 5</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="276">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Fragment">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>280</height>
+                                        <width>375</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="7">
+                                    <p>Die Seiten enthalten 7 Zeilen.</p>
+                                    <p>Im Auktionskatalog wird das Fragment wie folgt beschrieben: "one teardrop verse marker in green, yellow and gold, wide outer borders".</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	http://www.sothebys.com/app/live/lot/LotDetail.jsp?lot_id=159488344
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Michael Marx</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Jemen</country>
+                        <settlement>Sanaa</settlement>
+                        <institution> Dār al-maḫṭūṭāt</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Sanaa 15-24-1</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="122">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material/>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Puin 1999
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <note type="intern" subtype="page">
+                <p>Einzelne Verse werden vom Schreiber nicht getrennt. Zwei abweichende Schreibungen von Kairo (Z5 und Z8), betrifft in beiden Fällen das gleiche Wort (على).<lb/>
+                    <lb/> Z1: Sondertrenner<lb/> Z3: Ist der rote Punkt über dem Daal ein Fatha?<lb/> Z5: Kairo فَلْيُلْقِهِ<lb/> Z8: Kairo على<lb/> Z10: Kairo على<lb/> Z11: Was sind das für Punkte?</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>020:031-020:042</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">أررى</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">‎واسر[كه</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">امرى](</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)كى ٮسٮحك</w>
+                    <w n="000000000">كَٮِٮرا(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)وٮَد[كر]كَ</w>
+                    <w n="000000000">كَٮِٮرا(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)إ ٮَكَ</w>
+                    <w n="000000000">كٮٮَ</w>
+                    <w n="000000000">ٮٮا</w>
+                    <w n="000000000">ٮصٮرا(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)[ڡا]لَ</w>
+                    <w n="000000000">ڡدَ</w>
+                    <w n="000000000">أُوٮٮٮَ سؤلَكَ</w>
+                    <w n="000000000">ٮَمُوسَى(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)ولڡد</w>
+                    <w n="000000000">مٮَٮا</w>
+                    <w n="000000000">علٮكَ</w>
+                    <w n="000000000">مرهَ</w>
+                    <w n="000000000">أُحرى(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">) إد</w>
+                    <w n="000000000">أوحٮٮا</w>
+                    <w n="000000000">إلى</w>
+                    <w n="000000000">أُمكَ</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">ٮوحى(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)أں</w>
+                    <w n="000000000">اڡدڡٮهِ ڡى</w>
+                    <w n="000000000">الٮاٮُوٮِ</w>
+                    <w n="000000000">ڡاڡدڡٮهِ</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">الٮَم</w>
+                    <w n="000000000">ڡلَٮُلڡه</w>
+                    <w n="000000000">ا لٮَمُ</w>
+                    <w n="000000000">ٮالسَاحلِ</w>
+                    <w n="000000000">ٮاحُدهِ</w>
+                    <w n="000000000">عدوٌ</w>
+                    <w n="000000000">لى</w>
+                    <w n="000000000">وعدو</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">و ألڡَٮٮ</w>
+                    <w n="000000000">علٮكَ</w>
+                    <w n="000000000">محَٮهً</w>
+                    <w n="000000000">مٮى</w>
+                    <w n="000000000">ولِٮصٮع</w>
+                    <w n="000000000">علا عٮٮى(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)إد</w>
+                    <w n="000000000">ٮمسى</w>
+                    <w n="000000000">احٮُكَ</w>
+                    <w n="000000000">ڡٮَڡولُ</w>
+                    <w n="000000000">هل</w>
+                    <w n="000000000">أد لكُم</w>
+                    <w n="000000000">علا</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ٮكڡُلهُ</w>
+                    <w n="000000000">ڡرحعٮك</w>
+                    <w n="000000000">إلى أُمكَ</w>
+                    <w n="000000000">كى</w>
+                    <w n="000000000">ٮڡر</w>
+                    <w n="000000000">عٮٮها</w>
+                    <w n="000000000">ولا</w>
+                    <w n="000000000">ٮحَرں</w>
+                    <w n="000000000">وڡٮلٮ ٮڡسا</w>
+                    <w n="000000000">ڡٮحٮٮك</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">العَم</w>
+                    <w n="000000000">وڡٮٮكَ</w>
+                    <w n="000000000">[ڡٮو]ٮا[</w>
+                    <w n="000000000">ڡلٮٮٮ] [سـ]ـٮٮں</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">اهل</w>
+                    <w n="000000000">مدٮں</w>
+                    <w n="000000000">ٮم</w>
+                    <w n="000000000">حِئـ[ٮ</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">ڡدر] ٮموسى(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)واصـ[طٮعٮك] لٮڡسى(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)ادهٮ</w>
+                    <w n="000000000">اٮٮ[-]</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fragment 2:1 (Schulthess)</title>
+                <principal>
+                    <persName>Nicolai Sinai (Texterfassung: Daria Zadorojnaia</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>J. Frank-Kamenetzky</persName>
+                    <name>Untersuchungen über das Verhältnis der dem Umajja b. Abi ṣ Ṣalt zugeschriebenen Gedichte zum Qorān, Kirchhain N.-L. 1911, S. 34.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>579</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Aṭ-Ṭāʾif (Ḥiǧāz)?</origPlace>
+                            <origDate>Anfang 7. Jh.?</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 121. (modifiziert)</bibl>
+                <bibl>
+                    <edition>Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 63; Bahǧa ʿAbd l-Ġafūr al-Ḥadīṯī, Umayya ibn abī ṣ-Ṣalt: Ḥayātuhū wa-šiʿruhū, Bagdad 1975, S. 197.</edition>
+                    <relatedItem>
+                        <bibl>079:030</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">daḥā</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Zur umstrittenen Authentizität der Umayya ibn abī ṣ-Ṣalt zugeschriebenen Gedichte vgl. allgemein die Anmerkung zu Intertext Nr. 420. Das vorliegende Fragment wird im Korankommentar aṭ-Ṭabarīs im Zusammenhang mit Q 79:30 als Beleg für die Gebräuchlichkeit des Verbs <hi xml:lang="ar-Latn">daḥā</hi> im Sinne von "ausbreiten" zitiert. Es ist zwar durchaus möglich, dass der Vers nur ein späteres Konstrukt ist, welches der lexikographischen Absicherung der offenbar bereits früh zirkulierenden Glosse <hi xml:lang="ar-Latn">daḥā</hi> = <hi xml:lang="ar-Latn">basaṭa</hi> dient (vgl. aṭ-Ṭabarī, ad loc., Nr. 36304 ff.); umgekehrt lässt sich aber auch nicht ausschließen, dass das ungewöhnliche Verb <hi xml:lang="ar-Latn">daḥā</hi> bereits vorkoranisch mit Gottes Weltschöpfung in Verbindung gebracht wurde, und dass das Umayya-Fragment dies dokumentiert. Allerdings zeichnet sich der Vers auch sonst durch koranische Phraseologie (<hi xml:lang="ar-Latn">dār</hi>, <hi xml:lang="ar-Latn">ʾuḫrā</hi>) aus, so dass insgesamt wohl doch eher von einer nachträglichen Zuschreibung auszugehen ist.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>دارٌ <hi rendition="bold">دَحاها</hi> ثُمّ أعْمَرَنا بها     وأقام بالأُخْرَى التي هي أمْجَدُ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>Er <hi rendition="bold">breitete</hi> eine Wohnstätte <hi rendition="bold">aus</hi> und siedelte uns in ihr an, er selbst aber bezog die andere, ruhmvollere Wohnung.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

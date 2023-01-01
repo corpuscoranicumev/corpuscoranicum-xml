@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pirqe de Rabbi Eliezer 10</title>
+                <principal>
+                    <persName>Dorothea Reule</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>1000</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate/>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> http://archive.org/stream/pirkderabbieli00frieuoft#page/66/mode/2up (englisch) Dagmar Börner-Klein (Hg.):<hi xml:lang="ar-Latn"> Pirke de-Rabbi Elieser. Nach der Edition Venedig 1544 unter Berücksichtigung der Edition Warschau 1952.</hi> Berlin 2004, S. 92.</bibl>
+                <bibl>
+                    <edition/>
+                    <relatedItem>
+                        <bibl>021:087</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Wie in Q 21:87 findet sich auch hier die Idee wieder, dass Gott nicht überall Macht habe.</p>
+                </body>
+            </text>
+            <text xml:lang="not-defined" type="orig">
+                <body>
+                    <p>הריני בורח לי למקום שלא נאמר כבודו שם</p>
+                    <p>אם על השמים נאמר שכבודו שם שנאמר<lb/>
+                        <hi xml:lang="ar-Latn">על השמים כבודו (תהלים קיג ד)</hi>
+                    </p>
+                    <p>על הארץ נאמר שכבודו שם שנאמר<lb/>
+                        <hi xml:lang="ar-Latn">מלא כל הארץ כבודו (ישעיה ו ג)</hi>
+                    </p>
+                    <p>הריני בורח לי למקום שלא נאמר כבודו שם</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Siehe, ich werde zu einem Ort fliehen, an dem seine Herrlichkeit nicht erwähnt wird.</p>
+                    <p>
+
+	Wenn zum Himmel, so heißt es, dass seine Herrlichkeit dort ist, denn es heißt:<lb/>
+                        <hi xml:lang="ar-Latn">Über dem Himmel ist seine Herrlichkeit. </hi>(Ps 113,4)<lb/>
+
+	(Wenn) zur Erde, so heißt es, dass seine Herrlichkeit dort ist, denn es heißt:<lb/>
+                        <hi xml:lang="ar-Latn">Voll ist die ganze Erde seiner Herrlichkeit.</hi> (Jes 6,3)</p>
+                    <p>
+
+	Siehe, ich werde zu einem Ort fliehen, an dem seine Herrlichkeit nicht genannt wird.<lb/>
+
+	 </p>
+                </body>
+            </text>
+            <text xml:lang="eng-Latn">
+                <body>
+                    <p>
+
+	Therefore, behold, I will escape from His presence to a place where His glory is not declared. (If) I ascend above the heavens, it is said, "Above the heavens is his glory" (Ps. 113, 4). (If) above the earth, (it is said), "The whole earth is full of his glory" (Jes. 6:3); behold, I will escape to the sea, to a place where His glory is not proclaimed.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>De abstinentia II, 56, 6</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>564</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Syrien (Tyros)</origPlace>
+                            <origDate>3.-4. Jh. n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz (deutsch) Jean Bouffartigue und Michel Patillon (Hg. und Übers.), Porphyre. De l' abstinence, Bd. 2, Buch II-III, Paris 1979. (französisch)</bibl>
+                <bibl>
+                    <edition>
+
+	(John F. Healey, The Religion of the Nabataeans: A Conspectus, Leiden 2001, S. 162)
+
+	Jean Bouffartigue und Michel Patillon (Hg. und Übers.), Porphyre. De l' abstinence, Bd. 2, Buch II-III, Paris 1979.</edition>
+                    <relatedItem>
+                        <bibl>006:140; 017:031</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Der vorliegende Text aus Porphyrius' "Enthaltung von Beseeltem" (gr. Ἀποχὴ ᾿Εμψύχων, lat. de Abstinentia) scheint die Annahme zu unterstützen, dass in Q 6:140 ("den Schaden haben diejenigen, welche ihre Kinder in Torheit und Unwissenheit töteten und (so) kultisch (dem Tode) weihten, was Gott ihnen beschert hatte, indem sie Gott Dinge andichteten. Sie sind fürwahr fehlgegangen und gehörten nicht zu den rechtgeleiteten") und 17:31 ("und tötet eure Kinder nicht aus Furcht vor Verarmung (?), Wir werden sie und euch versorgen. Sie zu töten ist eine schwere Sünde!") zumindest auch, auf Kindertötung im Rahmen von Kinderopfern angespielt wird. Die Kindstötung wird im Koran an beiden Stellen scharf verurteilt. Zumindest in Q 6:140 liegt der Gedanke an eine quasi religiöse Praxis nahe, da sich hier der Begriff <hi xml:lang="ar-Latn">ḥarrama</hi> etwa "kultisch weihen" findet und der Vorwurf ergeht, Gott etwas anzudichten. Letzteres ergibt bei einer religiös motivierten Praxis Sinn. Q 17:31 erwähnt die Furcht vor "Verarmung" (so die traditionelle Lesung des Wortes <hi xml:lang="ar-Latn">ʾimlāq</hi>). Obgleich hier Tötung aus 'sozialen Gründen' angesprochen zu sein scheint, muss nicht die 'Beseitigung' eines zusätzlichen Essers bzw. von Mitgiftverpflichtung gemeint sein, es mag auch die Opferung zur Sicherung der Subsistenz (etwa durch Regen, Gesundheit der Pflanzen und des Viehs etc, also ein <hi xml:lang="ar-Latn">do ut des</hi>-Opfer.) mitschwingen. Dazu auch allgemein Henninger, Jospeph (1958), "Menschenopfer bei den Arabern", Anthropos 53, 5/6, S. 721-805.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	Καὶ Δουματηνοὶ δὲ τῆς Ἀραβίας κατ' ἔτος ἕκαστον ἔθυον παῖδα, ὃν ὑπὸ βωμὸν ἔθαπτον, ᾧ χρωνται ὡς ξοάνῳ.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Die Dumatener (Dūmah) opferten jedes Jahr einen Jungen; sie begruben ihn unter dem Altar, welchen sie als göttliche Statue benutzen.</p>
+                </body>
+            </text>
+            <text xml:lang="eng-Latn">
+                <body>
+                    <p>
+
+	The Dumatians used to sacrifice each year a boy; they buried him under the altar which they used as a divine statue.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

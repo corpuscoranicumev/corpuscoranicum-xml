@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Michael Marx</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Oktogon innen: 057:002, 033:056, Ṣalawāt an-Nabī, 004:171, 004:171-004:172, Ṣalawāt ʿĪsā, 019:033-019:036, 003:018-003:019, 112<lb/> Oktogon außen: 017:111, 033:056, 057:002, 064:001<lb/> Kupferplatte: 003:026, 006:012, 007:156, 112:003-112:004<lb/> Nord: 002:136, 003:084, 061:009, 112:003-112:004<lb/> neuer Fund: noch nicht identifiziert   Anonymus, The Arabic Islamic Inscriptions On The Dome Of The Rock In Jerusalem, 72 AH / 692 CE, online unter http://www.islamic-awareness.org/History/Islam/Inscriptions/DoTR.html, abgerufen am 16.6.2009.</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Israel</country>
+                        <settlement>Jerusalem</settlement>
+                        <institution> Felsendom</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Inschrift im Felsendom (Jerusalem)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="156">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Mosaikinschrift</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="1">
+                                    <p>Die Seite enthält eine Zeile.</p>
+                                    <p>Auf den vorliegenen Photographien lassen sich zwei Inschriften erkennen, von denen sich eine an der Außenseite des Oktogon befindet, während die andere an der Innenseite verläuft. Der Beginn der Inschrift, die an der Außenseite des Oktogon angebracht ist, wird durch ein Ornament im süd-süd-westlichen Bereich (22°) gekennzeichnet. In der Inschrift, die an der Innenseite des Oktogon zu sehen ist, sind an einer Stelle (113° - 67°) drei übereinander angeordnete Punkte zu erkennen, welche die "Jesus-Verse" (019:034-019:036) von einer hymnischen Glaubensformel (003:018-003:019) trennen. Inhaltlich vermischen sich in der Inschrift Koranverse mit Lobpreisungen auf den Propheten (338° - 292°) und auf Jesus (202° - 158°).</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Max von Berchem, Matériaux pour un Corpus Inscriptionum Arabicarum: Jerusalem: Ville. II/2. Kairo (o. J.), S. 228-248.<lb/>
+	Heribert Busse, "Die arabischen Inschriften im und am Felsendom in Jerusalem", in: Das Heilige Land. 109 (1997), S. 8–24.<lb/>
+	Oleg Grabar, "The Shape of the Holy, Early Islamic Jerusalem", Princeton 1996.<lb/>
+	Christel Kessler, "Abd al-Malik's Inscription in the Dome of the Rock, a Reconsideration", in: Journal of the Royal Asiatic Society (1970), S. 2-14.<lb/>
+	 
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <note type="intern" subtype="page">
+                <p>Beginn der Inschrift ist durch einen Ornament gekennzeichnet. Basmala, Tahlīl</p>
+            </note>
+            <div>
+                <bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسم‎</w>
+                    <w n="000000000">ال‍له</w>
+                    <w n="000000000">الرحمں</w>
+                    <w n="000000000">الرحٮم</w>
+                    <w n="000000000">لا</w>
+                    <w n="000000000">اله</w>
+                    <w n="000000000">الاال‍له</w>
+                    <w n="000000000">و</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>Kolophon mit dem Namen von al-Maʾmūn (reg. 813 – 833)</p>
+            </note>
+            <div>
+                <bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">(-)ال‍له</w>
+                    <w n="000000000">عٮدال‍له</w>
+                    <w n="000000000">الامام</w>
+                    <w n="000000000">الماموں</w>
+                    <w n="000000000">امٮرالمومٮٮں</w>
+                    <w n="000000000">ڡى</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>Ṣalawāt ar-Rasūl</p>
+            </note>
+            <div>
+                <bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">[ر]سول</w>
+                    <w n="000000000">ال‍له</w>
+                    <w n="000000000">صلى</w>
+                    <w n="000000000">ال‍له</w>
+                    <w n="000000000">علٮه</w>
+                    <w n="000000000">ووملٮكه</w>
+                    <w n="000000000">و</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">[لا</w>
+                    <w n="000000000">الـ]ـه</w>
+                    <w n="000000000">الاال‍له</w>
+                    <w n="000000000">وحده</w>
+                    <w n="000000000">لاسرٮک</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">الملک</w>
+                    <w n="000000000">وله</w>
+                    <w n="000000000">الحـ[ـمد]</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000"/>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"/>
+                    <w n="000000000">ٮسم</w>
+                    <w n="000000000">ال‍له</w>
+                    <w n="000000000">الرحمں</w>
+                    <w n="000000000">الرحٮم</w>
+                    <w n="000000000">لا</w>
+                    <w n="000000000">ا</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>017:111(so Busse) oder 025:002 (wäre jeweils nur teilweise)</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>017:111;025:002</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">[-]اولم‎ٮكں‎له‎سرٮك‎ڡى‎الملك</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>*) Ist nicht völlig identisch mit den Koranvers 057:002:<lb/>
+                    <lb/> لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ يُحْيِي وَيُمِيتُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>057:002</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ٮسم</w>
+                    <w n="000000000">ال‍له</w>
+                    <w n="000000000">الرحمں</w>
+                    <w n="000000000">الرحٮم</w>
+                    <w n="000000000">لا</w>
+                    <w n="000000000">اله</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">ال‍له</w>
+                    <w n="000000000">وحده</w>
+                    <w n="000000000">لاسرٮك</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">الملك</w>
+                    <w n="000000000">وله</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>033:056, Ṣalawāt an-Nabī, 004:171</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>033:056;004:171</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">ا</w>
+                    <w n="000000000">ل‍له</w>
+                    <w n="000000000">وملٮكته</w>
+                    <w n="000000000">ٮصلوں</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">الٮٮى</w>
+                    <w n="000000000">ٮاٮها</w>
+                    <w n="000000000">الدٮں</w>
+                    <w n="000000000">امنوا</w>
+                    <w n="000000000">صلوا</w>
+                    <w n="000000000">علٮه</w>
+                    <w n="000000000">وسلموا</w>
+                    <w n="000000000">تسليـ</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>احٯ - Kairo الحق</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>004:171</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ولاتڡولواعلى</w>
+                    <w n="000000000">ال‍له</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">احٯ</w>
+                    <w n="000000000">انماالمسٮح</w>
+                    <w n="000000000">عٮسى</w>
+                    <w n="000000000">اٮں</w>
+                    <w n="000000000">مرٮم</w>
+                    <w n="000000000">رسول</w>
+                    <w n="000000000">ال‍له</w>
+                    <w n="000000000">وكلمـ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>004:171-004:172</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ـواخيرالكم</w>
+                    <w n="000000000">انما</w>
+                    <w n="000000000">ال‍له</w>
+                    <w n="000000000">اله</w>
+                    <w n="000000000">وحد</w>
+                    <w n="000000000">سبحنه</w>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">ٮكون</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">ولدله</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">السموٮ</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>عٮدته - Kairo عٮادته 004:172, Ṣalawāt ʿĪsā</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>004:172</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">[-]وں</w>
+                    <w n="000000000">عبدا</w>
+                    <w n="000000000">ل‍له</w>
+                    <w n="000000000">ولاالملٮكه</w>
+                    <w n="000000000">المڢرٮوں</w>
+                    <w n="000000000">ومں</w>
+                    <w n="000000000">يستنكف</w>
+                    <w n="000000000">عں</w>
+                    <w n="000000000">عٮدته</w>
+                    <w n="000000000">ويستكٮرفسٮحشرهم</w>
+                    <w n="000000000">اليه</w>
+                    <w n="000000000">حميعاالهم</w>
+                    <w n="000000000">صلى</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">رسولك</w>
+                    <w n="000000000">وعٮدك</w>
+                    <w n="000000000">عٮسى</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>Ṣalawāt ʿĪsā, [019:033], 019:034-019:035</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>019:033-019:035</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ابن</w>
+                    <w n="000000000">مرٮم</w>
+                    <w n="000000000">والسلم</w>
+                    <w n="000000000">علٮه</w>
+                    <w n="000000000">ٮوم</w>
+                    <w n="000000000">ولدوٮوم</w>
+                    <w n="000000000">بموت</w>
+                    <w n="000000000">وٮوم</w>
+                    <w n="000000000">يبعث</w>
+                    <w n="000000000">حيادلك</w>
+                    <w n="000000000">عٮسى</w>
+                    <w n="000000000">اٮں</w>
+                    <w n="000000000">مرٮم</w>
+                    <w n="000000000">ڡول</w>
+                    <w n="000000000">الحٯ</w>
+                    <w n="000000000">الدى</w>
+                    <w n="000000000">ڡٮه</w>
+                    <w n="000000000">ٮمٮروں</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">كاں</w>
+                    <w n="000000000">ل‍له</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">يتخد</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ولد</w>
+                    <w n="000000000">[.]ـٮحٮه</w>
+                    <w n="000000000">ا</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>ڢيما - Kairo قائما</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>019:035-019:036;003:018</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ا</w>
+                    <w n="000000000">ڡصى</w>
+                    <w n="000000000">امراقاٮما</w>
+                    <w n="000000000">ٮڡول</w>
+                    <w n="000000000">له</w>
+                    <w n="000000000">كں</w>
+                    <w n="000000000">ڡٮكوں</w>
+                    <w n="000000000">واں</w>
+                    <w n="000000000">ال‍له</w>
+                    <w n="000000000">رٮى</w>
+                    <w n="000000000">ورٮكم</w>
+                    <w n="000000000">ڡاعٮدوه</w>
+                    <w n="000000000">هدا</w>
+                    <w n="000000000">صرط</w>
+                    <w n="000000000">مـ</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>ٮايٮٮ statt Kairo ٮايٮ</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>003:018-003:019</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">العرٮر</w>
+                    <w n="000000000">الحكٮم</w>
+                    <w n="000000000">اں</w>
+                    <w n="000000000">الدٮں</w>
+                    <w n="000000000">عٮد</w>
+                    <w n="000000000">ال‍له</w>
+                    <w n="000000000">الاسلم‏ومااحتلڡ</w>
+                    <w n="000000000">الدٮں</w>
+                    <w n="000000000">اوتوا</w>
+                    <w n="000000000">الكتٮ</w>
+                    <w n="000000000">ا</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

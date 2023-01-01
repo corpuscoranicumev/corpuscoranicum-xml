@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Leviticus 26:39-41</title>
+                <principal>
+                    <persName>Berenike Aschoff</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Abraham Geiger</persName>
+                    <name>Was hat Mohammed aus dem Judenthume aufgenommen?, 2. Aufl., Leipzig 1902, S. 12; Josef Horovitz, Jewish Proper Names and Derivatives in the Koran, Ohio 1925, S. 186f.; Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 444, 450; Rudi Paret, Der Koran. Kommentar und Konkordanz, Stuttgart 1977, Kommentar zu Q 2:88; Heribert Busse, Die theologischen Beziehungen des Islams zu Judentum und Christentum, Darmstadt 1988, S. 46, Anm. 20.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>491</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>002:088; 004:155</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	In Vorwegnahme des Falles, dass die Israeliten die ihnen von Moses verkündeten Verhaltensvorschriften missachten, spricht Leviticus 26:41 von ihrem "unbeschnittenen Herz". Paret und Busse vergleichen diese Stelle mit Q 4:155, in der am Ende einer Liste über die Verfehlungen der Israeliten auch deren angebliche Behauptung "Unsere Herzen sind unbeschnitten" (<hi xml:lang="ar-Latn">qulūbunā ġulfun</hi>) angeführt wird (vgl. Q 2:88); Paret verweist noch auf Jeremia 9:25 ("auch das ganze Haus Israel hat ein unbeschnittenes Herz"). Auffällig ist, dass die Israeliten sich im Koran das in Leviticus über sie gesprochene Urteil als Selbstbezichtigung zu eigen machen, wobei die Formulierung "und sie sagten" vielleicht auch einfach nur besagen könnte, dass das entsprechende Urteil eben in der jüdischen Schrift steht.<lb/>
+
+	Die Vorstellung einer Beschneidung des Herzens erscheint auch im Römerbrief (2:29), wo Paulus eine "Beschneidung des Herzens durch den Geist, nicht durch den Buchstaben" (καὶ περιτομὴ καρδίας ἐν πνεύματι οὐ γράμματι) fordert. Der Koran scheint also ein etabliertes Motiv antijüdischer Polemik aufzugreifen. Vgl. auch Deuteronomium 10:16 und 30:6.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וְהַנִּשְׁאָרִים בָּכֶם יִמַּקּוּ בַּעֲוֹנָם בְּאַרְצֹת אֹיְבֵיכֶם וְאַף בַּעֲוֹנֹת אֲבֹתָם אִתָּם יִמָּקּוּ : וְהִתְוַדּוּ אֶת־עֲוֹנָם וְאֶת־עֲוֹן אֲבֹתָם בְּמַעֲלָם אֲשֶׁר מָעֲלוּ־בִי וְאַף אֲשֶׁר־הָלְכוּ עִמִּי בְּקֶרִי : אַף־אֲנִי אֵלֵךְ עִמָּם בְּקֶרִי וְהֵבֵאתִי אֹתָם בְּאֶרֶץ אֹיְבֵיהֶם <hi rendition="bold"> אוֹ־אָז יִכָּנַע לְבָבָם הֶעָרֵל וְאָז יִרְצוּ אֶת־עֲוֹנָם :</hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	39 Diejenigen von euch, die dann noch überleben, siechen dahin in den Ländern eurer Feinde wegen ihrer Sünden, auch wegen der Sünden ihrer Väter, sodass sie, gleich ihnen, dahinsiechen. 40 Dann werden sie die Schuld eingestehen, die sie selbst und ihre Väter begangen haben durch ihren Treubruch und auch dadurch, dass sie mir feindlich begegnet sind, 41 sodass auch ich ihnen feindlich begegnete und sie in das Land ihrer Feinde führte.<hi rendition="bold"> Ihr unbeschnittenes Herz muss sich dann beugen und ihre Sünden müssen sie sühnen.</hi>
+                    </p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

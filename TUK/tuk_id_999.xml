@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kleidung Adams und Evas im Paradies; Genesis Rabba 20:12, Pirqe de R. Eliezer 14</title>
+                <principal>
+                    <persName>Dorothea Reule</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>999</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>5. Jh. (?) n. Chr. </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> August Wünsche: Bibliotheka Rabbinica. Eine Sammlung alter Midraschim. Zweite Lieferung: Der Midrasch Bereschit Rabba. Leipzig 1880, S. 94f. http://archive.org/stream/bibliothecarabbi01wn#page/94/mode/2up http://archive.org/stream/RabbaGenesis/midrashrabbahgen027557mbp#page/n217/mode/2up http://archive.org/stream/pirkderabbieli00frieuoft#page/98/mode/2up</bibl>
+                <bibl>
+                    <edition>
+
+	http://www.daat.ac.il/daat/tanach/raba1/20.htm</edition>
+                    <relatedItem>
+                        <bibl>007:025</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text xml:lang="arc-Hebr" type="orig">
+                <body>
+                    <p>
+
+	Genesis Rabba:</p>
+                    <p>
+
+	בתורתו של ר' מאיר מצאו כתוב: <hi rendition="bold">כתנות אור</hi>, אלו בגדי אדם הראשון, שהן דומים לפיגם רחבים מלמטה וצרין מלמעלה<lb/>
+                        <lb/>ר' יצחק רביא אומר: חלקים היו כצפורן, ונאים כמרגליות.<lb/>
+                        <lb/>אמר רבי יצחק: ככלי פשתן הדקים, הבאים מבית שאן.<lb/>
+                        <lb/>
+                        <hi rendition="bold">כתנות עור, </hi>שהן דבוקים לעור.<lb/>ר' אלעזר אמר: איגיאה.<lb/>רבי איבו אמר: אגנייה.</p>
+                    <p>רבי יהושע בן לוי אמר: לגאי.<lb/>רבי יוסי בר חנינא אמר: סיסרטון.<lb/>רבי שמעון בן לקיש אמר: גלי קסינון, ובהם היו בכורות משתמשין.<lb/>רבי שמואל בר נחמן אמר: צמר גמלים וצמר ארנבים היו.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Genesis Rabba 20:12:</p>
+                    <p>
+
+	In der Pentateuchrolle des R. Meir stand geschrieben: kotnot or Lichtgewänder, weil die Kleidung des ersten Menschen einer Raute glichen, welche nach unten weit, nach oben eng zusammenschliessen. Nach R. Jizchak Rabia waren die Kleider glatt wie Onyx und schön wie Perlen; nach R. Jizchak glichen sie Stoffen von feinstem Flachs, wie solche von Bethschan kommen. kotnot 'or heissen sie deshalb, weil sie an der Haut fest anschliessen und man merkt davon nichts; nach R. Eleasar war es ein Untergewand, nach R. Ibo waren es Gewänder von Ziegenwolle, nach R. Josua ben Levi Gewänder von Hasenfellen, nach R. Jose bar Chanina solche von Pelz. R. Simeon bar Nachman sagte: Die Kleider waren von Kamel- und Hasenwolle, indem sie unter kotnot 'or Stoffe verstehen, die vom Felle kommen.</p>
+                </body>
+            </text>
+            <text xml:lang="eng-Latn">
+                <body>
+                    <p>
+
+	Genesis Rabba 20:12: And the Lord God made for Adam and his wife garments of skin ('or). and clothed them (3:21): In R. Meir's Torah it was found written "Garments of light (or)": this refers to Adam's garments, which were like a torch (shedding radiance), broad at the bottom and narrow at the top. (...) Garments of skin meaning those that are nearest to the skin. R. Eleazar said: They were of goats' skin. R. Joshua said: of hares' skin. R. Jose b. R. Hanina said: It was a garment made of skin with its wool. Resh Lakish said: It was made of Circassian wool, and these were used (later) by first-born children. R. Samuel b. Nahman said: (They were made from) the wool of camels and the wool of hares, Garments of skin meaning those which are produced from the skin.</p>
+                    <p>
+
+	Pirqe de Rabbi Eliezer 14: What was the dress of the first man? A skin of nail, and a cloud of glory covered him. When he ate of the fruits of the tree, the nail-skin was stripped of him and the cloud of glory departed from him, and he saw himself naked (...).</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

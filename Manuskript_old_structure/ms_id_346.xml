@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Ägypten</country>
+                        <settlement>Kairo</settlement>
+                        <institution> Khedivial Library</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Khedivial Library (Moritz Tafel 31-36)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="346">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament, Schwarzweißphotographien liegen vor</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="19">
+                                    <p>Die Seiten enthalten 19 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Bernard Moritz, Arabic Palaeography. A Collection of Arabic Texts from the First Century of the Hidjra till the Year 1000, Kairo 1905, Tafel 31-36.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <note type="intern" subtype="page">
+                <p>In Z.5 findet sich eine extreme Manipulation bei <hi rendition="em">fa-nuǧǧiya</hi> (kairo), bis nahe zum Grad der Unkenntlichkeit des ursprünglichen <hi rendition="em">rasm</hi>.</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>012:109-013:002</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Maximilian Vogt</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الذيںَ</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">قبلهم</w>
+                    <w n="000000000">ولَدارُالأخره حيرٌللذيںَ</w>
+                    <w n="000000000">اتقواأفلايعقلوںَ</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> حتى</w>
+                    <w n="000000000">اِدااستيَسَ</w>
+                    <w n="000000000">الرُسُلُ</w>
+                    <w n="000000000">وظنوا أںَهم</w>
+                    <w n="000000000">قدُکُذِبواجَاَهمُ نصرُنافٮجِى</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">نشَاُوٮُرَدُبأسَنا عن</w>
+                    <w n="000000000">القوم</w>
+                    <w n="000000000">المجرميں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">لقدکاںَ في</w>
+                    <w n="000000000">قصصهم</w>
+                    <w n="000000000">عبرهٌ</w>
+                    <w n="000000000">لاُولي الألباب</w>
+                    <w n="000000000">ماکانَ</w>
+                    <w n="000000000">حديثايفتري ولَکن</w>
+                    <w n="000000000">تصديقَ</w>
+                    <w n="000000000">الذي</w>
+                    <w n="000000000">بيںَ</w>
+                    <w n="000000000">يديهِ وتفصيلَ</w>
+                    <w n="000000000">کل</w>
+                    <w n="000000000">شيٍ</w>
+                    <w n="000000000">وهديً ورحمهً</w>
+                    <w n="000000000">لقوم</w>
+                    <w n="000000000">يؤمنوںَ</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الرعدارٮعوں</w>
+                    <w n="000000000">وحمس</w>
+                    <w n="000000000">اٮٮ بسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمن</w>
+                    <w n="000000000">الرحيم ألمَرتلکَ</w>
+                    <w n="000000000">اَياتُ</w>
+                    <w n="000000000">الکتاب والذي</w>
+                    <w n="000000000">اُنزلَ</w>
+                    <w n="000000000">اِليکَ</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">ربکَ الحقُ</w>
+                    <w n="000000000">ولکنَ</w>
+                    <w n="000000000">اکثرَالناس لايؤمنوںَ</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">الل‍هُ</w>
+                    <w n="000000000">الذي</w>
+                    <w n="000000000">رفعَ</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>005:119-006:004</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Maximilian Vogt</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الڡوزُالعظيم</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">لل‍ه</w>
+                    <w n="000000000">ملکُ السماوات</w>
+                    <w n="000000000">والارص ومافيهِنَ</w>
+                    <w n="000000000">وهوَعلى</w>
+                    <w n="000000000">کل</w>
+                    <w n="000000000">شىِ قديرٌ</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الاٮعام</w>
+                    <w n="000000000">ماٮه</w>
+                    <w n="000000000">وسٮوں</w>
+                    <w n="000000000">وسٮ بسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمن</w>
+                    <w n="000000000">الرحيم الحمدُلل‍ه</w>
+                    <w n="000000000">الذي</w>
+                    <w n="000000000">خلقَ السماوات</w>
+                    <w n="000000000">والارضَ وجَعلَ</w>
+                    <w n="000000000">الظلُمات</w>
+                    <w n="000000000">والنورَ ثمَ</w>
+                    <w n="000000000">الذيںَ</w>
+                    <w n="000000000">کفروابرٮهم يعدلوں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">هوَالذي</w>
+                    <w n="000000000">خلـ[ـٯـ]ـکمُ من</w>
+                    <w n="000000000">طين</w>
+                    <w n="000000000">ثمَ</w>
+                    <w n="000000000">قَضَي</w>
+                    <w n="000000000">اجلا وأجلٌ</w>
+                    <w n="000000000">مسميً</w>
+                    <w n="000000000">عندَهُ</w>
+                    <w n="000000000">ثم</w>
+                    <w n="000000000">انتم تمتَروںَ</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">وهوَالل‍هُ</w>
+                    <w n="000000000">في السماوات</w>
+                    <w n="000000000">وفي</w>
+                    <w n="000000000">الارض يعلمُ</w>
+                    <w n="000000000">[سـ]ـرَکم</w>
+                    <w n="000000000">وجهرَکم ويعلم</w>
+                    <w n="000000000">ماٮکسبوں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">وماتأتهِمُ من</w>
+                    <w n="000000000">ايه</w>
+                    <w n="000000000">مں</w>
+                    <w n="000000000">ايات</w>
+                    <w n="000000000">رٮهم</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>Die Verszählung der hier beginnenden Sure, innerhalb der Verzierung, weist eine Auffälligkeit vor: Es heißt hier <hi rendition="em">siebzig und sechs, </hi>also<hi rendition="em"> sabaʿūna wa sittu,</hi> anstatt der herkömmlichen, schulgrammatischen <hi rendition="em">sittu wa sabaʿūn.</hi>
+                </p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>007:205-008:003</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Maximilian Vogt</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">والاصال</w>
+                    <w n="000000000">ولاتکن</w>
+                    <w n="000000000">مںَ</w>
+                    <w n="000000000">الغافلٮں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اِنَ</w>
+                    <w n="000000000">الدينَ</w>
+                    <w n="000000000">عندَرٮکَ</w>
+                    <w n="000000000">لا ٮستکٮروںَ</w>
+                    <w n="000000000">عن</w>
+                    <w n="000000000">عبادته ويُسٮحوٮَهُ</w>
+                    <w n="000000000">ولَهُ</w>
+                    <w n="000000000">يسحدونَ</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الاٮڡال</w>
+                    <w n="000000000">سٮعوں</w>
+                    <w n="000000000">وسٮ</w>
+                    <w n="000000000">اٮٮ [ٮسم]ا[لـ]ـل‍ه</w>
+                    <w n="000000000">الرحمن</w>
+                    <w n="000000000">الرحيم يسـٔلوٮَکَ</w>
+                    <w n="000000000">عن</w>
+                    <w n="000000000">الانفال</w>
+                    <w n="000000000">قل الأنفالُ</w>
+                    <w n="000000000">لل‍ه</w>
+                    <w n="000000000">والرسول فَاتقواالل‍ه</w>
+                    <w n="000000000">َ</w>
+                    <w n="000000000">وأصلحوا داتَ</w>
+                    <w n="000000000">ٮٮنکم</w>
+                    <w n="000000000">وأطيعواالل‍هَ ورسولَهُ</w>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">کنتم</w>
+                    <w n="000000000">مؤمنينَ</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اِنماالمؤمنونَ</w>
+                    <w n="000000000">الذينَ اِذاذُکرَالل‍هُ</w>
+                    <w n="000000000">وحلت قلوبهم</w>
+                    <w n="000000000">واِذاتليت</w>
+                    <w n="000000000">عليـ[هم]ـُ اَياتهُ</w>
+                    <w n="000000000">رادتهمُ</w>
+                    <w n="000000000">اِيمانا وعلى</w>
+                    <w n="000000000">رٮهم</w>
+                    <w n="000000000">يتوکلوں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">الذيںَ يقيمونَ</w>
+                    <w n="000000000">الصلاهَ</w>
+                    <w n="000000000">ومما</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>004:147-004:153</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Maximilian Vogt</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الل‍هُ</w>
+                    <w n="000000000">شاکراعليما</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">لاٮُحبُ الل‍هُ</w>
+                    <w n="000000000">الجَهرَبالسُوِمن</w>
+                    <w n="000000000">القول الامَن</w>
+                    <w n="000000000">ظَلمَ</w>
+                    <w n="000000000">وکانَ</w>
+                    <w n="000000000">الل‍هُ</w>
+                    <w n="000000000">سميعا عليما</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">اِن</w>
+                    <w n="000000000">تبدواخيرا أوتُحفوهُ</w>
+                    <w n="000000000">أوتعفواعن</w>
+                    <w n="000000000">سُوِ فاِنَ</w>
+                    <w n="000000000">الل‍هَ</w>
+                    <w n="000000000">کاںَ</w>
+                    <w n="000000000">عفواقديرا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اِنَ</w>
+                    <w n="000000000">الذينَ</w>
+                    <w n="000000000">يکفرونَ</w>
+                    <w n="000000000">بالل‍ه ورُسُله</w>
+                    <w n="000000000">ويُريدونَ</w>
+                    <w n="000000000">أن</w>
+                    <w n="000000000">يفَرقوا بينَ</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">ورُسُله</w>
+                    <w n="000000000">ويقولونَ ٮوُمنُ</w>
+                    <w n="000000000">ببعض</w>
+                    <w n="000000000">ونکفرُببعض ويريدوںَ</w>
+                    <w n="000000000">ان</w>
+                    <w n="000000000">يتخذوابيںَ ذلکَ</w>
+                    <w n="000000000">سبيلا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">اُولٮِکَ</w>
+                    <w n="000000000">هم</w>
+                    <w n="000000000">الکَافرونَ حقاوأعتدناللکافرينَ عدابامهينا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">والذينَ اَمَنوابالل‍ه</w>
+                    <w n="000000000">ورُسُله</w>
+                    <w n="000000000">ولَم يڡَرقوابيںَ</w>
+                    <w n="000000000">أحدمنهم</w>
+                    <w n="000000000">اُولٮِکَ سوفَ</w>
+                    <w n="000000000">نؤتيهِم</w>
+                    <w n="000000000">اُحورَهم</w>
+                    <w n="000000000">وکانَ الل‍هُ</w>
+                    <w n="000000000">غفورارحيما</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">يسلک أهلُ</w>
+                    <w n="000000000">الکتاب</w>
+                    <w n="000000000">أن</w>
+                    <w n="000000000">تنزل</w>
+                    <w n="000000000">علٮهُم</w>
+                </p>
+            </div>
+            <note type="intern" subtype="page">
+                <p>Die gesamte Seite ist stark manipuliert. Es finden sich Spuren von mind. zwei Schreibern, so enthält das MS z.B. das ältere und neuere Vokalisierungssystem (Kreise und Striche). An zahlreichen Stellen sind übermäßig viele Vokalzeichen gesetzt (vgl. Z.3 den <hi rendition="em">tanwīn</hi> bei <hi rendition="em">nafsan</hi> , zudem sind Stellen, wie diese, Grund zur Annahme eines dritten Schreibers.</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>002:285-003:003</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Maximilian Vogt</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">وقالواسَمعناوأَطعنا غفرانَک</w>
+                    <w n="000000000">ربَناواليکَ</w>
+                    <w n="000000000">المَصيرُ</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> لايکَلف</w>
+                    <w n="000000000">اللـهُ</w>
+                    <w n="000000000">نفساإلاوُسعَها لَهاماکَسبت</w>
+                    <w n="000000000">وعليهاما اکتسَبت</w>
+                    <w n="000000000">ربَنالاتُوَاخِذنا اِن</w>
+                    <w n="000000000">نَسيناأوأخطأناربَنا ولاتَحمل</w>
+                    <w n="000000000">علينااِصراکما حملتَهُ</w>
+                    <w n="000000000">على</w>
+                    <w n="000000000">الذينَ</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">قبلناربَنا ولاتحملنامالاطاقهَ</w>
+                    <w n="000000000">لنَابه وَاعف</w>
+                    <w n="000000000">عناوَاغفرلنَا وَارحمناأنتَ</w>
+                    <w n="000000000">مولانا ڡَانصرناعلى</w>
+                    <w n="000000000">القوم</w>
+                    <w n="000000000">الکَافرينَ</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> ال</w>
+                    <w n="000000000">عمراں</w>
+                    <w n="000000000">ماٮٮاں</w>
+                    <w n="000000000">اٮه بسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمں</w>
+                    <w n="000000000">الرحيم ألمَ</w>
+                    <w n="000000000">الل‍هُ</w>
+                    <w n="000000000">لاالهَ</w>
+                    <w n="000000000">اِلاهوَ الحيُ</w>
+                    <w n="000000000">األقيوم</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ںَزَلَ عليکَ</w>
+                    <w n="000000000">الکتابُ(ٮالحٯ</w>
+                    <w n="000000000">مصدٯا)</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>017:111-018:006</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Maximilian Vogt</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ولَم</w>
+                    <w n="000000000">يکن</w>
+                    <w n="000000000">لَهُ</w>
+                    <w n="000000000">ولىٌ[من]الذُل وکبرهُ</w>
+                    <w n="000000000">تکبيرا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> الکهڡ</w>
+                    <w n="000000000">ماٮه</w>
+                    <w n="000000000">واحدوعسره بسم</w>
+                    <w n="000000000">الل‍ه</w>
+                    <w n="000000000">الرحمن</w>
+                    <w n="000000000">الرحيم الحمدُلل‍ه</w>
+                    <w n="000000000">الذي</w>
+                    <w n="000000000">أنزَلَ علي</w>
+                    <w n="000000000">عبده</w>
+                    <w n="000000000">الکتابَ</w>
+                    <w n="000000000">ولم</w>
+                    <w n="000000000">ٮجعل لَهُ</w>
+                    <w n="000000000">عوَجا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">قيمالينذرَبأسا شديدامن</w>
+                    <w n="000000000">لَدُنکَ</w>
+                    <w n="000000000">ويَبَشِرَالمؤمٮٮںَ الذيںَ</w>
+                    <w n="000000000">يعملونَ</w>
+                    <w n="000000000">الصالحات أں</w>
+                    <w n="000000000">لهُم</w>
+                    <w n="000000000">أجراحسنا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">ماکثيںَ</w>
+                    <w n="000000000">فيهِ أبَدا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">وينذرَالديںَ</w>
+                    <w n="000000000">قالوا اتخَذالل‍هُ</w>
+                    <w n="000000000">وَلَدا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">مالَهم به</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">علم</w>
+                    <w n="000000000">ولالأباٮهم</w>
+                    <w n="000000000">کَبرت کَلمهً</w>
+                    <w n="000000000">تَخرُجُ</w>
+                    <w n="000000000">من</w>
+                    <w n="000000000">افواههم ان</w>
+                    <w n="000000000">يقولوںَ</w>
+                    <w n="000000000">اِلاکذبا</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">فلعلَکَ ٮاخعٌ</w>
+                    <w n="000000000">نفسَک</w>
+                    <w n="000000000">علي</w>
+                    <w n="000000000">اَثارهم</w>
+                    <w n="000000000">اِن لَم</w>
+                    <w n="000000000">يؤمنوابهذاالحديث</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

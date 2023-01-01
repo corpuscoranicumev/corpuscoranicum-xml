@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ezechiel 32:1-8</title>
+                <principal>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Richard Bell</persName>
+                    <name>A Commentary on the Qurʾān, Bd. 2, Manchester 1991, S. 460.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>151</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina, Mesopotamien</origPlace>
+                            <origDate>5. Jh. v. Chr. oder früher</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>075:007-075:009; 081:001</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Wie im biblischen Text stehen in Q 75:7-9 Mond und Sonne nebeneinander, wobei allerdings in Sure 75 ausdrücklich nur von einer Verfinsterung des Mondes die Rede ist; wenn es in Vers 9 heißt, dass Sonne und Mond miteinander "vereinigt" werden, so wird damit aber wohl auch auf ein Verlöschen der Sonne angespielt. Q 81:1 erwähnt dagegen nur die Verdunkelung der Sonne, Vers 2 ist wohl auf ein Herabstürzen (und nicht Erlöschen) der Sterne zu beziehen (s. Kommentar). - Ähnliche Vorstellungen begegnen auch anderswo in den prophetischen Büchern der Hebräischen Bibel, vgl. noch Jesaja 13:10 („Die Sterne und Sternbilder am Himmel lassen ihr Licht nicht mehr leuchten. Die Sonne ist dunkel, schon wenn sie aufgeht, der Mond lässt sein Licht nicht mehr scheinen“) und Joel 3:4 („Die Sonne wird sich in Finsternis verwandeln und der Mond in Blut“). S. auch TUK 0124 (Offenbarung des Johannes 6:12-17).</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיְהִי בִּשְׁתֵּי עֶשְׂרֵה שָׁנָה בִּשְׁנֵי־עָשָׂר חֹדֶשׁ בְּאֶחָד לַחֹדֶשׁ הָיָה דְבַר־יְהוָה אֵלַי לֵאמֹר : בֶּן־אָדָם שָׂא קִינָה עַל־פַּרְעֹה מֶלֶךְ־מִצְרַיִם וְאָמַרְתָּ אֵלָיו כְּפִיר גּוֹיִם נִדְמֵיתָ וְאַתָּה כַּתַּנִּים בַּיַּמִּים וַתָּגַח בְּנַהֲרוֹתֶיךָ וַתִּדְלַח־מַיִם בְּרַגְלֶיךָ וַתִּרְפֹּס נַהֲרוֹתָם : כֹּה אָמַר אֲדֹנָי יְהוִה וּפָרַשְׂתִּי עָלֶיךָ אֶת־רִשְׁתִּי בִּקְהַל עַמִּים רַבִּים וְהֶעֱלוּךָ בְּחֶרְמִי : וּנְטַשְׁתִּיךָ בָאָרֶץ עַל־פְּנֵי הַשָּׂדֶה אֲטִילֶךָ וְהִשְׁכַּנְתִּי עָלֶיךָ כָּל־עוֹף הַשָּׁמַיִם וְהִשְׂבַּעְתִּי מִמְּךָ חַיַּת כָּל־הָאָרֶץ : וְנָתַתִּי אֶת־בְּשָׂרְךָ עַל־הֶהָרִים וּמִלֵּאתִי הַגֵּאָיוֹת רָמוּתֶךָ : וְהִשְׁקֵיתִי אֶרֶץ צָפָתְךָ מִדָּמְךָ אֶל־הֶהָרִים וַאֲפִקִים יִמָּלְאוּן מִמֶּךָּ : וְכִסֵּיתִי בְכַבּוֹתְךָ שָׁמַיִם וְהִקְדַּרְתִּי אֶת־כֹּכְבֵיהֶם <hi rendition="bold"> שֶׁמֶשׁ בֶּעָנָן אֲכַסֶּנּוּ וְיָרֵחַ לֹא־יָאִיר אוֹרוֹ </hi>: כָּל־מְאוֹרֵי אוֹר בַּשָּׁמַיִם אַקְדִּירֵם עָלֶיךָ וְנָתַתִּי חֹשֶׁךְ עַל־אַרְצְךָ נְאֻם אֲדֹנָי יְהוִה :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Am ersten Tag des zwölften Monats im zwölften Jahr erging das Wort des Herrn an mich: 2 Menschensohn, stimm die Totenklage an über den Pharao, den König von Ägypten, und sag zu ihm: Löwe der Völker, jetzt bist du verstummt. / Und doch warst du wie ein Krokodil in den Seen, hast die Flüsse aufgepeitscht, / das Wasser mit deinen Füßen verschmutzt / und die Fluten aufgewühlt. 3 So spricht Gott, der Herr: / Ich werfe über dich mein Netz, ein Heer von vielen Völkern, / die ziehen dich herauf in meinem Schleppnetz. 4 Dann werfe ich dich aufs Land, / schleudere dich aufs freie Feld. Alle Vögel des Himmels sollen sich auf dich setzen / und ich sättige mit dir alle Tiere der Erde. 5 Ich lege dein Fleisch auf den Bergen aus / und fülle die Täler mit deinem Aas. 6 Ich tränke das Land bis hin zu den Bergen / mit der Flut deines Blutes; / die Schluchten sollen sich damit füllen. 7 Wenn dein Leben erlischt, / will ich den Himmel bedecken / und die Sterne verdüstern. <hi rendition="bold"> Die Sonne decke ich zu mit Wolken, / der Mond lässt sein Licht nicht mehr leuchten. </hi> 8 Deinetwegen verdunkle ich / alle die strahlenden Lichter am Himmel und lege Finsternis über dein Land - / Spruch Gottes, des Herrn.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

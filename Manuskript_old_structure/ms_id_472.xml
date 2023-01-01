@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 355. We. 1930. 3B1. Quer-8vo, 14 Z. (11x16,75; 6,5x12 cm). — Zustand: unsauber und fleckig; der Rand an mehreren Stellen ausgebessert und auch der Text f. 2. 3. — Material: Pergament, gelblich, glatt, ziemlich dünn. — Einband: roter Kattunband. — -Inhalt: Sure 41:20 ترجعون bis 41:37 ومن ا[ياته] und Sura 42:50 ال‍له bis 43:37 فبئس Nach f. 1 ist eine Lücke von 4-5 Blättern. Schrift: im Allgemeinen klein, gedrängt, kräftig, gleichmäßig. F. 1b. 2a u. bes. 3a sehr stark abgescheuert, zum Teil bis zur Unkenntlichkeit. — Buchstabenzahl der Zeilen ca. 30 bis 32. — Der Raum zwischen den einzelnen Buchstabengruppen durchschnittlich 0,3 cm — Wörterbrechung am Ende der Zeilen findet statt. — Im Worte sehen م u. ق sich sehr ähnlich; م am Ende hat einen kleinen Strich nach links; ن am Ende geht gerade unter die Linie herab, mit kleiner Biegung unten nach links; ق am Ende geht nach unten mit einem geraden Strich, der sich dann mit einem Schwung nach links wendet;ع zu Anfang hat kleine Rundung oben nach rechts; am Ende hat es unten einen nach rechts gezogenen Schwung. Anfangs-ا hat unten nach rechts einen kleinen Schwung. د u. ك sehen sich sehr ähnlich; das alleinstehende ي ebenso wie das End-ي haben eine Rundung nach rechts, die sich dann nach links wendet. Das ح in der Mitte der Wörter sieht zum Teil wie ein schräger Strich durch die Linie aus. — Die diakritischen Punkte fehlen. Die Vokale, durch rote Punkte bezeichnet, stehen meistens, doch ist besonders u (mitten an die Buchstaben zu setzen) öfters fortgelassen, zum Teil auch nicht deutlich geworden oder geblieben. Nunation durch 2 neben- oder übereinander stehende rote Punkte bezeichnet. Lang ā im Worte selbst wird meistens nicht ausgedrückt. — Die Lesezeichen, wie Hamza, Tašdīd, fehlen; desgleichen die Zeichen für Versabteilung; doch stehen solche für größere Versgruppen in Form von etwas größeren roten Kreisen. — Die Überschriften rot, mit Angabe der Verszahl in roter und grüner Farbe. — Am Rande fehlen irgendwelche Zeichen für Texteinteilung.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Wetzstein II 1930</idno>
+                        <altIdentifier>
+                            <idno>Wetzstein II 1930 (Ahlwardt 355)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="472">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>110</height>
+                                        <width>166</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="14">
+                                    <p>Die Seiten enthalten 14 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

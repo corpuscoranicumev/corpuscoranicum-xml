@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Babylonischer Talmud, Sanhedrin, 108b</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 98.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>82</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Mesopotamien</origPlace>
+                            <origDate>vor 7. Jh. n. Chr. (Endredaktion)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Lazarus Goldschmidt (Übers.), Der Babylonische Talmud, Berlin 1930-36, Bd. 9, S. 124 (modifiziert).</bibl>
+                <bibl>
+                    <edition>
+
+	Ausgabe Romm, Wilna 1880-86.</edition>
+                    <relatedItem>
+                        <bibl>011:038</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Wie Q 11:38 spricht der talmudische Text davon, dass Noah während des Baus der Arche von seinen Landsleuten verspottet worden sei.</p>
+                </body>
+            </text>
+            <text xml:lang="arc-hbo" type="orig">
+                <body>
+                    <p>
+
+	דרש רבא: מאי דכתיב לפיד בוז לעשתות שאנן נכון למועדי רגל, מלמד שהיה נח הצדיק מוכיח אותם, ואמר להם דברים שהם קשים כלפידים, והיו מבזין אותו, אמרו לו: זקן! תיבה זו למה? - אמר להם: הקדוש ברוך הוא מביא עליכם את המבול. - אמרו: מבול של מה? אם מבול של אש - יש לנו דבר אחר ועליתה שמה. ואם של מים הוא מביא, אם מן הארץ הוא מביא - יש לנו עששיות של ברזל שאנו מחפין בהם את הארץ, ואם מן השמים הוא מביא, יש לנו דבר ועקב שמו, ואמרי לה עקש שמו. אמר להם: הוא מביא מבין עקבי רגליכם, שנאמר נכון למועדי רגל.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Raba trug vor: Es heißt: "Eine verachtete Flamme vor den Gedanken des Sicheren, bereitgestellt zum Wanken des Fußes." [Hiob 12:5] Dies lehrt, dass der fromme Noah sie zurechtwies und an sie Worte richtete, eindringlich wie die Flamme, sie aber verhöhnten ihn, indem sie zu ihm sprachen: Alter, was soll diese Arche? Er erwiderte ihnen: Der Heilige, gepriesen sei er, wird über euch eine Sintflut bringen. Sie sprachen: Was für eine Sintflut? Wenn es eine Sintflut aus Feuer ist, so besitzen wir etwas [dagegen], nämlich das Alitha, und wenn eine aus Wasser, so haben wir, wenn sie aus der Erde kommen sollte, eiserne Platten, mit denen wir die Erde überziehen können, und wenn vom Himmel, so haben wir ebenfalls etwas [dagegen], nämlich das Aqab, oder wie manche lesen das Aqaš. Er erwiderte ihnen: Er wird sie (von) zwischen den Fersen eurer Füße bringen, denn es heißt: "bereitgestellt zum Wanken des Fußes."</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

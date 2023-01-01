@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abhandlung Ephrems des Syrers über die Gottesmutter</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>52</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis / Edessa</origPlace>
+                            <origDate>306–373</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Edmund Beck (Übers.), Nachträge zu Ephrem Syrus, Louvain 1975 (Corpus Scriptorum Christianorum Orientalium 363, Scriptores Syri 160), S. 52 (modifiziert von David Kiltz).</bibl>
+                <bibl>
+                    <edition>
+
+	Edmund Beck (Hg.), Nachträge zu Ephrem Syrus, Louvain 1975 (Corpus Scriptorum Christianorum Orientalium 363, Scriptores Syri 159), S. 40.</edition>
+                    <relatedItem>
+                        <bibl>019:021</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Ebenso wie in Q 19:20 befragt Maria im vorliegenden Text den Engel, wie denn ihre Schwangerschaft zustande kommen könnte. Die Antwort, die Gabriel laut Ephrem Maria gegeben hat, ähnelt der Aussage des Engels in Q 19:21; nämlich, dass es für Gott ein Leichtes sei, das Wunder der Schwangerschaft Marias zu bewirken (<hi xml:lang="ar-Latn">qāla rabbuki huwa ʿalayya hayyinun,</hi>
+                        <hi rendition="em"/>"Dein Herr sagte Dir: "Es ist mir ein leichtes!'", vgl. syr.: <hi xml:lang="ar-Latn">da-dlīl-ū leh l-allāhā wa-pšīq-ū leh kulmeddem</hi> "dass es ihm, Gott, ein leichtes ist und ihm alles einfach ist").</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	ܚܘܪܘ ܒܗܿ ܒܡܪܝܡ ܚܒܝ̈ܒܝ ܟܕ ܥܠ ܨܝܕܝܗܿ ܓܒܪܝܐܝܠ ܘܟܕ ܕܪܫܐ ܥܡܗ ܐܡܪܬ ܕܐܝܟܢܐ ܬܗܘܐ ܗܕܐ ܘܦܢܝ ܗܘܐ ܫܡܫ ܪܘܚܐ ܦܬܓܡܐ ܠܡܪܝܡ ܘܐܡܪ ܕܕܠܝܠ ܗܘ ܠܗ ܠܐܠܗܐ ܘܦܫܝܩ ܗܘ ܠܗ ܟܠܡܕܡ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	93 Schaut auf Maria, meine Lieben, wie Gabriel bei ihr eintrat, und wie sie mit ihm disputierte: "Wie wird das geschehen?" 97 Der Diener des Geistes antwortete Maria: "Einfach ist es für Gott und alles ist für ihn leicht."</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

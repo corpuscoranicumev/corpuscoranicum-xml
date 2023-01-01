@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Tobias J. Jocham</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Textstelle noch exact eingrenzen; Transliteration etc... TJJ 2013</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Das Transliterat dieser Handschrift ist mit einem geringfügig modifizierten System wiedergegeben; so werden die einzelnen Worte jeweils durch ein <hi rendition="em">spatium</hi> abgegrenzt und einzelne, gegenüber dem Kairiner Text fehlende Zeichen durch eine leere, runde Klammerung markiert: vgl. die defektive Wiedergabe von <hi rendition="em">qāla </hi>mit ڧ()ل . Die geschweiften Klammern deuten ein über den <hi rendition="em">rasm </hi>hinausgehendes Zeichen an, oder weisen auf ein radiertes, korrigiertes oder hinsichtlich Kairo variiertes Zeichen hin. Dieses Blatt gehört zu einem Kodex, zu welchem auch die folgenden Handschriften gehören: Signaturen Ms. 68, 69, 70, 699 (?) im Museum of Islamic Art, Doha. TR:490-2007 im Privatbesitz von Vahid Kooros. Is. 1615I in der Chester Beatty Library.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Qatar</country>
+                        <settlement>The Museum of Islamic Art</settlement>
+                        <institution> Qatar, Floor 2 / الطابق 2</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>MIA, Doha [Signatur unbekannt]</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="426">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Codex">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>280</height>
+                                        <width>350</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Sotheby‘s (London): Arts of the Islamic World. Including Fine Carpets and Textiles. Auction in London, Wednesday 8 Oct ober 2008. Sotheby‘s, London 2008.
+
+	Sotheby‘s: Arts of the Islamic World 2008, Lot 3 [30.4.2012].
+
+	James, David Lewis: Qurʾans and Bindings from the Chester Beatty Library. A Facsimilie Edition. World of Islam Festival Trust, London 1980.
+
+	Googleartproject, Museum of Islamic Art, Doha [7.2.2013].
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

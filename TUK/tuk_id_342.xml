@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Göttliche Liturgie</title>
+                <principal>
+                    <persName>Manolis Ulbricht</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Angelika und Karl Neuwirth</persName>
+                    <name>"Sūrat al-Fātiha – 'Eröffnung' des Text-Corpus Koran oder 'Introitus' der Gebetsliturgie?", in: Walter Gross, Hubert Irsigler und Theodor Seidl (Hg), Text, Methode und Grammatik, St. Ottilien 1991, S. 331-357.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>342</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate>ca. 5. Jh. n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Manolis Ulbricht</bibl>
+                <bibl>
+                    <edition>
+
+	Die Göttliche Liturgie der Orthodoxen Kirche (dt.-gr.-kirchenslaw.), hg. von Anastasios Kallis, Münster 2003, S. 45-49.</edition>
+                    <relatedItem>
+                        <bibl>001:001-001:007</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Der sogenannte Introitus der byzantinischen Liturgie eröffnet den orthodoxen eucharistischen Gottesdienst, die sogenannte "Göttliche Liturgie", gemäß den Gottesdienstformularen des Hl. Chrysostomos (gest. 407) und des Hl. Baseilios (gest. 379). Es ist das eucharistische Bittgebet.<lb/>
+
+	Beide Intertexte weisen nicht nur einen ähnlichen hymnischen Duktus auf, sondern auch eine Reihe von einzelnen Begriffen und Wendungen. Wie Angelika und Karl Neuwirth herausarbeiten (a. a. O., 354 f.), enthält der Intertext "[z]usammengenommen mit dem im folgenden Antiphon einsetzenden respondierenden <hi xml:lang="ar-Latn">kyrie eleēson</hi> [...] typologisch alle wesentlichen Elemente des ersten Teiles der <hi xml:lang="ar-Latn">Fātiha</hi>: Die Preisung <hi xml:lang="ar-Latn">eulogein - ḥamida</hi> (zu der Entsprechung von <hi xml:lang="ar-Latn">al-ḥamdu li-llāh</hi> zu <hi xml:lang="ar-Latn">eulogētos ho theos</hi>, s. bereits Schwally [Geschichte des Qorans von Theodor Nöldeke, Leipzig] 1909, S. 112); den Verweis auf das eschatologische Königtum <hi xml:lang="ar-Latn">basileia (tou theou) - mālik yaum ad-dīn</hi> bzw. die Herrschaft über Jetztzeit und Ewigkeit: <hi xml:lang="ar-Latn">nyn kai aei kai eis tous aiōnas tōn aiōnōn - (rabbi)-l-ʿālamīn</hi>, den Gedanken der Barmherzigkeit <hi xml:lang="ar-Latn">eleēson - raḥmān raḥīm</hi>. Die anschließende Ektenie ("Bittgebet") setzt ein mit einer Gebetsankündigung: <hi xml:lang="ar-Latn">tou kyriou deēthomen</hi>, vergleichbar, wenn auch mit stärkerer Betonung des Situativen, mit der im Sinne einer ständigen Disposition gemeinten Erklärung <hi xml:lang="ar-Latn">ʾ</hi>
+                        <hi xml:lang="ar-Latn">
+                        iyyāka naʿbudu wa ʾiyyāka nastaʿīn</hi>. Sie endet mit der Bitte um Untestützung und Behütung (vgl. <hi xml:lang="ar-Latn">antilabou ... kai diaphylaxon hēmās</hi> mit <hi xml:lang="ar-Latn">ihdinā</hi>), Bewahrung vor (göttlichem) Zorn (vgl. <hi xml:lang="ar-Latn">apo pasēs orgēs</hi> mit <hi xml:lang="ar-Latn">ġairi l-maġdūbi ʿalaihim</hi>), vor Gefahr und Not (vgl. <hi xml:lang="ar-Latn">apo kindynou kai anankēs</hi> mit <hi xml:lang="ar-Latn">wa-lā ḍ-ḍāllīn</hi>) - wobei freilich der arabische Wortlaut eine spezifisch lokale Metaphorik aufweist - und geht schließlich aus auf eine Berufung auf die göttliche Huld: <hi xml:lang="ar-Latn">tē sē chariti</hi>: vgl. <hi xml:lang="ar-Latn">allaḏīna anʿamta ʿalaihim</hi>."</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	Εὐλογημένη ἡ βασιλεία τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἁγίου Πνεύματος, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰώνας τῶν αἰώνων. [Ἀμήν.] Ἐν εἰρήνῃ τοῦ Kυρίου δεηθῶμεν. Κύριε ελέησον. [...] Ὕπερ τοῦ ῥυσθῆναι ἡμᾶς ἀπὸ πάσης θλίψεως, ὀργῆς, κινδύνου καὶ ἀνάγκης, τοῦ Κυρίου δεηθῶμεν. Ἀντιλαβοῦ, σῶσον, ἐλέησον καὶ διαφύλαξον ἡμᾶς, ὁ Θεός, τῇ σῇ χάριτι.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Gepriesen (sei) das Königreich des Vaters und des Sohnes und des Heiligen Geistes, jetzt und immerdar und in alle Ewigkeit. [Amen.] Lasst uns in Frieden den Herrn bitten. Herr, erbarme Dich. [...] Dass wir erlöst werden von jeglicher Bedrückung, jeglichem Zorn, jeglicher Gefahr und jeglichem Zwang, lasst uns den Herrn bitten. Unterstütze uns, errette uns, erbarme Dich unserer und bewahre uns, Gott, wegen (oder: durch) Deine(r) Gnade!</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

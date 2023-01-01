@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>JSNab 17 aus Hegra (Madāʾin Ṣāliḥ)</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>John F. Healey</persName>
+                    <name>The Religion of the Nabataeans, Leiden 2001. (früheste Erwähnung noch zu eruieren)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>596</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nordarabien</origPlace>
+                            <origDate>267 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	JS I, 172-76, Nr. 17:7</edition>
+                    <relatedItem>
+                        <bibl>001:002; 002:131; 005:028; 006:045; 006:071; 006:162; 007:054; 007:061; 007:067; 007:104; 007:121; 010:010; 010:037; 026:016; 026:023; 026:047; 026:077; 026:098; 026:109; 026:127; 026:145; 026:164; 026:180; 026:192; 027:008; 027:044; 028:030; 032:002; 037:087; 037:182; 039:075; 040:064; 040:065; 040:066; 041:009; 043:046; 045:036; 056:080; 059:016; 069:043; 081:029; 083:006</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">rabb al-ʿālamīn</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Im Norden der, im weiteren Sinne, arabischen Welt, wie etwa hier in Hegra (Madāʾin Ṣāliḥ) findet sich der Begriff "Herr der Welt", welches an das koranische <hi xml:lang="ar-Latn">rabb al-ʿālamīn</hi> erinnert.<lb/>
+
+	Der Begriff ist allgemein im vorkoranischen Milieu bekannt, der hier vorgestellte Text ist ein Beispiel. Der Begriff "Herr der Welt(en)" findet sich in jüdischen, christlichen und 'heidnischen' bzw. nicht weiter spezifizierbaren Kontexten. Interessant ist, dass der Koran stehts den Plural <hi xml:lang="ar-Latn">ʿālamīn</hi> "Welten" bzw. "Menschen" gebraucht. Der Plural mag auf konzeptionelle Unterschiede in den verschiedenen Literaturen hinweisen. Es sei jedoch angemerkt, dass auch etwa im jüdischen Bereich Begriffe mit <hi xml:lang="ar-Latn">ʿôlām</hi> als zweitem Bestandteil von feststehenden Ausdrücken in jüngeren Passagen der Bibel sowie in Qumrān vermehrt den<hi rendition="em"/>Plural<hi xml:lang="ar-Latn"> ʿôlāmîm</hi> aufweisen (z.B. <hi xml:lang="ar-Latn">yḥd ʿwlmym</hi> "ewige Gemeinde", vgl. auch Rendsburg, G.A., 2010. QUMRAN HEBREW (WITH A TRIAL CUT [1QS]), S. 244).  Der Plural findet sich auch in äthiopischen Texten, vgl. dazu TUK 0907 (Buch der Jubiläen).</p>
+                    <p>
+
+	Anmerkung zur Sprache der Inschrift:</p>
+                    <p>
+
+	Obgleich die Sprache des Textes hier als aramäisch angegeben wurde, ist doch ein guter Teil vielmehr arabisch. So ist der Satz <hi xml:lang="ar-Latn">hlkt py ʾl-ḥgrw</hi> komplett arabisch, ins klassische Arabische übertragen würde er etwa <hi xml:lang="ar-Latn">/halakat fī l-Ḥiǧr/</hi> lauten. Auch die Verben <hi xml:lang="ar-Latn">ṣnʿ</hi> „herstellen, fertigen“ und <hi xml:lang="ar-Latn">lʿn</hi> „verfluchen“ sind eher arabisch als aramäisch. <hi xml:lang="ar-Latn">ḥšy (w-)wldh</hi> ist ebenfalls arabisch, wie auch die im Text bei <hi xml:lang="ar-Latn">qbrw</hi>, <hi xml:lang="ar-Latn">ʿbdmnwtw</hi> und <hi xml:lang="ar-Latn">ḥgrw</hi>  vorkommenden Schreibungen mit auslautendem <hi xml:lang="ar-Latn">–w.</hi> Nicht zuletzt ist der an zwei Stellen, nämlich <hi xml:lang="ar-Latn">ʾl-ḥgrw</hi> und <hi xml:lang="ar-Latn">ʾl-qbrw</hi> auftretende Gebrauch des bestimmten Artikels <hi xml:lang="ar-Latn">ʾl-</hi> arabisch.</p>
+                    <p>
+
+	Zu <hi xml:lang="ar-Latn">ʿālamīna</hi> vgl. auch Jeffery, Foreign vocabulary S. 208f.</p>
+                </body>
+            </text>
+            <text xml:lang="arc-Hebr" type="orig">
+                <body>
+                    <p>
+
+	1 Dnh qbrw ṣnʿh kʿbw br</p>
+                    <p>
+
+	2 ḥrtt l-rqwš brt</p>
+                    <p>
+
+	3 ʿbdmnwtw ʾmh w-hy</p>
+                    <p>
+
+	4 hlkt py ʾl-ḥgrw</p>
+                    <p>
+
+	5 šnt mʾh w-štyn</p>
+                    <p>
+
+	6 w-tryn byrḥ tmwz w-lʿn</p>
+                    <p>
+
+	7 <hi rendition="strong">mry ʿlmʾ</hi> mn yšnʾ ʾl-qbrw</p>
+                    <p>
+
+	8 d[ʾ] w-mn yptḥh ḥšy w-</p>
+                    <p>
+
+	9 wldh w-̥lʿn mn yqbr w-{y}ʿly mnh</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Dies ist das Grab, welches Kaʿb, der Sohn</p>
+                    <p>
+
+	des Ḥāritat für Raqūš, Tochter des</p>
+                    <p>
+
+	ʿAbdmanōt, seine Mutter angefertigt hat.</p>
+                    <p>
+
+	Sie verstarb in al-Ḥigr</p>
+                    <p>
+
+	im Jahre 162 im Monat Tammūz. Es verfluche</p>
+                    <p>
+                        <hi rendition="strong">der Herr der Welt</hi> jeden, der dieses Grab verändert</p>
+                    <p>
+
+	und jeden, der es, außer</p>
+                    <p>
+
+	ihren Söhnen öffnet. Verflucht sei, wer [jemanden anderen darin] begräbt und wer davon etwas entfernt.</p>
+                </body>
+            </text>
+            <text xml:lang="eng-Latn">
+                <body>
+                    <p>
+
+	Lord of the World</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

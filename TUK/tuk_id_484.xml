@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johannes 6:3-14</title>
+                <principal>
+                    <persName>Berenike Aschoff</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heribert Busse</persName>
+                    <name>Die theologischen Beziehungen des Islams zu Judentum und Christentum, Darmstadt 1988, S. 130-131.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>484</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Kleinasien (?)</origPlace>
+                            <origDate>ca. 90-110 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>005:112-005:115</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Q 5:112-115 berichtet, wie Gott auf ein Gebet Jesu hin einen Tisch vom Himmel herabsendet. Laut Busse "bezieht sich die Erzählung auf Ereignisse, die in der Theologie der alten Kirche typologisch aufeinander bezogen sind, nämlich die Speisung des Volkes in der Wüste mit Manna, die wunderbare Brotvermehrung und die Einsetzung der Eucharistie" (vgl. Lukas 22:19). Busses besonderes Interesse an dieser Erzählung gilt aber ihrem Charakter als Beglaubigungswunder: Die Jünger fordern die Herabsendung des Tisches als ein Zeichen (<hi xml:lang="ar-Latn">ʾāyatan minka</hi>). Busse vergleicht die koranische Passage mit Johannes 6:14, wo die wunderbare Brotvermehrung als Beglaubigungswunder bezeichnet wird: "Als die Menschen das Zeichen sahen, dass er getan hatte ... (ὃ ἐποίησεν σημεῖον)". Zugleich spielt die koranische Erzählung aber wohl auch auf die christliche Eucharistie an.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	3 ἀνῆλθεν δὲ εἰς τὸ ὄρος Ἰησοῦς καὶ ἐκεῖ ἐκάθητο μετὰ τῶν μαθητῶν αὐτοῦ. 4 ἦν δὲ ἐγγὺς τὸ πάσχα, ἡ ἑορτὴ τῶν Ἰουδαίων. 5 Ἐπάρας οὖν τοὺς ὀφθαλμοὺς ὁ Ἰησοῦς καὶ θεασάμενος ὅτι πολὺς ὄχλος ἔρχεται πρὸς αὐτὸν λέγει πρὸς Φίλιππον• πόθεν ἀγοράσωμεν ἄρτους ἵνα φάγωσιν οὗτοι; 6 τοῦτο δὲ ἔλεγεν πειράζων αὐτόν• αὐτὸς γὰρ ᾔδει τί ἔμελλεν ποιεῖν. 7 ἀπεκρίθη αὐτῷ [ὁ] Φίλιππος• διακοσίων δηναρίων ἄρτοι οὐκ ἀρκοῦσιν αὐτοῖς ἵνα ἕκαστος βραχύ [τι] λάβῃ. 8 λέγει αὐτῷ εἷς ἐκ τῶν μαθητῶν αὐτοῦ, Ἀνδρέας ὁ ἀδελφὸς Σίμωνος Πέτρου• 9 ἔστιν παιδάριον ὧδε ὃς ἔχει πέντε ἄρτους κριθίνους καὶ δύο ὀψάρια• ἀλλὰ ταῦτα τί ἐστιν εἰς τοσούτους; 10 εἶπεν ὁ Ἰησοῦς• ποιήσατε τοὺς ἀνθρώπους ἀναπεσεῖν. ἦν δὲ χόρτος πολὺς ἐν τῷ τόπῳ. ἀνέπεσαν οὖν οἱ ἄνδρες τὸν ἀριθμὸν ὡς πεντακισχίλιοι. 11 ἔλαβεν οὖν τοὺς ἄρτους ὁ Ἰησοῦς καὶ εὐχαριστήσας διέδωκεν τοῖς ἀνακειμένοις ὁμοίως καὶ ἐκ τῶν ὀψαρίων ὅσον ἤθελον. 12 ὡς δὲ ἐνεπλήσθησαν, λέγει τοῖς μαθηταῖς αὐτοῦ• συναγάγετε τὰ περισσεύσαντα κλάσματα, ἵνα μή τι ἀπόληται. 13 συνήγαγον οὖν καὶ ἐγέμισαν δώδεκα κοφίνους κλασμάτων ἐκ τῶν πέντε ἄρτων τῶν κριθίνων ἃ ἐπερίσσευσαν τοῖς βεβρωκόσιν. 14 <hi rendition="bold">Οἱ οὖν ἄνθρωποι ἰδόντες ὃ ἐποίησεν σημεῖον ἔλεγον ὅτι οὗτός ἐστιν ἀληθῶς ὁ προφήτης ὁ ἐρχόμενος εἰς τὸν κόσμον.</hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	3 Jesus stieg auf den Berg und setzte sich dort mit seinen Jüngern nieder. 4 Das Pascha, das Fest der Juden, war nahe. 5 Als Jesus aufblickte und sah, dass so viele Menschen zu ihm kamen, fragte er Philippus: Wo sollen wir Brot kaufen, damit diese Leute zu essen haben? 6 Das sagte er aber nur, um ihn auf die Probe zu stellen; denn er selbst wusste, was er tun wollte. 7 Philippus antwortete ihm: Brot für zweihundert Denare reicht nicht aus, wenn jeder von ihnen auch nur ein kleines Stück bekommen soll. 8 Einer seiner Jünger, Andreas, der Bruder des Simon Petrus, sagte zu ihm: 9 Hier ist ein kleiner Junge, der hat fünf Gerstenbrote und zwei Fische; doch was ist das für so viele! 10 Jesus sagte: Lasst die Leute sich setzen! Es gab dort nämlich viel Gras. Da setzten sie sich; es waren etwa fünftausend Männer. 11 Dann nahm Jesus die Brote, sprach das Dankgebet und teilte an die Leute aus, so viel sie wollten; ebenso machte er es mit den Fischen. 12 Als die Menge satt war, sagte er zu seinen Jüngern: Sammelt die übrig gebliebenen Brotstücke, damit nichts verdirbt. 13 Sie sammelten und füllten zwölf Körbe mit den Stücken, die von den fünf Gerstenbroten nach dem Essen übrig waren. 14 <hi rendition="bold">Als die Menschen das Zeichen sahen, das er getan hatte, sagten sie: Das ist wirklich der Prophet, der in die Welt kommen soll.</hi>
+                    </p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

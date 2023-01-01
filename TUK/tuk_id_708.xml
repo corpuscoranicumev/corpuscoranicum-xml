@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lāmiyyat al-ʿArab</title>
+                <principal>
+                    <persName>Ghassan El-Masri</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Toshihiko Izutsu</persName>
+                    <name>God and Man in the Quran, Kuala Lumpur 2002, S. 63.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>708</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Stamm der  ʿAzd in Sabaʾ und Šabāba, Ḥimyar, evtl. ʿUmān, als Ṣuʿlūk war der Dichter auch im Ḥiǧāz</origPlace>
+                            <origDate>ca. 525  n. Chr. (um 70 vor der Hiǧra)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Ghassan El-Masri (vgl. Toshihiko Izutsu, God and Man in the Quran, Kuala Lumpur 2002, S. 63; Michael A. Sells, Desert Tracings, Middletown 1989, S. 24.; Warren T. Treadgold, "A verse translation of the Lāmiya of Shanfara", Journal of Arabic literature 6 (1975), S. 30-34.)</bibl>
+                <bibl>
+                    <edition>ʿAlī Muḥammad al-Biǧǧāwī (Hg.), Muḫtārāt šuʿarāʾ al-ʿarab li-bni aš-Šaǧarī, Beirut 1992, S.73.</edition>
+                    <relatedItem>
+                        <bibl>002:242; 002:044; 002:072; 002:075; 002:076; 002:164; 002:170; 002:171; 003:065; 003:118; 005:058; 005:103; 006:032; 006:151; 007:169; 008:022; 010:016; 010:042; 010:100; 011:051; 012:002; 012:109; 013:004; 016:012; 016:067; 021:010; 021:067; 022:046; 023:080; 024:061; 025:044; 026:028; 028:060; 029:035; 029:043; 029:063; 030:024; 030:028; 036:062; 036:068; 037:138; 039:043; 040:067; 043:003; 045:005; 048:004; 057:017; 059:014; 067:010</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʿaqala</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Isuztsu führt den Vers zur Illustration der Bedeutung des Verbs <hi xml:lang="ar-Latn">ʿaqala</hi> als die praktische Intelligenz, im Sinn einer Tugend der Selbstbeherrschtheit an, die in der vorislamischen Gesellschaft hoch geschätzt worden sei. Diese Bedeutung stellt er dem Gebrauch des Verbs im Koran gegenüber, der sich vornehmlich auf die richtige Perzeption der göttlichen Zeichen<hi xml:lang="ar-Latn"> (ʾāyāt)</hi>  beziehe.</p>
+                    <p>Das auch im Koran geläufige Verb <hi xml:lang="ar-Latn">ʿaqala</hi>, das etymologisch "binden, festbinden" assoziiert, scheint im Koran eine vorwiegend intellektuelle Konnotation zu haben und stellt auf das Unvermögen der koranischen Gegner ab, die göttlichen "Zeichen" (<hi xml:lang="ar-Latn">ʾāyāt</hi>) zu "begreifen". Vor diesem Hintergrund der Bedeutung in der Dichtung wäre zu erwägen, ob nicht auch der koranische Gebrauch nicht eine ausgeprägtere moralische Konnotation (im Sinne von "an sich halten", "Selbstbeherrschung üben") haben könnte als es die allgemein übliche Übersetzung mit "verstehen" suggeriert.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>وفي الأرضِ منأًى للكريم عن الأذى   وفيها لمنْ خافَ القِلَى متحولُ<lb/>لعمرك ما بالأرض ضيقٌ على امرئ  سرى راغباً او راهباً وهو <hi rendition="bold">يعقلُ</hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>Auf diesem Land gibt es für den Edlen Zuflucht vor dem Übel und einen Ausweg für denjenigen, der den Hass [anderer] fürchtet.<lb/>Bei deiner Langlebigkeit, es wird nicht eng in diesem Land für einen Mann, der sich bei Nacht aufmacht, begierlich oder furchtsam und der <hi rendition="bold">verständig an sich hält</hi>.</p>
+                </body>
+            </text>
+            <text xml:lang="eng-Latn">
+                <body>
+                    <p>In this land there is a refuge from wrongs for the honourable  and an alternative; and for he who fears [people’s] hatred, an alternative [can be found]<lb/>By your longevity, there is no lack of room in this land for a man  who trod in the night, in desire and in fear while <hi rendition="bold">keeping his wits</hi>.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

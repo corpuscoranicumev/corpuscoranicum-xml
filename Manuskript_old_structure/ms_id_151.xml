@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Michael Marx</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Photographien aus dem Kodex findet man eventuell bei Moritz, Tafel 16 - 30.<lb/> Estelle Whelan nimmt diesen Kodex als Beispiel für die "Gruppe 2" ihrer Klassifikation. Der von Bothmer in die Zeit des Kalifen al-Walid datierte Kodex "Ms. Sanaa 20-33-1" (ID 114) soll sich ebenfalls dieser Gruppe zuordnen lassen, womit er als Ankerpunkt für eine Datierung dieser Handschriftengruppe dienen könnte. Damit ließe sich der vorliegende Kodex in umayyadische Zeit datieren.</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Irland</country>
+                        <settlement>Dublin</settlement>
+                        <institution> Chester Beatty Library, The Qur'an Collection</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Dublin CB 1404</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="151">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Codex">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>38x</height>
+                                        <width>7</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="19">
+                                    <p>Die Seiten enthalten 19 Zeilen.</p>
+                                    <p>"Ornamental bands of coloured design mark the beginnings of Suras." (Arberry, Koran, S. 4)</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>Arthur J. Arberry, The Koran Illuminated. A Handlist of the Korans in the Chester Beatty Library, Dublin 1967, S. 4, Nr. 3a. <lb/>
+Rice 1955 nach Déroche 2004,19; <lb/>
+Estelle Whelan, "Writing the Word of God: Some Early Qur'an Manuscripts And Their Milieux, Part I", Ars Orientalis, 1990, Volume 20, S. 119-121, siehe auch Abb. 19-22, S. 146-147. <lb/>
+Josef von Karabacek, "Arabic Palaeography", in: Wiener Zeitschrift für die Kunde des Morgenlandes 20 (1906), S. 136.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

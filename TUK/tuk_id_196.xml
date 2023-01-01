@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johannes 1:43-51</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Manolis Ulbricht</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>196</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Kleinasien (?)</origPlace>
+                            <origDate>ca. 90-110 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>070:003-070:004; 097:004</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Das Bild der auf- und absteigenden Engel erinnert an Q 97:4 und auch an den Begriff des "Herrn der Stufen" aus Q 70:3.4. Während sich der Bibeltext auf die Wiederkunft Jesu bezieht, geht es in den Koranstellen um Ausstausch zwischen Himmel und Erde, nicht um Jesus.</p>
+                    <p>
+
+	Der Intertext illustriert aber, wie ein bereits alttestamentarisches Motiv in späteren Kontexten aufgegriffen wird.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	43 Τῇ ἐπαύριον ἠθέλησεν ἐξελθεῖν εἰς τὴν Γαλιλαίαν καὶ εὑρίσκει Φίλιππον. καὶ λέγει αὐτῷ ὁ Ἰησοῦς• ἀκολούθει μοι. 44 ἦν δὲ ὁ Φίλιππος ἀπὸ Βηθσαϊδά, ἐκ τῆς πόλεως Ἀνδρέου καὶ Πέτρου. 45 εὑρίσκει Φίλιππος τὸν Ναθαναὴλ καὶ λέγει αὐτῷ• ὃν ἔγραψεν Μωϋσῆς ἐν τῷ νόμῳ καὶ οἱ προφῆται εὑρήκαμεν, Ἰησοῦν υἱὸν τοῦ Ἰωσὴφ τὸν ἀπὸ Ναζαρέτ. 46 καὶ εἶπεν αὐτῷ Ναθαναήλ• ἐκ Ναζαρὲτ δύναταί τι ἀγαθὸν εἶναι; λέγει αὐτῷ [ὁ] Φίλιππος• ἔρχου καὶ ἴδε. 47 εἶδεν ὁ Ἰησοῦς τὸν Ναθαναὴλ ἐρχόμενον πρὸς αὐτὸν καὶ λέγει περὶ αὐτοῦ• ἴδε ἀληθῶς Ἰσραηλίτης ἐν ᾧ δόλος οὐκ ἔστιν. 48 λέγει αὐτῷ Ναθαναήλ• πόθεν με γινώσκεις; ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ• πρὸ τοῦ σε Φίλιππον φωνῆσαι ὄντα ὑπὸ τὴν συκῆν εἶδόν σε. 49 ἀπεκρίθη αὐτῷ Ναθαναήλ• ῥαββί, σὺ εἶ ὁ υἱὸς τοῦ θεοῦ, σὺ βασιλεὺς εἶ τοῦ Ἰσραήλ. 50 ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ• ὅτι εἶπόν σοι ὅτι εἶδόν σε ὑποκάτω τῆς συκῆς, πιστεύεις; μείζω τούτων ὄψῃ. <hi rendition="bold">51 καὶ λέγει αὐτῷ• ἀμὴν ἀμὴν λέγω ὑμῖν, ὄψεσθε τὸν οὐρανὸν ἀνεῳγότα καὶ τοὺς ἀγγέλους τοῦ θεοῦ ἀναβαίνοντας καὶ καταβαίνοντας ἐπὶ τὸν υἱὸν τοῦ ἀνθρώπου.</hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	43 Am Tag darauf wollte Jesus nach Galiläa aufbrechen; da traf er Philippus. Und Jesus sagte zu ihm: Folge mir nach! 44 Philippus war aus Betsaida, dem Heimatort des Andreas und Petrus. 45 Philippus traf Natanaël und sagte zu ihm: Wir haben den gefunden, über den Mose im Gesetz und auch die Propheten geschrieben haben: Jesus aus Nazaret, den Sohn Josefs. 46 Da sagte Natanaël zu ihm: Aus Nazaret? Kann von dort etwas Gutes kommen? Philippus antwortete: Komm und sieh! 47 Jesus sah Natanaël auf sich zukommen und sagte über ihn: Da kommt ein echter Israelit, ein Mann ohne Falschheit. 48 Natanaël fragte ihn: Woher kennst du mich? Jesus antwortete ihm: Schon bevor dich Philippus rief, habe ich dich unter dem Feigenbaum gesehen. 49 Natanaël antwortete ihm: Rabbi, du bist der Sohn Gottes, du bist der König von Israel! 50 Jesus antwortete ihm: Du glaubst, weil ich dir sagte, dass ich dich unter dem Feigenbaum sah? Du wirst noch Größeres sehen. <hi rendition="bold">51 Und er sprach zu ihm: Amen, amen, ich sage euch: Ihr werdet den Himmel geöffnet und die Engel Gottes auf- und niedersteigen sehen über dem Menschensohn.</hi>
+                    </p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

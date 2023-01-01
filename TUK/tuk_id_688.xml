@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Psalm 113:1-9</title>
+                <principal>
+                    <persName>Nicolai Sinai</persName>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Anton Baumstark</persName>
+                    <name>"Jüdischer und christlicher Gebetstypus im Koran", Der Islam 16 (1927), S. 229–248.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>688</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Endredaktion des Psalters) </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>055:027; 055:078</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Die koranische Eulogien einleitende Form <hi xml:lang="ar-Latn">tabāraka</hi> korrespondiert der Prädikationsform derjenigen der <hi xml:lang="ar-Latn">Bərākā</hi>, die bereits im Alten Testament dokumentiert ist und "deren endgültige Gestalt als beherrschende Gebetsform des rabbinischen Judentums uns entgegentritt" (Baumstark 1927): "Gesegnet (<hi xml:lang="ar-Latn">bārûk</hi>) seist du, O Herr unser Gott, König der Welt, der ..." Da der Vers insgesamt jedoch Psalm 113:2 ("Der Name des Herrn sei gesegnet / von nun an bis in Ewigkeit") ähnelt (s. Baumstark 1927, S. 232 und Richard Bell, A Commentary on the Qurʾān, Bd. 2, Manchester 1991, ad loc.), hält Baumstark eine Anlehnung des Verses an die stark durch den Psalter geprägte christliche Liturgie für wahrscheinlicher als an den rabbinischen Gebetsritus (Baumstark 1927, S. 232 f.; zum christlichen Gebrauch von Psalm 113 s. ebd., S. 233, Anm. 3).</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>הַלְלוּ יָהּ הַלְלוּ עַבְדֵי יְהוָה הַלְלוּ אֶת־שֵׁם יְהוָה : <hi rendition="bold"> יְהִי שֵׁם יְהוָה מְבֹרָךְ מֵעַתָּה וְעַד־עוֹלָם </hi>: מִמִּזְרַח־שֶׁמֶשׁ עַד־מְבוֹאוֹ מְהֻלָּל שֵׁם יְהוָה : רָם עַל־כָּל־גּוֹיִם יְהוָה עַל הַשָּׁמַיִם כְּבוֹדוֹ : מִי כַּיהוָה אֱלֹהֵינוּ הַמַּגְבִּיהִי לָשָׁבֶת : הַמַּשְׁפִּילִי לִרְאוֹת בַּשָּׁמַיִם וּבָאָרֶץ : מְקִימִי מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן : לְהוֹשִׁיבִי עִם־נְדִיבִים עִם נְדִיבֵי עַמּוֹ : מוֹשִׁיבִי עֲקֶרֶת הַבַּיִת אֵם־הַבָּנִים שְׂמֵחָה הַלְלוּ־יָהּ :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>1 Halleluja! Lobet, ihr Knechte des Herrn, / lobt den Namen des Herrn! 2 <hi rendition="bold">Der Name des Herrn sei gepriesen / von nun an bis in Ewigkeit.</hi> 3 Vom Aufgang der Sonne bis zum Untergang / sei der Name des Herrn gelobt. 4 Der Herr ist erhaben über alle Völker, / seine Herrlichkeit überragt die Himmel. 5 Wer gleicht dem Herrn, unserm Gott, / im Himmel und auf Erden, 6 ihm, der in der Höhe thront, / der hinabschaut in die Tiefe, 7 der den Schwachen aus dem Staub emporhebt / und den Armen erhöht, der im Schmutz liegt? 8 Er gibt ihm einen Sitz bei den Edlen, / bei den Edlen seines Volkes. 9 Die Frau, die kinderlos war, lässt er im Hause wohnen; / sie wird Mutter und freut sich an ihren Kindern. / Halleluja!</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

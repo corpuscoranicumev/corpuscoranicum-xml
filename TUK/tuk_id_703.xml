@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Buch der Jubiläen 16:28-29</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 334.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>703</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina (Jerusalem?)</origPlace>
+                            <origDate>zwischen 167 und 140 v. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Klaus Berger (Übers.), Das Buch der Jubiläen, Gütersloh 1981, S. 414-415.</bibl>
+                <bibl>
+                    <edition>
+
+	James C. Vanderkam (Hg.), The Book of Jubilees. A Critical Text, Louvain 1989 (Corpus Scriptorum Christianorum Orientalium 510, Scriptores Aethiopici 87).</edition>
+                    <relatedItem>
+                        <bibl>085:022</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">lawḥ maḥfūẓ</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die "wohlverwahrte Tafel" in Q 85:22 erinnert an die himmlischen Tafeln, die im Jubiläenbuch eine wichtige Rolle spielen (vgl. Jub 3:10, 3:31, 4:5, 4:32, 5:13, 6:17, 6:31, 6:35, 15:25, 16:3, 16:9, 18:19, 19:9, 23:32, 24:33, 30:9, 30:19-20, 30:22, 32:10, 32:15, 32:21-22, 33:10, (36:10), 49:8). Sie erscheinen dort als Archetyp der Gesetzestafeln, als Tatenregister und Schicksalsbuch.</p>
+                    <p>
+
+	Das Buch der Jubiläen präsentiert sich als die Sinaioffenbarung an Moses, die ihm durch Engel vermittelt wird. Teil dieser Offenbarung sind nach dem Verständnis des Jubiläenbuches nicht nur die Gesetze, sondern auch der Pentateuch, der hier neu erzählt, bzw. unter einer bestimmten Zielsetzung interpretiert wird. Als Trägerkreis lässt sich eine antihellenistische priesterliche Reformgruppe identifizieren, die mit den Asidäern und der kurz darauf entstehenden Qumrangruppe in historischer Verbindung steht. Ziel ist die Bewahrung der Identität und kultischen Integrität Israels, wobei der Einhaltung des Kalenders und des Sabbats, sowie dem Zusammenhalt der Familie eine besondere Rolle zukommt, was in den Vätergeschichten exemplarisch dargestellt wird. Ursprünglich wurde das Jubiläenbuch auf Hebräisch verfasst; so sind alle in Qumran gefundenen Fragmente hebräisch. Später wurde das Buch auch im Christentum rezipiert, wovon Fragmente in verschiedenen Sprachen (lateinisch; eine anonyme syrische Chronik; Zitate bei griechischen Schriftstellern) zeugen. Vollständig erhalten ist das Buch der Jubiläen dagegen nur in der äthiopischen Übersetzung; wahrscheinlich dadurch bedingt, daß es bis heute Teil des Kanons der äthiopischen Kirche ist, während es in anderen christlichen Konfessionen und im Judentum heute kaum mehr eine Rolle spielt. (Zu Datierung und Textgeschichte siehe Berger, S. 279-300).</p>
+                    <p>
+
+	 </p>
+                </body>
+            </text>
+            <text xml:lang="gez-Ethi" type="orig">
+                <body>
+                    <p>
+
+	ወባረክናሁ፡ ለዓለም፡ ወኵሎ፡ ዘርአ፡ ዘእምድኅሬሁ፡ በኵሉ፡ ትውልደ፡ ምድር፡ እስወ፡ ገብረ፡ ዘንተ፡ በዓለ፡ በጊዜሃ፡ በከመ፡ ስምዐ፡ <hi rendition="bold"> ጽላተ፡ ሰማይ </hi> ። በእንተዝ፡ ተሠርዐ፡ ውስተ፡ <hi rendition="bold"> ጽላተ፡ ሰማይ፡ </hi> ላዕለ፡ እስራኤል፡ ከመ፡ ይኩኑ፡ ገባርያነ፡ በዓለ፡ መጸለት፡ ሰቡዐ፡ መዋዕል፡ በፍሥሓ፡ በወርኅ፡ ሳብዕ፡ ዘይትወከፍ፡ በቅድመ፡ እግዚአብሔር፡ ሕገ፡ ዘለዓለም፡ በትውልዶሙ፡ በኵሉ፡ ዓመት፡ ወዓመታት ።</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	28 Und wir segneten ihn [Abraham] für ewig und all seinen Samen, der nach ihm sei in allen Generationen der Erde, weil er dieses Fest gemacht hatte zu seiner Zeit nach dem Zeugnis auf den <hi rendition="bold">Tafeln des Himmels.</hi> 29 Deswegen ist angeordnet auf den <hi rendition="bold">Tafeln des Himmels</hi> über Israel, daß sie das Fest der Hütten sieben Tage hielten in Freude im siebten Monat, welches angenommen wurde vor dem Herrn als Gesetz für die Ewigkeit für ihre Generationen in jedem Jahr und Tag.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

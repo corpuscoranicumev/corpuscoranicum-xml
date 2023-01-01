@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Tobias J. Jocham</persName>
+                    <persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 304. Min. 296. 21 Bl. Quer-4to, 16 Z. (18,5x24,5; 12x18cm). - Zustand: der Text ist wasserfleckig geworden, besonders Bl. 1-9 u. 17-19; dadurch sind die Seiten an einander geklebt und haben beim Trennen der Blätter von einander gelitten, abgesehen davon, dass sie schon durch die Flecken ohnehin beschädigt sind. Der dazugehörige Rand scheint noch mehr gelitten zu haben, denn er ist rings um den Spiegel der Schrift abgeschnitten und ein neuer Rand sorgfältig um die Blätter geklebt. Dann ist auf diesem Rande, um den Text herum, eine breite Goldlinie, dann eine feine blaue Linie gezogen, und weiter nach dem Rande hin noch eine schmale Goldlinie, so dass das Ganze gefällig aussieht. — Material: das eigentliche Textblatt ist Pergament, ziemlich stark, gelblich, glatt; der Rand gelbes, starkes und glattes Papier. — Einband: schwarzer Lederband mit Goldleisten; die Außenseiten des Deckels sind mit geblümtem Wollenzeug ausgelegt. — Inhalt: F. 1-16:                  Sure 2:7 لاخر[ا] bis 2:192واتقونى  F. 17-18:                Sure 2:206العقاب  bis 2:229فامساك F. 19:                     Sure 14:26وماكان  bis 14:39تبعنى F. 20:                     Sure 15 Überschrift bis 15:28من حماء F. 21:                     Sure 16:94الله به  bis 16:108عظيم  Nach f. 16 u. 19 fehlt je 1 Blatt; nach f. 18 ist eine sehr große Lücke, nach f. 20 fehlen etwa 10 Bl. - Schrift: ziemlich groß, kräftig, gefällig, gleichmäßig. Von schöner Schwärze, die aber ins Bräunliche überzugehen angefangen hat; übrigens ziemlich oft etwas abgescheuert. — Die Zahl der Buchstaben in der Zeile ist etwa 25-30. — Der Zwischenraum zwischen den einzelnen Buchstabengruppen beträgt im Durchschnitt mindestens 0,5 cm. Ein Abbrechen der Wörter am Ende der Zeilen findet statt. — Die Köpfe der Buchstaben sind dick und fast ausgefüllt; Schluss-ن und ل gehen gerade unter die Linie, mit geringer Biegung unten nach links; Schluss-م hat den Strich auf der Linie; Schluss-ي hat eine Biegung nach rechts und unter der Linie eine solche nach links; mit gewissen Buchstaben verbunden ist es ein rund angesetzter nach rechts gehender, langer Zug. Das allein stehende ي gleicht dem End-ن, nur dass es auf der Linie eine nach rechts offene Krümmung hat. Anfangs-ع ist oben etwas gekrümmt, ك u. د sind ziemlich leicht zu verwechseln; Schluss-ق geht ziemlich weit mit geradem Strich unter die Linie und setzt dann einen runden Schwung nach links an; das Anfangs-ا geht gerade herunter mit sehr geringer Biegung unten nach rechts. — Diakritische Punkte fehlen, doch stehen solche f. 21b und scheinen daselbst nicht nachträglich gesetzt. Einige Male, z.B. f. 15b, 18b, stehen über ش drei Punkte in gerader Linie. — Die Vokale sind durch rote Punkte bezeichnet und recht häufig, die Nunation durch zwei solche, über- oder nebeneinander, angezeigt. Lang ā im Worte oft nicht ausgedrückt, z. B. يقوم für البينت, يا قوم. — Lesezeichen, wie Tašdīd, nicht vorhanden. — Die Verse nicht einzeln, sondern in größeren Gruppen abgeteilt durch etwas größere rote Kreise, in denen Buchstaben als Zahlzeichen stehen. — Die Überschriften sind rot: ganz kurz nach voran stehendem سورة der Name u. die Verszahl.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Min. 296</idno>
+                        <altIdentifier>
+                            <idno>Minutoli 296 (Ahlwardt 304)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="428">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>183</height>
+                                        <width>248</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="16">
+                                    <p>Die Seiten enthalten 16 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

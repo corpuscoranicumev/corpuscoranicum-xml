@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1 Samuel 8:1-10</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>David Kiltz (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Karl Ahrens</persName>
+                    <name>"Christliches im Qoran. Eine Nachlese", Zeitschrift der Deutschen Morgenländischen Gesellschaft 84 (1930), S. 179; vgl. Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 444.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>511</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>Vor 5.-6. Jh. v. Chr. (Redaktion des deuteronomistischen Geschichtswerkes)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>006:033</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">kaḏḏaba; ẓālim</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Sowohl der hier angegebene biblische Intertext als auch die Koranpassage stellen eine Situation dar, in der ein vom Volk zurückgewiesener Gottesgesandter, nämlich Samuel bzw. Muhammad, von Gott mit dem Hinweis getröstet wird, dass ja nicht er selbst zurückgewiesen werde, sondern vielmehr Gott.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>וַיְהִי כַּאֲשֶׁר זָקֵן שְׁמוּאֵל וַיָּשֶׂם אֶת־בָּנָיו שֹׁפְטִים לְיִשְׂרָאֵל׃ וַיְהִי שֶׁם־בְּנוֹ הַבְּכוֹר יוֹאֵל וְשֵׁם מִשְׁנֵהוּ אֲבִיָּה שֹׁפְטִים בִּבְאֵר שָׁבַע׃ וְלֹֽא־הָלְכוּ בָנָיו בִּדְרָכָו וַיִּטּוּ אַחֲרֵי הַבָּצַע וַיִּקְחוּ־שֹׁחַד וַיַּטּוּ מִשְׁפָּט׃ וַיִּתְקַבְּצוּ כֹּל זִקְנֵי יִשְׂרָאֵל וַיָּבֹאוּ אֶל־שְׁמוּאֵל הָרָמָתָה׃ וַיֹּאמְרוּ אֵלָיו הִנֵּה אַתָּה זָקַנְתָּ וּבָנֶיךָ לֹא הָלְכוּ בִּדְרָכֶיךָ עַתָּה שִׂימָה־לָּנוּ מֶלֶךְ לְשָׁפְטֵנוּ כְּכָל־הַגּוֹיִם׃ וַיֵּרַע הַדָּבָר בְּעֵינֵי שְׁמוּאֵל כַּאֲשֶׁר אָמְרוּ תְּנָה־לָּנוּ מֶלֶךְ לְשָׁפְטֵנוּ וַיִּתְפַּלֵּל שְׁמוּאֵל אֶל־יְהוָה׃ וַיֹּאמֶר יְהוָה אֶל־שְׁמוּאֵל שְׁמַע בְּקוֹל הָעָם לְכֹל אֲשֶׁר־יֹאמְרוּ אֵלֶיךָ <hi rendition="bold"> כִּי לֹא אֹֽתְךָ מָאָסוּ כִּי־אֹתִי מָאֲסוּ </hi> מִמְּלֹךְ עֲלֵיהֶם׃ כְּכָל־הַמַּעֲשִׂים אֲשֶׁר־עָשׂוּ מִיּוֹם הַעֲלֹתִי אֹתָם מִמִּצְרַיִם וְעַד־הַיּוֹם הַזֶּה וַיַּעַזְבֻנִי וַיַּעַבְדוּ אֱלֹהִים אֲחֵרִים כֵּן הֵמָּה עֹשִׂים גַּם־לָךְ׃ וְעַתָּה שְׁמַע בְּקוֹלָם אַךְ כִּי־הָעֵד תָּעִיד בָּהֶם וְהִגַּדְתָּ לָהֶם מִשְׁפַּט הַמֶּלֶךְ אֲשֶׁר יִמְלֹךְ עֲלֵיהֶם׃ וַיֹּאמֶר שְׁמוּאֵל אֵת כָּל־דִּבְרֵי יְהוָה אֶל־הָעָם הַשֹּׁאֲלִים מֵאִתּוֹ מֶלֶךְ׃</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>1 Als Samuel alt geworden war, setzte er seine Söhne als Richter Israels ein. 2 Sein erstgeborener Sohn hieß Joël, sein zweiter Abija. Sie waren in Beerscheba Richter. 3 Seine Söhne gingen nicht auf seinen Wegen, sondern waren auf ihren Vorteil aus, ließen sich bestechen und beugten das Recht. 4 Deshalb versammelten sich alle Ältesten Israels und gingen zu Samuel nach Rama. 5 Sie sagten zu ihm: Du bist nun alt und deine Söhne gehen nicht auf deinen Wegen. Darum setze jetzt einen König bei uns ein, der uns regieren soll, wie es bei allen Völkern der Fall ist. 6 Aber Samuel missfiel es, dass sie sagten: Gib uns einen König, der uns regieren soll. Samuel betete deshalb zum Herrn, 7 und der Herr sagte zu Samuel: Hör auf die Stimme des Volkes in allem, was sie zu dir sagen. <hi rendition="bold">Denn nicht dich haben sie verworfen, sondern mich haben sie verworfen:</hi> Ich soll nicht mehr ihr König sein. 8 Das entspricht ganz ihren Taten, die sie (immer wieder) getan haben, seitdem ich sie aus Ägypten heraufgeführt habe, bis zum heutigen Tag; sie haben mich verlassen und anderen Göttern gedient. So machen sie es nun auch mit dir. 9 Doch hör jetzt auf ihre Stimme, warne sie aber eindringlich und mach ihnen bekannt, welche Rechte der König hat, der über sie herrschen wird. 10 Samuel teilte dem Volk, das einen König von ihm verlangte, alle Worte des Herrn mit.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

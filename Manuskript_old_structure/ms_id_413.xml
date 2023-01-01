@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Andreas Ismail Mohr</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Enthaltener Text: Formel mit Q-Text aus Q 020:047 Bitte nacharbeiten! TJJ   Die Zürcher Datenbank gibt an: Instruktion betreffend Getreidesendungen nach Fusṭāṭ und Zahlung der Makssteuer durch die Kaufleute; Massnahme für die Getreideversorgung der Hauptstadt; Concerning the dispatch of corn to the Capital and the remittance of charges (maks) ( ʾišqawh ; 7. 7. 1. 710 [!] CE - 5. 2. 710 CE ) [Khoury, GAPh, I, 252: Kōm Ešqauh / Aphroditō] Inv. No.: P.Cair.EgLib.inv. 331 verso + P.Lond.inv.Or. 6231 (3) verso Material: papyrus Height: 37 cm. Width: 21 cm. Language(s): Arabic Kind: Official letter, administrative document Scribe(s): ǧarīr Date as on document: rabīʿ I 91 AH ? 3. 91 (Zitat Ende) Hier in Z. 13-14: wa-s-salāmu ʿalā mani ttabaʿa l-hudā = Q 020:047 (Dazu Khoury, „Papyruskunde“, GAPh, I, S. 266: „Bei nichtmuslimischen Empfängern schließt der Brief mit der Formel: Wa-s-salāmu ʿalā man ittabaʿa l-hudā.“</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Ägypten</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>P.BeckerNPAF 04 (= P.BeckerPAF 07 = P.Cair.Arab. 147)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="413">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material/>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>370</height>
+                                        <width>210</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Angaben nach der Züricher Datenbank:
+
+	Edition(s): Becker, PAF 7 (left part); Becker, NPAF 4; Grohmann, P.Cair.Arab. 147 Emendation(s): Diem, Aphrodito p. 257 Translation(s): Becker, NPAF 4; Grohmann, P.Cair.Arab. 147 Image(s): Grohmann, P.Cair.Arab. III pl. II TM: 106611
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <note type="intern" subtype="page">
+                <p>Hier in Z. 13-14: wa-s-salāmu ʿalā mani ttabaʿa l-hudā = Q 020:047 (Dazu Khoury, „Papyruskunde“, GAPh, I, S. 266: „Bei nichtmuslimischen Empfängern schließt der Brief mit der Formel: Wa-s-salāmu ʿalā man ittabaʿa l-hudā.“ Kein Bild.</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>020:047</bibl>
+                    <editor>
+                        <persName>?</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">الفسطاط فإنّّي قد وضعت عنهم مكسه فليبيعوه بالفسطاط وعجّل ذلك فإنِّي قد خفت غلاء الطّعام بالفسطاط وإنّي إذا وضعت للتّجّار مكسهم أصابوا ربحا حسنا / حسٹٹا وإنّما الحصاد إن شاء اللّه في أربعين ليلة أو قريب من ذلك فعجّل ما كنت باعث / پاحپ / حقّا به من ذلك واكتب إليّ كيف فعلت في ذلك وما بأرضك من التّجار الّذين يبيعون الطّعام والسّلم  على من اتّبع الهدى وكتب جرير في شهر ربيع الأول سنة إحدى وتسعين   [Text nach der Züricher Datenbank]   Übersetzung:   1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. Friede auf dem, der der Rechtleitung folgt. 14. 15. 16.  </w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

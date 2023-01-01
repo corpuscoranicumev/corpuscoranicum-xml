@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jona 1:1 - 4:11</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai</persName>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 407-410.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>397</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Jerusalem oder ägyptische Diaspora</origPlace>
+                            <origDate>3. Jh. v. Chr. oder früher</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung (modifiziert)</bibl>
+                <bibl>
+                    <edition>Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>010:098; 021:087-021:088; 037:139-037:148; 068:048-068:050</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Der Koran enthält nur eine Reihe kurzer Anspielungen auf die biblische Jona-Erzählung; er setzt offenbar voraus, dass seine Adressaten zumindest mit den Grundzügen der Geschichte vertraut sind. Auffällig ist der Gebrauch der Namensform <hi xml:lang="ar-Latn">Yūnus</hi> im Koran. Diese Form, mit auslautendem <hi xml:lang="ar-Latn">-s</hi>, kann nicht direkt die hebräische Form reflektieren, sondern muss auf eine letztlich über das Griechische entstandene Form zurückgehen. Es ist aber nicht nötig von einer Vermittlung direkt durch das Griechische auszugehen; gräzisierende Namensformen finden sich auch in anderen Sprachen des Orients, so etwa im Christlich-Palästinischen und Äthiopischen. Vgl. auch Jeffery, Foreign Vocabulary S. 295f. mit früherer Literatur. Wie auch Jeffery anmerkt, liegt hier wohl christliche Vermittlung vor.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+                     1:1-16
+                     <lb/>וַיְהִי דְּבַר־יְהוָה אֶל־יוֹנָה בֶן־אֲמִתַּי לֵאמֹר : קוּם לֵךְ אֶל־נִינְוֵה הָעִיר הַגְּדוֹלָה וּקְרָא עָלֶיהָ כִּי־עָלְתָה רָעָתָם לְפָנָי : וַיָּקָם יוֹנָה לִבְרֹחַ תַּרְשִׁישָׁה מִלִּפְנֵי יְהוָה וַיֵּרֶד יָפוֹ וַיִּמְצָא אָנִיָּה בָּאָה תַרְשִׁישׁ וַיִּתֵּן שְׂכָרָהּ וַיֵּרֶד בָּהּ לָבוֹא עִמָּהֶם תַּרְשִׁישָׁה מִלִּפְנֵי יְהוָה : וַיהוָה הֵטִיל רוּחַ־גְּדוֹלָה אֶל־הַיָּם וַיְהִי סַעַר־גָּדוֹל בַּיָּם וְהָאֳנִיָּה חִשְּׁבָה לְהִשָּׁבֵר : וַיִּירְאוּ הַמַּלָּחִים וַיִּזְעֲקוּ אִישׁ אֶל־אֱלֹהָיו וַיָּטִלוּ אֶת־הַכֵּלִים אֲשֶׁר בָּאֳנִיָּה אֶל־הַיָּם לְהָקֵל מֵעֲלֵיהֶם וְיוֹנָה יָרַד אֶל־יַרְכְּתֵי הַסְּפִינָה וַיִּשְׁכַּב וַיֵּרָדַם : וַיִּקְרַב אֵלָיו רַב הַחֹבֵל וַיֹּאמֶר לוֹ מַה־לְּךָ נִרְדָּם קוּם קְרָא אֶל־אֱלֹהֶיךָ אוּלַי יִתְעַשֵּׁת הָאֱלֹהִים לָנוּ וְלֹא נֹאבֵד : וַיֹּאמְרוּ אִישׁ אֶל־רֵעֵהוּ לְכוּ וְנַפִּילָה גוֹרָלוֹת וְנֵדְעָה בְּשֶׁלְּמִי הָרָעָה הַזֹּאת לָנוּ וַיַּפִּלוּ גּוֹרָלוֹת וַיִּפֹּל הַגּוֹרָל עַל־יוֹנָה : וַיֹּאמְרוּ אֵלָיו הַגִּידָה־נָּא לָנוּ בַּאֲשֶׁר לְמִי־הָרָעָה הַזֹּאת לָנוּ מַה־מְּלַאכְתְּךָ וּמֵאַיִן תָּבוֹא מָה אַרְצֶךָ וְאֵי־מִזֶּה עַם אָתָּה : וַיֹּאמֶר אֲלֵיהֶם עִבְרִי אָנֹכִי וְאֶת־יְהוָה אֱלֹהֵי הַשָּׁמַיִם אֲנִי יָרֵא אֲשֶׁר־עָשָׂה אֶת־הַיָּם וְאֶת־הַיַּבָּשָׁה : וַיִּירְאוּ הָאֲנָשִׁים יִרְאָה גְדוֹלָה וַיֹּאמְרוּ אֵלָיו מַה־זֹּאת עָשִׂיתָ כִּי־יָדְעוּ הָאֲנָשִׁים כִּי־מִלִּפְנֵי יְהוָה הוּא בֹרֵחַ כִּי הִגִּיד לָהֶם : וַיֹּאמְרוּ אֵלָיו מַה־נַּעֲשֶׂה לָּךְ וְיִשְׁתֹּק הַיָּם מֵעָלֵינוּ כִּי הַיָּם הוֹלֵךְ וְסֹעֵר : וַיֹּאמֶר אֲלֵיהֶם שָׂאוּנִי וַהֲטִילֻנִי אֶל־הַיָּם וְיִשְׁתֹּק הַיָּם מֵעֲלֵיכֶם כִּי יוֹדֵעַ אָנִי כִּי בְשֶׁלִּי הַסַּעַר הַגָּדוֹל הַזֶּה עֲלֵיכֶם : וַיַּחְתְּרוּ הָאֲנָשִׁים לְהָשִׁיב אֶל־הַיַּבָּשָׁה וְלֹא יָכֹלוּ כִּי הַיָּם הוֹלֵךְ וְסֹעֵר עֲלֵיהֶם : וַיִּקְרְאוּ אֶל־יְהוָה וַיֹּאמְרוּ אָנָּה יְהוָה אַל־נָא נֹאבְדָה בְּנֶפֶשׁ הָאִישׁ הַזֶּה וְאַל־תִּתֵּן עָלֵינוּ דָּם נָקִיא כִּי־אַתָּה יְהוָה כַּאֲשֶׁר חָפַצְתָּ עָשִׂיתָ : וַיִּשְׂאוּ אֶת־יוֹנָה וַיְטִלֻהוּ אֶל־הַיָּם וַיַּעֲמֹד הַיָּם מִזַּעְפּוֹ : וַיִּירְאוּ הָאֲנָשִׁים יִרְאָה גְדוֹלָה אֶת־יְהוָה וַיִּזְבְּחוּ־זֶבַח לַיהוָה וַיִּדְּרוּ נְדָרִים :<lb/>
+                        <lb/>
+                     2:1-11
+                     <lb/>וַיְמַן יְהוָה דָּג גָּדוֹל לִבְלֹעַ אֶת־יוֹנָה וַיְהִי יוֹנָה בִּמְעֵי הַדָּג שְׁלֹשָׁה יָמִים וּשְׁלֹשָׁה לֵילוֹת : וַיִּתְפַּלֵּל יוֹנָה אֶל־יְהוָה אֱלֹהָיו מִמְּעֵי הַדָּגָה : וַיֹּאמֶר קָרָאתִי מִצָּרָה לִי אֶל־יְהוָה וַיַּעֲנֵנִי מִבֶּטֶן שְׁאוֹל שִׁוַּעְתִּי שָׁמַעְתָּ קוֹלִי : וַתַּשְׁלִיכֵנִי מְצוּלָה בִּלְבַב יַמִּים וְנָהָר יְסֹבְבֵנִי כָּל־מִשְׁבָּרֶיךָ וְגַלֶּיךָ עָלַי עָבָרוּ : וַאֲנִי אָמַרְתִּי נִגְרַשְׁתִּי מִנֶּגֶד עֵינֶיךָ אַךְ אוֹסִיף לְהַבִּיט אֶל־הֵיכַל קָדְשֶׁךָ : אֲפָפוּנִי מַיִם עַד־נֶפֶשׁ תְּהוֹם יְסֹבְבֵנִי סוּף חָבוּשׁ לְרֹאשִׁי : לְקִצְבֵי הָרִים יָרַדְתִּי הָאָרֶץ בְּרִחֶיהָ בַעֲדִי לְעוֹלָם וַתַּעַל מִשַּׁחַת חַיַּי יְהוָה אֱלֹהָי : בְּהִתְעַטֵּף עָלַי נַפְשִׁי אֶת־יְהוָה זָכָרְתִּי וַתָּבוֹא אֵלֶיךָ תְּפִלָּתִי אֶל־הֵיכַל קָדְשֶׁךָ : מְשַׁמְּרִים הַבְלֵי־שָׁוְא חַסְדָּם יַעֲזֹבוּ : וַאֲנִי בְּקוֹל תּוֹדָה אֶזְבְּחָה־לָּךְ אֲשֶׁר נָדַרְתִּי אֲשַׁלֵּמָה יְשׁוּעָתָה לַיהוָה : וַיֹּאמֶר יְהוָה לַדָּג וַיָּקֵא אֶת־יוֹנָה אֶל־הַיַּבָּשָׁה :<lb/>
+                        <lb/>
+                     3:1-10
+                     <lb/>וַיְהִי דְבַר־יְהוָה אֶל־יוֹנָה שֵׁנִית לֵאמֹר : קוּם לֵךְ אֶל־נִינְוֵה הָעִיר הַגְּדוֹלָה וִּקְרָא אֵלֶיהָ אֶת־הַקְּרִיאָה אֲשֶׁר אָנֹכִי דֹּבֵר אֵלֶיךָ : וַיָּקָם יוֹנָה וַיֵּלֶךְ אֶל־נִינְוֶה כִּדְבַר יְהוָה וְנִינְוֵה הָיְתָה עִיר־גְּדוֹלָה לֵאלֹהִים מַהֲלַךְ שְׁלֹשֶׁת יָמִים : וַיָּחֶל יוֹנָה לָבוֹא בָעִיר מַהֲלַךְ יוֹם אֶחָד וַיִּקְרָא וַיֹּאמַר עוֹד אַרְבָּעִים יוֹם וְנִינְוֵה נֶהְפָּכֶת : וַיַּאֲמִינוּ אַנְשֵׁי נִינְוֵה בֵּאלֹהִים וַיִּקְרְאוּ־צוֹם וַיִּלְבְּשׁוּ שַׂקִּים מִגְּדוֹלָם וְעַד־קְטַנָּם : וַיִּגַּע הַדָּבָר אֶל־מֶלֶך נִינְוֵה וַיָּקָם מִכִּסְאוֹ וַיַּעֲבֵר אַדַּרְתּוֹ מֵעָלָיו וַיְכַס שַׂק וַיֵּשֶׁב עַל־הָאֵפֶר : וַיַּזְעֵק וַיֹּאמֶר בְּנִינְוֵה מִטַּעַם הַמֶּלֶךְ וּגְדֹלָיו לֵאמֹר הָאָדָם וְהַבְּהֵמָה הַבָּקָר וְהַצֹּאן אַל־יִטְעֲמוּ מְאוּמָה אַל־יִרְעוּ וּמַיִם אַל־יִשְׁתּוּ : וְיִתְכַּסּוּ שַׂקִּים הָאָדָם וְהַבְּהֵמָה וְיִקְרְאוּ אֶל־אֱלֹהִים בְּחָזְקָה וְיָשֻׁבוּ אִישׁ מִדַּרְכּוֹ הָרָעָה וּמִן־הֶחָמָס אֲשֶׁר בְּכַפֵּיהֶם : מִי־יוֹדֵעַ יָשׁוּב וְנִחַם הָאֱלֹהִים וְשָׁב מֵחֲרוֹן אַפּוֹ וְלֹא נֹאבֵד : וַיַּרְא הָאֱלֹהִים אֶת־מַעֲשֵׂיהֶם כִּי־שָׁבוּ מִדַּרְכָּם הָרָעָה וַיִּנָּחֶם הָאֱלֹהִים עַל־הָרָעָה אֲשֶׁר־דִּבֶּר לַעֲשׂוֹת־לָהֶם וְלֹא עָשָׂה :<lb/>
+                        <lb/>
+                     4:1-11
+                     <lb/>וַיֵּרַע אֶל־יוֹנָה רָעָה גְדוֹלָה וַיִּחַר לוֹ : וַיִּתְפַּלֵּל אֶל־יְהוָה וַיֹּאמַר אָנָּה יְהוָה הֲלוֹא־זֶה דְבָרִי עַד־הֱיוֹתִי עַל־אַדְמָתִי עַל־כֵּן קִדַּמְתִּי לִבְרֹחַ תַּרְשִׁישָׁה כִּי יָדַעְתִּי כִּי : אַתָּה אֵל־חַנּוּן וְרַחוּם אֶרֶךְ אַפַּיִם וְרַב־חֶסֶד וְנִחָם עַל־הָרָעָה : וְעַתָּה יְהוָה קַח־נָא אֶת־נַפְשִׁי מִמֶּנִּי כִּי טוֹב מוֹתִי מֵחַיָּי : וַיֹּאמֶר יְהוָה הַהֵיטֵב חָרָה לָךְ : וַיֵּצֵא יוֹנָה מִן־הָעִיר וַיֵּשֶׁב מִקֶּדֶם לָעִיר וַיַּעַשׂ לוֹ שָׁם סֻכָּה וַיֵּשֶׁב תַּחְתֶּיהָ בַּצֵּל עַד אֲשֶׁר יִרְאֶה מַה־יִּהְיֶה בָּעִיר : וַיְמַן יְהוָה־אֱלֹהִים קִיקָיוֹן וַיַּעַל מֵעַל לְיוֹנָה לִהְיוֹת צֵל עַל־רֹאשׁוֹ לְהַצִּיל לוֹ מֵרָעָתוֹ וַיִּשְׂמַח יוֹנָה עַל־הַקִּיקָיוֹן שִׂמְחָה גְדוֹלָה : וַיְמַן הָאֱלֹהִים תּוֹלַעַת בַּעֲלוֹת הַשַּׁחַר לַמָּחֳרָת וַתַּךְ אֶת־הַקִּיקָיוֹן וַיִּיבָשׁ : וַיְהִי כִּזְרֹחַ הַשֶּׁמֶשׁ וַיְמַן אֱלֹהִים רוּחַ קָדִים חֲרִישִׁית וַתַּךְ הַשֶּׁמֶשׁ עַל־רֹאשׁ יוֹנָה וַיִּתְעַלָּף וַיִּשְׁאַל אֶת־נַפְשׁוֹ לָמוּת וַיֹּאמֶר טוֹב מוֹתִי מֵחַיָּי : וַיֹּאמֶר אֱלֹהִים אֶל־יוֹנָה הַהֵיטֵב חָרָה־לְךָ עַל־הַקִּיקָיוֹן וַיֹּאמֶר הֵיטֵב חָרָה־לִי עַד־מָוֶת : וַיֹּאמֶר יְהוָה אַתָּה חַסְתָּ עַל־הַקִּיקָיוֹן אֲשֶׁר לֹא־עָמַלְתָּ בּוֹ וְלֹא גִדַּלְתּוֹ שֶׁבִּן־לַיְלָה הָיָה וּבִן־לַיְלָה אָבָד : וַאֲנִי לֹא אָחוּס עַל־נִינְוֵה הָעִיר הַגְּדוֹלָה אֲשֶׁר יֶשׁ־בָּהּ הַרְבֵּה מִשְׁתֵּים־עֶשְׂרֵה רִבּוֹ אָדָם אֲשֶׁר לֹא־יָדַע בֵּין־יְמִינוֹ לִשְׂמֹאלוֹ וּבְהֵמָה רַבָּה :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>1:1 Das Wort des Herrn erging an Jona, den Sohn Amittais: 2 Mach dich auf den Weg und geh nach Ninive, in die große Stadt, und droh ihr (das Strafgericht) an! Denn die Kunde von ihrer Schlechtigkeit ist bis zu mir heraufgedrungen. 3 Jona machte sich auf den Weg; doch er wollte nach Tarschisch fliehen, weit weg vom Herrn. Er ging also nach Jafo hinab und fand dort ein Schiff, das nach Tarschisch fuhr. Er bezahlte das Fahrgeld und ging an Bord, um nach Tarschisch mitzufahren, weit weg vom Herrn. 4 Aber der Herr ließ auf dem Meer einen heftigen Wind losbrechen; es entstand ein gewaltiger Seesturm und das Schiff drohte auseinanderzubrechen. 5 Die Seeleute bekamen Angst und jeder schrie zu seinem Gott um Hilfe. Sie warfen sogar die Ladung ins Meer, damit das Schiff leichter wurde. Jona war in den untersten Raum des Schiffes hinabgestiegen, hatte sich hingelegt und schlief fest. 6 Der Kapitän ging zu ihm und sagte: Wie kannst du schlafen? Steh auf, ruf deinen Gott an; vielleicht denkt dieser Gott an uns, sodass wir nicht untergehen. 7 Dann sagten sie zueinander: Kommt, wir wollen das Los werfen, um zu erfahren, wer an diesem unserem Unheil schuld ist. Sie warfen das Los und es fiel auf Jona. 8 Da fragten sie ihn: Sag uns, was treibst du für ein Gewerbe und woher kommst du, aus welchem Land und aus welchem Volk? 9 Er antwortete ihnen: Ich bin ein Hebräer und verehre den Herrn, den Gott des Himmels, der das Meer und das Festland gemacht hat. 10 Da bekamen die Männer große Angst und sagten zu ihm: Warum hast du das getan? Denn sie erfuhren, dass er vor dem Herrn auf der Flucht war; er hatte es ihnen erzählt. 11 Und sie sagten zu ihm: Was sollen wir mit dir machen, damit das Meer sich beruhigt und uns verschont? Denn das Meer wurde immer stürmischer. 12 Jona antwortete ihnen: Nehmt mich und werft mich ins Meer, damit das Meer sich beruhigt und euch verschont. Denn ich weiß, dass dieser gewaltige Sturm durch meine Schuld über euch gekommen ist. 13 Die Männer aber ruderten mit aller Kraft, um wieder an Land zu kommen; doch sie richteten nichts aus, denn das Meer stürmte immer heftiger gegen sie an. 14 Da riefen sie zu zum Herrn: Ach Herr, lass uns nicht untergehen wegen dieses Mannes und rechne uns, was wir jetzt tun, nicht als Vergehen an unschuldigem Blut an. Denn wie du wolltest, Herr, so hast du gehandelt. 15 Dann nahmen sie Jona und warfen ihn ins Meer und das Meer hörte auf zu toben. 16 Da ergriff die Männer große Furcht vor dem Herrn und sie schlachteten für den Herrn ein Opfer und machten ihm viele Gelübde.<lb/>
+                        <lb/>2:1 Der Herr aber schickte einen großen Fisch, der Jona verschlang. Jona war drei Tage und drei Nächte im Bauch des Fisches 2 und er betete im Bauch des Fisches zum Herrn, seinem Gott: 3 In meiner Not rief ich zum Herrn / und er erhörte mich. Aus der Tiefe der Unterwelt schrie ich um Hilfe / und du hörtest mein Rufen. 4 Du hast mich in die Tiefe geworfen, / in das Herz der Meere; mich umschlossen die Fluten, / all deine Wellen und Wogen schlugen über mir zusammen. 5 Ich dachte: Ich bin aus deiner Nähe verstoßen. / Wie kann ich deinen heiligen Tempel wieder erblicken? 6 Das Wasser reichte mir bis an die Kehle, / die Urflut umschloss mich; / Schilfgras umschlang meinen Kopf. 7 Bis zu den Wurzeln der Berge, / tief in die Erde kam ich hinab; / ihre Riegel schlossen mich ein für immer. Doch du holtest mich lebendig aus dem Grab herauf, / Herr, mein Gott. 8 Als mir der Atem schwand, dachte ich an den Herrn / und mein Gebet drang zu dir, / zu deinem heiligen Tempel. 9 Wer nichtige Götzen verehrt, / der handelt treulos. 10 Ich aber will dir opfern / und laut dein Lob verkünden. Was ich gelobt habe, will ich erfüllen. / Vom Herrn kommt die Rettung. 11 Da befahl der Herr dem Fisch, Jona ans Land zu speien.<lb/>
+                        <lb/>3:1 Das Wort des Herrn erging zum zweiten Mal an Jona: 2 Mach dich auf den Weg und geh nach Ninive, in die große Stadt, und droh ihr all das an, was ich dir sagen werde. 3 Jona machte sich auf den Weg und ging nach Ninive, wie der Herr es ihm befohlen hatte. Ninive war eine große Stadt vor Gott; man brauchte drei Tage, um sie zu durchqueren. 4 Jona begann, in die Stadt hineinzugehen; er ging einen Tag lang und rief: Noch vierzig Tage und Ninive ist zerstört! 5 Und die Leute von Ninive glaubten Gott. Sie riefen ein Fasten aus und alle, Groß und Klein, zogen Bußgewänder an. 6 Als die Nachricht davon den König von Ninive erreichte, stand er von seinem Thron auf, legte seinen Königsmantel ab, hüllte sich in ein Bußgewand und setzte sich in die Asche. 7 Er ließ in Ninive ausrufen: Befehl des Königs und seiner Großen: Alle Menschen und Tiere, Rinder, Schafe und Ziegen, sollen nichts essen, nicht weiden und kein Wasser trinken. 8 Sie sollen sich in Bußgewänder hüllen, Menschen und Tiere. Sie sollen laut zu Gott rufen und jeder soll umkehren und sich von seinen bösen Taten abwenden und von dem Unrecht, das an seinen Händen klebt. 9 Wer weiß, vielleicht reut es Gott wieder und er lässt ab von seinem glühenden Zorn, sodass wir nicht zugrunde gehen. 10 Und Gott sah ihr Verhalten; er sah, dass sie umkehrten und sich von ihren bösen Taten abwandten. Da reute Gott das Unheil, das er ihnen angedroht hatte, und er führte die Drohung nicht aus.<lb/>
+                        <lb/>4:1 Das missfiel Jona ganz und gar und er wurde zornig. 2 Er betete zum Herrn und sagte: Ach Herr, habe ich das nicht schon gesagt, als ich noch daheim war? Eben darum wollte ich ja nach Tarschisch fliehen; denn ich wusste, dass du ein gnädiger und barmherziger Gott bist, langmütig und reich an Huld und dass deine Drohungen dich reuen. 3 Darum nimm mir jetzt lieber das Leben, Herr! Denn es ist für mich besser zu sterben als zu leben. 4 Da erwiderte der Herr: Ist es recht von dir, zornig zu sein? 5 Da verließ Jona die Stadt und setzte sich östlich vor der Stadt nieder. Er machte sich dort ein Laubdach und setzte sich in seinen Schatten, um abzuwarten, was mit der Stadt geschah. 6 Da ließ Gott, der Herr, einen Rizinusstrauch über Jona emporwachsen, der seinem Kopf Schatten geben und seinen Ärger vertreiben sollte. Jona freute sich sehr über den Rizinusstrauch. 7 Als aber am nächsten Tag die Morgenröte heraufzog, schickte Gott einen Wurm, der den Rizinusstrauch annagte, sodass er verdorrte. 8 Und als die Sonne aufging, schickte Gott einen heißen Ostwind. Die Sonne stach Jona auf den Kopf, sodass er fast ohnmächtig wurde. Da wünschte er sich den Tod und sagte: Es ist besser für mich zu sterben als zu leben. 9 Gott aber fragte Jona: Ist es recht von dir, wegen des Rizinusstrauches zornig zu sein? Er antwortete: Ja, es ist recht, dass ich zornig bin und mir den Tod wünsche. 10 Darauf sagte der Herr: Dir ist es leid um den Rizinusstrauch, für den du nicht gearbeitet und den du nicht großgezogen hast. Über Nacht war er da, über Nacht ist er eingegangen. 11 Mir aber sollte es nicht leid sein um Ninive, die große Stadt, in der mehr als hundertzwanzigtausend Menschen leben, die nicht einmal rechts und links unterscheiden können - und außerdem so viel Vieh?</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

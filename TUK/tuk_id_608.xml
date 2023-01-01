@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thamudische Inschrift Hu 418b</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>608</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Thamūd</origPlace>
+                            <origDate>5.-3. Jh. v. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	A. Jamme, Miscellanées d'ancient arabe, Washington D. C. 1974.</edition>
+                    <relatedItem>
+                        <bibl>108:003</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">al-ʾabtar</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	In thamudischen Inschriften findet sich <hi xml:lang="ar-Latn">ʾabtar</hi> als Gottesepitheton, besonders in Verbindung mit <hi xml:lang="ar-Latn">ʾilah</hi> bzw. <hi xml:lang="ar-Latn">ha-ʾilāh</hi>, aber auch in Verbindung mit <hi xml:lang="ar-Latn">Hubal</hi> und <hi xml:lang="ar-Latn">Ruḍā</hi>. Stichpunkte: In ṯamūdischen Inschriften findet sich der Name <hi xml:lang="ar-Latn">ʾlh</hi>, wohl <hi xml:lang="ar-Latn">allāh</hi> zu lesen, in größerer Anzahl mit dem Epitheton <hi xml:lang="ar-Latn">ʾbtr</hi> versehen. Die Interpretation fällt verschiedenlich aus. XYZ möchte <hi xml:lang="ar-Latn">ʾbtr</hi> mit der Wurzel <hi xml:lang="ar-Latn">batara</hi> verbinden. So dass eine Bedeutung... andere Ortsnamen. Wie auch immer. Anspielung in Sure 108. <hi xml:lang="ar-Latn">ʾabtar</hi> als Epitheton für <hi xml:lang="ar-Latn">Allāh</hi> im Sinne von 'ohne männliche Nachkommen' (Töchter Gottes im mekkanischen Pantheon!) ironisch auf Muḥammad bezogen? Vgl. 53:19-25 أَفَرَءَيۡتُمُ ٱللَّـٰتَ وَٱلۡعُزَّىٰ (﻿١٩﻿) وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلۡأُخۡرَىٰٓ (﻿٢٠﻿) أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلۡأُنثَىٰ (﻿٢١﻿) تِلۡكَ</p>
+                    <p>
+
+	إِذً۬ا قِسۡمَةٌ۬ ضِيزَىٰٓ (﻿٢٢﻿) إِنۡ هِىَ إِلَّآ أَسۡمَآءٌ۬ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِہَا مِن سُلۡطَـٰنٍ‌ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُ‌ۖ وَلَقَدۡ جَآءَهُم مِّن رَّبِّہِمُ ٱلۡهُدَىٰٓ (﻿٢٣﻿) أَمۡ لِلۡإِنسَـٰنِ مَا تَمَنَّىٰ (﻿٢٤﻿) فَلِلَّهِ ٱلۡأَخِرَةُ وَٱلۡأُولَىٰ</p>
+                    <p>
+
+	[Vgl. auch Winnett]</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>
+
+	bʾlh ʾbtr</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Bei Gott Abtar</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

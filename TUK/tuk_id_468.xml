@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genesis 9:1-17</title>
+                <principal>
+                    <persName>Berenike Aschoff</persName>
+                    <persName>Nicolai Sinai (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heribert Busse</persName>
+                    <name>Die theologischen Beziehungen des Islams zu Judentum und Christentum, Darmstadt 1988, S. 74.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>468</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung (mit "Noah" statt "Noach")</bibl>
+                <bibl>
+                    <edition/>
+                    <relatedItem>
+                        <bibl>011:048; 037:077-037:081</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Mit Busse kann man in Q 11:48 einen Nachhall des noachidischen Bundes aus Genesis 9 sehen: Obwohl der Koran nicht ausdrücklich von einem Bundesschluss spricht, erhält Noah doch auch in Q 11:48 einen Segen, der auch seinen Nachkommen gilt. Busse führt als weitere Parallele zu Genesis 9 noch Q 37:77-81 an, doch handelt es sich bei der Segensformel aus V. 79 ("Friede über Noah ...") um eine Art Refrain, der auch die übrigen Erzählperikopen des Mittelteils abschließt und insofern nicht speziell auf die biblische Noaherzählung zu beziehen sein dürfte.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+                        <hi rendition="bold">וַיְבָרֶךְ אֱלֹהִים אֶת־נֹחַ וְאֶת־בָּנָיו </hi> וַיֹּאמֶר לָהֶם פְּרוּ וּרְבוּ וּמִלְאוּ אֶת־הָאָרֶץ : וּמוֹרַאֲכֶם וְחִתְּכֶם יִהְיֶה עַל כָּל־חַיַּת הָאָרֶץ וְעַל כָּל־עוֹף הַשָּׁמָיִם בְּכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה וּבְכָל־דְּגֵי הַיָּם בְּיֶדְכֶם נִתָּנוּ : כָּל־רֶמֶשׂ אֲשֶׁר הוּא־חַי לָכֶם יִהְיֶה לְאָכְלָה כְּיֶרֶק עֵשֶׂב נָתַתִּי לָכֶם אֶת־כֹּל : אַךְ־בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ : וְאַךְ אֶת־דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ מִיַּד כָּל־חַיָּה אֶדְרְשֶׁנּוּ וּמִיַּד הָאָדָם מִיַּד אִישׁ אָחִיו אֶדְרֹשׁ אֶת־נֶפֶשׁ הָאָדָם : שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ כִּי בְּצֶלֶם אֱלֹהִים עָשָׂה אֶת־הָאָדָם : וְאַתֶּם פְּרוּ וּרְבוּ שִׁרְצוּ בָאָרֶץ וּרְבוּ־בָהּ ס : וַיֹּאמֶר אֱלֹהִים אֶל־נֹחַ וְאֶל־בָּנָיו אִתּוֹ לֵאמֹר : <hi rendition="bold"> וַאֲנִי הִנְנִי מֵקִים אֶת־בְּרִיתִי אִתְּכֶם וְאֶת־זַרְעֲכֶם אַחֲרֵיכֶם :</hi> וְאֵת כָּל־נֶפֶשׁ הַחַיָּה אֲשֶׁר אִתְּכֶם בָּעוֹף בַּבְּהֵמָה וּבְכָל־חַיַּת הָאָרֶץ אִתְּכֶם מִכֹּל יֹצְאֵי הַתֵּבָה לְכֹל חַיַּת הָאָרֶץ : וַהֲקִמֹתִי אֶת־בְּרִיתִי אִתְּכֶם וְלֹא־יִכָּרֵת כָּל־בָּשָׂר עוֹד מִמֵּי הַמַּבּוּל וְלֹא־יִהְיֶה עוֹד מַבּוּל לְשַׁחֵת הָאָרֶץ : וַיֹּאמֶר אֱלֹהִים זֹאת אוֹת־הַבְּרִית אֲשֶׁר־אֲנִי נֹתֵן בֵּינִי וּבֵינֵיכֶם וּבֵין כָּל־נֶפֶשׁ חַיָּה אֲשֶׁר אִתְּכֶם לְדֹרֹת עוֹלָם : אֶת־קַשְׁתִּי נָתַתִּי בֶּעָנָן וְהָיְתָה לְאוֹת בְּרִית בֵּינִי וּבֵין הָאָרֶץ : וְהָיָה בְּעַנְנִי עָנָן עַל־הָאָרֶץ וְנִרְאֲתָה הַקֶּשֶׁת בֶּעָנָן : וְזָכַרְתִּי אֶת־בְּרִיתִי אֲשֶׁר בֵּינִי וּבֵינֵיכֶם וּבֵין כָּל־נֶפֶשׁ חַיָּה בְּכָל־בָּשָׂר וְלֹא־יִהְיֶה עוֹד הַמַּיִם לְמַבּוּל לְשַׁחֵת כָּל־בָּשָׂר : וְהָיְתָה הַקֶּשֶׁת בֶּעָנָן וּרְאִיתִיהָ לִזְכֹּר בְּרִית עוֹלָם בֵּין אֱלֹהִים וּבֵין כָּל־נֶפֶשׁ חַיָּה בְּכָל־בָּשָׂר אֲשֶׁר עַל־הָאָרֶץ : וַיֹּאמֶר אֱלֹהִים אֶל־נֹחַ זֹאת אוֹת־הַבְּרִית אֲשֶׁר הֲקִמֹתִי בֵּינִי וּבֵין כָּל־בָּשָׂר אֲשֶׁר עַל־הָאָרֶץ :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 <hi rendition="bold">Dann segnete Gott Noah und seine Söhne </hi>und sprach zu ihnen: Seid fruchtbar, vermehrt euch und bevölkert die Erde! 2 Furcht und Schrecken vor euch soll sich auf alle Tiere der Erde legen, auf alle Vögel des Himmels, auf alles, was sich auf der Erde regt, und auf alle Fische des Meeres; euch sind sie übergeben. 3 Alles Lebendige, das sich regt, soll euch zur Nahrung dienen. Alles übergebe ich euch wie die grünen Pflanzen. 4 Nur Fleisch, in dem noch Blut ist, dürft ihr nicht essen. 5 Wenn aber euer Blut vergossen wird, fordere ich Rechenschaft, und zwar für das Blut eines jeden von euch. Von jedem Tier fordere ich Rechenschaft und vom Menschen. Für das Leben des Menschen fordere ich Rechenschaft von jedem seiner Brüder. 6 Wer Menschenblut vergießt, dessen Blut wird durch Menschen vergossen. Denn: Als Abbild Gottes hat er den Menschen gemacht. 7 Seid fruchtbar und vermehrt euch; bevölkert die Erde und vermehrt euch auf ihr! 8 Dann sprach Gott zu Noah und seinen Söhnen, die bei ihm waren: 9 <hi rendition="bold">Hiermit schließe ich meinen Bund mit euch und mit euren Nachkommen</hi> 10 und mit allen Lebewesen bei euch, mit den Vögeln, dem Vieh und allen Tieren des Feldes, mit allen Tieren der Erde, die mit euch aus der Arche gekommen sind. 11 Ich habe meinen Bund mit euch geschlossen: Nie wieder sollen alle Wesen aus Fleisch vom Wasser der Flut ausgerottet werden; nie wieder soll eine Flut kommen und die Erde verderben. 12 Und Gott sprach: Das ist das Zeichen des Bundes, den ich stifte zwischen mir und euch und den lebendigen Wesen bei euch für alle kommenden Generationen: 13 Meinen Bogen setze ich in die Wolken; er soll das Bundeszeichen sein zwischen mir und der Erde. 14 Balle ich Wolken über der Erde zusammen und erscheint der Bogen in den Wolken, 15 dann gedenke ich des Bundes, der besteht zwischen mir und euch und allen Lebewesen, allen Wesen aus Fleisch, und das Wasser wird nie wieder zur Flut werden, die alle Wesen aus Fleisch vernichtet. 16 Steht der Bogen in den Wolken, so werde ich auf ihn sehen und des ewigen Bundes gedenken zwischen Gott und allen lebenden Wesen, allen Wesen aus Fleisch auf der Erde. 17 Und Gott sprach zu Noah: Das ist das Zeichen des Bundes, den ich zwischen mir und allen Wesen aus Fleisch auf der Erde geschlossen habe.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

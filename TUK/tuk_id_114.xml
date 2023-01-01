@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Offenbarung des Johannes 9:1-11</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>David Brady</persName>
+                    <name>"The Book of Revelation and the Qur'an: Is there a possible literary relationship?", Journal of Semitic Studies 23 (1978), S. 216-225.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>114</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Patmos (laut Offb. 1:9)</origPlace>
+                            <origDate>ca. 90-130 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>101:009</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">hāwiya</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Der Intertext bezeichnet, wie einer der verschiedenen Deutungsmöglichkeiten zufolge auch Q 101:9, die Hölle als "Abgrund". Vgl. auch Offenbarung 20:1-3. Zur Diskussion des Begriffes <hi xml:lang="ar-Latn">hāwiya</hi> vgl. Paret, Kommentar S. 518f. und Bellamy, JAOS 112, S. 485-487. Eine Emendation des Korantextes von <hi xml:lang="ar-Latn">ʾummuhu</hi> zu ʾ<hi xml:lang="ar-Latn">u/ʾimm</hi>
+                        <hi xml:lang="ar-Latn">atun</hi> wie sie Bellamy vorschlägt ist wohl nicht berechtigt. Möglicherweise ist der Begriff 'Mutter' assoziiert mit dem Bild des Abgrunds, d.h. der Hölle so zu verstehen, dass die Hölle die in ihr wohnenden 'umhüllt' wie der Mutterschoß. In diesem Fall könnte man auch im Gebrauch des Wortes <hi xml:lang="ar-Latn">ḥāmiyah</hi> eine Doppeldeutigkeit sehen: <hi xml:lang="ar-Latn">ḥamiya</hi> 'heiß sein' vs. <hi xml:lang="ar-Latn">ḥamā</hi> 'beschützen'. Dies wäre dann eine ironische Anspielung, welche vielleicht noch eine weitere Vorstellung zum Hintergrund hat. So wird nämlich in der christlich-orientalischen Tradition Eva als 'Grube und Grab' (syr. <hi xml:lang="ar-Latn">n</hi>
+                        <hi xml:lang="ar-Latn">eqʿā w</hi>
+                        <hi xml:lang="ar-Latn">-qabrā</hi>) für die Schlange im Paradies bezeichnet (Ephrem). Eva ist die Mutter, welche ihre Kinder in die Hölle schickt, wegen ihrer Sünde. Dagegen ist Maria die Mutter, welche ihre Kinder ins Paradies schickt, da sie den Erlöser geboren hat. Wahrscheinlicher scheint aber die von Fischer (ZDMG 60, 371ff. mit früherer Literatur) dargelegte Deutungsmöglichkeit des Begriffes im Kontext der Altarabischen Dichtung (vgl. TUK 850). Dort bedeutet <hi xml:lang="ar-Latn">hawat ummuhu</hi> o. ä. 'möge seine Mutter ohne Nachkommen sein'. Auf obige Koranstelle bezogen wäre die Aussage dann so zu verstehen, dass die Mutter derjenigen, welche in die Hölle kommen, kinderlos sein wird. Dies versteht sich aus der Idee, dass die Hölle, im Gegensatz zur Auferstehung und dem Paradies als "zweiter Tod" aufgefasst wird. Zum "zweiten Tod" vgl. die Anmerkung zu Intertext Nr. 148.</p>
+                    <p>
+
+	Ein weiterer Aspekt ergibt sich möglicherweise aus dem Anklang des Begriffes <hi xml:lang="ar-Latn">hāwiya</hi> mit syr. <hi xml:lang="ar-Latn">hawtā</hi>, welches in Lukas (...) den Graben zwischen Paradies und Hölle bezeichnet. Letzterer wird in syrischer homiletischer Literatur (Jakob von Sarug) auch zum Begriff der eigentlichen Hölle (J.W.). Beachtenswert ist dabei, dass auch bei Jakob von Sarug eine Personifizierung stattfindet. Diese Anspielung wird vielleicht durch die koranische Erklärungsformel <hi xml:lang="ar-Latn">mā ʾadrāka</hi> "was lässt dich wissen" unterstrichen, welche typischerweise fremde bzw. nicht unmittelbar klare Begriffe beschreibt. Die Wörter arab. <hi xml:lang="ar-Latn">hāwiya</hi> und syr. <hi xml:lang="ar-Latn">hawtā</hi> sind formell, bzw. etymologisch nicht vollständig in Einklang zu bringen; möglicherweise reicht hier aber doch der sprachliche Anklang um eine Anspielung zu rechtfertigen. [Dazu Torrey, Fischer. Beachte besonders, dass <hi xml:lang="ar-Latn">hāwiya</hi> keinen Artikel hat, was ungewöhnlich für eine Bezeichnung der Hölle ist. Daher ist das Verständnis: "Seine Mutter ist kniefällig = trauert um ihr totes Kind" zumindest auch möglich. Syrisch <hi xml:lang="ar-Latn">hawṯā</hi> (!) muss  <hi xml:lang="ar-Latn">hawwat-ā</hi>. Vgl. auch hebr. <hi xml:lang="ar-Latn">hawwāh</hi>. Jefferys Herleitung trotz William Wright, Lectures on the comparative grammar of the Semitic languages, Cambridge, 1890, 47, 66, 68, schon wegen <hi xml:lang="ar-Latn">ḥ </hi>ungleich <hi xml:lang="ar-Latn">h</hi> sehr unwahrscheinlich. Sprachlich trägt die äthiopische 'Etymologie' auch nichts zur Klärung bei].</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	Καὶ ὁ πέμπτος ἄγγελος ἐσάλπισεν• καὶ εἶδον ἀστέρα ἐκ τοῦ οὐρανοῦ πεπτωκότα εἰς τὴν γῆν, <hi rendition="bold"> καὶ ἐδόθη αὐτῷ ἡ κλεὶς τοῦ φρέατος τῆς ἀβύσσου </hi> 2 καὶ ἤνοιξεν τὸ φρέαρ τῆς ἀβύσσου, καὶ ἀνέβη καπνὸς ἐκ τοῦ φρέατος ὡς καπνὸς καμίνου μεγάλης, καὶ ἐσκοτώθη ὁ ἥλιος καὶ ὁ ἀὴρ ἐκ τοῦ καπνοῦ τοῦ φρέατος. 3 καὶ ἐκ τοῦ καπνοῦ ἐξῆλθον ἀκρίδες εἰς τὴν γῆν, καὶ ἐδόθη αὐταῖς ἐξουσία ὡς ἔχουσιν ἐξουσίαν οἱ σκορπίοι τῆς γῆς. 4 καὶ ἐρρέθη αὐταῖς ἵνα μὴ ἀδικήσουσιν τὸν χόρτον τῆς γῆς οὐδὲ πᾶν χλωρὸν οὐδὲ πᾶν δένδρον, εἰ μὴ τοὺς ἀνθρώπους οἵτινες οὐκ ἔχουσι τὴν σφραγῖδα τοῦ θεοῦ ἐπὶ τῶν μετώπων. 5 καὶ ἐδόθη αὐτοῖς ἵνα μὴ ἀποκτείνωσιν αὐτούς, ἀλλ᾽ἵνα βασανισθήσονται μῆνας πέντε, καὶ ὁ βασανισμὸς αὐτῶν ὡς βασανισμὸς σκορπίου ὅταν παίσῃ ἄνθρωπον. 6 καὶ ἐν ταῖς ἡμέραις ἐκείναις ζητήσουσιν οἱ ἄνθρωποι τὸν θάνατον καὶ οὐ μὴ εὑρήσουσιν αὐτόν, καὶ ἐπιθυμήσουσιν ἀποθανεῖν καὶ φεύγει ὁ θάνατος ἀπ᾽αὐτῶν. 7 Καὶ τὰ ὁμοιώματα τῶν ἀκρίδων ὅμοια ἵπποις ἡτοιμασμένοις εἰς πόλεμον, καὶ ἐπὶ τὰς κεφαλὰς αὐτῶν ὡς στέφανοι ὅμοιοι χρυσῷ, καὶ τὰ πρόσωπα αὐτῶν ὡς πρόσωπα ἀνθρώπων, 8 καὶ εἶχον τρίχας ὡς τρίχας γυναικῶν, καὶ οἱ ὀδόντες αὐτῶν ὡς λεόντων ἦσαν, 9 καὶ εἶχον θώρακας ὡς θώρακας σιδηροῦς, καὶ ἡ φωνὴ τῶν πτερύγων αὐτῶν ὡς φωνὴ ἁρμάτων ἵππων πολλῶν τρεχόντων εἰς πόλεμον, 10 καὶ ἔχουσιν οὐρὰς ὁμοίας σκορπίοις καὶ κέντρα, καὶ ἐν ταῖς οὐραῖς αὐτῶν ἡ ἐξουσία αὐτῶν ἀδικῆσαι τοὺς ἀνθρώπους μῆνας πέντε, <hi rendition="bold"> 11 ἔχουσιν ἐπ᾽αὐτῶν βασιλέα τὸν ἄγγελον τῆς ἀβύσσου, </hi> ὄνομα αὐτῷ Ἑβραϊστὶ Ἀβαδδών, καὶ ἐν τῇ Ἑλληνικῇ ὄνομα ἔχει Ἀπολλύων.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Der fünfte Engel blies seine Posaune. Da sah ich einen Stern, der vom Himmel auf die Erde gefallen war; <hi rendition="bold"> ihm wurde der Schlüssel zu dem Schacht gegeben, der in den Abgrund führt. </hi> 2 Und er öffnete den Schacht des Abgrunds. Da stieg Rauch aus dem Schacht auf, wie aus einem großen Ofen, und Sonne und Luft wurden verfinstert durch den Rauch aus dem Schacht. 3 Aus dem Rauch kamen Heuschrecken über die Erde und ihnen wurde Kraft gegeben, wie sie Skorpione auf der Erde haben. 4 Es wurde ihnen gesagt, sie sollten dem Gras auf der Erde, den grünen Pflanzen und den Bäumen keinen Schaden zufügen, sondern nur den Menschen, die das Siegel Gottes nicht auf der Stirn haben. 5 Es wurde ihnen befohlen, die Menschen nicht zu töten, sondern nur zu quälen, fünf Monate lang. Und der Schmerz, den sie zufügen, ist so stark, wie wenn ein Skorpion einen Menschen sticht. 6 In jenen Tagen werden die Menschen den Tod suchen, aber nicht finden; sie werden sterben wollen, aber der Tod wird vor ihnen fliehen. 7 Und die Heuschrecken sehen aus wie Rosse, die zur Schlacht gerüstet sind; auf ihren Köpfen tragen sie etwas, das gold schimmernden Kränzen gleicht, und ihre Gesichter sind wie Gesichter von Menschen, 8 ihr Haar ist wie Frauenhaar, ihr Gebiss wie ein Löwengebiss, 9 ihre Brust wie ein eiserner Panzer; und das Rauschen ihrer Flügel ist wie das Dröhnen von Wagen, von vielen Pferden, die sich in die Schlacht stürzen. 10 Sie haben Schwänze und Stacheln wie Skorpione und in ihren Schwänzen ist die Kraft, mit der sie den Menschen schaden, fünf Monate lang. <hi rendition="bold"> 11 Sie haben als König über sich den Engel des Abgrunds; </hi> er heißt auf hebräisch Abaddon, auf griechisch Apollyon.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

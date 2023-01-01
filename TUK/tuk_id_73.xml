@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hymnen auf die Geburt 1:17 </title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>73</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis oder Edessa</origPlace>
+                            <origDate>vor 373</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Edmund Beck, Des heiligen Ephrem des Syrers Hymnen de Nativitate, Louvain 1959 (Corpus Scriptorum Christianorum Orientalium 187, Scriptores Syri 83), S. 3 (modifiziert von David Kiltz).</bibl>
+                <bibl>
+                    <edition>
+
+	Edmund Beck, Des heiligen Ephrem des Syrers Hymnen de Nativitate, Louvain 1959 (Corpus Scriptorum Christianorum Orientalium 186, Scriptores Syri 82), S. 3.</edition>
+                    <relatedItem>
+                        <bibl>019:028</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾuḫt Hārūn</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+Das Zitat reflektiert speziell die Assoziation Marias mit dem in Numeri 17 erwähnten Aaronsstab; bei der Bezeichnung Marias als "Schwester Aarons" in Q 19:28 könnten solche Vorstellungen im Hintergrund stehen. Tatsächlich ist die bewusste (typologische) Gleichung von Maria und Mirjam im orientalischen Christentum geläufig. Vgl. TUK 0051, TUK 0056 u.a.</p>
+                    <p>
+
+	 </p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	ܫܒܛܗ ܕܐܗܪܘܢ ܐܦܪܥ ܗܘܐ ܘܐܦܪܝ ܩܝܣܐ ܝܒܝܫܐܐܪܙܗ ܝܘܡܢ ܐܬܦܫܩ ܕܥܘܒܐ ܒܬܘܠܐ ܕܐܘܠܕ ܗܘܐ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Der Stab Aarons spross, und das trockene Holz brachte Frucht hervor. Dieses Mysterium fand heute seine Erklärung: Es ist der jungfräuliche Schoß, der gebar.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

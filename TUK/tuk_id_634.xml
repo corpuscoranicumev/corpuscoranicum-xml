@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Klage um ʾArbad (Riṯāʾ ʾArbad)</title>
+                <principal>
+                    <persName>Nora K. Schmid</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>634</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Arabische Halbinsel</origPlace>
+                            <origDate>7. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Nach Alan Jones, Early Arabic Poetry, Bd. 1: Marāṯī and Ṣuʿlūk Poems, Oxford 1992, S. 85-88.</bibl>
+                <bibl>
+                    <edition>
+
+	Alan Jones, Early Arabic Poetry, Bd. 1: Marāṯī and Ṣuʿlūk Poems, Oxford 1992, S. 85-88.</edition>
+                    <relatedItem>
+                        <bibl>010:016; 033:063; 042:017; 069:003; 074:027; 077:014; 080:003; 082:017; 082:018; 083:008; 083:019; 086:002; 090:012; 097:002; 101:003; 101:010; 104:005</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾadrā</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>
+
+	١٤ فَلا تَبْعَدَنْ إِنَّ المَنِيَّةَ مَوْعِدٌ     عَلَيْنَا فَدَانٍ لِلطُّلُوعِ وَطَالِعُ<lb/>
+
+	١٥ أعَاَذِلَ <hi rendition="bold"> مَا يُدْرِيك </hi> إِلا تَظَنِّياً     إِذَا ٱرْتَحَلَ الفِتْيَانُ مَنْ هُوَ رَاجِعُ<lb/>
+
+	١٦ أَتَجْزَعُ مِمَّا أَحْدَثَ الدَّهْرُ بِالْفَتَى     وَأَيُّ كَرِيمٍ لَمْ تُصِبْهُ القَوَارِعُ<lb/>
+
+	١٧ تُبَكِّي عَلَى إِثْرِ الشَّبَابِ الَّذِي مَضَى     أَلا إِنَّ أَخْدَانَ الشَّبَابِ الرَّعَارِعُ<lb/>
+
+	١٨ لَعَمْرُكَ مَا تَدْرِي الضَّوَارِبُ بِالحَصَى     وَلا زَاجِرَاتُ الطَّيرِ مَا اللهُ صَانِعُ<lb/>
+
+	١٩ سَلُوهُنَّ إِنْ كَذَّبْتُمُونِي مَتَى الفَتَى     يَذُوقُ المَنَايَا أَوْ مَتَى الغَيثُ وَاقِعُ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	14. Weiche nicht von mir! Der Tod ist uns vorausbestimmt. Erst nähert er sich und dann ist er da.<lb/>
+
+	15. O Tadler, <hi rendition="bold"> was lässt dich wissen </hi> - außer Vermutungen -, wer von den ausziehenden jungen Männern der sein wird, der zurückkehrt?<lb/>
+
+	16. Bangst du um das, was das Schicksal einem jungen Mann hat widerfahren lassen? Welchem edlen Mann ist kein Unheil widerfahren?<lb/>
+
+	17. Gleich nach dem Ende der Jugend bringen sie Trauer - und die Jugend ist allein jungen Männern vorbehalten.<lb/>
+
+	18. Bei deinem Leben, die Seherinnen können weder durch Steinewerfen noch durch Vogelschau ergründen, was Gott tun wird.<lb/>
+
+	19. Frag sie, wenn du mich der Lüge zeihst, wann ein junger Mann das Verhängnis zu schmecken bekommt oder wann Regen fällt.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

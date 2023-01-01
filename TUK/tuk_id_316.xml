@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1 Chronik 12:1-41</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Karl Ahrens</persName>
+                    <name>"Christliches im Qoran. Eine Nachlese", Zeitschrift der Deutschen Morgenländischen Gesellschaft 84 (1930), S. 50.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>316</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Jerusalem</origPlace>
+                            <origDate>4.-2. Jh. v. Chr. ?</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>026:089; 037:084</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">qalb salīm</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Ahrens bemerkt die Übereinstimmung zwischen koranisch <hi xml:lang="ar-Latn">bi-qalbin salīm</hi> und hebräisch <hi xml:lang="ar-Latn">b-lēbāb šālēm</hi> (außerdem in 2 Könige 20:3, 1 Chr. 29:19, 2 Chr. 19:9 und 2 Chr. 25:2) bzw. jüdisch-aramäisch <hi xml:lang="ar-Latn">ba-lbab šlīm</hi> (Targum zu Habakuk 3:1). Daneben findet sich hebräisch <hi xml:lang="ar-Latn">b-lēb šālēm</hi> in der hebräischen Bibel in Jesaja 38:3, 1 Chronik 28:9 und 29:9. <hi xml:lang="ar-Latn">b-lb šlm</hi> findet sich auch in Qumran bzw. im Damaskusdokument (CD 1:10), vgl. 4Q266 f2i:14 und 4Q268 f1:17. In der ersten Koranstelle geht es um die Auferstehung: nur derjenige, welcher 'reinen Herzens' vor Gott tritt, wird gedeihen. Dieser Kontext findet sich so nicht in der hebräischen Überlieferung. Die zweite Koranstelle berichtet von Abraham/Ibrahim, der sich Gott 'mit reinem Herzen' näherte. Zu letzerem passen die hebräischen Intertexte besser. In 2 Könige 20:3 betont Hezekija, dass er Gott 'mit reinem Herzen' gedient habe (dazu auch Jesaja 38:3). An verschiedenen Chronikstellen ergeht das Gebot, Gott 'mit reinem Herzen' zu dienen. Andere Stellen beziehen sich nur auf ein 'reines Herz' im Allgemeinen. 2 Chr. 25:2 betont, dass Amaziah "tat was Gott gefiel" aber "nicht reinen Herzens". Der Gebrauch dieses Ausdrucks mag trivial sein, anderseits könnte auch eine bewusste begriffliche Fortsetzung vorliegen.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>וְאֵלֶּה הַבָּאִים אֶל־דָּוִיד לְצִיקְלַג עוֹד עָצוּר מִפְּנֵי שָׁאוּל בֶּן־קִישׁ וְהֵמָּה בַּגִּבּוֹרִים עֹזְרֵי הַמִּלְחָמָה : נֹשְׁקֵי קֶשֶׁת מַיְמִינִים וּמַשְׂמִאלִים בָּאֲבָנִים וּבַחִצִּים בַּקָּשֶׁת מֵאֲחֵי שָׁאוּל מִבִּנְיָמִן : [...] כָּל־אֵלֶּה אַנְשֵׁי מִלְחָמָה עֹדְרֵי מַעֲרָכָה <hi rendition="bold"> בְּלֵבָב שָׁלֵם </hi> בָּאוּ חֶבְרוֹנָה לְהַמְלִיךְ אֶת־דָּוִיד עַל־כָּל־יִשְׂרָאֵל וְגַם כָּל־שֵׁרִית יִשְׂרָאֵל לֵב אֶחָד לְהַמְלִיךְ אֶת־דָּוִיד : וַיִּהְיוּ־שָׁם עִם־דָּוִיד יָמִים שְׁלוֹשָׁה אֹכְלִים וְשׁוֹתִים כִּי־הֵכִינוּ לָהֶם אֲחֵיהֶם : וְגַם הַקְּרוֹבִים־אֲלֵיהֶם עַד־יִשָׂשכָר וּזְבֻלוּן וְנַפְתָּלִי מְבִיאִים לֶחֶם בַּחֲמוֹרִים וּבַגְּמַלִּים וּבַפְּרָדִים וּבַבָּקָר מַאֲכָל קֶמַח דְּבֵלִים וְצִמּוּקִים וְיַיִן־וְשֶׁמֶן וּבָקָר וְצֹאן לָרֹב כִּי שִׂמְחָה בְּיִשְׂרָאֵל :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>1 Diese sind es, die zu David nach Ziklag kamen, als er sich noch von Saul, dem Sohn des Kisch, fernhalten mußte. Sie gehörten zu den Helden, die ihn im Kampf unterstützten. 2 Sie waren mit dem Bogen ausgerüstet und konnten mit der rechten und mit der linken Hand Steine schleudern und Pfeile mit dem Bogen abschießen. [...] 39 Alle diese waren Krieger, die sich willig einordneten. Sie kamen <hi rendition="bold">mit reinem Herzen</hi> nach Hebron, um David zum König von ganz Israel zu machen; aber auch alle übrigen Israeliten waren einig im Wunsch, David zum König zu machen. 40 Sie blieben drei Tage dort bei David; sie aßen und tranken, denn ihre Stammesbrüder hatten für sie gesorgt. 41 Auch jene, die bis nach Issachar, Sebulon und Naftali hin in ihrer Nähe wohnten, brachten auf Eseln, Kamelen, Maultieren und Rindern Lebensmittel zum Unterhalt herbei: Mehl, Feigen- und Traubenkuchen, Wein, Öl und eine große Menge Rinder und Schafe; denn es herrschte Freude in Israel.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

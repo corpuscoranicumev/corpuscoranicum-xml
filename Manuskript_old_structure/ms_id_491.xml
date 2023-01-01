@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 340. Mf. 379. (f. 17-18) Quer-Folio, 17 Z. (28x35; 23x30cm ). — Zustand: oben am Rand und im Text beschädigt; in der unteren Hälfte fleckig. Bl. 17b; 18b abgescheuert. — Material: Pergament, ziemlich dünn, gelb, glatt. — Einband: s. bei 1. — Inhalt: Sure 19:41 الارض bis 20:9 امكثوا Die Schrift ist groß, breit, gefällig, gleichmäßig; geht schon ins Bräunliche über und ist f. 17b u. 18b sehr verwischt. Die Zahl der Buchstaben in der Zeile ist ca. 34-38. — Der Raum zwischen den einzelnen Buchstabengruppen ist 0,2 bis 0,4 cm — Die Wörter können am Ende der Zeilen gebrochen werden. — Anfangs-ا hat unten rechts einen etwas größeren Schwung, ع setzt oben rechts nur einen kleinen geraden Strich an. Schluss-م steht auf der Linie mit einem kleinen Strich. Schluss- نhat unten eine größere Biegung nach links, ل etwas weniger; Schluss-ي hat einen Schwung nach links unter der Linie, oder zieht dicht unter der Linie einen langen Strich nach rechts. Schluss-ق geht tief unter die Linie und hat dieselbe Rundung nach links wie ي. ك u. د gleichen sich durchaus. — Diakritische Punkte, kleine feine schräge Striche, sind oft gebraucht: ش hat 3 horizontale, ث 3 Striche übereinander. Die Vokale häufig gesetzt, rote Punkte; die Nunation 2 Punkte über-, auch nebeneinander; lang ā öfters nicht bezeichnet. — Von den Lesezeichen ist Hamza öfters durch einen grünen Punkt angezeigt. — Die einzelnen Verse durch 2-3 kleine schräge Striche abgeteilt; größere Gruppen durch größere Punkte, schwarz und grün gefüllt. — Für die Überschrift ist S. 18b eine grüne mäßig verzierte Randleiste verwendet, ohne eine Inschrift; die Überschrift steht unter dieser Leiste in roter Schrift, aber ziemlich verwischt. — Randangaben für den Text finden sich hier nicht.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Ms. or. fol. 379</idno>
+                        <altIdentifier>
+                            <idno>Ms. or. fol. 379 (Ahlwardt 340)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="491">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>276</height>
+                                        <width>341</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="17">
+                                    <p>Die Seiten enthalten 17 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

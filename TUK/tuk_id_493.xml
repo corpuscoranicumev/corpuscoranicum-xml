@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Deuteronomium 23:20-26</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Rudi Paret</persName>
+                    <name>Der Koran. Kommentar und Konkordanz, Stuttgart 1977, Kommentar zu 4:161.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>493</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>002:275-002:276; 002:278-002:281; 003:130; 004:160-004:161; 030:039</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ribā, rabiya, ʾarbā</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Verschiedene Koranstellen kritisieren das Zinsnehmen bzw. untersagen es gänzlich (Q 2:275). Wie der Text aus dem Buch Deuteronomium zeigt, enthält auch der Pentateuch ähnliche Vorschriften, die sich jedoch lediglich auf das Zinsnehmen von Israeliten beziehen (vgl. noch Exodus 22:24 und Leviticus 25:35-37). Für ein Zinsverbot im Christentum vgl.  TUK 0245 (Kanon 15 der Synode von Mar Ishoʿyahb I).</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+                        <hi rendition="bold">לֹא־תַשִּׁיךְ לְאָחִיךָ נֶשֶׁךְ כֶּסֶף נֶשֶׁךְ אֹכֶל נֶשֶׁךְ כָּל־דָּבָר אֲשֶׁר יִשָּׁךְ : לַנָּכְרִי תַשִּׁיךְ וּלְאָחִיךָ לֹא תַשִּׁיךְ </hi> לְמַעַן יְבָרֶכְךָ יְהוָה אֱלֹהֶיךָ בְּכֹל מִשְׁלַח יָדֶךָ עַל־הָאָרֶץ אֲשֶׁר־אַתָּה בָא־שָׁמָּה לְרִשְׁתָּהּ : כִּי־תִדֹּר נֶדֶר לַיהוָה אֱלֹהֶיךָ לֹא תְאַחֵר לְשַׁלְּמוֹ כִּי־דָּרֹשׁ יִדְרְשֶׁנּוּ יְהוָה אֱלֹהֶיךָ מֵעִמָּךְ וְהָיָה בְךָ חֵטְא : וְכִי תֶחְדַּל לִנְדֹּר לֹא־יִהְיֶה בְךָ חֵטְא : מוֹצָא שְׂפָתֶיךָ תִּשְׁמֹר וְעָשִׂיתָ כַּאֲשֶׁר נָדַרְתָּ לַיהוָה אֱלֹהֶיךָ נְדָבָה אֲשֶׁר דִּבַּרְתָּ בְּפִיךָ : כִּי תָבֹא בְּכֶרֶם רֵעֶךָ וְאָכַלְתָּ עֲנָבִים כְּנַפְשְׁךָ שָׂבְעֶךָ וְאֶל־כֶּלְיְךָ לֹא תִתֵּן : כִּי תָבֹא בְּקָמַת רֵעֶךָ וְקָטַפְתָּ מְלִילֹת בְּיָדֶךָ וְחֶרְמֵשׁ לֹא תָנִיף עַל קָמַת רֵעֶךָ :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	20 <hi rendition="bold">Du darfst von deinem Bruder keine Zinsen nehmen: weder Zinsen für Geld noch Zinsen für Getreide noch Zinsen für sonst etwas, wofür man Zinsen nimmt. 21 Von einem Ausländer darfst du Zinsen nehmen, von deinem Bruder darfst du keine Zinsen nehmen</hi>, damit der Herr, dein Gott, dich segnet in allem, was deine Hände schaffen, in dem Land, in das du hineinziehst, um es in Besitz zu nehmen. 22 Wenn du vor dem Herrn, deinem Gott, ein Gelübde machst, sollst du nicht zögern, es zu erfüllen; sonst wird es der Herr, dein Gott, von dir einfordern und die Strafe für diese Sünde wird über dich kommen. 23 Wenn du davon absiehst, Gelübde zu machen, wird auch die Strafe für diese Sünde nicht über dich kommen. 24 Was deinem Mund entfahren ist, darauf sollst du auch achten und du sollst es halten, da du dem Herrn, deinem Gott, ja aus freien Stücken gelobt hast, was dein Mund genannt hat. 25 Wenn du in den Weinberg eines andern kommst, darfst du so viel Trauben essen, wie du magst, bis du satt bist, nur darfst du nichts in ein Gefäß tun. 26 Wenn du durch das Kornfeld eines andern kommst, darfst du mit der Hand Ähren abreißen, aber die Sichel darfst du auf dem Kornfeld eines andern nicht schwingen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

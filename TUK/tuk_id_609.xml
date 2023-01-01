@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hymnen auf das Paradies V. 6</title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>David Kiltz (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>609</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis / Edessa</origPlace>
+                            <origDate>vor 373</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Edmund Beck, Des heiligen Ephraem des Syrers Hymnen de Paradiso, Louvain 1957 (Corpus Scriptorum Christianorum Orientalium 175, Scriptores Syri 79), S. 16.</bibl>
+                <bibl>
+                    <edition>
+
+	Edmund Beck (Hg.), Des heiligen Ephraem des Syrers Hymnen de Paradiso, Louvain 1957 (Corpus Scriptorum Christianorum Orientalium 174, Scriptores Syri 78), S.16-17.</edition>
+                    <relatedItem>
+                        <bibl>018:031; 036:056-036:057; 056:089; 076:013; 083:023</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Die paradiesische Bilderwelt im Koran ähnelt der bei Ephrem dem Syrer. In Q 18:31 wird konkret von exquisiten Stoffen, Schmuck und angenehmem Lager gesprochen; bei Ephrem sind es geschmückte Lauben, in denen die Gerechten verweilen. Ebenso beschreibt Q 36:56-57 angenehme Ruhelager für die Paradiesinsassen. Die dort erwähnten <hi xml:lang="ar-Latn">ʾazwāǧ</hi>, d.h. "Gatten" bzw. "Gattinnen" werden bei Ephrem allerdings nicht erwähnt. Q 56:89 spricht allgemein von einem geruhsamen und wonnevollen Ort, wobei <hi xml:lang="ar-Latn">ǧannatu naʿīm </hi>"Garten der Wonne" ein stehender Begriff für das Paradies ist, vgl. dazu TUK 0616. Neben <hi xml:lang="ar-Latn">rawḥ</hi> wohl "angehmer Luftzug" wird auch <hi xml:lang="ar-Latn">rayḥān</hi> erwähnt, welches "angenehmer Duft, Aroma" bedeutet, etwa von Pflanzen und Salben. Dieses Wort findet eine ziemlich genaue Entsprechung in syrisch <hi xml:lang="ar-Latn">rêḥānē </hi>"angenehme Düfte" im hier angeführten Text von Ephrem dem Syrer. Beide Wörter sind nicht nur Bedeutungsgleich, sie leiten sich auch jeweils von der gleichen semitischen Wurzel <hi xml:lang="ar-Latn">r-w-ḥ </hi>ab. Koranisch <hi xml:lang="ar-Latn">rayḥān</hi>liegt scheinbar <hi xml:lang="ar-Latn">r-y-ḥ</hi>  zugrunde, könnte aber aus dem Aramäischen entlehnt, sein, vgl. auch mittelhebräisch <hi xml:lang="ar-Latn">rêḥānîm</hi> "Spezerei, Wohlgerüche", jüdisch-palästinisch-aramäisch <hi xml:lang="ar-Latn">rêḥān </hi>"Wohlgeruch". In letzteren Sprachen lassen sich die Wörter als Ableitung vom Typ <hi xml:lang="ar-Latn">fiʿlān</hi> zur Wurzel <hi xml:lang="ar-Latn">r-w-ḥ</hi> erklären; das Arabische weist hingegen einen Formtyp <hi xml:lang="ar-Latn">faʿlān</hi> auf. Gleich, ob man nun eine Parallelwurzel <hi xml:lang="ar-Latn">r-y-ḥ</hi> neben <hi xml:lang="ar-Latn">r-w-ḥ</hi> ansetzt oder eine Entlehnung aus dem Aramäischen, weist die lautliche und vor allem semantische Nähe der Begriffe im Koran und bei Ephrem auf die Reflektion ähnlicher Paradiesvorstellungen. Q 76:13 verweist wiederum auf Geruhsamkeit und das Fehlen von extremer Kälte oder Hitze (dazu TUK 0604). Q 83:23 nimmt ebenfalls noch einmal das Motiv des Ruhelagers (arab. <hi xml:lang="ar-Latn">arāʾik</hi>) auf. Zu letzterem arabischen Begriff vgl. Jeffery, <hi xml:lang="ar-Latn">Foreign Vocabulary</hi> S. 52f. Jeffery zitiert eine Tradition in as-Suyūṭī, wonach <hi xml:lang="ar-Latn">arīka</hi> einen Pavillion mit Bett bezeichne. Dies ließe sich von der Bedeutung her mit syrisch <hi xml:lang="ar-Latn">mṭal(l)tā</hi> "(Laub-) Hütte, Überdachtes" im hier angeführten Text von Ephrem zusammenbringen. Das syrische Wort vermittelt die Idee der Beschattung, von der Wurzel<hi xml:lang="ar-Latn">ṭ-l-l</hi>.  Auch in Q 36:56 wird gesagt, dass die Paradiesinsassen auf den <hi xml:lang="ar-Latn">arāʾik "fī ẓilāl"</hi> sind, d.h. "im Schatten" (letzteres Wort leitet sich von der gleichen ursemitischen Wurzel wie auch das syrische ab). Auch dies mag auf die Idee eines Baldachins weisen. Auch im <hi xml:lang="ar-Latn">Lisān </hi>findet sich die Erklärung des Wortes <hi xml:lang="ar-Latn">arīka</hi>, dass sie in einer <hi xml:lang="ar-Latn">ḥuǧlatu, </hi>d.h. unter einem Baldachin stand. Es finden sich hier also mehrfache, recht enge Parallelen zwischen Ephrem und dem Koran.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>ܬܡܢ ܚܙܝܬ ܗܘܝܬ ܬܘܒ ܡ̈ܛܠܐ ܕܙܕ̈ܝܩܐ</p>
+                    <p>ܙܠܝܚܢ ܒܡܫܚ̈ܢܐ ܦܝ̈ܚܢ ܒܪ̈ܝܚܢܐ</p>
+                    <p>ܡܓܕ̈ܠܢ ܒܗ̈ܒܒܢܐ ܡܟܠܠܢ ܒܗ̈ܒܒܐ</p>
+                    <p>ܐܝܟ ܥܡܠܗ ܕܐܢܫܐ ܗܟܢ ܡܛܠܬܗ</p>
+                    <p>ܐܝܬ ܗܘ ܕܡܟܐ ܒܬܨܒܝ̈ܬܗ ܘܐܝܬ ܕܡܦܪܓܐ ܒܫܘܦܪܗܿ</p>
+                    <p>ܘܐܝܬ ܕܦܟܗܐ ܒܓܘܢܗܿ ܘܐܝܬ ܕܢܨܚܐ ܒܫܘܒܚܗܿ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	6. Dort sah ich auch * die Lauben der Gerechten, - von Salben triefend, * Düfte hauchend, - mit Fruchtgewinden, * mit Blumen bekränzt. - Den Mühen eines (jeden) entspricht * seine Laube. - Die eine ist gering in ihrem Schmuck, * die andre strahlt in ihrer Schönheit, - eine ist matt in ihren Farben, * eine andre glänzt in ihrer Herrlichkeit.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

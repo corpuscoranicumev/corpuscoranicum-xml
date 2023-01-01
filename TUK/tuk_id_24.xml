@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jüdische Altertümer 1:74</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 94.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>24</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Rom</origPlace>
+                            <origDate>zwischen 80 und 94 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Die Übersetzung folgt Heinrich Speyer.</bibl>
+                <bibl>
+                    <edition>
+
+	B. Niese (Hg.), Flavii Iosephi opera, Berlin 1892.</edition>
+                    <relatedItem>
+                        <bibl>007:059-007:064; 010:071-010:073; 011:025-011:037; 023:023-023:027; 026:105-026:122; 071:001-071:028</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Im Vergleich zum biblischen Noah (vgl. Genesis 6) erscheint der koranische Noah vor allem als Mahner und nicht nur als exemplarischer Gerechter: Noah hebt sich nicht nur (wie in der Genesis) durch seinen untadligen Lebenswandel von seinen Landsleuten ab, er bemüht sich auch aktiv, sie durch Warn- und Bußpredigten zur Gottesfurcht zu bekehren. Wie das Josephus-Zitat und die weiteren Texte zu Noah veranschaulichen, ist eine solche paränetische Ausrichtung der Noah-Figur bereits vorkoranisch nachweisbar. Der koranische Noah ist also nicht einfach als in die biblische Geschichte retrojizierter Antetypus Muhammads zu erklären, sondern er knüpft an eine nachbiblische Transformation der Noah-Gestalt an. Diese prägt dann grundlegend den koranischen Begriff des Gottesgesandten insgesamt, insofern Noah zum Muster für alle übrigen koranischen Gottesboten wird. - Im Unterschied zu Genesis 6 sowie den koranischen Noah-Perikopen spricht Josephus von einem selbständigen Entschluss Noahs, sein Volk zu verlassen; auch Noahs Predigtaktivität wird nicht durch einen göttlichen Auftrag, sondern als Entschluss Noahs erklärt. Vgl. dazu auch TUK 0025 (Ephrems Kommentar zu Genesis und Exodus) und TUK 0056 (Babylonischer Talmud, Sanhedrin, 108a).</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	Νῶχος δὲ τοῖς πραττομένοις ὑπ'αὐτῶν δυσχεραίνων καὶ τοῖς βουλεύμασιν ἀηδῶς ἔχων ἔπειθεν ἐπὶ τὸ κρεῖττον τὴν διάνοιαν αὐτοὺς καὶ τὰς πράξεις μεταφέρειν. ὁρῶν δ' οὐκ ἐνδιδόντας, ἀλλ' ἰσχυρῶς ὑπὸ τῆς ἡδονῆς τῶν κακῶν κεκρατημένους, δείσας μὴ καὶ φονεύσωσιν αὐτὸν μετὰ γυναικῶν καὶ τέκνων καὶ τῶν τούτοις συνοικουσῶν ἐξεχώρησε τῆς γῆς.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Noah, den der Anblick ihrer Übeltaten mit Schmerz und Betrübnis erfüllte, gab sich alle mögliche Mühe, ihren Sinn zu ändern und sie auf bessere Wege zurückzuführen. Da er aber sah, dass er durch alle seine Ermahnungen bei ihnen nichts ausrichtete, und dass die Lust am Schlechten sie gänzlich beherrschte, musste er fürchten, von ihnen ums Leben gebracht zu werden, und entschloss sich daher, mit Weibern, Kindern und deren Angehörigen jenes Land zu verlassen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Deuteronomium 7:12-26</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Michel Cuypers</persName>
+                    <name>Le Festin. Une lecture de la sourate al-Mâ'ida, Paris 2007, S. 77.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>383</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>005:011</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Wie Q 5:11 enthält die Passage aus Deuteronomium 7 einen Appell an die Gläubigen, sich des ihnen in der Vergangenheit zuteil gewordenen göttlichen Beistandes zu erinnern. Während sich Deuteronomium 7 an die Israeliten richtet und explizit auf die Herausführung aus Ägypten und die Vernichtung Pharaos anspielt, spricht der Koran "die Gläubigen" an und verweist auf "ein Volk, das seine Hände nach euch ausstrecken wollte, worauf Gott ihre Hände von euch abhielt". Es ist nicht unwahrscheinlich, dass Sure 5, immerhin ein medinensischer Text, ganz bewusst Elemente der mosaischen Mahnreden aus Deuteronomium 1-11 aufgreift, um sich so gleichsam als 'neues Deuteronomium' zu präsentieren. Vgl. TUK 0384 und TUK 0386 zu einem weiteren deuteronomistischen Bezug in Sure 5.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וְהָיָה עֵקֶב תִּשְׁמְעוּן אֵת הַמִּשְׁפָּטִים הָאֵלֶּה וּשְׁמַרְתֶּם וַעֲשִׂיתֶם אֹתָם וְשָׁמַר יְהוָה אֱלֹהֶיךָ לְךָ אֶת־הַבְּרִית וְאֶת־הַחֶסֶד אֲשֶׁר נִשְׁבַּע לַאֲבֹתֶיךָ : וַאֲהֵבְךָ וּבֵרַכְךָ וְהִרְבֶּךָ וּבֵרַךְ פְּרִי־בִטְנְךָ וּפְרִי־אַדְמָתֶךָ דְּגָנְךָ וְתִירֹשְׁךָ וְיִצְהָרֶךָ שְׁגַר־אֲלָפֶיךָ וְעַשְׁתְּרֹת צֹאנֶךָ עַל הָאֲדָמָה אֲשֶׁר־נִשְׁבַּע לַאֲבֹתֶיךָ לָתֶת לָךְ : בָּרוּךְ תִּהְיֶה מִכָּל־הָעַמִּים לֹא־יִהְיֶה בְךָ עָקָר וַעֲקָרָה וּבִבְהֶמְתֶּךָ : וְהֵסִיר יְהוָה מִמְּךָ כָּל־חֹלִי וְכָל־מַדְוֵי מִצְרַיִם הָרָעִים אֲשֶׁר יָדַעְתָּ לֹא יְשִׂימָם בָּךְ וּנְתָנָם בְּכָל־שֹׂנְאֶיךָ : וְאָכַלְתָּ אֶת־כָּל־הָעַמִּים אֲשֶׁר יְהוָה אֱלֹהֶיךָ נֹתֵן לָךְ לֹא־תָחֹס עֵינְךָ עֲלֵיהֶם וְלֹא תַעֲבֹד אֶת־אֱלֹהֵיהֶם כִּי־מוֹקֵשׁ הוּא לָךְ : כִּי תֹאמַר בִּלְבָבְךָ רַבִּים הַגּוֹיִם הָאֵלֶּה מִמֶּנִּי אֵיכָה אוּכַל לְהוֹרִישָׁם : <hi rendition="bold"> לֹא תִירָא מֵהֶם זָכֹר תִּזְכֹּר אֵת אֲשֶׁר־עָשָׂה יְהוָה אֱלֹהֶיךָ לְפַרְעֹה וּלְכָל־מִצְרָיִם : הַמַּסֹּת הַגְּדֹלֹת אֲשֶׁר־רָאוּ עֵינֶיךָ וְהָאֹתֹת וְהַמֹּפְתִים וְהַיָּד הַחֲזָקָה וְהַזְּרֹעַ הַנְּטוּיָה אֲשֶׁר הוֹצִאֲךָ יְהוָה אֱלֹהֶיךָ : כֵּן־יַעֲשֶׂה יְהוָה אֱלֹהֶיךָ לְכָל־הָעַמִּים אֲשֶׁר־אַתָּה יָרֵא מִפְּנֵיהֶם :</hi> וְגַם אֶת־הַצִּרְעָה יְשַׁלַּח יְהוָה אֱלֹהֶיךָ בָּם עַד־אֲבֹד הַנִּשְׁאָרִים וְהַנִּסְתָּרִים מִפָּנֶיךָ : לֹא תַעֲרֹץ מִפְּנֵיהֶם כִּי־יְהוָה אֱלֹהֶיךָ בְּקִרְבֶּךָ אֵל גָּדוֹל וְנוֹרָא : וְנָשַׁל יְהוָה אֱלֹהֶיךָ אֶת־הַגּוֹיִם הָאֵל מִפָּנֶיךָ מְעַט מְעָט לֹא תוּכַל כַּלֹּתָם מַהֵר פֶּן־תִּרְבֶּה עָלֶיךָ חַיַּת הַשָּׂדֶה : וּנְתָנָם יְהוָה אֱלֹהֶיךָ לְפָנֶיךָ וְהָמָם מְהוּמָה גְדֹלָה עַד הִשָּׁמְדָם : וְנָתַן מַלְכֵיהֶם בְּיָדֶךָ וְהַאֲבַדְתָּ אֶת־שְׁמָם מִתַּחַת הַשָּׁמָיִם לֹא־יִתְיַצֵּב אִישׁ בְּפָנֶיךָ עַד הִשְׁמִדְךָ אֹתָם : פְּסִילֵי אֱלֹהֵיהֶם תִּשְׂרְפוּן בָּאֵשׁ לֹא־תַחְמֹד כֶּסֶף וְזָהָב עֲלֵיהֶם וְלָקַחְתָּ לָךְ פֶּן תִּוָּקֵשׁ בּוֹ כִּי תוֹעֲבַת יְהוָה אֱלֹהֶיךָ הוּא : וְלֹא־תָבִיא תוֹעֵבָה אֶל־בֵּיתֶךָ וְהָיִיתָ חֵרֶם כָּמֹהוּ שַׁקֵּץ תְּשַׁקְּצֶנּוּ וְתַעֵב תְּתַעֲבֶנּוּ כִּי־חֵרֶם הוּא :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	12 Wenn ihr diese Rechtsvorschriften hört, auf sie achtet und sie haltet, wird der Herr, dein Gott, dafür auf den Bund achten und dir die Huld bewahren, die er deinen Vätern geschworen hat. 13 Er wird dich lieben, dich segnen und dich zahlreich machen. Er wird die Frucht deines Leibes und die Frucht deines Ackers segnen, dein Korn, deinen Wein und dein Öl, die Kälber, Lämmer und Zicklein, in dem Land, von dem du weißt: Er hat deinen Vätern geschworen, es dir zu geben. 14 Du wirst mehr als die anderen Völker gesegnet sein. Weder Mann noch Frau noch Vieh, nichts wird bei dir unfruchtbar sein. 15 Alle Krankheiten wird der Herr von dir ablenken. Keine der schweren ägyptischen Seuchen, die du kennst, wird er dir auferlegen, sondern über alle deine Feinde wird er sie bringen. 16 Du wirst alle Völker verzehren, die der Herr, dein Gott, für dich bestimmt. Du sollst in dir kein Mitleid mit ihnen aufsteigen lassen. Und du sollst ihren Göttern nicht dienen; denn dann liefest du in eine Falle. 17 Wenn du überlegst: Diese Völker sind größer als ich - wie sollte ich sie vertreiben können?, <hi rendition="bold">18 dann sollst du vor ihnen keine Furcht haben. Du sollst an das denken, was der Herr, dein Gott, mit dem Pharao und mit ganz Ägypten gemacht hat: 19 an die schweren Prüfungen, die du mit eigenen Augen gesehen hast, an die Zeichen und Wunder, an die starke Hand und den hoch erhobenen Arm, mit denen der Herr, dein Gott, dich herausgeführt hat. So wird es der Herr, dein Gott, mit allen Völkern machen, vor denen du Furcht hast.</hi> 20 Außerdem wird der Herr, dein Gott, Panik unter ihnen ausbrechen lassen, so lange, bis auch die ausgetilgt sind, die überleben konnten und sich vor dir versteckt haben. 21 Du sollst nicht erschreckt zurückweichen, wenn sie angreifen; denn der Herr, dein Gott, ist als großer und furchterregender Gott in deiner Mitte. 22 Doch der Herr, dein Gott, wird diese Völker dir nur nach und nach aus dem Weg räumen. Du kannst sie nicht rasch ausmerzen, weil sonst die wilden Tiere überhandnehmen und dir schaden. 23 Doch wird der Herr, dein Gott, dir diese Völker ausliefern. Er wird sie in ausweglose Verwirrung stürzen, bis sie vernichtet sind. 24 Er wird ihre Könige in deine Gewalt geben. Du wirst ihren Namen unter dem Himmel austilgen. Keiner wird deinem Angriff standhalten können, bis du sie schließlich vernichtet hast. 25 Ihre Götterbilder sollt ihr im Feuer verbrennen. Du sollst nicht das Silber oder Gold haben wollen, mit dem sie überzogen sind. Du sollst es nicht an dich nehmen, damit du dabei nicht in eine Falle läufst. Denn es ist dem Herrn, deinem Gott, ein Greuel. 26 Du sollst aber keinen Greuel in dein Haus bringen, sonst bist du wie er der Vernichtung geweiht. Du sollst Grauen und Abscheu vor ihm haben, denn er ist der Vernichtung geweiht.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

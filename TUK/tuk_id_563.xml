@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht Nr. 35:15-17 (Schulthess)</title>
+                <principal>
+                    <persName>Nicolai Sinai (Texterfassung: Daria Zadorojnaia</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>J. Frank-Kamenetzky</persName>
+                    <name>Untersuchungen über das Verhältnis der dem Umajja b. Abi ṣ Ṣalt zugeschriebenen Gedichte zum Qorān, Kirchhain N.-L. 1911, S. 19 f.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>563</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Aṭ-Ṭāʾif (Ḥiǧāz)</origPlace>
+                            <origDate>Anfang 7. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 104 (modifiziert).</bibl>
+                <bibl>
+                    <edition>Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 47; Bahǧa ʿAbdalġafūr al-Ḥadīṯī, Umayya ibn abī ṣ-Ṣalt: Ḥayātuhū wa-šiʿruhū, Bagdad 1975, S. 305-306.</edition>
+                    <relatedItem>
+                        <bibl>012:023-012:029</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Zur umstrittenen Authentizität der Umayya ibn abī ṣ-Ṣalt zugeschriebenen Gedichte vgl. allgemein die Anmerkung zu Intertext Nr. 420. Von dem Gedicht, aus dem der vorliegende Intertext stammt, sind noch weitere Fragmente erhalten, vgl. etwa Intertext Nr. 562. Frank-Kamenetzky sieht das Gedicht nur zum Teil als authentisch an; den hier zitierten Passus, der offenbar auf die Verleumdung Josefs durch Potiphars Frau (vgl. Genesis 39:7 ff.) Bezug nimmt, hält er für unecht (a. a. O., S. 48). Ein schlüssiges Argument dafür bleibt er allerdings schuldig. Denn der Abschnitt weist nicht nur keinerlei koranisierende Diktion auf, sondern steht sogar in sachlichem Widerspruch zur koranischen Josefsgeschichte: Laut Q 12:25 wird Josefs Hemd von Potiphars Frau zerrissen, während V. 15 des Intertexts Josef dazu auffordert, sein Gewand ganz in den Händen der Frau zurückzulassen und nackt zu fliehen (das Gedicht stimmt hierin mit Genesis 39:12.13 überein; zu der Differenz zwischen biblischer und koranischer Darstellung der Szene vgl. Heinrich Speyer, Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, 204, mit der Vermutung einer Interferenz der Geschichte von Amnon und Tamar aus 2 Samuel 13). Ein solche Diskrepanz ist am ehesten dadurch zu erklären, dass das vorliegende Fragment in der Tat unabhängig vom Koran und somit sehr wahrscheinlich authentisch ist.<lb/>GHASSAN: Kleider ablegen als Metapher für Trennung; vgl. Muʿallaqa des Imruʾ al-Qais.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>١٥ لا تَخْلِطَنَّ خَبيثاتٍ بطَيِّبةٍ     واخْلَعْ ثيابَك منها وانْجُ عُرْيانا<lb/>١٦ كلُّ امرىٍء سَوْفَ يُجْزَى قَرْضَهُ حَسَناً     او سَيِّئاً ومديناً كالّذي دانا<lb/>[?...]<lb/>١٧ قالَتْ أَرادَ بِنا سُوءًا فقُلْتُ لها     خَزْيانُ حَيْثُ يقولُ الزورَ بُهْتانا</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>15. Vermische nicht Hässliches mit Lieblichem, gib ihr dein Kleid preis und rette dich nackt!<lb/>16. Jedermann wird dereinst sein Darlehen als Vergeltung empfangen, sei es gut oder böse, und bezahlt, wie er bezahlt hat.<lb/>[...?]<lb/>17. Sie sprach: "Er hat uns Schlechtes zugemutet", da sprach ich zu ihr: "Ein Verächtlicher, da er verleumderisch das Falsche sagt!"</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

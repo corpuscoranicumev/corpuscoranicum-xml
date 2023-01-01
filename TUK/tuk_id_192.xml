@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gedicht über den sechsten Tag der Schöpfung</title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>192</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nordmesopotamien</origPlace>
+                            <origDate>vor 521</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	Paul Bedjan, Homiliae Selectae Mar-Jacobi Sarugensis, Bd. 3, Paris 1905, S. 40-41.</edition>
+                    <relatedItem>
+                        <bibl>021:032; 052:005</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Q 21:32 zufolge hat Gott den Himmel "als ein wohlbewahrtes Dach", (arab. <hi xml:lang="ar-Latn">saqfan maḥfūẓan</hi>) geschaffen; ähnlich spricht auch Jakob von Sarug vom Firmament, das wohleingerichtet ist, als ein Schutzdach (syrisch <hi xml:lang="ar-Latn">taṭlītā</hi>) für die "Welt der Menschen". Das koranische <hi xml:lang="ar-Latn">saqf maḥfūẓ</hi>, das "wohlbewahrte Dach" scheint Gottes Kümmern um die Wohlgestaltung und den Erhalt der Schöpfung zu betonen, da <hi xml:lang="ar-Latn">maḥfūẓ</hi> ein passives Partizip ist, welches sich auf "Dach" bezieht, d.h. es ist das Dach, welches "geschützt, bewahrt" etc. ist. Immerhin könnte aber auch die Idee eines "schützenden Daches" mitschwingen. Im Text des Jakob von Sarug wird die Idee der idealtypischen Erschaffung des Firmamentes gemeinsam mit der Idee der Schutzes, bzw. der Überdachung für die Menschen genannt. Wie im Koran, dient die Erzählung auch zur Darstellung des vortrefflichen Schöpfertum Gottes, bzw., umgekehrt, der Argumentation, dass die Perfektion der Natur bzw. der Schöpfung auf Gott weise (vgl. den Begriff <hi xml:lang="ar-Latn">āya</hi> 'Hinweis, (Wunder-)Zeichen in Q. 32.32). Q 52:5 erwähnt nur das hohe (wörtlich: "erhobene") "Gewölbe, Dach" (<hi xml:lang="ar-Latn">as-saqfi l-marfūʿ</hi>). Die Formulierung weist jedoch ebenfalls auf den Schöpfungsakt hin, da "Dach" einen 'Erbauer' suggeriert und "erhoben" (als passives Partizip) ein Agens impliziert.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	ܘܠܥܠ ܡܢܗ݁ ܕܗܕܐ ܓܝܓܠܐ ܛܥܝܢܬ ܓܘܫ̈ܡܐ: ܡܕܒܪܐ ܕܢܘܗܪܐ ܕܡܕܝܪܝܢ ܒܗ ܚܝ̈ܠܘܬܐ܀ ܘܬܚܬ ܗܠܝܢ ܗܢܐ ܪܩܝܥܐ ܐܝܟ ܐܣܦܝܪܐ: ܕܚܒܝܫܝܢ ܒܗ ܗܠܝܢ ܓܘܫ̈ܡܐ ܡܬܓܫ̈ܡܢܐ܀ܢܩܝܫ ܐܝܟ ܡܫܟܢܐ ܠܝܬܒܐ ܕܛܘܗܡ̈ܐ ܘܕܫܪ̈ܒܬܐ: ܘܡܕܝܪܝܢ ܒܗ ܓܢ̈ܣܝܢ ܓܢ̈ܣܝܢ ܒܟܝܢܝ̈ܗܘܢ܀ ܘܚܟܡܬ ܪܡܐ ܪܩܥܬܗ ܘܗܘܐ ܒܝܘܡܐ ܕܬܪܝܢ: ܐܝܟ <hi rendition="strong">ܬܛܠܝܠܐ</hi> ܠܥܠܡܐ ܟܠܗ ܕܒܢܝ̈ܢܫܐ܀</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Und oberhalb dieses Rades, welches Körper trägt, befindet sich eine weite Fläche aus Licht in der die Mächte wohnen.Und darunter befindet sich das Firmament wie eine Kugel, in der diese inkarnierten Körper eingeschlossen sind, befestigt wie ein Zelt, zur Ansiedlung von Familien und Sippen. Es leben darin die verschiedenen Arten nach ihrer Natur. Die Weisheit des Erhabenen hat es befestigt und zwar am zweiten Tag [der Schöpfung], auf dass es sei als ein <hi rendition="strong">(</hi>
+                        <hi rendition="bold">schützendes) Dach</hi> für die gesamte Welt der Menschen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

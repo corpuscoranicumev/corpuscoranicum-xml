@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Tobias J. Jocham</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Vollständige Notiz von Gallica (<ref target="http://gallica.bnf.fr/ark:/12148/btv1b8447033q">Verknüpfung</ref>): Titel : Fragments coraniques de la collection Seymour de Ricci. Coran<lb/> Titel : Fragments coraniques de la collection Seymour de Ricci. القرآن<lb/> Mitarbeiter : Ricci (S. de). Ancien possesseur<lb/> Type : manuscrit<lb/> Sprache :<lb/> Format : Fragment de parchemin. 145 mm. × 210 mm. Deux mains différentes au recto (9 lignes, la dernière très fragmentaire) et au verso (15 lignes, les trois dernières très fragmentaires). - Recto : graphie de type. - ḥiğāzī. - I, assez voisine de celle de Arabe 326 a (notice 1). - Alif. - isolé incurvé dans sa partie inférieure, à retour court. - - Le. - mīm. - , circulaire, ressemble en finale à ceux des séries B I ; on remarquera une ligature entre. - mīm. - final et. - kāf. - analogue à celle de Arabe 7195 (notice 285). - - Le ʿ. - ayn. - à l'intérieur d'un mot présente une forme en mm. × (les deux traits de la tête sont en V et les ligatures qui précèdent ou suivent forment très discrètement un V inversé). - Verso : graphie influencée par le. - ḥiğāzī. - , moins nettement inclinée qu'au recto. - - Le. - alif. - isolé à la forme d'un bâton. - - A l'intérieur d'un mot, le ʿ. - ayn. - a un tracé analogue à celui décrit au recto. - - Le. - mīm. - final est posé sur la ligne et, si parfois la queue évoque celle des. - mīm. - des séries B I, elle est souvent filiforme, en biais vers la gauche (cf. Arabe 328 c, notice 4). - - Le. - nūn. - tend vers des formes semi-circulaires (cf. Arabe 328 a, notice 2). - - Les. - hā. - ʾ ont une barre d'appui inclinée qui s'élève nettement au-dessus du corps de la lettre (cf. Arabe 328 c, notice 4). - Points diacritiques au verso ; vocalisation absente. Un groupe de six traits disposés en triangle (. - 1.1.5. - ) sépare les versets au recto (l. 7) ; au verso, trois groupes de deux points ovales superposés (. - 2.1.5. - ) remplissent cette fonction. - Hauteur des lignes : 15 mm au recto entre deux traits de la réglure, 8 à 9 mm au verso. Réglure à la pointe sèche (correspond seulement au texte du recto) du côté fleur du fragment (verso). Encre brune<lb/> Copyright : domaine public<lb/> Benutzeridentifizierung : ark:/12148/btv1b84470329<lb/> Quelle : Bibliothèque nationale de France, Département des manuscrits, Arabe 7191<lb/> Herkunft : bnf.fr<lb/> Beschreibung : R° : V, 94 (ʾ āmanū ) à V, 97 ( al-samāwāti wa-mā ) V° : V, 99 ( yaʿlamu ) à V, 107 (ʾ aḥaqqu )<lb/> Beschreibung : Al-Qur'ān<lb/> Beschreibung : Provient de la collection Seymour de Ricci ; acheté le 8 février 1909 à ʿAbd al-Nūr d'Assiout</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Frankreich</country>
+                        <settlement>Paris</settlement>
+                        <institution> Bibliothèque nationale de France</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>ms.arabe.7191</idno>
+                        <altIdentifier>
+                            <idno>Ms. Paris BnF Arabe 7191</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="328">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Fragment">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>145</height>
+                                        <width>210</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	François Déroche: Catalogue des manuscrits arabes ; 2. Manuscrits musulmans. Tome I, Les manuscrits du Coran. Aux origines de la calligraphie coraniqueue / Bibliothèque nationale, Département des manuscrits, Paris 1983, S. 151.
+
+	<hi rendition="em">idem</hi>., La Transmission Écrite Du Coran Dans Les Débuts De L’Islam: Le Codex Parisino-Petropolitanus, 2009, <hi rendition="em">op. cit.</hi>, Plates 20 &amp; 21.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

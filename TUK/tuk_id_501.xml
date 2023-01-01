@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Leviticus 26:3-13</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>David Kiltz (Anmerkung)</persName>
+                    <persName>Michael Marx (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 443.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>501</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>008:065-008:066</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Sowohl die Bibel- als auch die Koranstelle versichern, dass eine Unterzahl von Gläubigen eine Überzahl an Feinden besiegen könne. Auch angesichts der formalen Zweigliedrigkeit der beiden Versicherungen besteht eine große Ähnlichkeit zwischen den beiden Stellen.<lb/>
+
+	Dabei scheint Q 8:65 zunächst, wie dies auch in der göttlichen Satzung an das auserwählte Volk im Buch Leviticus der Fall ist, eine absolute zahlenmäßige Unterlegenheit der Anhänger des Propheten im Verhältnis zu ihren Gegnern vorauszusetzen. Das Verhältnis (20 zu 100, 200 zu 1000) ähnelt dem in Buch Leviticus (5 zu 100, 100 zu 10000).<lb/>
+
+	Im folgenden Vers (Q 8:66) haben sich die Relationen dank göttlicher Erleichterung angenähert (100 zu 200), auch wenn die zahlenmäßige Überlegenheit des Gegners grundsätzlich bestehen bleibt.<lb/>
+
+	Ein wesentlicher Unterschied zwischen Bibel- und Koranstelle besteht auch in der Sprechsituation: während in der Bibel Gott eine rechtstextartige Satzung verlautbaren lässt, die eine Versicherung enthält, dass das auserwählte Volk im Falle einer kriegerischen Auseinandersetzung siegreich sein wird, spricht im Koran der Prophet, der wiederum, einer göttlichen Aufforderung folgend, die Gemeinde militärisch zum Kampf ermutigt. An dieser Stelle wird durch die Bezugnahme auf die Überlieferung der Hebräischen Bibel deutlich, wie die Heilsgeschichte der ersten islamischen Gemeinde mit literarischen Elementen der biblischen Tradition, die offenbar den Gefährten des Propheten vertraut war, beschrieben wird.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	אִם־בְּחֻקֹּתַי תֵּלֵכוּ וְאֶת־מִצְוֹתַי תִּשְׁמְרוּ וַעֲשִׂיתֶם אֹתָם : וְנָתַתִּי גִשְׁמֵיכֶם בְּעִתָּם וְנָתְנָה הָאָרֶץ יְבוּלָהּ וְעֵץ הַשָּׂדֶה יִתֵּן פִּרְיוֹ : וְהִשִּׂיג לָכֶם דַּיִשׁ אֶת־בָּצִיר וּבָצִיר יַשִּׂיג אֶת־זָרַע וַאֲכַלְתֶּם לַחְמְכֶם לָשֹׂבַע וִישַׁבְתֶּם לָבֶטַח בְּאַרְצְכֶם : וְנָתַתִּי שָׁלוֹם בָּאָרֶץ וּשְׁכַבְתֶּם וְאֵין מַחֲרִיד וְהִשְׁבַּתִּי חַיָּה רָעָה מִן־הָאָרֶץ וְחֶרֶב לֹא־תַעֲבֹר בְּאַרְצְכֶם : וּרְדַפְתֶּם אֶת־אֹיְבֵיכֶם וְנָפְלוּ לִפְנֵיכֶם לֶחָרֶב : <hi rendition="bold"> וְרָדְפוּ מִכֶּם חֲמִשָּׁה מֵאָה וּמֵאָה מִכֶּם רְבָבָה יִרְדֹּפוּ וְנָפְלוּ אֹיְבֵיכֶם לִפְנֵיכֶם לֶחָרֶב :</hi> וּפָנִיתִי אֲלֵיכֶם וְהִפְרֵיתִי אֶתְכֶם וְהִרְבֵּיתִי אֶתְכֶם וַהֲקִימֹתִי אֶת־בְּרִיתִי אִתְּכֶם : וַאֲכַלְתֶּם יָשָׁן נוֹשָׁן וְיָשָׁן מִפְּנֵי חָדָשׁ תּוֹצִיאוּ : וְנָתַתִּי מִשְׁכָּנִי בְּתוֹכְכֶם וְלֹא־תִגְעַל נַפְשִׁי אֶתְכֶם : וְהִתְהַלַּכְתִּי בְּתוֹכְכֶם וְהָיִיתִי לָכֶם לֵאלֹהִים וְאַתֶּם תִּהְיוּ־לִי לְעָם : אֲנִי יְהוָה אֱלֹהֵיכֶם אֲשֶׁר הוֹצֵאתִי אֶתְכֶם מֵאֶרֶץ מִצְרַיִם מִהְיֹת לָהֶם עֲבָדִים וָאֶשְׁבֹּר מֹטֹת עֻלְּכֶם וָאוֹלֵךְ אֶתְכֶם קוֹמְמִיּוּת :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	3 Wenn ihr nach meinen Satzungen handelt, auf meine Gebote achtet und sie befolgt, 4 so gebe ich euch Regen zur rechten Zeit; die Erde liefert ihren Ertrag, und der Baum des Feldes gibt seine Früchte; 5 die Dreschzeit reicht bei euch bis zur Weinlese und die Weinlese bis zur Aussaat. Ihr esst euch satt an eurem Brot und wohnt in eurem Land in Sicherheit. 6 Ich schaffe Frieden im Land: Ihr legt euch nieder und niemand schreckt euch auf. Ich lasse die Raubtiere aus dem Land verschwinden. Kein Schwert kommt über euer Land. 7 Verfolgt ihr eure Feinde, so werden sie vor euren Augen dem Schwert verfallen. 8 <hi rendition="bold">Fünf von euch werden hundert verfolgen, hundert von euch werden zehntausend verfolgen und eure Feinde werden vor euren Augen dem Schwert verfallen.</hi> 9 Euch wende ich mich zu, mache euch fruchtbar und zahlreich und halte meinen Bund mit euch aufrecht. 10 Ihr werdet noch von der alten Ernte zu essen haben und das Alte hinausschaffen müssen, um Platz für das Neue zu haben. 11 Ich schlage meine Wohnstätte in eurer Mitte auf und habe gegen euch keine Abneigung. 12 Ich gehe in eurer Mitte; ich bin euer Gott und ihr seid mein Volk. 13 Ich bin der Herr, euer Gott, der euch aus dem Land der Ägypter herausgeführt hat, sodass ihr nicht mehr ihre Sklaven zu sein braucht. Ich habe eure Jochstangen zerbrochen und euch wieder aufrecht gehen lassen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

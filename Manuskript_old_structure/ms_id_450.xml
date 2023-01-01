@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 328. We. 1923. 2 Bl. Quer-Folio, 15 Z. (21x30; 13,5x22,5 cm ). — Zustand: ziemlich unsauber, auch fleckig, brüchig und ausgebessert im Text f. 1 und am Rand f. 2. — Material: Pergament, ziemlich stark, glatt, gelb. — Einband: roter Kattunband. — Inhalt: F. 1:                 Sure 11:13 نعما bis 11:22 السمع وما كانوا F. 2:                Sure 11:120 مختلفين bis 12:9 يوسف Zwischen f. 1 u. 2 ist eine große Lücke. Die Schrift ist ziemlich groß, gut, gleichmäßig. F. 1b u. 2a abgescheuert und blass. Auch f. 1a u. 2b gehen schon etwas ins Bräunliche über. — Die Zahl der Buchstaben auf der Zeile ist ca. 24. — Der Raum zwischen den einzelnen Buchstabengruppen 0,5 bis 0,8 cm — Die Wörter am Ende der Zeilen können gebrochen werden. — Der Kopf der Buchstaben ist dick und bis auf einen kleinen Punkt ausgefüllt; Anfangs-ا hat unten rechts einen großen Schwung; Anfangs-ع hat statt der Rundung einen kleinen schräg nach oben rechts gehenden Strich; Schluss-ن ist ein krummer ziemlich tief unter die Linie gehender Strich mit wenig Biegung nach links; Schluss-ل geht nicht so tief unter die Linie, hat auch nur geringe Biegung nach links; Schluss-م hat auf der Linie einen ganz kurzen Strich; Schluss-ب hat eine Rundung unter der Linie nach links oder auch einen längeren Strich dicht unter der Linie nach rechts; Schluss-ق hat einen jenem ى ähnlichen Schwung nach links, aber ein wenig kleiner. ك u. د sind fast gleich; sie können ebenso wie ص u. ط sehr lang gezogen werden. — Diakritische Punkte so gut wie gar nicht angewendet, dagegen Vokalzeichen, rote Punkte, recht oft, ebenso wie die Nunation, ein roter Doppelpunkt über-, seltener nebeneinander. Lang ā oft nicht ausgedrückt. — Versabteilungszeichen 3 bis 4 kleine schräge Striche; größere Gruppen durch kleine Vierecke mit Goldverzierung abgeteilt. Die Überschriften in Goldschrift: nach فتحة سورة folgt kurz Titel und Verszahl. — Am Rande keine Angaben für Texteinteilung.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Wetzstein II 1923</idno>
+                        <altIdentifier>
+                            <idno>Wetzstein II 1923 (Ahlwardt 328)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="450">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>208</height>
+                                        <width>300</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="15">
+                                    <p>Die Seiten enthalten 15 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

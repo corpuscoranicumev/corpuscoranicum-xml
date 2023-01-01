@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Hadiya Gurtmann</persName>
+                    <persName>Michael Marx</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>001:001-007:100; 015:004-017:018; 017:046-114:006     Zu Herkunft: vermutlich beim Rückzug der Türken nach dem ersten Weltkrieg nach Istanbul gelangt.<lb/> Zu Format: je nachdem wie gemessen wird 33x29,5 [29,5x23,5] (0,05 cm auf der Photographie = 0,9 cm, gemessen mit Photoshopwerkzeug; Vergleichswert Maßband) oder 28,5x25,5 [25,5x21] (0,9 cm auf der Photographie = 1,0 cm, gemessen am Bildschirm; Vergleichswert Maßband)</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Türkei</country>
+                        <settlement>Istanbul</settlement>
+                        <institution> Topkapı Sarayı</institution>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Istanbul TKS Emanet 13</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="59">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament (Quelle: Schwarz-Weiß-Photographie)</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>330</height>
+                                        <width>295</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="20">
+                                    <p>Die Seiten enthalten 20 Zeilen.</p>
+                                    <p>Surengliederung: Die Surenüberschriften sind in kleinerer Schrift, vermutlich mit anderer Tinte (Farbe nicht feststellbar) und von anderer Hand geschrieben. Meist ist außer dem Surennamen die Anzahl der Verse angegeben.<lb/> Versgliederung: die einzelnen Verse sind durch fünf kleine, schräg im Dreieck angeordnete Striche angezeigt.<lb/> Verszählung: jeder zehnte Vers ist durch einen kleinen dunklen Kreis in einem schräg gestrichelten äußeren Kreis markiert. Es wird Abǧad-Zählung verwendet.<lb/> Zeilenumbruch: - der Zeilenumbruch kann im Wort erfolgen<lb/> - ein Füllstrich am Ende der Zeile wird gelegentlich verwendet.<lb/> Buchstabendichte: in etwa 35-39 (meist 37) Buchstaben pro Zeile.<lb/> Paginierung: keine Paginierung.</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

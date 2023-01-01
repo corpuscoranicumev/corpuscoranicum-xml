@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Tobias J. Jocham</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Princeton</settlement>
+                        <institution> University Library</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>Garrett no. 14G</idno>
+                        <altIdentifier>
+                            <idno>Ms. Princeton 14G(c)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="359">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Blatt">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>155</height>
+                                        <width>255</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="5">
+                                    <p>Die Seiten enthalten 5 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Hitti, P. Garrett coll., 1139, 1140, 1141, 1142, 1143.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <bibl>
+                    <bibl>036:020-036:021</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Annemarie Jehring</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">المدٮٮه</w>
+                    <w n="000000000">ر[جـ]ـل ٮسعى</w>
+                    <w n="000000000">ڡال</w>
+                    <w n="000000000">ٮڡوم</w>
+                    <w n="000000000">[ا] ٮٮعواالمرسلٮں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000"> اٮٮعوامں</w>
+                    <w n="000000000">لا ٮسلكم</w>
+                    <w n="000000000">احرا</w>
+                </p>
+            </div>
+            <div>
+                <bibl>
+                    <bibl>036:021-036:023</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                        <persName>Annemarie Jehring</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">[و]هم</w>
+                    <w n="000000000">مهٮدوں ۞ومالى</w>
+                    <w n="000000000">لااعٮد الدى</w>
+                    <w n="000000000">ڡطر ٮى</w>
+                    <w n="000000000">والٮه</w>
+                    <w n="000000000">رحعو ں</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">اٮحدمں</w>
+                    <w n="000000000">د</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

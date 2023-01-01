@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Psalm 148:1-14</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 51 f., Anm. 3 (zu Q 39:75, 40:7 und 42:5).</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>444</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Endredaktion des Psalters) </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>002:030; 004:172; 007:206; 013:013; 016:049; 021:019-021:020; 039:075; 040:007; 041:038; 042:005</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">sabbaḥa; malāʾika; saǧada</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Wie in der Bibel findet sich auch in verschiedenen Koranstellen die Vorstellung, dass die Engel Gottes Lob singen. Vgl. auch Psalm 103:20 und Lukas 2:13-14. Zu <hi xml:lang="ar-Latn">sabbaḥa; malāʾika; saǧada, </hi>vgl. Jeffery, Foreign vocabulary S. 161f.; 269f; 162f., 263f..</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	הַלְלוּ יָהּ הַלְלוּ אֶת־יְהוָה מִן־הַשָּׁמַיִם הַלְלוּהוּ בַּמְּרוֹמִים : <hi rendition="bold"> הַלְלוּהוּ כָל־מַלְאָכָיו הַלְלוּהוּ כָּל־צְבָאָו :</hi> הַלְלוּהוּ שֶׁמֶשׁ וְיָרֵחַ הַלְלוּהוּ כָּל־כּוֹכְבֵי אוֹר : הַלְלוּהוּ שְׁמֵי הַשָּׁמָיִם וְהַמַּיִם אֲשֶׁר מֵעַל הַשָּׁמָיִם : יְהַלְלוּ אֶת־שֵׁם יְהוָה כִּי הוּא צִוָּה וְנִבְרָאוּ : וַיַּעֲמִידֵם לָעַד לְעוֹלָם חָק־נָתַן וְלֹא יַעֲבוֹר : הַלְלוּ אֶת־יְהוָה מִן־הָאָרֶץ תַּנִּינִים וְכָל־תְּהֹמוֹת : אֵשׁ וּבָרָד שֶׁלֶג וְקִיטוֹר רוּחַ סְעָרָה עֹשָׂה דְבָרוֹ : הֶהָרִים וְכָל־גְּבָעוֹת עֵץ פְּרִי וְכָל־אֲרָזִים : הַחַיָּה וְכָל־בְּהֵמָה רֶמֶשׂ וְצִפּוֹר כָּנָף : מַלְכֵי־אֶרֶץ וְכָל־לְאֻמִּים שָׂרִים וְכָל־שֹׁפְטֵי אָרֶץ : בַּחוּרִים וְגַם־בְּתוּלוֹת זְקֵנִים עִם־נְעָרִים : יְהַלְלוּ אֶת־שֵׁם יְהוָה כִּי־נִשְׂגָּב שְׁמוֹ לְבַדּוֹ הוֹדוֹ עַל־אֶרֶץ וְשָׁמָיִם : וַיָּרֶם קֶרֶן לְעַמּוֹ תְּהִלָּה לְכָל־חֲסִידָיו לִבְנֵי יִשְׂרָאֵל עַם־קְרֹבוֹ הַלְלוּ־יָהּ :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Halleluja! Lobt den Herrn vom Himmel her, / lobt ihn in den Höhen: 2 <hi rendition="bold">Lobt ihn, all seine Engel, / lobt ihn, all seine Scharen;</hi> 3 lobt ihn, Sonne und Mond, / lobt ihn, all ihr leuchtenden Sterne; 4 lobt ihn, alle Himmel / und ihr Wasser über dem Himmel! 5 Loben sollen sie den Namen des Herrn; / denn er gebot, und sie waren erschaffen. 6 Er stellte sie hin für immer und ewig, / er gab ihnen ein Gesetz, das sie nicht übertreten. 7 Lobt den Herrn, ihr auf der Erde, / ihr Seeungeheuer und all ihr Tiefen, 8 Feuer und Hagel, Schnee und Nebel, / du Sturmwind, der sein Wort vollzieht, 9 ihr Berge und all ihr Hügel, / ihr Fruchtbäume und alle Zedern, 10 ihr wilden Tiere und alles Vieh, / Kriechtiere und gefiederte Vögel, 11 ihr Könige der Erde und alle Völker, / ihr Fürsten und alle Richter auf Erden, 12 ihr jungen Männer und auch ihr Mädchen, / ihr Alten mit den Jungen! 13 Loben sollen sie den Namen des Herrn; / denn sein Name allein ist erhaben, / seine Hoheit strahlt über Erde und Himmel. 14 Seinem Volk verleiht er Macht, / das ist ein Ruhm für all seine Frommen, / für Israels Kinder, das Volk, das ihm nahen darf. Halleluja!</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lukas 8:4-15</title>
+                <principal>
+                    <persName>Tolou Khademalsharieh</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>816</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Rom oder östlicher Mittelmeerraum</origPlace>
+                            <origDate>um 90 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>007:179</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾāḏān lā yasmʿūn; ʾaʿyun lā yubṣirun</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Sowohl die koranische Stelle als auch die Stelle in Lukas verwenden das Motiv der "nicht sehenden Augen" und "nicht hörenden Ohren", um darauf hinzuweisen, dass die Ungläubigen trotz Besitz der Sinne die Wahrheit nicht verstehen wollen.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	4 Συνιόντος δὲ ὄχλου πολλοῦ καὶ τῶν κατὰ πόλιν ἐπιπορευομένων πρὸς αὐτὸν εἶπεν διὰ παραβολῆς• 5 ἐξῆλθεν ὁ σπείρων τοῦ σπεῖραι τὸν σπόρον αὐτοῦ. καὶ ἐν τῷ σπείρειν αὐτὸν ὃ μὲν ἔπεσεν παρὰ τὴν ὁδὸν καὶ κατεπατήθη, καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατέφαγεν αὐτό. 6 καὶ ἕτερον κατέπεσεν ἐπὶ τὴν πέτραν, καὶ φυὲν ἐξηράνθη διὰ τὸ μὴ ἔχειν ἰκμάδα. 7 καὶ ἕτερον ἔπεσεν ἐν μέσῳ τῶν ἀκανθῶν, καὶ συμφυεῖσαι αἱ ἄκανθαι ἀπέπνιξαν αὐτό. 8 καὶ ἕτερον ἔπεσεν εἰς τὴν γῆν τὴν ἀγαθὴν καὶ φυὲν ἐποίησεν καρπὸν ἑκατονταπλασίονα. ταῦτα λέγων ἐφώνει•<hi rendition="bold"> ὁ ἔχων ὦτα ἀκούειν ἀκουέτω.</hi> 9 Ἐπηρώτων δὲ αὐτὸν οἱ μαθηταὶ αὐτοῦ τίς αὕτη εἴη ἡ παραβολή. 10 ὁ δὲ εἶπεν•<hi rendition="bold"> ὑμῖν δέδοται γνῶναι τὰ μυστήρια τῆς βασιλείας τοῦ θεοῦ, τοῖς δὲ λοιποῖς ἐν παραβολαῖς, ἵνα βλέποντες μὴ βλέπωσιν καὶ ἀκούοντες μὴ συνιῶσιν. </hi> 11 Ἔστιν δὲ αὕτη ἡ παραβολή• ὁ σπόρος ἐστὶν ὁ λόγος τοῦ θεοῦ. 12 οἱ δὲ παρὰ τὴν ὁδόν εἰσιν οἱ ἀκούσαντες, εἶτα ἔρχεται ὁ διάβολος καὶ αἴρει τὸν λόγον ἀπὸ τῆς καρδίας αὐτῶν, ἵνα μὴ πιστεύσαντες σωθῶσιν. 13 οἱ δὲ ἐπὶ τῆς πέτρας οἳ ὅταν ἀκούσωσιν μετὰ χαρᾶς δέχονται τὸν λόγον, καὶ οὗτοι ῥίζαν οὐκ ἔχουσιν, οἳ πρὸς καιρὸν πιστεύουσιν καὶ ἐν καιρῷ πειρασμοῦ ἀφίστανται. 14 τὸ δὲ εἰς τὰς ἀκάνθας πεσόν, οὗτοί εἰσιν οἱ ἀκούσαντες, καὶ ὑπὸ μεριμνῶν καὶ πλούτου καὶ ἡδονῶν τοῦ βίου πορευόμενοι συμπνίγονται καὶ οὐ τελεσφοροῦσιν. 15 τὸ δὲ ἐν τῇ καλῇ γῇ, οὗτοί εἰσιν οἵτινες ἐν καρδίᾳ καλῇ καὶ ἀγαθῇ ἀκούσαντες τὸν λόγον κατέχουσιν καὶ καρποφοροῦσιν ἐν ὑπομονῇ.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	4 Als die Leute aus allen Städten zusammenströmten und sich viele Menschen um ihn versammelten, erzählte er ihnen dieses Gleichnis: 5 Ein Sämann ging aufs Feld, um seinen Samen auszusäen. Als er säte, fiel ein Teil der Körner auf den Weg; sie wurden zertreten, und die Vögel des Himmels fraßen sie. 6 Ein anderer Teil fiel auf Felsen, und als die Saat aufging, verdorrte sie, weil es ihr an Feuchtigkeit fehlte. 7 Wieder ein anderer Teil fiel mitten in die Dornen, und die Dornen wuchsen zusammen mit der Saat hoch und erstickten sie. 8 Ein anderer Teil schließlich fiel auf guten Boden, ging auf und brachte hundertfach Frucht. Als Jesus das gesagt hatte, rief er: <hi rendition="bold">Wer Ohren hat zum Hören, der höre!</hi> 9 Seine Jünger fragten ihn, was das Gleichnis bedeute. 10 Da sagte er: <hi rendition="bold">Euch ist es gegeben, die Geheimnisse des Reiches Gottes zu erkennen. Zu den anderen Menschen aber wird nur in Gleichnissen geredet; denn sie sollen sehen und doch nicht sehen, hören und doch nicht verstehen.</hi> 11 Das ist der Sinn des Gleichnisses: Der Samen ist das Wort Gottes. 12 Auf den Weg ist der Samen bei denen gefallen, die das Wort zwar hören, denen es aber der Teufel dann aus dem Herzen reißt, damit sie nicht glauben und nicht gerettet werden. 13 Auf den Felsen ist der Samen bei denen gefallen, die das Wort freudig aufnehmen, wenn sie es hören; aber sie haben keine Wurzeln: Eine Zeitlang glauben sie, doch in der Zeit der Prüfung werden sie abtrünnig. 14 Unter die Dornen ist der Samen bei denen gefallen, die das Wort zwar hören, dann aber weggehen und in den Sorgen, dem Reichtum und den Genüssen des Lebens ersticken, deren Frucht also nicht reift. 15 Auf guten Boden ist der Samen bei denen gefallen, die das Wort mit gutem und aufrichtigem Herzen hören, daran festhalten und durch ihre Ausdauer Frucht bringen.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

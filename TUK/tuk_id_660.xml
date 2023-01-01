@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genesis Rabba, Parascha 38:28</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 135 f.<lb/>W. St. Clair Tisdall, The Original Sources of the Qur'an, London 1905, S. 66-74.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>660</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>5. Jh. (?) </origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> August Wünsche, Bibliotheca Rabbinica, Bd. 1: Midrasch Bereschit Rabba, Leipzig 1880, S. 172 f., modifiziert nach Jacob Neusner, Genesis Rabbah. The Judaic commentary to the book of genesis. A new American translation, Bd. 2, Atlanta 1985, S. 55f.</bibl>
+                <bibl>
+                    <edition>
+
+	J. Theodor und Chanoch Albeck, Midrash Bereshit Rabba. Critical Edition with Notes and Commentary, 3 Bände, Jerusalem 1965 (Nachdruck von Berlin 1912-36 mit Korrekturen).</edition>
+                    <relatedItem>
+                        <bibl>006:074; 019:042-019:048; 021:052-021:067</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Verschiedene Koranstellen handeln von der Auseinandersetzung Abrahams mit seinem Vater und seinem Volk wegen deren Götzendienst. Eine solche Auseinandersetzung ist in verschiedenen Schriften überliefert, z.B. in der Apokalypse Abrahams (vgl. TUK Nr. 0456). Von der Zerstörung der Götzenbilder berichtet auch das Buch der Jubiläen 12:12, demzufolge Abraham den Tempel mit den Götzenbildern verbrennt. Besonders nahe stehen sich aber Q 21:58-67 und der hier zitierte Text aus Genesis Rabba. Beide Texte berichten, wie Abraham die Götzenbilder zerschlägt und daraufhin - von seinem Vater, bzw. Volk zur Rede gestellt - dem größten Götzen die Zerstörung der anderen zuschreibt. In beiden Texten fühlen sich das Volk, bzw. der Vater Abrahams dadurch verspottet und weisen als Antwort auf das Unvermögen der Götter hin (<hi xml:lang="ar-Latn">la-qad ʿalimta mā hāʾulāʾi yanṭiqūna</hi>, "Du weißt doch, daß die da nicht sprechen können"; ידעין אינון, "Sie wissen nichts") und geben damit indirekt zu, daß Abraham recht hat.</p>
+                    <p>
+
+	 </p>
+                </body>
+            </text>
+            <text xml:lang="arc-hbo" type="orig">
+                <body>
+                    <p>
+
+	וימת הרן על פני תרח אביו אמר ר' חייא תרח עובד צלמים הוה, חד זמן נפק לאתר הושיב אברהם מוכר תחתיו, הוה אתי בר נש בעי דיזבון, אמר ליה בר כמה שנין את, אמר ליה בר חמשין, אמר ליה ווי לההוא גברא דאת בר חמשין ותסגוד לבר יומא, והוה מתבייש והולך לו, חד זמן אתת איתתא טעינא חד פינך דסלת אמ' ליה הא לך קרב קדמיהון, קם נסיב בוקלסה ותברהון ויהב ההוא בוקלסה בידוי דרבה דבהון, כיון דאתא אבוה אמר ליה מה עבד להון כדין, אמר ליה מה נכפור לך אתת חדא איתתא טעינא חד פינך דסלת ואמרת לי קרב קומיהון, דין אמר אנא אכיל קדמאי ודין אמר אנא אכיל קדמאי, קם הדין רבה נסיב בוקלסה ותברהון, [אמר ליה] מה את מפלה בי, ידעין אינון, אמר ליה ולא ישמעו אזניך מפיך</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	"Und Haran starb vor dem Angesicht Terachs seines Vaters." (Genesis 11:28) Nach R. Chija war Terach ein Götzendiener. Als er einmal ausging und den Abraham als Verkäufer an seiner Statt zurückließ, kam ein Mann und wollte sich ein Götzenbild kaufen. Da sprach Abraham zu ihm: Mensch, wie alt bist du? Er antwortete: 50 Jahre. Wehe dem Mann! rief Abraham aus, der 50 Jahre alt ist und etwas anbeten will, was nur einen Tag alt ist. Der Käufer schämte sich und ging seines Wegs. Ein andermal kam ein Weib und trug in ihrer Hand eine Schüssel mit feinem Mehl und sprach zu Abraham: Geh und bringe es den Götzen als Opfer dar! Abraham nahm einen Stock, zerschlug alle Götzenbilder und legte dann den Stock in die Hand des größten Götzen. Als der Vater wieder zurückkam, fragte er: Wer hat das alles getan? Was soll ich dir es verleugnen, antwortete Abraham, es kam ein Weib, brachte eine große Schüssel mit feinem Mehl und sprach zu mir: Bringe es den Götzen als Opfer dar. Dann sagte dieses Götzenbild: Ich esse zuerst, und dann jenes Götzenbild: Ich esse zuerst, bis endlich dieser Große aufstand, den Stock nahm und sie zerschlug. Was spottest du meiner? Sie wissen nichts, sprach der Vater. Hören nicht deine Ohren, entgegnete Abraham, was dein Mund spricht?</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

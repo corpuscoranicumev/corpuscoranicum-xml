@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Exodus 7: 8-13</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>David Kiltz</persName>
+                    <persName>Berenike Aschoff</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Vgl. Johann-Dietrich Thyen</persName>
+                    <name>Bibel und Koran. Eine Synopse gemeinsamer Überlieferungen, Köln u. a. 2000, S. 113-115.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>167</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung (mit "Moses" statt "Mose")</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>007:103-007:126; 010:075-010:081; 020:056-020:073; 026:030-026:048</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Der hier zitierte Text aus dem Buch Exodus berichtet von den Wundern, die Moses und Aaron zu ihrer Beglaubigung am Hof Pharaos vollbringen. Aaron wirft seinen Stab, der zu einer Schlange wird und die ebenfalls zu Schlangen gewordenen Stäbe der ägyptischen Zauberer verschlingt. Die entsprechende koranische Schilderung der Ereignisse ähnelt der hier gegebenen Erzählung, weist aber auch einige Unterschiede auf. So handelt es sich im Koran um den Stab Mosis. Auch bekehren sich die ägyptischen Zauberer im Anschluss an das Wunder zu Gott.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה וְאֶל־אַהֲרֹן לֵאמֹר : כִּי יְדַבֵּר אֲלֵכֶם פַּרְעֹה לֵאמֹר תְּנוּ לָכֶם מוֹפֵת וְאָמַרְתָּ אֶל־אַהֲרֹן קַח אֶת־מַטְּךָ וְהַשְׁלֵךְ לִפְנֵי־פַרְעֹה יְהִי לְתַנִּין : וַיָּבֹא מֹשֶׁה וְאַהֲרֹן אֶל־פַּרְעֹה וַיַּעַשׂוּ כֵן כַּאֲשֶׁר צִוָּה יְהוָה וַיַּשְׁלֵךְ אַהֲרֹן אֶת־מַטֵּהוּ לִפְנֵי פַרְעֹה וְלִפְנֵי עֲבָדָיו וַיְהִי לְתַנִּין : וַיִּקְרָא גַּם־פַּרְעֹה לַחֲכָמִים וְלַמְכַשְּׁפִים וַיַּעֲשׂוּ גַם־הֵם חַרְטֻמֵּי מִצְרַיִם בְּלַהֲטֵיהֶם כֵּן : וַיַּשְׁלִיכוּ אִישׁ מַטֵּהוּ וַיִּהְיוּ לְתַנִּינִם וַיִּבְלַע מַטֵּה־אַהֲרֹן אֶת־מַטֹּתָם : וַיֶּחֱזַק לֵב פַּרְעֹה וְלֹא שָׁמַע אֲלֵהֶם כַּאֲשֶׁר דִּבֶּר יְהוָה :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	8 Der Herr sprach zu Moses und Aaron: 9 Wenn der Pharao zu euch sagt: Tut doch ein Wunder zu eurer Beglaubigung!, dann sag zu Aaron: Nimm deinen Stab und wirf ihn vor den Pharao hin! Er wird zu einer Schlange werden. 10 Als Moses und Aaron zum Pharao kamen, taten sie, was ihnen der Herr aufgetragen hatte: Aaron warf seinen Stab vor den Pharao und seine Diener hin und er wurde zu einer Schlange. 11 Da rief auch der Pharao Weise und Beschwörungspriester und sie, die Wahrsager der Ägypter, taten mit Hilfe ihrer Zauberkunst das Gleiche: 12 Jeder warf seinen Stab hin und die Stäbe wurden zu Schlangen. Doch Aarons Stab verschlang die Stäbe der Wahrsager. 13 Das Herz des Pharao aber blieb hart und er hörte nicht auf sie. So hatte es der Herr vorausgesagt.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

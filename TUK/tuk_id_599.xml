@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Periplus Maris Erythraei 16-20</title>
+                <principal>
+                    <persName>Manolis Ulbricht</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>J. G. Wetzstein</persName>
+                    <name>"Nordarabien und die syrische Wüste nach den Angaben der Eigeborenen", Zeitschrift für allgemeine Erdkunde 18 (1865), S. 441 und Alois Musil, The Northern Ḥeǧaz: A Topographic Itinerary, New York 1926, S. 280, beide zitiert nach Gerd-R. Puin, "Leuke Kome/Layka, die Arser/Aṣḥāb al-Rass und andere vorislamische Namen im Koran: Ein Weg aus dem ‚Dickicht’?", in: Karl-Heinz Ohlig/ Gerd-R. Puin (Hg.), Die dunklen Anfänge. Neue Erforschungen zur Entstehung und frühen Geschichte des Islam,  Berlin 2005, S. 320.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>599</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Ägypten</origPlace>
+                            <origDate>40-70 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Deutsch: Manolis Ulbricht.<lb/>Englisch: Lionel Casson, The <hi xml:lang="ar-Latn">Periplus Maris Erythraei</hi>, Text with introduction, translation, and commentary, Princeton 1989, S. 61-63.</bibl>
+                <bibl>
+                    <edition>Lionel Casson, The <hi xml:lang="ar-Latn">Periplus Maris Erythraei</hi>, Text with introduction, translation, and commentary, Princeton 1989, S. 60-62; diese Edition und ihre Zählung der Abschnitte auf Grundlage von: Hjalmar Frisk, Le Périple de la mer Érythrée, Göteborgs Högskolas Årsskrift 33, Göteborg 1927.</edition>
+                    <relatedItem>
+                        <bibl>015:078; 026:176; 038:013; 050:014</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">al-Aikah</hi>, <hi xml:lang="ar-Latn">Laikah</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Offenbar hatte der deutsche Gesandte in Syrien Wetzstein die Idee, daß mit dem koranischen <hi xml:lang="ar-Latn">laika</hi> (Q 15:78, 50:14, 26:176, 38:13) die Küstenstadt <hi xml:lang="ar-Latn">Leukē kōmē</hi> (das spätere haurah, vgl. Yaquts Geographisches Wörterbuch, mu'jam al-buldan) gemeint ist. Zu "Ort/ Region" (Punkt 4) und "Datierung" (Punkt 5) s. Lionel Casson, The <hi xml:lang="ar-Latn">Periplus Maris Erythraei</hi>, Text with introduction, translation, and commentary, Princeton 1989, S. 6-8.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>16 Ἀφ’ ἧς [scil. "Μενουθ[εσ]ιὰς [...] νῆσος", <hi xml:lang="ar-Latn">Periplus</hi> 15, 26] μετὰ δύο δρόμους τῆς ἠπείρου τὸ τελευταιότατον τῆς Ἀζανίας ἐμπόριον κεῖται, τὰ Ῥάπτα [τὰ] λεγόμενα, ταύτην ἔχον τὴν προσωνυμίαν ἀπὸ τῶν προειρημένων ῥαπτῶν πλοιαρίων, ἐν ᾧ καὶ πλεῖστός ἐστιν ἐλέφας καὶ χελώνη. Μέγιστοι δὲ ἐν σώμασιν περὶ ταύτην τὴν χώραν ἄνθρωποι [ὁρατοὶ] κατοικοῦσιν καὶ κατὰ τὸν τόπον ἕκαστος ὁμοίως τιθέμενοι τυράννοις. Νέμεται δὲ αὐτήν, κατά τι δίκαιον ἀρχαῖον ὑποπίπτουσαν τῇ βασιλείᾳ τῆς πρώτης γενομένης Ἀραβίας, ὁ Μοφαρίτης τύραννος. Παρὰ δὲ τοῦ βασιλέως ὑπόφορον αὐτὴν ἔχουσιν οἱ ἀπὸ Μούζα καὶ πέμπουσιν εἰς αὐτὴν ἐφόλκια, τὰ πλείονα κυβερνήταις καὶ χρειακοῖς [καὶ] Ἄραψιν χρώμενοι τοῖς κατὰ συνήθειαν καὶ ἐπιγαμβρείαν ἔχουσιν ἐμπείροις τε οὖσιν τῶν τόπων καὶ τῆς φωνῆς αὐτῶν.<lb/>17 Εἰσφέρεται δὲ εἰς τὰ ἐμπόρια ταῦτα προηγουμένως ἡ τοπικῶς ἐν Μούζα κατασκευαζομένη λόγχη καὶ πελύκια καὶ μαχαίρια καὶ ὀπήτια καὶ λιθίας ὑαλῆς πλείονα γένη, εἰς δέ τινας τόπους οἶνός τε καὶ σῖτος οὐκ ὀλίγος, οὐ πρὸς ἐργασίαν ἀλλὰ δαπάνης χάριν εἰς φιλανθρωπίαν τῶν Βαρβάρων. Ἐκφέρεται δὲ ἀπὸ τῶν τόπων ἐλέφας πλεῖστος, ἥσσων δὲ τοῦ Ἀδουλι[ν]τικοῦ, καὶ ῥινόκερως καὶ χελώνη διάφορος μετὰ τὴν Ἰνδικὴν καὶ ναύπλιος ὀλίγος.<lb/>18 Καὶ σχεδὸν τελευταιότατά ἐστιν ταῦτα τὰ ἐμπόρια τῆς Ἀζανίας τῆς ἐν δεξιοῖς ἀπὸ Βερνίκης ἠπείρου･ ὁ γὰρ μετὰ τούτους τοὺς τόπους ὠκεανὸς ἀνερεύνητος ὢν εἰς τὴν δύσιν ἀνακάμπτει καὶ τοῖς ἀπεστραμμένοις μέρεσιν τῆς Αἰθιοπίας καὶ Λιβύης καὶ Ἀφρικῆς κατὰ τὸν νότον παρεκτείνων εἰς τὴν ἑσπέριον συμμίσγει θάλασσαν.<lb/>
+                        <hi rendition="bold">19 Ἐκ δὲ τῶν εὐωνύμων Βερνίκης ἀπὸ Μυὸς ὅρμου δυσὶν δρόμοις ἢ τρισὶν εἰς τὴν ἀνατολὴν διαπλεύσαντι τὸν παρακείμενον κόλπον ὅρμος ἐστὶν ἕτερος καὶ φρούριον, ὃ λέγεται Λευκὴ κώμη, δι’ ἧς ἐστὶν εἰς Πέτραν πρὸς Μαλίχαν, βασιλέα Ναβαταίων, &lt;ἀνάβασις&gt;. Ἔχει δὲ ἐμπορίου τινὰ καὶ αὐτὴ τάξιν τοῖς ἀπὸ τῆς Ἀραβίας ἐξαρτιζομένοις εἰς αὐτὴν πλοίοις οὐ μεγάλοις. Διὸ καὶ [παραφυλακῆς χάριν καὶ] εἰς αὐτὴν παραλήπτης τῆς τετάρτης τῶν εἰσφερομένων φορτίων καὶ ἑκατοντάρχης μετὰ στρατεύματος ἀποστέλλεται.</hi>
+                        <lb/>20 Μετὰ δὲ ταύτην εὐθέως ἐστὶν συναφὴς Ἀραβικὴ χώρα, κατὰ μῆκος ἐπὶ πολὺ παρατείνουσα τῇ Ἐρυθρᾷ θαλάσσῃ. Διάφορα δὲ ἐν αὐτῇ ἔθνη κατοικεῖ[ται], τινὰ μὲν ἐπὶ ποσόν, τινὰ δὲ καὶ τελείως τῇ γλώσσῃ διαλλάσσοντα. Τούτων &lt;τὰ&gt; παρὰ θάλασσαν ὁμοίως Ἰχθυοφάγων μάνδραις διείληπται, τὰ δὲ ἐπάνω κατὰ κώμας καὶ νομαδίας οἰκεῖται πονηροῖς ἀνθρώποις διφώνοις, οἷς παραπίπτοντες ἀπὸ τοῦ μέσου πλοὸς ὁτὲ μὲν διαρπάζονται, οἱ δὲ καὶ ἀπὸ ναυαγίων σωθέντες ἀνδραποδίζονται. Διὸ καὶ συνεχῶς ἀπὸ τῶν τυράννων καὶ βασιλέων τῆς Ἀραβίας αἰχμαλωτίζονται･ λέγονται δὲ Κανραϊ̃ται. Καθόλου μὲν οὗτος ὁ τῆς Ἀραβικῆς χώρας ἠπείρου παράπλους ἐστὶν ἐπισφαλής, καὶ ἀλίμενος ἡ χώρα καὶ δύσορμος καὶ ἀκάθαρτος ῥαχίαις καὶ σπίλοις ἀπρόσιτος καὶ κατὰ πάντα φοβερά. Διὸ καὶ εἰσπλεόντων &lt;τὸν&gt; μέσον πλοῦν κατέχομεν εἰς τὴν Ἀραβικὴν χώραν &lt;καὶ&gt; μᾶλλον παροξύνομεν ἄχρι τῆς Κατακεκαυμένης νήσου, μεθ’ ἢν εὐθέως ἡμέρων ἀνθρώπων καὶ νομαδιαίων θρεμμάτων καὶ καμήλων συνεχεῖς &lt;χῶραι&gt;.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+                        <hi rendition="bold">19 Links von Bernikē, vom Ankerplatz Myos aus zwei oder drei Strecken nach Osten, am dort liegenden Golf vorbeisegelnd, ist ein weiterer Ankerplatz und ein Kastell (<hi xml:lang="ar-Latn">phrourion</hi>), das <hi xml:lang="ar-Latn">Leukē kōmē</hi> [=„weißes Dorf“] genannt wird, durch welches ein Aufstieg (<hi xml:lang="ar-Latn">anabasis</hi>) nach Petra zu Malichas, dem König der Nabatäer, führt. Es [=das Dorf] hat aber auch eine Handelsfunktion für diejenigen, die aus Arabien beladen – nicht von weitem – dahin kommen. Auch zu seinem Schutz ist der Hekantonarch mit einer Armee ausgesandt, der den vierten [Teil] der Importe einzieht.</hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="eng-Latn">
+                <body>
+                    <p>16 Two runs beyond this island [scil. Menuthias Island] comes the very last port of trade on the coast of Azania, called Rhapta [“sewn“], a name derived from the aforementioned sewn boats, where there are great quantities of ivory and tortoise shell. Very big-bodied men, tillers of the soil, inhabit the region; these behave, each in his own place, just like chiefs. The region is under the rule of the governor of Mapharitis, since by some ancient right it is subject to the kingdom of Arabia as first constituted. The merchants of Muza hold it through a grant from the king and collect taxes from it. They send out to it merchant craft that they staff mostly with Arab skippers and agents who, through continual intercourse and intermarriage, are familiar with the area and its language.<lb/>17 The principal import into these ports of trade are: spears from Muza of local workmanship; axes; knives; small awls; numerous types of glass stones. Also, to certain places, wine and grain in considerable quantity, not for trade but as an expenditure for the good will of the Barbaroi. The area exports: a great amount of ivory but inferior to that from Adulis; rhinoceros horn; best-quality tortoise shell after the Indian; a little nautilus shell.<lb/>18 These are just about the very last ports of trade on the coast of Azania to the right of Berenicê. For, beyond this area lies unexplored ocean that bends to the west and, extending on the south along the parts of Ethiopia and Libya and Africa that turn away, joins the western sea.<lb/>
+                        <hi rendition="bold">19 To the left of Berenicê, after a voyage of two or three runs eastward from Myos Hormos past the gulf lying alongside, there is another harbor with a fort called Leukê Kômê [“white village”], through which there is a way inland up to Petra, to Malichus, king of the Nabataeans. This harbor also serves in a way the function of a port of trade for the craft, none large, that come to it loaded with freight from Arabia. For that reason, as a safeguard there is dispatched for duty in it a customs officer to deal with the (duty of a) fourth on incoming merchandise as well as a centurion with a detachment of soldiers.</hi>
+                        <lb/>20 Immediately after this harbor begins the country of Arabia, extending lengthwise far down the Erythraean Sea. It is inhabited by a variety of tribes speaking languages that differ, some to a certain extent, some totally. The coastal area is, similarly, marked by clusters of the mean huts of the Ichthyophagoi, while the area inland has villages and pasturages inhabited by people, speaking two languages, who are vicious: they plunder any who stray from a course down the middle and fall among them, and they enslave any who are rescued by them from shipwreck. For this reason they are constantly being taken prisoner by the governors and kings of Arabia. Kanraitai is their name. In fact, to set a course along the coast of Arabia is altogether risky, since the region with its lack of harbors offers poor anchorage, is foul with rocky stretches, cannot be approached because of cliffs, and is fearsome in every respect. This is why, when sailing down this sea, we set a course for Arabia down the middle and put on extra speed as far as Katakekaumenê [“burnt”] Island, immediately beyond which there is a succession of shores with peaceful inhabitants, animals at pasture, and camels.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

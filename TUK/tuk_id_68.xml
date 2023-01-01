@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gebet zur Verkündigung der Geburt Christi an Maria</title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>David Kiltz</persName>
+                    <persName>Nicolai Sinai</persName>
+                    <persName>Michael Marx</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>68</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nordmesopotamien</origPlace>
+                            <origDate/>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	Panqītā satwāytā. ʿEnyānē w-qālē w-madrāšē w-sugyātā w-qānūnē [Kompendium für die Winterzeit], Handschrift (1984) im Besitz der syrisch-orthodoxen Kirche St. Jakob (Berlin), S. 25.</edition>
+                    <relatedItem>
+                        <bibl>019:018</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Zwar spricht auch Lukas 1:29 davon, dass Maria über die Erscheinung des Engels erschrickt, doch bezieht sich ihr Erschrecken bei Lukas vor allem darauf, dass der Engel sie als "Begnadete" anredet. Wie im vorliegenden Zitat, in dem Maria zum Engel spricht, scheint die Ursache ihres Erschreckens in Q 19:18 jedoch eher die furchterregende Erscheinung des Engels zu sein, der Maria zu dem Ausruf "Ich suche Zuflucht vor dir beim Barmherzigen!" veranlasst.</p>
+                    <p>
+
+	Wie die übrigen Texte aus der syrischen Liturgie ist auch dieses Gebet nur schwer zu datieren, da eine kritische Untersuchung der syrischen Liturgietexte noch in den Anfängen (Brock, 2006a:4f.) steckt. Es lässt sich feststellen, dass der liturgische Kanon wohl bereits im 5./6. Jh. zu einem wesentlichen Teil herausgebildet war. Kommentare zu Taufriten und einzelnen anderen liturgischen Texten und Formularen sind uns bereits aus dem 4. und (spätestens) dem frühen 5. Jh. (Brock, 2006b: XV,20ff. und 2006b: XVI,387f.) bekannt. Im frühen Repertoire der Tages- und Jahres(kreis)gebete, Anaphoren (Eucharistiefeier), Fürbitten u.a. stehen Texte, die Ephrem dem Syrer (gest. 373), Jakob von Sarug (gest. 521), Isaak von Antiochien (gest. 460), Balai von Qenneshrin (5. Jh., Todesdatum unbekannt), Simon dem Töpfer (Zeitgenosse von Jakob von Sarug), Basilius von Caesarea (gest. 379) und Eustathius von Antiochien (gest. 338) zugeschrieben werden können (Bar Sawmo, 1996:57f und 62f.). Eine erste Systematisierung der Liturgie der syrisch-orthodoxen Kirche, so wie sie in ihren Grundzügen auch heute noch verwendet wird, nahm bereits Jakob von Edessa (gest. 708) vor, was natürlich nicht heißt, das jede sprachliche Einzelheit eines heute verwendeten liturgischen Textes z.B. der syrisch-orthodoxen Kirche im heute bekannten Wortlaut auch in der vorislamischen Periode verwendet wurde. Zur Geschichte der syrischen Liturgie allgemein, vgl. Baumstark 1910 u. 1921 und Burkitt 1927. Außerdem soll darauf hingewiesen werden, dass die Geschichte der Liturgie und ihrer Texte im Bereich der ostsyrischen Kirche nur wenig bekannt ist, die angeführten Quellen und die Angaben zu ihrer Rezeption beziehen sich zu einem großen Teil auf die Syrisch-Orthodoxe Kirche (die auch westsyrische, oder jakobitische Kirche genannt wird.) Literaturangaben: Ephrem Bar Sawmo (1996), al-Luʾluʾ al-manṯūr, Aleppo; Anton Baumstark (1910), Festbrevier und Kirchenjahr der syrischen Jakobiten, Paderborn; Anton Baumstark (1921), Nichtevangelische syrische Perikopenordnungen des ersten Jahrtausends, Münster; Sebastian Brock (2006a), An Introduction to Syriac Studies, Piscataway; Sebastian Brock (2006b), Fire from Heaven. Studies in Syriac Theology and Liturgy; Burkitt, F.C. (1927), The Early Syriac Lectionary.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>ܒܥܝܐ ܐܢܐ ܡܪܝ ܠܐ ܬܰܪܗܒܰܢܝ ܘܓܘܡܪ̈ܐ ܥܛܝܦ ܐܢܬ ܘܠܐ ܬܘܩܕܢܝ ܢܘܟܪܝܐ ܠܝ ܡܘܢ ܕܐܡܪܬ ܘܐܕܪܟ ܚܝܠܗ ܠܐ ܡܫܟܚܢܝ ܀ ܓܘܙܠܬܐ ܐܢܬ ܠܐ ܬܶܕܚܠܢܝ ܘܓܘܡܪ̈ܐ ܠܒܝܫ ܐܢܬ ܠܐ ܬܣܪܕܢܝ ܐܘ ܢܘܪܢܐ ܠܡܘܢ ܐܫܪܟ ܕܟܠ ܚܕ̈ܬܬܐ ܠܝ ܡܡܠܠܬ ܀ ܕܚܠܐ ܐܢܐ ܡܪܝ ܕܐܩܒܠܟ ܕܐܦ ܐܡܝ ܚܘܐ ܟܕ ܩܒܠܬ ܠܚܘܝܐ ܕܡܠܠ ܐܝܟ ܪܚܡܐ ܘܡܢ ܬܫܒܘܚܬܗܿ ܐܫܬܠܚܬ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	"Ich bitte dich, Herr, beunruhige mich nicht. Du bist mit Glut angetan, verbrenne mich nicht. Was Du mir sagst, ist mir unverständlich, ich vermag es nicht zu verstehen. Du stehst in Flammen, ängstige mich nicht. Du bist in Glut gekleidet, verstöre mich nicht. O Feuerwesen, wie soll ich dir die Neuigkeiten glauben, die du mir erzählst? Ich habe Angst dich anzunehmen, da auch meine Mutter Eva, als sie der Schlange geglaubt hat, die mit ihr wie ein Freund gesprochen hatte, ihrer Ehre beraubt wurde."</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

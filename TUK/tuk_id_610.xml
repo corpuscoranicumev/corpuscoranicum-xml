@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hymnen auf das Paradies</title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>David Kiltz (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>610</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis / Edessa</origPlace>
+                            <origDate>vor 373</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Edmund Beck (Hg.), Des heiligen Ephraem des Syrers Hymnen de Paradiso, Louvain 1957 (Corpus Scriptorum Christianorum Orientalium 175, Scriptores Syri 79), S.</bibl>
+                <bibl>
+                    <edition>
+
+	Edmund Beck (Hg.), Des heiligen Ephraem des Syrers Hymnen de Paradiso, Louvain 1957 (Corpus Scriptorum Christianorum Orientalium 174, Scriptores Syri 78), S.36.</edition>
+                    <relatedItem>
+                        <bibl>056:012-056:038</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die Beschreibung des Paradieses in Q 56:12-38 weist vielerlei Parallelen zum hier angegebenen Text von Ephrem dem Syrer auf. Trotzdem gibt es einen substantiellen Unterschied:</p>
+                    <p>
+
+	Vers 9 übersetzt Beck mit "Die Winde sind auf Windes Art die Ammen der Geistigen." Man könnte hier aber auch übersetzen: Die Winde bzw. Geister (die Begriffe sind im Syrischen identisch: <hi xml:lang="ar-Latn">rūḥē</hi>) säugen (<hi xml:lang="ar-Latn">maynqīn</hi>) auf geistige/ spirituelle Weise (<hi xml:lang="ar-Latn">rūḥānāʾīt</hi>) die Geistigen (<hi xml:lang="ar-Latn">rūḥānē</hi>). Mit dieser erweiterten <hi xml:lang="ar-Latn">figura etymologica</hi> wird trotz der Konkretheit der Paradiesschilderung nochmal deutlich auf die metaphorische, auf das Geistige/ Spirituelle, Entkörperte zielende Bedeutung der Wörter verwiesen.<lb/>
+
+	So auch nochmal in Vers 10: "Denn was geistig ist, * dessen Nahrung ist Geist (<hi xml:lang="ar-Latn">rūḥā</hi>). Dieser explizite Hinweis fehlt im Koran.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	3ܐܢܗܘ ܕܬܨܒܐ ܓܝܪ ܠܡܣܩ ܠܐܝܠܢܐ ܟܠܗ ܒܣܘܪ̈ܥܦܘܗܝ ܡܕܪܓ ܩܕܡ ܪ̈ܓܠܝܟ ܘܠܥܠ ܒܓܘ ܥܘܒܘ̈ܗܝ ܢܓܪܓ ܕܠܟ ܢܣܡܟ ܥܠ ܡܓܢܝܐ ܕܣܘ̈ܟܘܗܝ ܕܚܨܗܝܢ ܡܟܝܢ ܡܟܝܟ ܘܩܦܝܣ ܘܣܒܝܣ ܒܗ̈ܒܒܐ ܘܗ̇ܘܐ ܠܕܡܓܣ ܒܗ ܟܪܣܐ ܥܪܣܐ ܕܥܘ̈ܠܐ܀ 4ܡܢܘ ܚܼܙܐ ܣܡܟܐ ܒܥܘܒܗ ܕܐܝܠܢܐ ܘܦܝܪ̈ܐ ܩܕܡ ܐܝܕܐ ܣܕܝܪ̈ܝܢ ܕܟܠ ܛܥܡ̈ܝܢ ܘܚܕ ܚܕ ܒܛܘܟܣܐ ܩܪܒܝܢ ܒܦܘܪܫܢܐ ܦܐܪ̈ܐ ܠܡܐܟܘܠܬܐ ܘܡܫܬܝܐ ܠܫܝܓܬܐ ܛܠܐ ܘܛܪ̈ܦܐ ܠܟܘܦܪܐ ܓܙܐ ܗܘ ܕܠܐ ܚܣܝܪ ܕܡܪܗ ܒܟܠ ܥܬܝܪ܀ 5ܣܡܝܟܝܢ ܒܐܝ̈ܠܢܐ ܕܐܐܪ ܡܨܠܠܬܐ ܦܩܚ̈ܐ ܬܚܘܬܝܗܘܢ ܠܥܠ ܡܢܗܘܢ ܦܐܪ̈ܐ ܫܡܝܗܘܢ ܕܐܒ̈ܒܢܐ ܐܪܥܗܘܢ ܕ̈ܗܒܒܐ ܡܢܘ ܫܡܼܥ ܡܡܬܘܡ ܐܘ ܚܼܙܐ ܥܢܢܐ ܕܥܠ ܪ̈ܫܐ ܡܛܠܐ ܕܐܒ̈ܒܢܐ ܘܢܚܬܐ ܬܚܝܬ ܪ̈ܓܠܐ ܟܕ ܦܪܝܣ ܕܗܒ̈ܒܐ܀ 6ܪܕܝܐ ܗܘ ܕܓܐܘ̈ܬܐ ܕܥܕ ܗܘ ܡܦܛܪ ܠܟ ܐܚܪܢܐ ܡܙܡܢ ܠܟ ܟܠܗܘܢ ܦܨܝ̈ܚܝܢ ܐܢܘܢ ܕܦܐܪܗ ܕܗܘ ܬܐܟܘܠ ܘܫܩܝܗ ܕܗ̇ܘ ܬܫܬܐ ܒܛܠܗ ܕܗ̇ܘ ܬܣܚܐ ܘܬܬܡܪܩ ܕܘܥܬܗ ܕܗ̇ܘ ܬܡܫܘܚ ܪܝܚܗ ܕܗ̇ܘ ܬܣܘܩ ܙܡܪܗ ܕܗ̇ܘ ܬܫܡܥ ܒܪܝܟ ܕܐܦܨܚܗ ܠܐܕܡ܀ 7ܪ̈ܘܚܐ ܕܒܘܣܡܐ ܢܫ̈ܒܢ ܒܟܠ ܫܘܚܠܦ ܘܐܝܟ ܡܪܬܐ ܘܡܪܝܡ ܡܪ̈ܗܛܢ ܒܬܘܩ̈ܢܐ ܕܠܐ ܦܛܪܝܢ ܠܓܡܪ ܙܡܝܢ̈ܗܿ ܕܡܫܬܘܬܐ ܡܪܬܐ ܕܠܐܝܬ ܗܘܬ ܐܡܪܚܬ ܘܐܬܪܥܡܬ ܥܠ ܗ̇ܘ ܕܙܡ̇ܢ ܠܦܪܕܝܣܗ ܐܝܟܐ ܕܫܡ̈ܫܐ ܡܕܝܠܝܢ ܘܠܐ ܠܐ̈ܝܢ܀ 8ܪ̈ܘܚܐ ܒܦܪܕܝܣܐ ܡܪ̈ܗܛܢ ܩܕܡ ܟܐܢ̈ܐ ܚܕܐ ܢܫܒܐ ܣܒܥܐ ܚܕܐ ܡܪܕܝܐ ܫܩܝܐ ܢܫܒܗܿ ܕܗ̇ܝ ܫܡܝܢ ܡܫܒܗܿ ܕܗ̇ܝ ܕܗܝܢ ܡܢܘ ܚܙܐ ܪ̈ܘܚܐ ܕܡ̈ܝܬܝܢ ܢܫ̈ܒܐ ܡ̈ܬܐܟܠܢܐ ܘܐܚܪ̈ܢܐ ܡܫ̈ܬܬܝܢܐ ܚܕܐ ܢܦܚܐ ܛܠܐ ܘܐܚܪܬܐ ܠܡܫܚ̈ܢܐ܀ 9ܪ̈ܘܚܐ ܪܘܚܢܐܝܬ ܡܝ̈ܢܩܝܢ ܠܪ̈ܘܚܢܐ ܚܠܘܠܐ ܗܘ ܕܠܐ ܥܡܠܐ ܕܠܐ ܠܐܝܐ ܐܝܕܐ ܘܠܐ ܥܡܠܐ ܫܢܐ ܘܠܐ ܝܩܪܐ ܟܪܣܐ ܡܢܘ ܕܓܢܐ ܘܒܣܡ ܕܠܐ ܥܡܠ ܕܣܒܥ ܕܠܐ ܐܘܟܠܐ ܘܪܘܙ ܕܠܐ ܫܩܝܐ ܢܫܒܐ ܡܪܓܐ ܠܗ ܘܐܚܪܝܢ ܡܣܒܥ ܠܗ܀</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	3. Wenn du nun wünschen wirst, einen Baum zu besteigen, * - wird er ganz mit (allen) seinen Zweigen * vor deinen Füßen Stufen bilden - und er wird einladen, dich bewirten zu dürfen * oben in seinem Schoss, - auf dem Lager seiner Zweige, * deren Rücken - bereitet, gebreitet, zusammengenommen sind * und voll von Blumen, - für den darauf ruhenden * (wie) ein Mutterschoss, das Bett der Leibesfrucht.<lb/>
+
+	4. Wer sah (je) ein Gastmahl * im Schoss eines Baumes ! - Die Früchte vor den Händen, * gereiht, Früchte jeden Wohlgeschmacks; - einzeln, in Ordnung * kommen sie heran, in kluger Unterscheidung. - Früchte für Speise * und Trank, - Tau, um (die Hände) zu waschen, * und Blätter, um (sie) zu trocknen. - Ein Schatz, der keinen Mangel kennt, * weil sein Herr über jeden Reichtum verfügt.<lb/>
+
+	5. Sie liegen zu Tisch auf Bäumen * aus klarer Luft. - Blumen unter ihnen, * über ihnen Früchte. - Die Decke aus Früchten, * der Boden aus Blüten. - Wer hätte jemals gehört * oder gesehen : - eine Wolke über den Häuptern, * schattenspendend, aus Früchten, - und ein Teppich unter den Füssen, * ausgebreitet, aus Blumen !<lb/>
+
+	6. Ein (ununterbrochner) Strom von Wonnen ! * Denn noch bevor dieser (Baum) dich entlassen hat, - lädt dich (schon) ein anderer ein. * Sie alle (bieten) von selber an, - dass du die Früchte des einen essen, * den Trank des andern trinken mögest. - Im Tau des einen sollst du dich baden * und reinigen, - mit dem Harz eines andern sollst du dich salben, * den Duft dieses (Baumes) sollst du einatmen, - den Gesang jenes andern sollst du hören. * Gepriesen sei, der (so) Adam erfreut hat !<lb/>
+
+	7: Nährende Winde * wehen in aller Vielfalt, - und wie Martha und Maria * eilen sie (ständig) mit Speisen; - denn niemals werden sich entfernen * die Gäste des Mahles. - Martha, die ermüdete, * wagte - zu murren gegenüber dem, * der zum Paradies einlud, - wo die Diener * (ständig) sich regen, ohne zu ermüden.<lb/>
+
+	8. Winde sind es, die im Paradies * zu den Gerechten eile; - der eine haucht Sättigung, * der andre spendet Trank. - Der Hauch des einen ist üppig, * das Wehen des andern saftvoll. - Wer sah (je) Winde, * die mit sich führten - Lüfte zu essen * und andre zu trinken: - der eine weht Tau, * ein andrer Salben.<lb/>
+
+	9. Die Winde sind auf Windes Art * die Ammen der Geistigen. - Ein Hochzeits(mahl) ohne Mühe: * nicht ermattet die Hand, - nicht müht sich der Zahn, * nicht wird der Magen beschwert. - Wer lag (je) zu Tisch und erlabte sich * ohne Mühe, - sich sättigend ohne Speise * und sich erheiternd ohne Trank ? - Ein Windhauch tränkt ihn, * ein andrer sättigt ihn.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

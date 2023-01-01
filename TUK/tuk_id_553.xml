@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Psalm 145:1-21</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 447.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>553</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Endredaktion des Psalters)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>007:156; 040:007</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+Laut Q 40:7 bitten die Engel, die Gottes Thron umgeben, für die Gläubigen und appellieren dabei an Gottes allumfassende Barmherzigkeit. Die dafür gebrauchte Formulierung (<hi xml:lang="ar-Latn">wasiʿta kulla šaiʾin raḥmatan</hi>) erinnert an Psalm 145:9. Psalm 145 ist auch Bestandteil der jüdischen Liturgie und übte Einfluß auf die weitere Entwicklung von Gebeten und Liturgie aus; im Talmud wird außerdem seine tägliche Rezitation empfohlen (Hossfeld/Zenger: Psalmen. 101-150, Freiburg 2008, S. 806; vgl. auch Speyer. S. 447). Außerdem zitiert Psalm 145:8 die Gnadenformel aus Exodus 34:6 (יְהוָ֣ה׀ יְהוָ֔ה אֵ֥ל רַח֖וּם וְחַנּ֑וּן אֶ֥רֶךְ אַפַּ֖יִם וְרַב־חֶ֥סֶד וֶאֱמֶֽת׃ ; "YHWH ist ein barmherziger und gnädiger Gott, langmütig, reich an Huld und Treue") (Hossfeld/Zenger, S. 805) und ruft damit auch die Ereignisse der Wüstenwanderung in Erinnerung. Vor diesem Hintergrund weist Q 7:156 eine über die Ähnlichkeit der Formulierung hinausgehende Parallele mit Psalm 145:9 auf. In Q 7:156 ist die Wendung <hi xml:lang="ar-Latn">raḥmatī wasiʿat kulla šaiʾin</hi> Teil einer Rede Gottes an Mose, ähnlich wie auch die Gnadenformel in Ex 34:6. Sowohl in Q 7:156 als auch in Ex 34 folgt die Formel auf die Erzählung vom goldenen Kalb (vgl. TUK Nr. 0263). Während aber Gott in Ex 34 diese Worte zu Mose auf dem Sinai spricht, als dieser die Tafeln ein zweites Mal entgegennimmt, wird im Koran zwischen dem Empfang der Tafeln und der Gnadenformel noch von der Wahl der siebzig Männer (vgl. TUK Nr. 0274) berichtet.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	תְּהִלָּה לְדָוִד אֲרוֹמִמְךָ אֱלוֹהַי הַמֶּלֶךְ וַאֲבָרֲכָה שִׁמְךָ לְעוֹלָם וָעֶד׃ בְּכָל־יוֹם אֲבָרֲכֶךָּ וַאֲהַלְלָה שִׁמְךָ לְעוֹלָם וָעֶד׃ גָּדוֹל יְהוָה וּמְהֻלָּל מְאֹד וְלִגְדֻלָּתוֹ אֵין חֵקֶר׃ דּוֹר לְדוֹר יְשַׁבַּח מַעֲשֶׂיךָ וּגְבוּרֹתֶיךָ יַגִּידוּ׃ הֲדַר כְּבוֹד הוֹדֶךָ וְדִבְרֵי נִפְלְאוֹתֶיךָ אָשִׂיחָה׃ וֶעֱזוּז נוֹרְאֹתֶיךָ יֹאמֵרוּ וּגְדוּלָּתְיךָ אֲסַפְּרֶנָּה׃ זֵכֶר רַב־טוּבְךָ יַבִּיעוּ וְצִדְקָתְךָ יְרַנֵּנוּ׃ חַנּוּן וְרַחוּם יְהוָה אֶרֶךְ אַפַּיִם וּגְדָל־חָסֶד׃ טוֹב־יְהוָה לַכֹּל <hi rendition="bold"> וְרַחֲמָיו עַל־כָּל־מַעֲשָׂיו׃ </hi> יוֹדוּךָ יְהוָה כָּל־מַעֲשֶׂיךָ וַחֲסִידֶיךָ יְבָרֲכֽוּכָה׃ כְּבוֹד מַלְכוּתְךָ יֹאמֵרוּ וּגְבוּרָתְךָ יְדַבֵּרוּ׃ לְהוֹדִיעַ לִבְנֵי הָאָדָם גְּבוּרֹתָיו וּכְבוֹד הֲדַר מַלְכוּתֽוֹ׃ מַלְכוּתְךָ מַלְכוּת כָּל־עֹֽלָמִים וּמֶמְשֶׁלְתְּךָ בְּכָל־דּוֹר וָדֽוֹר׃ סוֹמֵךְ יְהוָה לְכָל־הַנֹּפְלִים וְזוֹקֵף לְכָל־הַכְּפוּפִים׃ עֵינֵי־כֹל אֵלֶיךָ יְשַׂבֵּרוּ וְאַתָּה נֽוֹתֵן־לָהֶם אֶת־אָכְלָם בְּעִתּֽוֹ׃ פּוֹתֵחַ אֶת־יָדֶךָ וּמַשְׂבִּיעַ לְכָל־חַי רָצֽוֹן׃ צַדִּיק יְהוָה בְּכָל־דְּרָכָיו וְחָסִיד בְּכָל־מַעֲשָׂיו׃ קָרוֹב יְהוָה לְכָל־קֹרְאָיו לְכֹל אֲשֶׁר יִקְרָאֻהוּ בֶאֱמֶת׃ רְצוֹן־יְרֵאָיו יַעֲשֶׂה וְאֶת־שַׁוְעָתָם יִשְׁמַע וְיוֹשִׁיעֵם׃ שׁוֹמֵר יְהוָה אֶת־כָּל־אֹהֲבָיו וְאֵת כָּל־הָרְשָׁעִים יַשְׁמִיד׃ תְּהִלַּת יְהוָה יְדַבֶּר־פִּי וִיבָרֵךְ כָּל־בָּשָׂר שֵׁם קָדְשׁוֹ לְעוֹלָם וָעֶד׃</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 [Ein Loblied Davids.] Ich will dich rühmen, mein Gott und König, / und deinen Namen preisen immer und ewig; 2 ich will dich preisen Tag für Tag / und deinen Namen loben immer und ewig. 3 Groß ist der Herr und hoch zu loben, / seine Größe ist unerforschlich. 4 Ein Geschlecht verkünde dem andern den Ruhm deiner Werke / und erzähle von deinen gewaltigen Taten. 5 Sie sollen vom herrlichen Glanz deiner Hoheit reden; / ich will deine Wunder besingen. 6 Sie sollen sprechen von der Gewalt deiner erschreckenden Taten; / ich will von deinen großen Taten berichten. 7 Sie sollen die Erinnerung an deine große Güte wecken / und über deine Gerechtigkeit jubeln. 8 Der Herr ist gnädig und barmherzig, / langmütig und reich an Gnade. 9 Der Herr ist gütig zu allen, / <hi rendition="bold">sein Erbarmen waltet über all seinen Werken.</hi> 10 Danken sollen dir, Herr, all deine Werke / und deine Frommen dich preisen. 11 Sie sollen von der Herrlichkeit deines Königtums reden, / sollen sprechen von deiner Macht, 12 den Menschen deine machtvollen Taten verkünden / und den herrlichen Glanz deines Königtums. 13 Dein Königtum ist ein Königtum für ewige Zeiten, / deine Herrschaft währt von Geschlecht zu Geschlecht. [Der Herr ist treu in all seinen Worten, / voll Huld in all seinen Taten] 14 Der Herr stützt alle, die fallen, / und richtet alle Gebeugten auf. 15 Aller Augen warten auf dich / und du gibst ihnen Speise zur rechten Zeit. 16 Du öffnest deine Hand / und sättigst alles, was lebt, nach deinem Gefallen. 17 Gerecht ist der Herr in allem, was er tut, / voll Huld in all seinen Werken. 18 Der Herr ist allen, die ihn anrufen, nahe, / allen, die zu ihm aufrichtig rufen. 19 Die Wünsche derer, die ihn fürchten, erfüllt er, / er hört ihr Schreien und rettet sie. 20 Alle, die ihn lieben, behütet der Herr, / doch alle Frevler vernichtet er. 21 Mein Mund verkünde das Lob des Herrn. / Alles, was lebt, preise seinen heiligen Namen immer und ewig!</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

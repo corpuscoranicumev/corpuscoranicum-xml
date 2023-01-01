@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Opus Syriacum 3:637 </title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>612</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis/ Edessa</origPlace>
+                            <origDate>vor 373</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"/>
+                <bibl>
+                    <edition>
+Sylvius Ioseph Mercati, S. Ephraem Opera, Rom, 1915 
+                  </edition>
+                    <relatedItem>
+                        <bibl>095:004-095:006</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾaḥsan taqwīm, ʾasfal sāfilīn</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Ephrem spricht davon, dass der Mensch, <hi xml:lang="ar-Latn">ʾādām</hi>, ebenmäßig gestaltet wurde und dass bei der Auferstehung alle Menschen ohne Fehl seien. Ähnlich spricht auch der Koran von der idealtypischen Schöpfung <hi xml:lang="ar-Latn">ʾaḥsan taqwīm</hi>. In der Folge, macht Gott den Menschen, <hi xml:lang="ar-Latn">ʾinsān</hi>, zum "Niedrigsten". In der anschließenden ʾĀya wird eine Einschränkung eingeschoben: <hi xml:lang="ar-Latn">ʾillā llaḏīna ʾāmanū wa ʿamilū ṣ-ṣāliḥāti fa-lahum ʾaǧrun ġairu mamnūn</hi>. Dabei handelt es sich möglicherweise um einen späteren Einschub, vgl. dazu auch den Kommentar zur Sure. Ist die koranische Stelle eschatologisch zu deuten, so lässt sich Ephrem: [...] <hi xml:lang="ar-Latn">mettaḥtīn [...] wa-bṣīrīn</hi>, was mit "sie werden erniedrigt (oder sie erniedrigen sich) und sind (so) gering" übersetzt werden kann, vergleichen. D.h. der Mensch, obgleich von Gott vollendet erschaffen, mag, nach seinen Taten, am Jüngsten Gericht als geringst erachtet werden. Natürlich lässt sich der koranische Text vielfältig interpretieren; die Gegenüberstellung von idealer Schöpfung und Erniedrigung, erinnert jedoch auffällig an den Ephrem-Passus. Beide Passagen gehören also wohl in das gleiche spätantike Milieu.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>ܒܫܘܝܘܬܐ ܡܩܝܡ ܒܪܘܝܐ ܠܝ̈ܠܕܘܗܝ ܕܐܕܡ ܫܘܝܐܝܬ ܕܒܫܘܝܘܬܐ ܒܪܐ ܐܢܘܢ ܒܫܘܝܘܬܐ ܡܩܝܡ ܐܢܘܢ ܠܐ ܐܝܬ ܪܒܐ ܒܩܝܡܬܐ ܐܦܠܐ ܕܒܨܝܪ ܡܢ ܚܒܪܗ ܕܝܚܛܐ ܬܘܒ ܐܝܟ ܓܢܒܪܐ ܒܚܕܐ ܫܘܝܘܬܐ ܩܝܡܝܢ ܒܥܒܕ̈ܐ ܘܒܕܘܒܪ̈ܐ ܐܝܬ ܗܘ ܕܪܡܝܢ ܘܡܥܠܝܢ ܕܗܠܝܢ ܕܡܝܢ ܠܢܗܝܪ̈ܐ ܘܗܠܝܢ ܕܡܝܢ ܠܚܫܘܟܐ ܒܥܒܕ̈ܐ ܕܙܕܝܩܘܬܐ ܪܡܝܢ ܟܐܢ̈ܐ ܘܡܥܠܝܢ ܘܒܕܘܒܪ̈ܐ ܕܒܝܫܘܬܐ ܡܬܚܬܝܢ ܒܝ̈ܫܐ ܘܒܨܝܪܝܢ</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

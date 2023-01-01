@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1 Samuel 2:1-11</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Koran, Gräfenhainichen 1931, S. 445; Hamilton A. R. Gibb, "Pre-Islamic Monotheism in Arabia", The Harvard Theological Review 55:4 (1962), S. 275; vgl. Angelika Neuwirth, Studien zur Komposition der mekkanischen Suren, Berlin 1981, S. 194.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>152</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>Vor 5.-6. Jh. v. Chr. (Redaktion des deuteronomistischen Geschichtswerkes)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>002:258; 003:026; 007:158; 009:116; 010:056; 015:023; 023:080; 040:068; 044:008; 050:043; 053:044; 053:048; 057:002</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Dass Gott es ist, der "lebendig macht und sterben lässt", ist eine im Koran vielfach bezeugte Formel (Gibb verweist nur auf eine einzige der angegebenen Koranstellen), welche den Hymnus der Hanna aus 1 Samuel 2 aufnimmt. Sure 53 enthält darüber hinaus in Vers 48 noch ein weiteres Motiv aus dem Loblied der Hanna: dass es Gott ist, der "reich macht" (und, wie der biblische Text hinzufügt, "arm macht"). Die zweite Hälfte von 1 Sam 2:7 und 2:8 (der Herr "erniedrigt und erhöht ...") weisen eine gewisse Nähe zu Q 3:26 auf, vgl. auch TUK Nr. 0413. Der Hymnus der Hanna wird auch im 1. Clemensbrief 59:3 zitiert.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַתִּתְפַּלֵּל חַנָּה וַתֹּאמַר עָלַץ לִבִּי בַּיהוָה רָמָה קַרְנִי בַּיהוָה רָחַב פִּי עַל־אוֹיְבַי כִּי שָׂמַחְתִּי בִּישׁוּעָתֶךָ : אֵין־קָדוֹשׁ כַּיהוָה כִּי אֵין בִּלְתֶּךָ וְאֵין צוּר כֵּאלֹהֵינוּ : אַל־תַּרְבּוּ תְדַבְּרוּ גְּבֹהָה גְבֹהָה יֵצֵא עָתָק מִפִּיכֶם כִּי אֵל דֵּעוֹת יְהוָה וְלֹא נִתְכְּנוּ עֲלִלוֹת : קֶשֶׁת גִּבֹּרִים חַתִּים וְנִכְשָׁלִים אָזְרוּ חָיִל : שְׂבֵעִים בַּלֶּחֶם נִשְׂכָּרוּ וּרְעֵבִים חָדֵלּוּ עַד־עֲקָרָה יָלְדָה שִׁבְעָה וְרַבַּת בָּנִים אֻמְלָלָה :<hi rendition="bold"> יְהוָה מֵמִית וּמְחַיֶּה </hi> מוֹרִיד שְׁאוֹל וַיָּעַל : <hi rendition="bold"> יְהוָה מוֹרִישׁ וּמַעֲשִׁיר </hi> מַשְׁפִּיל אַף־מְרוֹמֵם : מֵקִים מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן לְהוֹשִׁיב עִם־נְדִיבִים וְכִסֵּא כָבוֹד יַנְחִלֵם כִּי לַיהוָה מְצֻקֵי אֶרֶץ וַיָּשֶׁת עֲלֵיהֶם תֵּבֵל : רַגְלֵי חֲסִידָו יִשְׁמֹר וּרְשָׁעִים בַּחֹשֶׁךְ יִדָּמּוּ כִּי־לֹא בְכֹחַ יִגְבַּר־אִישׁ : יְהוָה יֵחַתּוּ מְרִיבָו עָלָו בַּשָּׁמַיִם יַרְעֵם יְהוָה יָדִין אַפְסֵי־אָרֶץ וְיִתֶּן־עֹז לְמַלְכּוֹ וְיָרֵם קֶרֶן מְשִׁיחוֹ : וַיֵּלֶךְ אֶלְקָנָה הָרָמָתָה עַל־בֵּיתוֹ וְהַנַּעַר הָיָה מְשָׁרֵת אֶת־יְהוָה אֶת־פְּנֵי עֵלִי הַכֹּהֵן :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Hanna betete. Sie sagte: Mein Herz ist voll Freude über den Herrn, / große Kraft gibt mir der Herr. / Weit öffnet sich mein Mund gegen meine Feinde; / denn ich freue mich über deine Hilfe. 2 Niemand ist heilig, nur der Herr; / denn außer dir gibt es keinen (Gott); / keiner ist ein Fels wie unser Gott. 3 Redet nicht immer so vermessen, / kein freches Wort komme aus eurem Mund; / denn der Herr ist ein wissender Gott / und bei ihm werden die Taten geprüft. 4 Der Bogen der Helden wird zerbrochen, / die Wankenden aber gürten sich mit Kraft. 5 Die Satten verdingen sich um Brot, / doch die Hungrigen können feiern für immer. / Die Unfruchtbare bekommt sieben Kinder, / doch die Kinderreiche welkt dahin. <hi rendition="bold">6 Der Herr macht tot und lebendig, </hi>/ er führt zum Totenreich hinab und führt auch herauf. <hi rendition="bold">7 Der Herr macht arm und macht reich,/ er erniedrigt und er erhöht. 8 Den Schwachen hebt er empor aus dem Staub / und erhöht den Armen, der im Schmutz liegt; / er gibt ihm einen Sitz bei den Edlen, / einen Ehrenplatz weist er ihm zu.</hi> / Ja, dem Herrn gehören die Pfeiler der Erde; / auf sie hat er den Erdkreis gegründet. 9 Er behütet die Schritte seiner Frommen, / doch die Frevler verstummen in der Finsternis; / denn der Mensch ist nicht stark aus eigener Kraft. 10 Wer gegen den Herrn streitet, wird zerbrechen, / der Höchste lässt es donnern am Himmel. / Der Herr hält Gericht bis an die Grenzen der Erde. / Seinem König gebe er Kraft / und erhöhe die Macht seines Gesalbten. 11 Darauf kehrte Elkana in sein Haus nach Rama zurück, der Knabe aber stand von da an im Dienst des Herrn unter der Aufsicht des Priesters Eli.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

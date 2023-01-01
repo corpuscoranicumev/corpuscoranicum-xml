@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kommentar zum Buch Genesis und Exodus 6:8-10</title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>Nicolai Sinai</persName>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Yousef Kouriyhe vgl. auch Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Koran, Gräfenhainichen 1931, S. 94, 99.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>25</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis / Edessa</origPlace>
+                            <origDate>306–373</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">
+                  David Kiltz
+               </bibl>
+                <bibl>
+                    <edition>
+	R. M. Tonneau (Hg.), Sancti Ephraem Syri in Genesim et in Exodum Commentarii, Louvain 1955 (Corpus Scriptorum Christianorum Orientalium 152, Scriptores Syri 71), S. 58-60.
+                  </edition>
+                    <relatedItem>
+                        <bibl>007:059-007:064; 010:071-010:073; 011:025-011:037; 023:023-023:027; 026:105-026:122; 071:001-071:028</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die koranischen Noah-Erzählungen schildern Noah primär als einen Prediger, der seine Landsleute zur Umkehr bewegen soll; als diese ausbleibt, werden sie von Gott bestraft. Dieses Motiv findet sich ebenso in Ephrems Kommentar, der besagt, den Menschen seien 107 Jahre Zeit zur Umkehr und Buße gegeben worden, damit festgestellt würde, wer unter ihnen als gerecht angesehen werden könne. Sowohl die Mahnerrolle Noahs als auch der Aufschub, welcher den vorsintflutlichen Menschen zur Reue gewährt wird, sind Zusätze zur alttestamentlichen Sintflutgeschichte und finden sich nicht in Genesis 6. Letzteres Motiv ist dabei wohl Überlegungen zur Theodizee geschuldet: Gott wird als 'gerecht' und nicht über die Maßen 'streng' (im Sinne des Textes) dargestellt. Er gebietet nur Erfüllbares und gibt den Menschen noch einen Aufschub, damit diejenigen, die Buße tun, nicht (im Sinne des Textes) 'ungerecht' zu Tode kommen. Vgl. dazu auch TUK 0024 (Flavius Josephus, Jüdische Altertümer 1:74) und TUK 0056 (Babylonischer Talmud, Sanhedrin, 108a).</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	[8] ܟܕ ܕܝܢ ܠܐ ܡܢ ܙܘܠܗ̈ܙܐ ܕܚܝܝ̈ܗܘܢ. ܘܠܐ ܡܢ ܗܿܝ ܕܐܡܪ ܕܐܬܬܘܝܬ ܙܥܘ ܘܬܒܘ. ܬܘܒ ܐܡܪ ܠܗ ܠܢܘܚ . ܡܛܠ ܕܩܨܐ ܕܟܠ ܒܣܪ ܥܠ ܩܕܡܝ. ܥܒܕ ܠܟ ܩܒܘܬܐ ܕܩܝܣܐ ܕܥܪܩܐ ܬܠܬܡܐܐ ܐܡܝ̈ܢ ܐܘܪܟܗ݁. ܘܦܬܝܗܿ ܚܡܫܝ̈ܢ ܐܡܝ̈ܢ. ܘܪܘܡܗܿ ܬܠܬܝܢ ܐܡܝ̈ܢ. ܘܥܠ ܐܡܐ ܣܝܟܝܗܿ ܡܢ ܠܥܠ. ܘܬܠܬܐ ܡܕܝܪ̈ܝܢ ܬܥܒܕܝܗܿ ܘܫܘܥܝܗܿ ܒܟܘܦܪܐ ܡܢ ܠܒܪ܀) ܠܗܢܐ ܥܡܠܐ ܩܫܝܐ ܐܝܬܝܗ ܗܘܐ ܠܙܕܝܩܐ. ܡܛܠ ܕܠܗܘܢ ܠܛܘܦܢܐ ܠܐ ܢܝܬܐ ܗܘܐ܀ ܡܢ ܐܝܟܐ ܓܝܪ ܢܝܬܐ ܗܘܐ ܩܝܣܐ ܕܥܪܩܐ. ܡܢ ܐܝܟܐ ܟܘܦܪܐ ܘܦܪܙܠܐ ܘܩܢܦܐ. ܒܝܕ ܐܝܠܝܢ ܐܘ̈ܡܢܐ ܗܕܐ ܢܪܟܒ ܗܘܐ. ܘܡܢ ܐܝܟܐ ܦܥ̈ܠܐ ܕܡܥܕܪܝܢ ܢܨܝܒ ܗܘܐ. ܒܕܪܐ ܓܝܪ ܕܚܒܠ ܟܠ ܒܣܪ ܐܘܪܚܗܼ. ܡܢ ܫܿܡܥ ܗܘܐ ܠܗ. ܘܐܢ ܕܝܢ ܗܘܼ ܘܒܢ̈ܝ ܒܝܬܗ ܥܿܒܕ ܗܘܐ ܠܗܿ. ܡܿܢ ܡ̣ܢ ܟܠ ܕܚܿܙܐ ܗܘܐ. ܕܠܐ ܗܘܼܐ ܡܡܝܩܘ ܡܡܝܩ ܗܘܐ ܒܗܿ܀ ܫܪܝ ܕܝܢ ܒܩܒܘܬܐ ܒܫܢܬܐ ܩܕܡܝܬܐ ܕܐܬܝܗܒܬ ܠܗܘܢ ܠܬܝܒܘܬܐ ܘܫܠܡܗܿ ܠܡܐܐ ܫܢ̈ܝܢ܀[9] ܟܕ ܕܝܢ ܗܘܼܐ ܠܗܘܢ ܚܘܪܐ ܐܦ ܒܙܕܝܩܘܬܗ. ܘܐܟܪܙ ܠܗܘܢ ܒܝܕ ܟܐܢܘܬܗ ܛܘܦܢܐ ܡܐܐ ܫܢ̈ܝܢ ܘܠܐ ܬܒܘ. ܘܐܡܪ ܠܗܘܢ ܡܢ ܟܠ ܒܣܪ ܐܬܿܝܢ ܠܡܫܬܘܙܒܘ ܥܡܝ ܒܟܶܘܷܝܠܐ. ܘܐܗܠܘ ܕܐܝܟܢ ܠܡ ܐܬܝܢ ܡܼܢ ܟܠ ܦܢܝ̈ܢ ܚܝ̈ܘܬܐ ܘܦܪ̈ܚܬܐ ܕܒܟܠ ܦܢܝ̈ܢ ܒܕܝܪܝܢ܀ ܐܡܪ ܠܗ ܬܘܒ ܡܪܗ. ܕܥܘܠ ܐܢܬ ܘܟܘܠܗ ܒܝܬܟ ܠܩܒܘܬܐ. ܡܛܠ ܕܠܟ ܚܙܝܬ ܕܙܕܝܩ ܐܢܬ ܒܕܪܐ ܗܢܐ. ܘܡܼܢ ܒܥܝܪܐ ܕܟܝܬܐ ܣܒ ܠܟ ܫܒ̈ܥܐ ܙܘ̈ܓܝܢ. ܘܡܼܢ ܒܥܝܪܐ ܕܠܐ ܕܟܝܐ ܬܪ̈ܝܢ ܙܘ̈ܓܝܢ. ܕܟܝ̈ܬܐ ܕܝܢ ܠܒܣܝ̈ܡܬܐ ܩܼܪܐ. ܘܕܠܐ ܕܟܝ̈ܢ ܠܣܪ̈ܘܚܝܬܐ. ܘܐܦ ܡܢ ܒܪܫܝܬ ܓܝܪ ܠܕܟ̈ܝܬܐ ܐܣܓܝ. ܘܗܐ ܡܦܝܣܐ ܚܙܬܐ ܠܡܿܢ ܕܠܐ ܐܦܝܣܬܗܿ (ܐܦܝܣܬܗ) ܡܠܬܐ. ܡܟܐ ܠܡ ܠܫܒܥܐ ܝܘ̈ܡܝܼܢ. ܡܝܬܐ ܐܢܐ ܡܛܪܐ ܥܠ ܐܪܥܐ. ܐܪܒܥܝܢ ܐܝ̈ܡܡܝܢ ܘ̈ܠܝܠܘܢ. ܘܥܿܛܐ ܐܢܐ ܠܟܠ ܕܥܒܕܬ܀ (ܡܬܝܬܐ ܕܚܝܘ̈ܬܐ) ܟܕ ܕܝܢ ܒܢ̈ܝ ܗܿܘ ܕܪܐ ܠܚܙܬܐ ܚܕܬܐ ܡܬܟܢܫܝܢ ܗܘܘܼ. ܘܠܐ ܗܘܼܐ ܕܝܢ ܠܡܬܒ. ܐܠܐ ܠܡܬܦܓܝܘ. ܗܝܕܝܢ ܩܕ̈ܡܝܗܘܢ ܐܪ̈ܝܘܬܐ ܠܩܒܘܬܐ ܥܐܠܝܢ ܗܘܘ. ܘܬܘܪ̈ܐ ܒܥܩܒܗܘܢ ܕܠܐ ܩܢܛܐ ܠܡܣܬܬܪܘ ܥܡ ܐܪ̈ܝܘܬܐ ܡܣܬܪܗܒܝܢ ܗܘܘ܀ ܥܐܠܝܢ ܕܐܒ̈ܐ ܘܐܡܪ̈ܐ ܐܟܚܕܐ. ܘܢܨ̈ܐ ܘܨܦܪ̈ܐ ܥܡ ܝܘ̈ܢܐ ܘܢܫܪ̈ܐ܀[10] ܟܕ ܕܝܢ ܠܐ ܡܼܢ ܟܘܢܫܗܘܢ ܕܒܚܕ ܥܕܢܐ ܘܠܐ ܡܼܢ ܚܘܒܐ ܕܗܘܐ ܒܝܢܝܗܘܢ ܒܚܕܐ ܫܥܐ ܐܬܛܦܝܣܘ ܒܢ̈ܝ ܗܿܘ ܕܪܐ ܠܡܬܬܘܝܘ. ܐܡܪ ܠܗ ܡܪܗ ܠܢܘܚ. ܕܡܟܐܼ ܠܫܒܥܐ ܝܘ̈ܡܝܢ ܥܿܛܐ ܐܢܐ ܠܟܠ ܒܣܪ ܕܥܒܕܬ܀ ܗܘ ܕܝܢ ܕܝܗܒ ܠܗܘܢ ܡܐܐ ܫܢܝ̈ܢ ܒܥܒܕܗܿ ܕܩܒܘܬܐ ܘܠܐ ܬܒܘ: ܘܨܝܒ ܚܝܘ̈ܬܐ ܕܠܐ ܚܙܝ̈ܢ ܗܘܝ ܠܗܘܢ ܘܠܐ ܐܬܬܘܝܘ: ܘܐܪܡܝ ܩܐܡܐ ܕܫܝܢܐ ܒܝܬ ܡܟ̈ܝܢܝܬܐ ܠܡܬܢܟܝ̈ܢܝܬܐ ܘܠܐ ܕܚܠܘ. ܐܦ ܒܬܪ ܕܥܠ ܢܘܚ ܘܟܠ ܒܣܪ ܠܩܒܘܬܐ. ܡܓܪ ܠܗܘܢ ܪܘܚܐ ܫܒܥܐ ܝܘ̈ܡܝܢ. ܟܕ ܦܬܝܚ ܠܗܘܢ ܬܪܥܐ ܕܩܒܘܬܐ. ܘܗܢܘ ܬܗܪܐ ܕܠܐ ܐܪ̈ܝܘܬܐ ܠܥܒܝ̈ܗܘܢ ܡܬܕܟܪ̈ܝܢ ܗܘܘ. ܘܠܐ ܟܘܠ ܓܢܣ ܕܚܝܘ̈ܬܐ ܘܕܦܪ̈ܚܬܐ ܥܝܕ̈ܝܗܘܢ ܦܩܿܕܝܢ ܗܘܘ. ܘܠܐ ܒܢ̈ܝ ܗܿܘ ܕܪܐ ܟܕ ܗܠܝܢ ܠܒܪ ܡܢ ܩܒܘܬܐ ܘܒܩܒܘܬܐ ܚܙ̈ܝܢ ܗܘܘ ܐܬܛܦܝܣܘ ܕܠܥܒܕ̈ܝܗܘܢ ܒܝ̈ܫܐ ܢܬܢܟܪܘܢ ܗܘܘ܀ ܡܓܪܬ ܪܘܚܐ ܕܝܢ ܕܡܐܐ ܘܥܣܪܝܢ ܫܢܝ̈ܢ ܕܗܘܬ ܠܗܘܢ. ܚܕܐ ܕܢܬܘܒܘܢ ܗܘܘ. ܘܕܢܩܘܘܢ ܙܕܝ̈ܩܐ ܒܝܢܬܗܘܢ ܕܢܬ(ܬ)ܕܝܢܘܢ ܒܗܘܢ. ܘܕܢܣܒܥܘܢ ܙܕܝ̈ܩܐ ܚܝܝ̈ܗܘܢ. ܕܠܐ ܢܐܡܪܘܢ ܕܠܗܢܘܢ ܕܠܐ ܚܛܘ ܠܡܢܐ ܠܐ ܫܒܼܩ ܐܢܘܢ. ܡܛܠ ܕܝܢ ܕܫܩܠܗ ܗܘܼܴܐ ܠܢܣܝܢܗ ܕܗܴܿܘ ܕܪܐ ܒܡܐܐ ܫܢܝ̈ܢ. ܒܨܪ ܐܢܝܢ. ܠܥܣܪܝܢ ܫܢܝ̈ܢ. ܫܒܥܐ ܕܝܢ ܝܘ̈ܡܝܢ ܕܐܓܪ ܠܗܘܢ ܡܼܢ ܒܬܪ ܕܥܠ ܚܝܘ̈ܬܐ ܣ̈ܓܝܐܝܢ ܐܢܘܢ ܡܛܠ ܐܬܘ̈ܬܗܘܢ ܡܼܢ ܥܣܪܝܢ ܫ̈ܢܝܢ ܕܒܨܪ ܡܢܗܘܢ܀</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Da sie weder aufgrund ihres verdorbenen Lebenswandels noch weil [Gott] gesagt hatte: "Ich bereue [meine Schöpfung]" Angst hatten oder umkehrten, sagte er dann zu Noah: "Weil ich das Ende allen Fleisches beschlossen habe [wörtl.: weil es vor mir eingetreten ist], baue Dir eine Arche aus Buxbaum! Dreihundert Ellen lang, fünfzig Ellen breit und dreißig Ellen hoch soll sie sein. Und um eine Elle schließe sie von oben! Und baue drei Stockwerke und verschmiere sie von außen mit Pech!" [Genesis 6:13.14] Diese schwere Arbeit übertrug er ihm, dem Gerechten, denn über sie [d.h. die Leute Noahs] würde er die Sintflut nicht kommen lassen. Woher aber sollte er das Zypressenholz, woher das Pech, das Eisen und den Hanf holen? Mit Hilfe welcher Handwerker würde er sie konstruieren? Woher würde er helfende Arbeiter zusammenbringen? In einer Generation, in der der Weg allen Fleisches verdorben war, wer würde ihm zuhören? Und wenn er und die Söhne seines Hauses sie herstellen würden, wer von denen, die ihn bei all dem beobachten würden, würde nicht über sie [die Arche] spotten? Er begann mit dem Bau der Arche im ersten Jahr, das zur Buße gegeben war, und er vollendete sie nach hundert Jahren. Währenddessen war er für sie ein Vorbild auch an Rechtschaffenheit und er verkündete ihnen auf Grund seiner Gerechtigkeit hundert Jahre lang die Sintflut, aber sie kehrten nicht um. Er sagte zu ihnen: "Von jedem Fleisch kommen sie, um mit mir in der Arche gerettet zu werden." Und sie machten sich lustig darüber: Wie sollten denn die Tiere und Vögel aus allen Himmelsrichtungen kommen, wo sie ja überall verstreut waren? Daraufhin sprach sein Herr zu ihm [Noah]: "Steige Du und alle, die zu Deinem Haus gehören, in die Arche! Ich habe nämlich gesehen, dass du rechtschaffen bist in dieser Generation. Und von den reinen Tieren nimm jeweils sieben Paare [sic] und von den unreinen jeweils zwei Paare [sic] [Genesis 7:1-2]! Die reinen nenne 'angenehme' und die unreinen 'schädliche'." Denn schon am Anfang hatte er die reinen zahlreicher gemacht. Und siehe, der Anblick überzeugte diejenigen, welche das Wort nicht überzeugt hatte. [Gott sprach:] "Von heute an gerechnet in sieben Tagen werde ich es auf die Erde niederregnen lassen, vierzig Tage und vierzig Nächte lang. Und ich werde alles vernichten, was ich erschaffen habe." Als sich die Menschen jener Generation versammelten, um [die Arche] zu betrachten, taten sie dies nicht, um umzukehren, sondern um sich lustig zu machen. Dann sahen sie vor sich Löwen in die Arche einsteigen, und ihnen folgten Stiere ohne Furcht, sich verstecken zu müssen; zusammen mit den Löwen eilten sie hinein. Es stiegen gemeinsam hinein Wölfe und Schafe, Falken und Spatzen zusammen mit Tauben und Adlern. Doch weder durch die Tatsache, dass sie [die Tiere] zur gleichen Zeit zusammen waren, noch durch die Liebe, die dann zwischen ihnen war, ließen sich die Leute jener Generation zur Reue bewegen. Da sprach der Herr zu Noah: "In den folgenden sieben Tagen lösche ich alles Fleisch aus, welches ich geschaffen habe". Er war es, der ihnen während des Baus der Arche hundert Jahre Zeit gegeben hatte. Doch sie kehrten nicht um. Und er brachte Tiere, welche sie noch nie vorher gesehen hatten, und doch bereuten sie nichts. Er warf eine Trense des Friedens zwischen Jäger und Gejagten [wörtl.: Schädiger und Geschädigte], und doch fürchteten sie sich nicht. Sogar nachdem Noah und alle Lebenwesen in die Arche gestiegen waren, übte er ihnen gegenüber noch weitere sieben Tage Geduld, indem er den Eingang der Arche für sie offen ließ. Und dies ist das Wunder, dass die Löwen sich nicht an ihren Wald [d.h. ihr Verhalten in der Natur] erinnerten, und jede Art von Tier oder Vogel nicht nach ihrem Instinkt handelte. Doch die Leute jener Generation ließen sich nicht von ihren bösen Taten abbringen, obwohl sie all dies außerhalb und innerhalb der Arche sahen. Der Aufschub von hundertzwanzig Jahren wurde ihnen aus folgenden Gründen gewährt: Einmal, damit sie [die Menschen] Gelegenheit zur Umkehr hätten. Zum anderen, damit, so denn [noch andere] Gerechte unter ihnen verblieben wären, diese als solche erkannt würden. Und weiter, damit die Gerechten ihr Leben auskosten könnten und nicht sagen würden: "Warum hat er nicht diejenigen, die nicht gesündigt haben, übriggelassen?" Da er [Gott] aber vor hundert Jahren die Prüfung dieser Generation begonnen hatte, zog er [die letzten] zwanzig ab. Die sieben Tage jedoch, die er noch zusätzlich gewährte, nachdem die Tiere [in die Arche] eingestiegen waren, sind wegen ihrer Wunderzeichen [als] mehr [anzusehen] als die zwanzig Jahre, die er ihnen wegnahm.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

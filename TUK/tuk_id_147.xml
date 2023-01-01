@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hymnen auf die Geburt 21:1-4</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>147</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis / Edessa</origPlace>
+                            <origDate>vor 373</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Edmund Beck (Übers.), Des heiligen Ephrem des Syrers Hymnen de Nativitate, Louvain 1959 (Corpus Scriptorum Christianorum Orientalium 187, Scriptores Syri 83), S. 94-95 (modifiziert von David Kiltz).</bibl>
+                <bibl>
+                    <edition>
+
+	Edmund Beck (Hg.), Des heiligen Ephrem des Syrers Hymnen de Nativitate, Louvain 1959 (Corpus Scriptorum Christianorum Orientalium 186, Scriptores Syri 82), S. 104-105.</edition>
+                    <relatedItem>
+                        <bibl>097:001-097:005</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">lailat al-qadr</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Der Intertext zeigt, dass die Preisung der <hi xml:lang="ar-Latn">lailat al-qadr</hi> in Q 97 an christliche Weihnachtshymnen anklingt, indem sie etwa das Motiv des numerischen 'Mehrwerts' der betreffenden Nacht gegenüber profanen Zeiträumen sowie das aus der lukanischen Weihnachtsgeschichte entwickelte Herabsteigen der Engel (vgl. Lukas 2, TUK Nr. 0622) aufnimmt. Derartige Überschneidungen sind wohl nicht so zu verstehen, dass die koranische <hi xml:lang="ar-Latn">lailat al-qadr</hi> mit dem christlichen Weihnachtsfest zu identifizieren ist, sondern eher in dem Sinne, dass die Beschreibung der <hi xml:lang="ar-Latn">lailat al-qadr</hi> bewusst christliche Motive aufnimmt und überbietet. Vgl. auch TUK Nr. 0150.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>
+
+	ܫܘܚܠܦ ܩܠܐ ܥܠ ܩܠܐ ܕܐܠܦ ܐܠܦ̈ܝܢܥܘܢܝܐ ܒܪܝܟ ܕܙܥܪ ܕܠܐ ܣܟ ܕܕܠܐ ܣܟܐ ܢܘܪܒܢ1 ܥܠ ܝܠܕܗ ܕܒܘܟܪܐ ܒܥܕܥܝܕܗ ܢܡܠܠܝܗܒ ܗܘ ܒܝܘܡܗ ܥܘܕܪ̈ܢܐ ܟܣܝ̈ܐܐܢ ܛܡܐܐ ܒܥܐܕܗ ܘܒܕܘܟܪܢܐ ܕܝܘܡܗܝܗܒ ܡܘܗܒܬܐ ܕܪܘܓܙܐ ܪܝܫܐ ܥܠ ܦܝܢܟܐܟܡܐ ܢܬܠ ܒܪܝܟܐ ܒܘܪ̈ܟܬܐ ܠܐܝܢܐܕܡܙܡܪ ܒܥܐܕܗ2 ܠܐܢܡܢܝܘܗܝ ܠܫܗܪܢ ܐܝܟ ܫܗܪ̈ܐ ܕܟܠܝܘܡ<hi rendition="bold">ܥܕܥܐܕܐ ܗܘ ܕܐܓܪܗ ܚܕ ܒܡܐܐ ܡܝܬܪ</hi>ܥܐܕܐ ܗܘ ܓܝܪ ܕܡܩܪܒ ܥܡ ܫܢܬܐ ܒܫܗܪܗܡܠܠܐ ܗܘ ܕܡܩܪܒ ܥܡ ܫܬܩܐ ܒܩܠܗܟܠ ܛܘ̈ܒܝܢ ܡܥܛܦ ܪܒ ܚܝܠܐ ܗܘ ܕܥ̈ܐܕܐܘܕܚܕ̈ܘܬܐ ܟܠܗܝܢ3
+                     <hi rendition="bold">ܝܘܡܢܐ ܡܠܐܟ̈ܐ ܘܐܦ ܪ̈ܒܝ ܡܠܐܟ̈ܐܬܫܒ̈ܘܚܬܐ ܚܕܬܐ ܢܚܬܘ ܫܘܒܚܘ ܒܐܪܥܐ</hi>ܒܗܘ ܪܐܙܐ ܢܚܬܝܢ ܘܥܡ ܫܗܪ̈ܐ ܕܝܨܝܢܒܗܘ ܙܒܢܐ ܕܫܒܚܘ ܓܘܕܦܐ ܡܠܐ ܗܘܐܒܪܝܟ ܝܠܕܐ ܕܒܗ ܗܘ ܗܐ ܪܥܡ ܥܠܡܐ܆ܒܗܘ̈ܠܠܐ ܕܫܘܒܚܐ4
+                     <hi rendition="bold"> ܠܠܝܐ </hi> ܗܘ ܓܝܪ ܕܚܿܠܛ ܥܝܪ̈ܐ ܕܠܥܠ ܒܫܗܪ̈ܐ ܐܬܐ ܥܝܪܐ ܕܢܥܒܕ ܥܝܪ̈ܐ ܒܓܘ ܒܪܝܬܐ ܫܗܪ̈ܐ ܗܘ ܥܒܝܕܝܢ ܫܘ̈ܬܦܐ ܠܥܝܪ̈ܐ ܡܫܒܚ̈ܢܐ ܥܒܝܕܝܢ ܚܒܪ̈ܐ ܥܡ ܣܪ̈ܦܐ ܛܘܒܘܗܝ ܠܡܢ ܕܗܘܐ ܟܢܪܐ ܠܫܘܒܚܟ ܘܗܘܐ ܐܓܪܗ ܚܢܢܟ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Nach der Melodie: Tausendmal Tausende.Responsorium: Gepriesen sei, der unendlich klein wurde, um uns unendlich zu erhöhen.1. Lasst uns von der Geburt des Erstgeborenen * an seinem Feste sprechen! - Er schenkt an seinem Tag * unsichtbare Hilfen. - Wenn schon der unreine (König) an seinem Fest * und bei der Gedächtnis(feier) seines Tages - ein (Gottes) Zorn (herausforderndes) Geschenk gab * das Haupt auf der Schüssel, wie wird dann der Gepriesene Segensgaben dem Schenken, der an seinem Feste singt!2. Wollen wir nicht unser (heutiges) Wachen * für ein alltägliches Wachen halten! - <hi rendition="bold">Es ist ein Fest, dessen Lohn hundertmal größer ist</hi>, - ein Fest fürwahr, - das in seinem Wachen mit dem Schlaf kämpft, - ein beredtes (Fest), dass mit seiner Stimme mit dem Schweigen kämpft. - Mit allen Gütern ist es angetan, * es ist der Heerführer der Feste und aller Freuden.3. <hi rendition="bold">An diesem Tag haben die Engel * und die Erzengel - neue Lobgesänge * herabkommen lassen - als Lob auf der Erde.</hi> - Auf jene Weise steigen sie (auch heute) herab * und jubeln mit den Wachenden. - In jener Zeit, da sie zum (ersten Mal) lobpriesen, * war (die Welt) voll von Lästerung. - Gepriesen die Geburt, durch die * (heute) die Welt wiederhallt - von Lobeshymnen.4. Fürwahr es ist die <hi rendition="bold">Nacht</hi>, die die Engel mit den Wachenden vereint! - Es kam der wachende (Engel), um Wachende im Erdenrund zu schaffen. - Die Wachenden wurden * zu Genossen der (wachenden) Engel. - Die Lobsingenden wurden * zu Gefährten der Seraphim. - Selig, wer zu einer Harfe für Dein Lob wurde, - während sein Lohn Dein Erbarmen wurde.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

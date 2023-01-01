@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 307. Pet. 37 164 Bl. Quer-4to, 17 Z. (l7,5 x 24; 12,5 x 19,5 cm). — Zustand: recht unsauber und fleckig, am Rande öfters ausgebessert.— Material: Pergament, ziemlich stark, gelblich, glatt. — Einband: rotbrauner Lederband. — Inhalt: F. 1 - 64:                     Sure 2:282 ولا الاخرى bis 10:78 السحرون F. 65 - 142:                 Sure 11:16 ان كنتم  bis 34:10 تعملون  F. 143 - 150:               Sure 35 Anfang (ohne Überschrift) bis 38:28 او[لو] F. 151 - 164:               Sure 39:16 [ا]عبد bis 44:2 انزلنه Nach f. 64. 142. 150 fehlen je 2 Blatt. Schrift: ziemlich groß, mit gewisser Gewandtheit, gleichmäßig. An sehr vielen Stellen abgescheuert, besonders im Anfang. Auf den gegenüberstehenden Seiten haben sich vokalische und auch andere Punkte oft abgedruckt. Die Schrift hat ihr kräftiges Schwarz bewahrt, außer an den abgescheuerten und beschädigten Stellen; dagegen ist das Rot der Überschriften öfters verwischt und beschädigt. — Zahl der Buchstaben in der Zeile ca. 45-50. — Raum zwischen den einzelnen Buchstabengruppen 0,2-0,4 cm. —Das Brechen der Wörter am Ende der Zeilen ist statthaft. — Die Köpfe der Buchstaben sind hohl. Anfangs- ا hat einen geringen Schwung unten, Anfangs-ع gleicht dem der späteren Schrift, doch ist seine Rundung oben nicht so vollständig; im Worte gleichen sich م  u. ف u. ق, nur ist das Erstere ein wenig niedriger; Schluss- مhat einen kleinen Strich auf der Linie, ن geht tief hinab mit eckiger Biegung nach links, ل geht nicht voll so tief, End-ي hat nicht weit unter der Linie eine nach links offene Biegung oder auch einen nach rechts gehenden längeren Schwung dicht unter der Linie; Schluss - قgleicht jenem ي; ك u. د sind fast gleich. — Diakritische Punkte sind gesetzt; für ش 3 Punkte in einer Linie; ث hat die Punkte so wie später üblich. Die Vokale durch rote Punkte bezeichnet, die Nunation durch zwei Punkte über- oder nebeneinander. Lang ā u. أ sind sehr oft unbezeichnet geblieben, z. B. اتحجونى für اتحاجونى ; يستذنونك für يستاذنونك; للنظرين u.s.w. — Die Lesezeichen, wie Tašdīd, nicht gebraucht. — Die Verse abgeteilt durch vier kleine schräge Striche; größere Versgruppen durch große schwarze Punkte mit roten Strichen. — Die Überschriften sind rot und beginnen so: يذكر فيها لتي اسورة فتحة dann folgt Titel und Verszahl. — Am Rande keine Angaben für Texteinteilung.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Petermann I 37</idno>
+                        <altIdentifier>
+                            <idno>Petermann I 37 (Ahlwardt 307)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="434">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>170</height>
+                                        <width>235</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="17">
+                                    <p>Die Seiten enthalten 17 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

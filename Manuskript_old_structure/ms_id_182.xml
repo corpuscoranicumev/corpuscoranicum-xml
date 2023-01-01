@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Michael Marx</persName>
+                    <persName>Jens Sauer</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>In einer Beschreibung auf der UNESCO CD "Memory of the World. Ṣanʿā’ Manuscripts" heißt es über das Manuskript: "The copyist drew some simple ornamentation in these fragments such as ten verses indicator. As for the sinuous line which surrounds the page in the second fragment, it seems to be superfluous, in the sense that the copyist wanted to get rid of the excess red colour he used in writting the [Sšrah] heading so he drew that line." (UNESCO: Memory of the World, Qur'an Manuscript Nr. 118)</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Jemen</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier>
+                            <idno>Ms. Sanaa 01-18-4</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="182">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>170</height>
+                                        <width>250</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="13">
+                                    <p>Die Seiten enthalten 13 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	UNESCO (Publ.): Memory of the World. Ṣanʿā’ Manuscripts. CD-ROM, Qur'an Manuscript Nr. 102.<lb/>
+                                <lb/>
+	UNESCO: Memory of the World. Yemen - The Sana'a Manuscripts. Unter: http://portal.unesco.org/ci/en/ev.php-URL_ID=11438&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html.<lb/>
+	 
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <note type="intern" subtype="page">
+                <p>Foto Nr. 2</p>
+            </note>
+            <div>
+                <bibl>
+                    <bibl>019:092-020:010</bibl>
+                    <editor>
+                        <persName>Jens Sauer</persName>
+                    </editor>
+                </bibl>
+                <p>
+                    <w n="000000000">ان[ٮٮـ]حد</w>
+                    <w n="000000000">ولداً(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)اِن</w>
+                    <w n="000000000">كُلُ</w>
+                    <w n="000000000">مَن</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">السماوٮِ</w>
+                    <w n="000000000">والارصِ</w>
+                    <w n="000000000">الا</w>
+                    <w n="000000000">اَٮى</w>
+                    <w n="000000000">الر حمنِ</w>
+                    <w n="000000000">عَٮداَ(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)لَڡد</w>
+                    <w n="000000000">اَحصىهم</w>
+                    <w n="000000000">وعدَهم</w>
+                    <w n="000000000">عَداً(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)وكلهمُ</w>
+                    <w n="000000000">اَٮٮه</w>
+                    <w n="000000000">ٮومَ</w>
+                    <w n="000000000">ا لڡٮمهِ</w>
+                    <w n="000000000">ڡَرداً(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)انَ</w>
+                    <w n="000000000">الدٮنَ</w>
+                    <w n="000000000">اَمَٮوُا</w>
+                    <w n="000000000">وعملوا</w>
+                    <w n="000000000">الصالحٮِ</w>
+                    <w n="000000000">سٮَحعلُ</w>
+                    <w n="000000000">لهَم</w>
+                    <w n="000000000">ا لرحمنُ</w>
+                    <w n="000000000">وُداَ(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)ڡَاِٮَما</w>
+                    <w n="000000000">ٮَـ[ـسـ]ـرٮَه</w>
+                    <w n="000000000">ٮِلساٮِك</w>
+                    <w n="000000000">لِٮٮسِرُ</w>
+                    <w n="000000000">ٮِهِ</w>
+                    <w n="000000000">المٮڡٮنَ</w>
+                    <w n="000000000">وٮٮدرَ</w>
+                    <w n="000000000">ٮِه</w>
+                    <w n="000000000">ڡو ما</w>
+                    <w n="000000000">لدَا‎‎(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)وكم</w>
+                    <w n="000000000">اَهلكٮا</w>
+                    <w n="000000000">ڡٮلَهـ[-]</w>
+                    <w n="000000000">ڡرنِ</w>
+                    <w n="000000000">هل</w>
+                    <w n="000000000">ٮحسَ</w>
+                    <w n="000000000">مِٮهمُ</w>
+                    <w n="000000000">مِن</w>
+                    <w n="000000000">اَحدٍ</w>
+                    <w n="000000000">اَو ٮَسمَعُ</w>
+                    <w n="000000000">لَهمُ</w>
+                    <w n="000000000">رِكرَا(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)ڡا[-] ٮسمِ</w>
+                    <w n="000000000">اللهِ</w>
+                    <w n="000000000">الرحمنِ</w>
+                    <w n="000000000">الرحٮمِ</w>
+                    <w n="000000000">طه(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)ما</w>
+                    <w n="000000000">اَٮرلٮا</w>
+                    <w n="000000000">علٮك</w>
+                    <w n="000000000">الڡراَنَ لِٮسقى(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)اِلا</w>
+                    <w n="000000000">ٮَدكِرَهَ</w>
+                    <w n="000000000">لِمَن</w>
+                    <w n="000000000">ٮَحسى(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)ٮَٮرٮلَا</w>
+                    <w n="000000000">مِمَن</w>
+                    <w n="000000000">حلفَ</w>
+                    <w n="000000000">الاَرصَ</w>
+                    <w n="000000000">والسموٮِ العلَى(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)الر[-]ـمنُ</w>
+                    <w n="000000000">علا</w>
+                    <w n="000000000">العرسِ</w>
+                    <w n="000000000">اسٮوى(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)لَهُ</w>
+                    <w n="000000000">ما</w>
+                    <w n="000000000">ڡى</w>
+                    <w n="000000000">السماوٮِ</w>
+                    <w n="000000000">وما ڡى</w>
+                    <w n="000000000">الاَرص</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">ٮٮَٮهما</w>
+                    <w n="000000000">وما</w>
+                    <w n="000000000">ٮَحٮَ</w>
+                    <w n="000000000">الٮَرى(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)وَاِنِ</w>
+                    <w n="000000000">ٮَحهَر[-]</w>
+                    <w n="000000000">ـالڡولِ</w>
+                    <w n="000000000">ڡَاِ ٮَه</w>
+                    <w n="000000000">ٮعلَمُ</w>
+                    <w n="000000000">السِرِ</w>
+                    <w n="000000000">واَحڡَى(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)اللهُ</w>
+                    <w n="000000000">لا</w>
+                    <w n="000000000">اِلهُ</w>
+                    <w n="000000000">اِلا</w>
+                    <w n="000000000">هوَ</w>
+                    <w n="000000000">لَهُ</w>
+                    <w n="000000000">ا[-]الحسٮى(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">) وهل</w>
+                    <w n="000000000">اَٮىكَ</w>
+                    <w n="000000000">حَدٮٮُ</w>
+                    <w n="000000000">موسى‎‎(</w>
+                    <pc type="kufi">۝</pc>
+                    <w n="000000000">)اد</w>
+                    <w n="000000000">رَاِ</w>
+                    <w n="000000000">ٮاراَ</w>
+                    <w n="000000000">ڡڡالَ</w>
+                    <w n="000000000">لاهله</w>
+                    <w n="000000000">ا مكنوا</w>
+                    <w n="000000000">اِٮى</w>
+                    <w n="000000000">اَٮَسٮُ</w>
+                    <w n="000000000">ٮاراَ</w>
+                    <w n="000000000">لَعلى</w>
+                    <w n="000000000">اَٮِٮكم</w>
+                    <w n="000000000">مَٮها[-]او[-]</w>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

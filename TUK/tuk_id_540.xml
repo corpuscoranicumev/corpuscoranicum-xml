@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matthäus 5:43-48</title>
+                <principal>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>540</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Syrien</origPlace>
+                            <origDate>ca. 80-90 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>002:222; 003:165; 006:065; 013:030; 038:067; 041:044; 067:023-067:024; 067:029; 112:001</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">qul</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>!Achtung Baustelle! Arabisch <hi xml:lang="ar-Latn">qul</hi> ist sicher ein genuin arabisches Wort, referenziert aber wohl frühere Markierungen göttlicher Rede. So finden sich im AT Ausdrücke wie 'Spruch des Herrn', speziell bei den Propheten. Im NT ist es besonders Jesus, der prominent mit <hi xml:lang="ar-Latn">ἐγὼ δὲ λέγω ὑμῖν</hi> "ich aber sage euch" mit göttlicher Authorität bestätigt oder präzisiert. Ähnlich wird auch <hi xml:lang="ar-Latn">qul</hi> im Qur'ān gebraucht. Es handelt sich um eine göttliche Aufforderung an Muḥammad zu sprechen. Der darauffolgende Text ist markierte Offenbarung, ebenso wie in den Beispielen des AT und NT. Zu untersuchen ist natürlich, wo genau <hi xml:lang="ar-Latn">qul</hi> eingesetzt wird. Es handelt sich ja um einen rhetorischen 'Bruch' zur früheren Tradition, wenn sie auch nur impliziert referenziert wird. Ein rhetorischer Bruch zeigt häufig auch eine ideologische Umdeutung oder zumindest zentral relevante Aussage an. Das alles kann hier nicht behandelt werden, sollte aber erwähnt werden. Nach meiner bisherigen Durchsicht, scheint es sich eher um Referenzen auf die Tradition bzw. theologische Kernaussagen zu handeln. <hi xml:lang="ar-Latn">Qul</hi> soll hier offenbar besondere Autorität geben. Vgl. auch 39:84: <hi xml:lang="ar-Latn">qāla fa-l-ḥaqqu wa-l-ḥaqqa aqūlu</hi>.</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>43 Ἠκούσατε ὅτι ἐρρέθη· ἀγαπήσεις τὸν πλησίον σου καὶ μισήσεις τὸν ἐχθρόν σου. 44 <hi rendition="bold">ἐγὼ δὲ λέγω ὑμῖν</hi>· ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν καὶ προσεύχεσθε ὑπὲρ τῶν διωκόντων ὑμᾶς, 45 ὅπως γένησθε υἱοὶ τοῦ πατρὸς ὑμῶν τοῦ ἐν οὐρανοῖς, ὅτι τὸν ἥλιον αὐτοῦ ἀνατέλλει ἐπὶ πονηροὺς καὶ ἀγαθοὺς καὶ βρέχει ἐπὶ δικαίους καὶ ἀδίκους. 46 ἐὰν γὰρ ἀγαπήσητε τοὺς ἀγαπῶντας ὑμᾶς, τίνα μισθὸν ἔχετε; οὐχὶ καὶ οἱ τελῶναι τὸ αὐτὸ ποιοῦσιν; 47 καὶ ἐὰν ἀσπάσησθε τοὺς ἀδελφοὺς ὑμῶν μόνον, τί περισσὸν ποιεῖτε; οὐχὶ καὶ οἱ ἐθνικοὶ τὸ αὐτὸ ποιοῦσιν; 48 ἔσεσθε οὖν ὑμεῖς τέλειοι ὡς ὁ πατὴρ ὑμῶν ὁ οὐράνιος τέλειός ἐστιν.<lb/>Bzw. das Syrische:<lb/>5:43<lb/>ܫܡܥܬܘܢ ܕܐܬܐܡܪ ܠܩܕ̈ܡܝܐ܂ ܕܪܚܡ ܠܩܪܝܒܟ ܘܣܢܝ ܠܒܥܠܕܒܒܟ܂<lb/>5:44<lb/>
+                        <hi rendition="bold">ܐܢܐ ܕܝܢ ܐܡܪ ܐܢܐ ܠܟܘܢ </hi> ܕܐܚܒܘ ܠܒܥ̈ܠܕܒܒܝܟܘܢ܂ ܘܨܠܘ ܥܠ ܐܝܠܝܢ ܕܪܕܦܝܢ ܠܟܘܢ܂</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>43 Ihr habt gehört, dass gesagt worden ist: Du sollst deinen Nächsten lieben und deinen Feind hassen. 44 <hi rendition="bold">Ich aber sage euch:</hi> Liebt eure Feinde und betet für die, die euch verfolgen, 45 damit ihr Söhne eures Vaters im Himmel werdet; denn er lässt seine Sonne aufgehen über Bösen und Guten, und er lässt regnen über Gerechte und Ungerechte. 46 Wenn ihr nämlich nur die liebt, die euch lieben, welchen Lohn könnt ihr dafür erwarten? Tun das nicht auch die Zöllner? 47 Und wenn ihr nur eure Brüder grüßt, was tut ihr damit Besonderes? Tun das nicht auch die Heiden? 48 Ihr sollt also vollkommen sein, wie es auch euer himmlischer Vater ist.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

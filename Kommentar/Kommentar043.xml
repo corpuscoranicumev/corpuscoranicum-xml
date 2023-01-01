@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+    <sure id="043" webtauglich="true"/>
+    <surentitel>
+        <text versstart="000" versend="089" verfasser="nks">
+            <p>Sure 43: Der Prunk (<lang xml:lang="ar-Latn">az-Zuḫruf</lang>)</p>
+        </text>
+    </surentitel>
+    <autorenkurz>
+        <text versstart="000" versend="089" verfasser="tjj">
+            <p>Übersetzt von Nicolai Sinai</p>
+        </text>
+    </autorenkurz>
+    <datierungkurz>
+        <text versstart="000" versend="089" verfasser="nks">
+            <p>Mekka II</p>
+        </text>
+    </datierungkurz>
+    <datierung>
+        <text versstart="000" versend="089" verfasser="nks">
+            <p>Dieser Teil des Kommentars wird gegenwärtig bearbeitet.</p>
+        </text>
+    </datierung>
+    <literarkritikkurz>
+        <text versstart="000" versend="089" verfasser="nks">
+            <p/>
+        </text>
+    </literarkritikkurz>
+    <literarkritik>
+        <text versstart="000" versend="089" verfasser="nks">
+            <p>Dieser Teil des Kommentars wird gegenwärtig bearbeitet.</p>
+        </text>
+    </literarkritik>
+    <aufbauinhalt>
+        <text versstart="000" versend="089" verfasser="nks">
+            <p>Dieser Teil des Kommentars wird gegenwärtig bearbeitet.</p>
+        </text>
+    </aufbauinhalt>
+    <ueberblick>
+        <text versstart="000" versend="089" verfasser="nks">
+            <p>Dieser Teil des Kommentars wird gegenwärtig bearbeitet.</p>
+        </text>
+    </ueberblick>
+    <anmerkungen>
+        <text versstart="000" versend="089" verfasser="nks">
+            <p>Dieser Teil des Kommentars wird gegenwärtig bearbeitet.</p>
+        </text>
+    </anmerkungen>
+    <kommentar>
+        <text versstart="001" versend="089" verfasser="nks">
+            <p>Dieser Teil des Kommentars wird gegenwärtig bearbeitet.</p>
+        </text>
+    </kommentar>
+</korankommentar>

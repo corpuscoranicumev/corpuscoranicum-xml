@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hiob 1:6-12</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai (Anmerkung)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Johann-Dietrich Thyen</persName>
+                    <name>Bibel und Koran. Eine Synopse gemeinsamer Überlieferungen, Köln 2000, S. 258-259.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>411</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>5.-2. Jh. v. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>038:077-038:084</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Q 38:77 ff. schildert, wie Iblīs aufgrund seiner Weigerung, sich vor Adam niederzuwerfen, aus dem Paradies verstoßen wird und daraufhin ankündigt, er werde von nun an die Menschen - ausgenommen Gottes "auserwählte Knechte" - in Versuchung führen und "abirren lassen". Wohl nicht ganz zu Unrecht assoziiert Thyen diese Stelle mit Hiob 1:12, wo der Satan von Gott die Erlaubnis dazu erhält zu versuchen, Hiob durch eine Reihe von Schicksalsschlägen zum Abfall von Gott zu verführen.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	וַיְהִי הַיּוֹם וַיָּבֹאוּ בְּנֵי הָאֱלֹהִים לְהִתְיַצֵּב עַל־יְהוָה וַיָּבוֹא גַם־הַשָּׂטָן בְּתוֹכָם : וַיֹּאמֶר יְהוָה אֶל־הַשָּׂטָן מֵאַיִן תָּבֹא וַיַּעַן הַשָּׂטָן אֶת־יְהוָה וַיֹּאמַר מִשּׁוּט בָּאָרֶץ וּמֵהִתְהַלֵּךְ בָּהּ : וַיֹּאמֶר יְהוָה אֶל־הַשָּׂטָן הֲשַׂמְתָּ לִבְּךָ עַל־עַבְדִּי אִיּוֹב כִּי אֵין כָּמֹהוּ בָּאָרֶץ אִישׁ תָּם וְיָשָׁר יְרֵא אֱלֹהִים וְסָר מֵרָע : וַיַּעַן הַשָּׂטָן אֶת־יְהוָה וַיֹּאמַר הַחִנָּם יָרֵא אִיּוֹב אֱלֹהִים : הֲלֹא־אַתָּ שַׂכְתָּ בַעֲדוֹ וּבְעַד־בֵּיתוֹ וּבְעַד כָּל־אֲשֶׁר־לוֹ מִסָּבִיב מַעֲשֵׂה יָדָיו בֵּרַכְתָּ וּמִקְנֵהוּ פָּרַץ בָּאָרֶץ : וְאוּלָם שְׁלַח־נָא יָדְךָ וְגַע בְּכָל־אֲשֶׁר־לוֹ אִם־לֹא עַל־פָּנֶיךָ יְבָרֲכֶךָּ : <hi rendition="bold"> וַיֹּאמֶר יְהוָה אֶל־הַשָּׂטָן הִנֵּה כָל־אֲשֶׁר־לוֹ בְּיָדֶךָ רַק אֵלָיו אַל־תִּשְׁלַח יָדֶךָ וַיֵּצֵא הַשָּׂטָן מֵעִם פְּנֵי יְהוָה :</hi>
+                    </p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	6 Nun geschah es eines Tages, da kamen die Gottessöhne, um vor den Herrn hinzutreten; unter ihnen kam auch der Satan. 7 Der Herr sprach zum Satan: Woher kommst du? Der Satan antwortete dem Herrn und sprach: Die Erde habe ich durchstreift, hin und her. 8 Der Herr sprach zum Satan: Hast du auf meinen Knecht Ijob geachtet? Seinesgleichen gibt es nicht auf der Erde, so untadelig und rechtschaffen, er fürchtet Gott und meidet das Böse. 9 Der Satan antwortete dem Herrn und sagte: Geschieht es ohne Grund, dass Ijob Gott fürchtet? 10 Bist du es nicht, der ihn, sein Haus und all das Seine ringsum beschützt? Das Tun seiner Hände hast du gesegnet; sein Besitz hat sich weit ausgebreitet im Land. 11 Aber streck nur deine Hand gegen ihn aus und rühr an all das, was sein ist; wahrhaftig, er wird dir ins Angesicht fluchen. 12 <hi rendition="bold"> Der Herr sprach zum Satan: Gut, all sein Besitz ist in deiner Hand, nur gegen ihn selbst streck deine Hand nicht aus! Darauf ging der Satan weg vom Angesicht des Herrn. </hi>
+                    </p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

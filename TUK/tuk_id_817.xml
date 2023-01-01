@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Muʿallaqat an-Nābiġa, Vers 28</title>
+                <principal>
+                    <persName>Tolou Khademalsharieh</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>817</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Ḥiǧāz</origPlace>
+                            <origDate>Anfang 7. Jh.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"/>
+                <bibl>
+                    <edition>Arazi, Albert/Masalha, Salman (Hg.), Six Early Arab Poets, New Edition and Concordance, Jerusalem 1999, S. 17.</edition>
+                    <relatedItem>
+                        <bibl>003:185; 021:035; 029:057; 044:056</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ḏāqa l-maut; ḏāʾiqata l-maut</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Der Ausdruck "den Tod schmecken", der als Bezug auf Matthäus 16:28 (Intertext Nr. 547) gelesen werden kann, könnte auch als eine idiomatische Wendung in der arabischen Sprache gelten, denn auch die vorislamischen Dichter verwenden diesen Ausdruck.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>
+                        <hi rendition="strong">فَذاقَ المَوتُ </hi>مَن بَرَكَت عَلَيهِ     وَبِالنَّاجينَ أَظفَارٌ دَوَامِ</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

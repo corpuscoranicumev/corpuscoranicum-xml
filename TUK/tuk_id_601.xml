@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hymnen auf das Paradies II  5</title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>David Kiltz</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>601</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Nisibis / Edessa</origPlace>
+                            <origDate>vor 373</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> David Kiltz</bibl>
+                <bibl>
+                    <edition>
+
+	Edmund Beck (Hg.), Des heiligen Ephraem des Syrers Hymnen de Paradiso, Louvain 1957 (Corpus Scriptorum Christianorum Orientalium 174, Scriptores Syri 78), S. 6.</edition>
+                    <relatedItem>
+                        <bibl>013:035; 15:45-48; 016:030-016:031</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Die hier gegebene Stelle vom Ephrem dem Syrer beschreibt das Paradies als sorgenfreies Gastmahl. Die 'Gerechten' sind von allen Beschwernissen befreit und kommen an den himmlischen Tisch wie frisch erwachte, welche nie ein Leid getroffen hat.</p>
+                    <p>
+
+	Ähnlich wird in Q 13:35 das Paradies für die 'Gottesfürchtigen'  (arab. <hi xml:lang="ar-Latn">muttaqūn</hi>) als angenehmer Ort mit Wasser, Schatten und Speise beschrieben. Ebenso verweist Q 16:30-31 darauf, dass das zukünftige Paradies, der Garten Eden für die 'Gottesfürchtigen' (<hi xml:lang="ar-Latn">muttaqūn</hi>)<hi rendition="em"/>Bäche und alles Wünschenswerte bereithält. Ein Unterschied  zwischen der Schilderung Ephrems hier und dem Koran besteht darin, dass in Q 13:30 ebenfalls auf die Wohltaten Gottes gegen die 'Gottesfürchtigen' im Diesseits hingewiesen wird, während Ephrem nur "Bedrängnis", "Leid" und "Beschwernis" mit der Abwesenheit dieser Dinge im Paradies kontrastiert.</p>
+                </body>
+            </text>
+            <text xml:lang="syc-Syrc" type="orig">
+                <body>
+                    <p>ܚܙܝܢ ܘܐܦ ܙܕ̈ܝܩܐ ܕܐܘܠܨܢܗܘܢ ܠܝܬܘܗܝ ܘܚܫܗܘܢ ܘܠܐ ܩܝܡ ܝܘܩܪܗܘܢ ܘܠܐ ܟܬܪ ܘܐܝܟ ܗܿܘ ܕܠܐ ܡܡܬܘܡ ܦܓܥܬ ܒܗܘܢ ܥܩܐ ܘܟܐܡܬ ܐܦ ܚܠܡܐ ܨܘܡܗܘܢ ܕܐܬܬܥܝܪܘ ܐܝܟ ܡܢ ܫܢܬܐ ܘܐܫܟܚܘܗܝ ܠܦܪܕܝܣܐ ܦܬܘܪ ܡܠܟܘܬܐ ܕܡܬܩܢ ܩܕܡܗܘܢ</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	[...] und auch die Gerechten sehen, dass ihre Bedrängnis und ihr Leid nicht mehr sind und ihre Beschwernis nicht fortbesteht und nicht mehr anhält.</p>
+                    <p>
+
+	Und wie jemand, den nie Leid getroffen hat und so als sei ihr Fasten ein Traum, so erwachen sie wie aus einem Schlaf und finden das Paradies als den Tisch des Himmelreiches, welcher vor ihnen bereitet ist.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

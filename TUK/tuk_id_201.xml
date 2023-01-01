@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Psalm 92:1-16</title>
+                <principal>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 278.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>201</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Endredaktion des Psalters)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>010:088</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Speyer möchte in dem Gedanken aus dem Moses-Gebet in Q 10:88, dass Gott Pharao und seinem Gefolge nur deshalb Reichtümer beschert hat, damit sie von seinem Weg abirren, einen Bezug zur Erklärung für das Gedeihen der Bösen in Psalm 92:8 sehen (Speyer, S. 278).</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	מִזְמוֹר שִׁיר לְיוֹם הַשַּׁבָּת<lb/>
+
+	:<lb/>
+
+	טוֹב לְהֹדוֹת לַיהוָה וּלְזַמֵּר לְשִׁמְךָ עֶלְיוֹן<lb/>
+
+	:<lb/>
+
+	לְהַגִּיד בַּבֹּקֶר חַסְדֶּךָ וֶאֱמוּנָתְךָ בַּלֵּילוֹת<lb/>
+
+	:<lb/>
+
+	עֲלֵי־עָשׂוֹר וַעֲלֵי־נָבֶל עֲלֵי הִגָּיוֹן בְּכִנּוֹר<lb/>
+
+	:<lb/>
+
+	כִּי שִׂמַּחְתַּנִי יְהוָה בְּפָעֳלֶךָ בְּמַעֲשֵׂי יָדֶיךָ אֲרַנֵּן<lb/>
+
+	:<lb/>
+
+	מַה־גָּדְלוּ מַעֲשֶׂיךָ יְהוָה מְאֹד עָמְקוּ מַחְשְׁבֹתֶיךָ<lb/>
+
+	:<lb/>
+
+	אִישׁ־בַּעַר לֹא יֵדָע וּכְסִיל לֹא־יָבִין אֶת־זֹאת<lb/>
+
+	:<lb/>
+                        <hi rendition="bold">בִּפְרֹחַ רְשָׁעִים כְּמוֹ עֵשֶׂב וַיָּצִיצוּ כָּל־פֹּעֲלֵי אָוֶן לְהִשָּׁמְדָם עֲדֵי־עַד</hi>
+                        <lb/>
+
+	:<lb/>
+
+	וְאַתָּה מָרוֹם לְעֹלָם יְהוָה<lb/>
+
+	:<lb/>
+
+	כִּי הִנֵּה אֹיְבֶיךָ יְהוָה כִּי־הִנֵּה אֹיְבֶיךָ יֹאבֵדוּ יִתְפָּרְדוּ כָּל־פֹּעֲלֵי אָוֶן<lb/>
+
+	:<lb/>
+
+	וַתָּרֶם כִּרְאֵים קַרְנִי בַּלֹּתִי בְּשֶׁמֶן רַעֲנָן<lb/>
+
+	:<lb/>
+
+	וַתַּבֵּט עֵינִי בְּשׁוּרָי בַּקָּמִים עָלַי מְרֵעִים תִּשְׁמַעְנָה אָזְנָי<lb/>
+
+	:<lb/>
+
+	צַדִּיק כַּתָּמָר יִפְרָח כְּאֶרֶז בַּלְּבָנוֹן יִשְׂגֶּה<lb/>
+
+	:<lb/>
+
+	שְׁתוּלִים בְּבֵית יְהוָה בְּחַצְרוֹת אֱלֹהֵינוּ יַפְרִיחוּ<lb/>
+
+	:<lb/>
+
+	עוֹד יְנוּבוּן בְּשֵׂיבָה דְּשֵׁנִים וְרַעֲנַנִּים יִהְיוּ<lb/>
+
+	:<lb/>
+
+	לְהַגִּיד כִּי־יָשָׁר יְהוָה צוּרִי וְלֹא־עַלָתָה בּוֹ<lb/>
+
+	:</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 [Ein Psalm. Ein Lied für den Sabbattag.]<lb/>
+
+	2 Wie schön ist es, dem Herrn zu danken, / deinem Namen, du Höchster, zu singen,<lb/>
+
+	3 am Morgen deine Huld zu verkünden / und in den Nächten deine Treue<lb/>
+
+	4 zur zehnsaitigen Laute, zur Harfe, / zum Klang der Zither.<lb/>
+
+	5 Denn du hast mich durch deine Taten froh gemacht; / Herr, ich will jubeln über die Werke deiner Hände.<lb/>
+
+	6 Wie groß sind deine Werke, o Herr, / wie tief deine Gedanken!<lb/>
+
+	7 Ein Mensch ohne Einsicht erkennt das nicht, / ein Tor kann es nicht verstehen.<lb/>
+
+	8<hi rendition="bold"> Wenn auch die Frevler gedeihen / und alle, die Unrecht tun, wachsen, / so nur, damit du sie für immer vernichtest.</hi>
+                        <lb/>
+
+	9 Herr, du bist der Höchste, / du bleibst auf ewig.<lb/>
+
+	10 Doch deine Feinde, Herr, wahrhaftig, deine Feinde vergehen; / auseinander getrieben werden alle, die Unrecht tun.<lb/>
+
+	11 Du machtest mich stark wie einen Stier, / du salbtest mich mit frischem Öl.<lb/>
+
+	12 Mein Auge blickt herab auf meine Verfolger, / auf alle, die sich gegen mich erheben; / mein Ohr hört vom Geschick der Bösen.<lb/>
+
+	13 Der Gerechte gedeiht wie die Palme, / er wächst wie die Zedern des Libanon.<lb/>
+
+	14 Gepflanzt im Haus des Herrn, / gedeihen sie in den Vorhöfen unseres Gottes.<lb/>
+
+	15 Sie tragen Frucht noch im Alter / und bleiben voll Saft und Frische;<lb/>
+
+	16 sie verkünden: Gerecht ist der Herr; / mein Fels ist er, an ihm ist kein Unrecht.<lb/>
+
+	 </p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Tobias J. Jocham</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p>Vollständige Notiz aus Gallica (<ref target="http://gallica.bnf.fr/ark:/12148/btv1b8447047r">Verknüpfung</ref>): Titel : Fragments coraniques de la collection Seymour de Ricci. Coran<lb/> Titel : Fragments coraniques de la collection Seymour de Ricci. القرآن<lb/> Mitarbeiter : Ricci (S. de). Ancien possesseur<lb/> Type : manuscrit<lb/> Sprache :<lb/> Format : Graphie intermédiaire entre. - ḥiğāzī. - I et II. - Alif. - isolé en bâton (cf. Arabe 328 e, notice 7). - - A l'intérieur d'un mot, le ʿ. - ayn. - a la forme d'un V. - - En finale, le. - mīm. - - circulaire - ressemble à ceux de la main B d'Arabe 328 a (notice 2). - - Le. - nūn. - final tend vers une forme semi-circulaire. - - A l'intérieur d'un mot, le. - hā. - ʾ chevauche la ligne d'écriture ; la barre d'appui, en oblique vers la gauche, est incurvée (cf. Arabe 7195, notice 285). - - Souvent, la hampe du. - lām. - est verticale. - Quelques points diacritiques, de forme allongée (le. - qāf. - est signalé par un point placé au-dessus de la lettre) ; vocalisation absente. Des groupes de quatre points disposés en carré (. - 2.1.2. - ), parfois placé de biais, séparent les versets (cf. fragment 1, recto et verso). Un cercle (. - 1.A.1. - ) signale un groupe de dix versets (fragment 2, recto, l. 5). - Hauteur des lignes : 14 mm. Traces de réglure à la pointe sèche sur le fragment 2. Encre brune<lb/> Copyright : domaine public<lb/> Benutzeridentifizierung : ark:/12148/btv1b8447047r<lb/> Quelle : Bibliothèque nationale de France, Département des manuscrits, Arabe 7193<lb/> Herkunft : bnf.fr<lb/> Beschreibung : Provient de la collection Seymour de Ricci ; acheté le 8 février 1909 à ʿAbd al-Nūr d'Assiout     Verschiedene Formate: 130x160, 145x160 Bitte überarbeiten! TJJ</p>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Frankreich</country>
+                        <settlement>Paris</settlement>
+                        <institution> Bibliothèque nationale de France</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>ms.arabe.7193</idno>
+                        <altIdentifier>
+                            <idno>Ms. Paris BnF Arabe 7193</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="416">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Fragment">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>145</height>
+                                        <width>160</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="0">
+                                    <p>Zeilenzahl unbekannt.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	François Déroche: Catalogue des manuscrits arabes ; 2. Manuscrits musulmans. Tome I, Les manuscrits du Coran. Aux origines de la calligraphie coranique / Bibliothèque nationale, Département des manuscrits, Paris 1983, S. 152.
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

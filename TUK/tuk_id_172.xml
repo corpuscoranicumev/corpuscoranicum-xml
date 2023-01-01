@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jesaja 55:6-9</title>
+                <principal>
+                    <persName>Yousef Kouriyhe</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>172</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina, Mesopotamien</origPlace>
+                            <origDate>vor 2. Jh. v. Chr. (Anfertigung der Jesajarolle aus Qumran)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation">Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>109:001-109:006</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>Bemerkenswert ist die parallele Konstruktion von Jesaja 55:8 und Q 109:1-5 (Entgegensetzung der 1. Person Singular und der 2. Person Plural); während die 1. P. Sg. in der Jesaja-Stelle allerdings Gott bezeichnet, bezieht sie sich in Sure 109 auf den menschlichen Gläubigen, dem der Text als Bekenntnis aufgetragen wird. Der Jesaja-Text spielt auch eine Rolle in der syrisch-orthodoxen Liturgie.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>דִּרְשׁוּ יְהוָה בְּהִמָּצְאוֹ קְרָאֻהוּ בִּהְיוֹתוֹ קָרוֹב : יַעֲזֹב רָשָׁע דַּרְכּוֹ וְאִישׁ אָוֶן מַחְשְׁבֹתָיו וְיָשֹׁב אֶל־יְהוָה וִירַחֲמֵהוּ וְאֶל־אֱלֹהֵינוּ כִּי־יַרְבֶּה לִסְלוֹחַ :<hi rendition="bold"> כִּי לֹא מַחְשְׁבוֹתַי מַחְשְׁבוֹתֵיכֶם וְלֹא דַרְכֵיכֶם דְּרָכָי </hi> נְאֻם יְהוָה : כִּי־גָבְהוּ שָׁמַיִם מֵאָרֶץ כֵּן גָּבְהוּ דְרָכַי מִדַּרְכֵיכֶם וּמַחְשְׁבֹתַי מִמַּחְשְׁבֹתֵיכֶם :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>6 Sucht den Herrn, solange er sich finden lässt, ruft ihn an, solange er nahe ist. 7 Der Ruchlose soll seinen Weg verlassen, der Frevler seine Pläne. Er kehre um zum Herrn, damit er Erbarmen hat in ihm, und zu unserem Gott; denn er ist groß im Verzeihen. 8<hi rendition="bold"> Meine Gedanken sind nicht eure Gedanken, und eure Wege sind nicht meine Wege </hi>- Spruch des Herrn. 9 So hoch der Himmel über der Erde ist, so hoch erhaben sind meine Wege über eure Wege und meine Gedanken über eure Gedanken.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

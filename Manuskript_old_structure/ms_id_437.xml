@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Bearbeitet von:<persName>Laura Hinrichsen</persName>
+                </p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="intern" subtype="manuscript">
+                    <p/>
+                </note>
+                <note type="public" subtype="manuscript">
+                    <p>Katalogeintrag von W. Ahlwardt: 310. We. 1924 1 Bl. Quer-4to, 16 Z. (19x26; 12,5x21 cm). — Zustand: nicht recht sauber: oben am Rande fleckig, schadhaft und ausgebessert. — Material: Pergament, stark, gelb, glatt. — Einband: roter Kattunband. — Inhalt: Sure 3:40 قلت اذ bis 3:54  تعالوا Schrift: groß, dick, kräftig. F. 1a recht stark abgescheuert. Zahl der Buchstaben in der Zeile ca. 30-32. — Der Raum zwischen den einzelnen Buchstabengruppen durchschnittlich 0,2 bis 0,3 cm. Ein Brechen der Wörter am Ende der Zeilen findet statt. Die Köpfe der Buchstaben sind dick und voll bis auf einen kleinen Punkt; Anfangs-ا hat unten einen eckigen Zug, dagegen Schluss- نu. ل mehr eine kleine Biegung; Schluss-ي hat eine ziemlich tief unter der Linie stehende kleine Rundung nach links, aber auch bei gewissen Buchstaben eine kürzere Biegung nach rechts mit langem Strich; End-ق ist jenem ي ähnlich ; ك u. د sind sich fast gleich, Anfangs-ع hat oben nur eine kleine Rundung nach rechts; Schluss-م hat keinen Endstrich, weder auf noch unter der Linie. — Diakritische Punkte kommen fast gar nicht vor, außer ein paar Mal ganz kleine Punkte und auch einige kleine schräge Striche. — Die Vokale sind häufiger (durch rote Punkte) bezeichnet, die Nunation durch zwei rote Punkte über-, auch nebeneinander. Lange Vokale sind öfters unbezeichnet geblieben. — Die Lesezeichen, wie Tašdīd, sind nicht angewendet. — Die Verse sind nicht einzeln abgeteilt, sondern nur in größeren Gruppen; zur Bezeichnung dafür dienen vier farbige Punkte in einem Kreise. — Überschriften und Randangaben fehlen hier.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement/>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>Wetzstein II 1924</idno>
+                        <altIdentifier>
+                            <idno>Wetzstein II 1924 (Ahlwardt 310)</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="437">
+                            <title>al-Qur'ān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>188</height>
+                                        <width>250</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="16">
+                                    <p>Die Seiten enthalten 16 Zeilen.</p>
+                                    <p/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote/>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <condition/>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <p/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+	Ahlwardt, Wilhelm, Die Handschriften-Verzeichnisse der königlichen Bibliothek zu Berlin - Siebenter Band: Verzeichniss der Arabischen Handschriften von W. Ahlwardt - Erster Band, Berlin 1887
+</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

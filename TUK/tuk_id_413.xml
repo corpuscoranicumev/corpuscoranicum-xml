@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lukas 1:46-55</title>
+                <principal>
+                    <persName>Nicolai Sinai (Anmerkung)</persName>
+                    <persName>Manolis Ulbricht</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 451; Johann-Dietrich Thyen, Bibel und Koran. Eine Synopse gemeinsamer Überlieferungen, Köln 2000, S. 258-259.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>413</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Rom oder östlicher Mittelmeerraum</origPlace>
+                            <origDate>um 90 n. Chr.</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Novum Testamentum Graece, hg. von Barbara und Kurt Aland (Nestle-Aland), 27. Auflage, Münster 1993.</edition>
+                    <relatedItem>
+                        <bibl>003:026</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Wie Q 3:26 betont auch Lukas 1:52 Gottes Verfügungsgewalt über weltliche Macht, und zwar ebenfalls in Gestalt einer einprägsamen Antithese. Bei Lukas 1:46-55 handelt es sich um eine auch liturgisch außerordentlich prominente Passage, nämlich den als "Magnificat" bezeichneten Lobgesang Mariens (vgl. Art. "Cantica", Theologische Realenzyklopädie). Ähnliche Aussagen finden sich auch im alttestamentlichen Hymnus der Hanna (vgl. Intertexte Nr. 152 und Nr. 509).</p>
+                </body>
+            </text>
+            <text xml:lang="gr-Grek" type="orig">
+                <body>
+                    <p>
+
+	46 Καὶ εἶπεν Μαριάμ• Μεγαλύνει ἡ ψυχή μου τὸν κύριον, 47 καὶ ἠγαλλίασεν τὸ πνεῦμά μου ἐπὶ τῷ θεῷ τῷ σωτῆρί μου, 48 ὅτι ἐπέβλεψεν ἐπὶ τὴν ταπείνωσιν τῆς δούλης αὐτοῦ. ἰδοὺ γὰρ ἀπὸ τοῦ νῦν μακαριοῦσίν με πᾶσαι αἱ γενεαί, 49 ὅτι ἐποίησέν μοι μεγάλα ὁ δυνατός. καὶ ἅγιον τὸ ὄνομα αὐτοῦ, 50 καὶ τὸ ἔλεος αὐτοῦ εἰς γενεὰς καὶ γενεὰς τοῖς φοβουμένοις αὐτόν. 51 Ἐποίησεν κράτος ἐν βραχίονι αὐτοῦ, διεσκόρπισεν ὑπερηφάνους διανοίᾳ καρδίας αὐτῶν• <hi rendition="bold">52 καθεῖλεν δυνάστας ἀπὸ θρόνων καὶ ὕψωσεν ταπεινούς, </hi>53 πεινῶντας ἐνέπλησεν ἀγαθῶν καὶ πλουτοῦντας ἐξαπέστειλεν κενούς. 54 ἀντελάβετο Ἰσραὴλ παιδὸς αὐτοῦ, μνησθῆναι ἐλέους, 55 καθὼς ἐλάλησεν πρὸς τοὺς πατέρας ἡμῶν, τῷ Ἀβραὰμ καὶ τῷ σπέρματι αὐτοῦ εἰς τὸν αἰῶνα.</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	46 Da sagte Maria: Meine Seele preist die Größe des Herrn, 47 und mein Geist jubelt über Gott, meinen Retter. 48 Denn auf die Niedrigkeit seiner Magd hat er geschaut. Siehe, von nun an preisen mich selig alle Geschlechter. 49 Denn der Mächtige hat Großes an mir getan und sein Name ist heilig. 50 Er erbarmt sich von Geschlecht zu Geschlecht über alle, die ihn fürchten. 51 Er vollbringt mit seinem Arm machtvolle Taten: Er zerstreut, die im Herzen voll Hochmut sind; <hi rendition="bold">52 er stürzt die Mächtigen vom Thron und erhöht die Niedrigen.</hi> 53 Die Hungernden beschenkt er mit seinen Gaben und lässt die Reichen leer ausgehen. 54 Er nimmt sich seines Knechtes Israel an und denkt an sein Erbarmen, 55 das er unsern Vätern verheißen hat, Abraham und seinen Nachkommen auf ewig.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

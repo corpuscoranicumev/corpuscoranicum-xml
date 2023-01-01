@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Deuteronomium 21:1-9</title>
+                <principal>
+                    <persName>Berenike Aschoff</persName>
+                    <persName>Nicolai Sinai</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Heinrich Speyer</persName>
+                    <name>Die biblischen Erzählungen im Qoran, Gräfenhainichen 1931, S. 345; Heribert Busse, Die theologischen Beziehungen des Islams zu Judentum und Christentum, Darmstadt 1988, S. 105.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: nein</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>475</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Palästina</origPlace>
+                            <origDate>vor 4. Jh. v. Chr. (Endredaktion des Pentateuchs)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Einheitsübersetzung</bibl>
+                <bibl>
+                    <edition>
+
+	Biblia Hebraica Stuttgartensia, hg. von K. Elliger and W. Rudolph, 4. verbesserte Auflage, Stuttgart 1990.</edition>
+                    <relatedItem>
+                        <bibl>002:067-002:073</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	In Sure 2:67-71 geht es um eine Kuh, die nach göttlichem Gebot zur Entsühnung von Blutschuld geschlachtet werden soll. Das dort genannte Merkmal der Farbgebung ist auch in Numeri 19:1-10 zu finden (vgl. TUK Nr. 0279). Mit Deuteronomium 21 hat die Sure die Forderung gemeinsam, dass die betreffende Kuh "noch nicht unter dem Joch gegangen" sein soll (vgl. Q 2:71); In beiden Texten steht die Kuh in Zusammenhang mit ungeklärten Morden.</p>
+                </body>
+            </text>
+            <text xml:lang="hbo-Hebr" type="orig">
+                <body>
+                    <p>
+
+	כִּי־יִמָּצֵא חָלָל בָּאֲדָמָה אֲשֶׁר יְהוָה אֱלֹהֶיךָ נֹתֵן לְךָ לְרִשְׁתָּהּ נֹפֵל בַּשָּׂדֶה לֹא נוֹדַע מִי הִכָּהוּ : וְיָצְאוּ זְקֵנֶיךָ וְשֹׁפְטֶיךָ וּמָדְדוּ אֶל־הֶעָרִים אֲשֶׁר סְבִיבֹת הֶחָלָל : וְהָיָה הָעִיר הַקְּרֹבָה אֶל־הֶחָלָל <hi rendition="bold"> וְלָקְחוּ זִקְנֵי הָעִיר הַהִוא עֶגְלַת בָּקָר אֲשֶׁר לֹא־עֻבַּד בָּהּ אֲשֶׁר לֹא־מָשְׁכָה בְּעֹל :</hi> וְהוֹרִדוּ זִקְנֵי הָעִיר הַהִוא אֶת־הָעֶגְלָה אֶל־נַחַל אֵיתָן אֲשֶׁר לֹא־יֵעָבֵד בּוֹ וְלֹא יִזָּרֵעַ וְעָרְפוּ־שָׁם אֶת־הָעֶגְלָה בַּנָּחַל : וְנִגְּשׁוּ הַכֹּהֲנִים בְּנֵי לֵוִי כִּי בָם בָּחַר יְהוָה אֱלֹהֶיךָ לְשָׁרְתוֹ וּלְבָרֵךְ בְּשֵׁם יְהוָה וְעַל־פִּיהֶם יִהְיֶה כָּל־רִיב וְכָל־נָגַע : וְכֹל זִקְנֵי הָעִיר הַהִוא הַקְּרֹבִים אֶל־הֶחָלָל יִרְחֲצוּ אֶת־יְדֵיהֶם עַל־הָעֶגְלָה הָעֲרוּפָה בַנָּחַל : וְעָנוּ וְאָמְרוּ יָדֵינוּ לֹא שָׁפְכֻה אֶת־הַדָּם הַזֶּה וְעֵינֵינוּ לֹא רָאוּ : כַּפֵּר לְעַמְּךָ יִשְׂרָאֵל אֲשֶׁר־פָּדִיתָ יְהוָה וְאַל־תִּתֵּן דָּם נָקִי בְּקֶרֶב עַמְּךָ יִשְׂרָאֵל וְנִכַּפֵּר לָהֶם הַדָּם : וְאַתָּה תְּבַעֵר הַדָּם הַנָּקִי מִקִּרְבֶּךָ כִּי־תַעֲשֶׂה הַיָּשָׁר בְּעֵינֵי יְהוָה :</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	1 Wenn in dem Land, das der Herr, dein Gott, dir gibt, damit du es in Besitz nimmst, einer auf freiem Feld ermordet aufgefunden wird und man nicht weiß, wer ihn erschlagen hat, 2 dann sollen deine Ältesten und Richter hinausgehen und feststellen, wie weit die Städte ringsum von dem Ermordeten entfernt sind. 3 Wenn feststeht, welche Stadt dem Ermordeten am nächsten liegt, <hi rendition="bold">sollen die Ältesten dieser Stadt eine junge Kuh aussuchen, die noch nicht zur Arbeit verwendet worden ist, das heißt, die noch nicht unter dem Joch gegangen ist.</hi> 4 Die Ältesten dieser Stadt sollen die Kuh in ein ausgetrocknetes Bachtal bringen, wo weder geackert noch gesät wird. Dort sollen sie im Bachbett der Kuh das Genick brechen. 5 Dann sollen die Priester, die Nachkommen Levis, herantreten; denn sie hat der Herr, dein Gott, dazu ausgewählt, vor ihm Dienst zu tun und im Namen des Herrn den Segen zu sprechen. Nach ihrem Spruch soll jeder Rechtsstreit und jeder Fall von Körperverletzung entschieden werden. 6 Alle Ältesten dieser Stadt sollen, weil sie dem Ermordeten am nächsten sind, über der Kuh, der im Bachbett das Genick gebrochen wurde, ihre Hände waschen. 7 Sie sollen feierlich sagen: Unsere Hände haben dieses Blut nicht vergossen und unsere Augen haben nichts gesehen. 8 Deck es zu, zum Schutz deines Volkes Israel, das du freigekauft hast, Herr, und lass kein unschuldig vergossenes Blut in der Mitte deines Volkes Israel bleiben. Dann ist das Blut zu ihrem Schutz zugedeckt. 9 Du wirst das unschuldig vergossene Blut aus deiner Mitte wegschaffen können, wenn du tust, was in den Augen des Herrn richtig ist.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

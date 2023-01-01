@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fragment 4:3 (Schulthess)</title>
+                <principal>
+                    <persName>Nicolai Sinai (Texterfassung: Daria Zadorojnaia</persName>
+                    <persName>Veronika Roth</persName>
+                    <persName>Nora K. Schmid)</persName>
+                </principal>
+                <respStmt>
+                    <resp>Intertext identifiziert von:</resp>
+                    <persName>Schulthess</persName>
+                    <name>a. a. O.; J. Frank-Kamenetzky, Untersuchungen über das Verhältnis der dem Umajja b. Abi ṣ Ṣalt zugeschriebenen Gedichte zum Qorān, Kirchhain N.-L. 1911, S. 34.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Webtauglich: ja</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>580</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origPlace>Aṭ-Ṭāʾif (Ḥiǧāz)?</origPlace>
+                            <origDate>Anfang 7. Jh.?</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+                <bibl type="translation"> Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 122.</bibl>
+                <bibl>
+                    <edition>
+
+	Friedrich Schulthess, Umajja ibn Abi ṣ Ṣalt. Die unter seinem Namen überlieferten Gedichtfragmente, Leipzig 1911, S. 64; Bahǧa ʿAbd l-Ġafūr al-Ḥadīṯī, Umayya ibn abī ṣ-Ṣalt: Ḥayātuhū wa-šiʿruhū, Bagdad 1975, S. 221.</edition>
+                    <relatedItem>
+                        <bibl>003:146; 105:003</bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="">
+                    <term>
+                        <hi xml:lang="ar-Latn">ʾabābīl</hi>, <hi xml:lang="ar-Latn">ribbiyyūn</hi>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="note">
+                <body>
+                    <p>
+
+	Zur umstrittenen Authentizität der Umayya ibn abī ṣ-Ṣalt zugeschriebenen Gedichte vgl. allgemein die Anmerkung zu TUK 0420. Der nur fragmentarisch erhaltene Vers lässt sich nur schwer deuten; reimlich und metrisch könnte er zu Gedicht Nr. 34 der Schulthess-Edition gehört haben (vgl. TUK 0524 und 0525). Koranexegetisch relevant ist die Verwendung der beiden Begriffe <hi xml:lang="ar-Latn">ʾabābīl</hi> und <hi xml:lang="ar-Latn">ribbiyyūn</hi> (zum ersten Begriff vgl. den Kommentar zu Q 105:3). Schulthess hat das Fragment nur bei Ibn Hišām geortet, wo es im Zusammenhang mit Q 3:146 als Beleg für die Bedeutung von <hi xml:lang="ar-Latn">ribbiyyūn</hi> zitiert wird (vgl. Ferdinand Wüstenfeld (Hg.), Das Leben Muhammed's, Göttingen 1858-1860, S. 598). Trotz der insgesamt wenig günstigen Quellenlage lässt sich seine Authentizität nicht gänzlich ausschließen. Zu ribbiyūna<hi xml:lang="ar-Latn">, </hi>vgl. Jeffery, Foreign vocabulary S. 138f.</p>
+                </body>
+            </text>
+            <text xml:lang="ar-Arab" type="orig">
+                <body>
+                    <p>
+
+	حَوْلَ شَيْطانِهم <hi rendition="bold">أَبابيلُ ربِّـ     ـيُّون </hi> شَدّوا سَنَوَّراً مَدْسورا</p>
+                </body>
+            </text>
+            <text xml:lang="deu-Latn">
+                <body>
+                    <p>
+
+	Um ihren Satan herum sind <hi rendition="bold">Haufen</hi>, <hi rendition="bold">Myriaden</hi>, die genagelte Panzer umgebunden haben.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
