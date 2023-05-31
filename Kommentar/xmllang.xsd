@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ns1="http://www.tei-c.org/ns/1.0" elementFormDefault="qualified" targetNamespace="http://www.w3.org/XML/1998/namespace">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ns1="http://www.tei-c.org/ns/1.0" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified" targetNamespace="http://www.w3.org/XML/1998/namespace" vc:minVersion="1.1">
     <xs:attribute name="lang">
         <xs:annotation>
             <xs:documentation>Die zur Auswahl stehenden Sprachen sind:
@@ -9,6 +9,7 @@
                 "ar-Arab" für Arabisch in Originalschrift
                 "gr-Latn" für Griechisch in Transcription
                 "gr-Grek" für Griechisch in Originalschrift
+                "fr-Latn" für Französisch in Originalschrift
                 "hbo-Latn" für Hebräisch in Transcription
                 "hbo-Hebr" für Hebräisch in Originalschrift
                 Hier wird bei der Sprache anstatt des moderneren 'heb' [Hebräisch] der Sprachcode 'hbo' [alterthyemliches Hebräisch] verwendet.
@@ -38,6 +39,7 @@
                 <xs:enumeration value="gez-Ethi"/>
                 <xs:enumeration value="ar-Latn"/>
                 <xs:enumeration value="ar-Arab"/>
+                <xs:enumeration value="fr-Latn"/>
                 <xs:enumeration value="gr-Latn"/>
                 <xs:enumeration value="gr-Grek"/>
                 <xs:enumeration value="hbo-Latn"/>
