@@ -10,11 +10,12 @@
     <akkordeon>
         <label n="1">Einleitung in den Kommentar zu den frühmekkanischen Suren </label>
         <text verfasser="nisi">
-            <p><hi rend="h1">Das Projekt eines ausführlichen Korankommentars</hi>
+            <p><hi rend="h1">Das Projekt eines ausführlichen Korankommentars
                 <note place="end">Der folgende Text wurde bereits 2009 verfasst und konnte nicht
                     mehr um eine Diskussion der neuesten einschlägigen Veröffentlichungen –
                     insbesondere zum Problem der koranischen Chronologie, aber auch zur zeitlichen
                     und geographischen Herkunft des Korans – ergänzt werden.</note>
+                </hi>
             </p>
             <p>Eine wissenschaftliche Auseinandersetzung mit dem Koran – d. h. eine
                 Auseinandersetzung, die nicht unmittelbar auf die Bereitstellung von Argumenten zum
@@ -848,12 +849,11 @@
         <label n="2">Versuch einer chronologischen Binnenklassifikation der frühmekkanischen
             Suren</label>
         <text verfasser="tjj">
-            <p><hi rend="h1">Vorbemerkungen </hi>
-            </p>
-            <p>
+            <p><hi rend="h1">Vorbemerkungen
                 <note place="end">Wie die Einleitung in den Kommentar insgesamt wurde auch dieser
                     Text bereits 2009 fertiggestellt und seitdem nur noch geringfügig
                     modifiziert.</note>
+               </hi>
             </p>
             <p>Der vorliegende Kommentar geht, wie bereits in der Einleitung angemerkt, von der
                 prinzipiellen Haltbarkeit von Theodor Nöldekes Einteilung der koranischen Suren in
