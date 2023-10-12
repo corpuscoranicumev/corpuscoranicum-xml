@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified" vc:minVersion="1.1">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" vc:minVersion="1.1">
     <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xmllang.xsd"/>
     <xs:element name="korankommentar">
         <xs:annotation>
@@ -225,7 +226,7 @@
                 </xs:element>
             </xs:sequence>
             <xs:attribute name="cols" type="xs:integer" use="required"/>
-            <xs:attribute name="rend" type="xs:NCName" use="required"/>
+            <xs:attribute name="rend" type="xs:NCName" use="optional"/>
             <xs:attribute name="rows" type="xs:integer" use="required"/>
         </xs:complexType>
     </xs:element>
@@ -349,9 +350,9 @@
                 auszufüllen.</xs:documentation>
         </xs:annotation>
         <xs:complexType mixed="true">
-            <xs:attribute name="type" use="required" form="qualified">
+            <xs:attribute name="type" use="required">
                 <xs:simpleType>
-                    <xs:restriction base="quoting"/>
+                    <xs:list itemType="quoting"/>
                 </xs:simpleType>
             </xs:attribute>
             <xs:attribute name="buch">
@@ -13107,8 +13108,14 @@
             <xs:sequence maxOccurs="unbounded" minOccurs="0">
                 <xs:element ref="hi"/>
             </xs:sequence>
-            <xs:attribute name="Zotero_Id_1" type="xs:string" use="required"/>
-            <xs:attribute name="Titel_1" type="xs:string" use="required"/>
+            <xs:attribute name="Zotero_Id_1" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="[A-Z0-9]{8}"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="Titel_1" type="xs:string" use="optional"/>
         </xs:complexType>
     </xs:element>
     <xs:simpleType name="rendering">
