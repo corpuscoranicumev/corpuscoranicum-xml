@@ -9,13 +9,18 @@
     </surentitel>
     <autorenkurz>
         <text versstart="000" versend="088" verfasser="an">
-            <p>Übersetzt von Nora K. Schmid</p>
+            <p>Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth unter Mitwirkung von
+                Ali Aghaei und Tolou Khademalsharieh</p>
         </text>
     </autorenkurz>
+    <datierungkurz>
+        <text versstart="000" versend="088" verfasser="an">
+            <p>Mekka II</p>
+        </text>
+    </datierungkurz>
     <literarkritikkurz>
         <text versstart="000" versend="088" verfasser="an">
-            <p><hi rend="italic">Literarkritik</hi>
-            </p>
+            <p></p>
         </text>
     </literarkritikkurz>
     <literarkritik>
@@ -52,8 +57,7 @@
                 späteren Hinzufügung der Iblīs-Episode (<q type="koran" versstart="038:071"
                     versend="038:088">V. 71–88</q>) ist angesichts seiner gänzlichen Ausblendung der
                 Komposition und seiner Verkennung des Genres „Sure“ nicht überzeugend.</p>
-            <p><hi rend="bold">Verszählungsdifferenzen</hi>
-            </p>
+            <p><hi rend="bold">Verszählungsdifferenzen</hi></p>
             <p>Die Sure besteht aus quantitativ und strukturell uneinheitlichen Versen. Dennoch
                 bietet die Tradition nur fünf Abweichungen gegenüber der kufischen Versabteilung. In
                     <q type="koran" versstart="038:001" versend="038:001">V. 1</q> wird – in
@@ -1660,13 +1664,13 @@
     </kommentar>
     <analysedeutungkurz>
         <text versstart="000" versend="088" verfasser="an">
-            <p>Analyse und Deutung</p>
+            <p></p>
         </text>
     </analysedeutungkurz>
     <analysedeutung>
         <EntwicklungsgeschichtlicheEinordnungkurz>
             <text versstart="000" versend="088" verfasser="an">
-                <p>Entwicklungsgeschichtliche Einordnung</p>
+                <p></p>
             </text>
         </EntwicklungsgeschichtlicheEinordnungkurz>
         <EntwicklungsgeschichtlicheEinordnung>
@@ -1900,7 +1904,7 @@
         </EntwicklungsgeschichtlicheEinordnung>
         <Inhaltstrukturkurz>
             <text versstart="000" versend="088" verfasser="an">
-                <p>Inhalt und Struktur</p>
+                <p></p>
             </text>
         </Inhaltstrukturkurz>
         <Inhaltstruktur>
@@ -2061,7 +2065,7 @@
         </Inhaltstruktur>
         <situativitätkurz>
             <text versstart="000" versend="088" verfasser="an">
-                <p>Sprecher-Hörer-Interaktion; Autorisierung</p>
+                <p></p>
             </text>
         </situativitätkurz>
         <Situativität>

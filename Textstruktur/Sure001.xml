@@ -19,19 +19,19 @@
                     <Vers n="002">
                         <Teilvers n="002" reim="2n/m">
                             <Kolon Einschub="false" lang="ar" n="2">ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ </Kolon>
-                            <Kolon Einschub="false" lang="de" n="2"> Lob sei Gott, dem Herrn der Welten,</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">Lob sei Gott, dem Herrn der Welten,</Kolon>
                         </Teilvers>
                     </Vers>
                     <Vers n="003">
                         <Teilvers n="003" reim="2n/m">
                             <Kolon Einschub="false" lang="ar" n="3">ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="3"> dem barmherzigen Erbarmer,</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">dem barmherzigen Erbarmer,</Kolon>
                         </Teilvers>
                     </Vers>
                     <Vers n="004">
                         <Teilvers n="004" reim="2n/m">
                             <Kolon Einschub="false" lang="ar" n="4">مَٰلِكِ يَوۡمِ ٱلدِّينِ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="4"> dem König des Gerichtstags!</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">dem König des Gerichtstags!</Kolon>
                         </Teilvers>
                     </Vers>
                 </Gesaetz>
@@ -39,7 +39,7 @@
                     <Vers n="005">
                         <Teilvers n="005" reim="2n/m">
                             <Kolon Einschub="false" lang="ar" n="5">إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="5"> Dir dienen wir und dich rufen wir um Hilfe an!</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">Dir dienen wir und dich rufen wir um Hilfe an!</Kolon>
                         </Teilvers>
                     </Vers>
                 </Gesaetz>
@@ -47,13 +47,13 @@
                     <Vers n="006">
                         <Teilvers n="006" reim="2n/m">
                             <Kolon Einschub="false" lang="ar" n="6">ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="6"> Führe uns den geraden Weg,</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">Führe uns den geraden Weg,</Kolon>
                         </Teilvers>
                     </Vers>
                     <Vers n="007">
                         <Teilvers n="007" reim="2n/m">
                             <Kolon Einschub="false" lang="ar" n="7">صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ </Kolon>
-                            <Kolon Einschub="false" lang="de" n="7"> den Weg derer, denen du Huld erwiesen hast,</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">den Weg derer, denen du Huld erwiesen hast,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="8">غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِم</Kolon>
                             <Kolon Einschub="false" lang="de" n="8">nicht derer, auf denen dein Zorn lastet,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="9">وَلَا ٱلضَّآلِّينَ</Kolon>

@@ -9,7 +9,7 @@
  </surentitel>
  <autorenkurz>
   <text versstart="000" versend="062" verfasser="tjj">
-   <p>Übersetzt und analysiert von Angelika Neuwirth und Dirk Hartwig</p>
+   <p>Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth</p>
   </text>
  </autorenkurz>
  <datierungkurz>
@@ -17,11 +17,6 @@
    <p>Mekka II</p>
   </text>
  </datierungkurz>
- <datierung>
-  <text versstart="000" versend="083" verfasser="an">
-   <p/>
-  </text>
- </datierung>
  <literarkritikkurz>
   <text versstart="000" versend="083" verfasser="an">
    <p/>
@@ -48,8 +43,8 @@
      versend="036:030">V. 30</q> steht. <q type="koran" versstart="036:030" versend="036:030">V.
      30</q> zieht den Schluß aus einer vorher erzählten Episode, <q type="koran" versstart="036:046"
      versend="036:046">V. 46</q> schlägt das Thema des folgenden Gesätzes an
-    (<lang xml:lang="ar-Latn">āyāt</lang> aus der Schöpfung) und zugleich das Thema der beiden – das
-    <lang xml:lang="ar-Latn">aṣḥāb al-qarya</lang>-Gesätz ausleitenden – <q type="koran"
+    (<lang xml:lang="ar-Latn">āyāt</lang> aus der Schöpfung) und zugleich das Thema der beiden — das
+    <lang xml:lang="ar-Latn">aṣḥāb al-qarya</lang>-Gesätz ausleitenden — <q type="koran"
      versstart="036:031" versend="036:032">Verse 31 und 32</q> (<lang xml:lang="ar-Latn">āyāt</lang>
     aus der Geschichte), siehe dazu <bibl Zotero_Id_1="4WEWN8NZ"><hi rend="italic">SKMS</hi>, S.
      179f</bibl>. Die Versumstellung ist aber nicht zwingend, so daß im folgenden der überlieferte
@@ -74,7 +69,7 @@
     belassen.</p>
    <p>Offenbar ist eine Gedankenfolge aus dem Anfang von <q type="koran" versstart="020:001"
      versend="020:135">Sure 20</q> bei der Entstehung der Crux wirksam: <q type="koran"
-     versstart="020:001" versend="020:135">Q 20</q> beginnt – nach einer Buchstabenfolge – ebenfalls
+     versstart="020:001" versend="020:135">Q 20</q> beginnt — nach einer Buchstabenfolge — ebenfalls
     mit einer Bestätigung der Rolle des Verkünders, <q type="koran" versstart="020:002"
      versend="020:003">V. 2–3</q>:
     <lang xml:lang="ar-Latn">mā anzalnā ʿalaika l-qurʾāna li-tashqā / illā taḏkiratan li-man yaḫshā</lang>,
@@ -97,40 +92,40 @@
   <text versstart="000" versend="083" verfasser="an">
    <p>In <q type="koran" versstart="036:005" versend="036:005">V. 5</q> ist mit den Lesern Ḥamza,
     Abū ʿAmr, Ibn ʿĀmir, Nāfiʿ und al-Kisāʾi <lang xml:lang="ar-Latn">tanzīlu</lang> zu lesen (siehe
-    &lt;www.corpuscoranicum.de&gt;, »Lesarten«). <bibl Zotero_Id_1="XMTZX64C">Al-Zamaḫsharī, <hi
+    〈www.corpuscoranicum.de〉, »Lesarten«). <bibl Zotero_Id_1="XMTZX64C">Al-Zamaḫsharī, <hi
       rend="italic">Al-Kashshāf</hi> (Bd. III, S. 314)</bibl>, der selbst
     <lang xml:lang="ar-Latn">tanzīlu</lang> liest, erklärt die Lesart
     <lang xml:lang="ar-Latn">tanzīla</lang> als Wiederaufnahme von
     <lang xml:lang="ar-Latn">qurʾān</lang> (nimmt er vielleicht eine Versversetzung von <q
      type="koran" versstart="036:005" versend="036:005">V. 5</q> nach <q type="koran"
      versstart="036:002" versend="036:002">V. 2</q> an?):
-    <lang xml:lang="ar-Latn">quriʾa &lt;…&gt; bi-l-nasb &lt;…&gt; ʿalā aʿni</lang>, also: »man liest
-    mit Akkusativ im Sinne von ‚ich meine‘«, so daß »die Leitung auf dem geraden Weg« durch die
+    <lang xml:lang="ar-Latn">quriʾa 〈…〉 bi-l-nasb 〈…〉 ʿalā aʿni</lang>, also: »man liest mit
+    Akkusativ im Sinne von ›ich meine‹«, so daß »die Leitung auf dem geraden Weg« durch die
     Herabsendung, <lang xml:lang="ar-Latn">tanzīl</lang>, autorisiert würde. An dieser Erklärung
     scheint sich <bibl Zotero_Id_1="K3XVV34A">Abdel Haleem (2004:442)</bibl> orientiert zu haben,
     der dem Akkusativ eine Funktion zu unterlegen versucht, indem er adverbial »with a revelation«
     übersetzt. Es gibt jedoch keine überzeugende grammatische Erklärung für den Akkusativ; denn wie
-    die Formel steht, würde sie – was sinnlos ist – nicht wie üblich die Schrift, sondern das
-    Auftreten des Verkünders als <lang xml:lang="ar-Latn">tanzīl</lang> ausweisen. Die Formel, die –
-    sonst stets im Nominativ <lang xml:lang="ar-Latn">tanzīlu</lang> stehend – ausschließlich zur
+    die Formel steht, würde sie — was sinnlos ist — nicht wie üblich die Schrift, sondern das
+    Auftreten des Verkünders als <lang xml:lang="ar-Latn">tanzīl</lang> ausweisen. Die Formel, die —
+    sonst stets im Nominativ <lang xml:lang="ar-Latn">tanzīlu</lang> stehend — ausschließlich zur
     Beglaubigung der Verkündigung aus der Schrift begegnet und daher häufig als Ausruf den Anfang
     von Suren markiert, steht hier einfach am falschen Ort. Daß der Ausdruck an seiner Stelle
     problematisch ist, bezeugen die Übersetzungen: <bibl Zotero_Id_1="J6TM6UHR">Paret (<hi
       rend="italic">KÜ</hi>, S. 308)</bibl> ergänzt ihn stillschweigend zu einem Aussagesatz: »Er
-    [d.h. der Koran] ist &lt;…&gt; herabgesandt, damit du &lt;…&gt; warnst«, ähnlich <bibl
+    [d.h. der Koran] ist 〈…〉 herabgesandt, damit du 〈…〉 warnst«, ähnlich <bibl
      Zotero_Id_1="Q9EDU63R">Bobzin (2010:385)</bibl> und <bibl Zotero_Id_1="ZNVIBIDF">Bell
      (1937:625)</bibl>, der den Vers allerdings später datieren möchte. Dabei wird dem Akkusativ
     <lang xml:lang="ar-Latn">tanzīla</lang> keine Beachtung geschenkt. Außer <bibl
      Zotero_Id_1="K3XVV34A">Abdel Haleem (2004:442)</bibl> haben nur <bibl Zotero_Id_1="MKTX4VQ9"
      >Blachère (1949:469)</bibl> und <bibl Zotero_Id_1="J7GZ5X57">Zirker (2003:273)</bibl> dem
-    Detail Gewicht beigemessen. Sie übersetzen – bei Annahme einer parenthetischen Stellung des
-    Kolons – mit einem Ausruf »revelation &lt;…&gt;!« bzw. »Die Herabsendung &lt;…&gt;!«. Sie deuten
-    die Ausnahmevokalisierung offenbar im Sinne eines Anrufs, was bei einem Abstraktum aber wenig
+    Detail Gewicht beigemessen. Sie übersetzen — bei Annahme einer parenthetischen Stellung des
+    Kolons — mit einem Ausruf »revelation 〈…〉!« bzw. »Die Herabsendung 〈…〉!«. Sie deuten die
+    Ausnahmevokalisierung offenbar im Sinne eines Anrufs, was bei einem Abstraktum aber wenig
     einleuchtet. Da die problemfreie Lautung <lang xml:lang="ar-Latn">tanzīlu</lang> aber gegen Ḥafs
-    von fünf Lesern vertreten wird (siehe &lt;www.corpuscoranicum.de&gt;, »Lesarten«), ist sie hier
+    von fünf Lesern vertreten wird (siehe 〈www.corpuscoranicum.de〉, »Lesarten«), ist sie hier
     angesichts des Formelcharakters des Kolons zu übernehmen. Der Ausdruck ist dann als
     parenthetische Aussage zwischen <q type="koran" versstart="036:004" versend="036:004">V. 4</q>
-    und <q type="koran" versstart="036:006" versend="036:006">V. 6</q> zu belassen – ein Notbehelf,
+    und <q type="koran" versstart="036:006" versend="036:006">V. 6</q> zu belassen — ein Notbehelf,
     denn der formkritisch als Einleitungsformel erkennbare Vers steht unberechtigt im Kontext der
     Einleitung, muß aber als Teil des überlieferten Textes respektiert werden.</p>
   </text>
@@ -411,10 +406,10 @@
  <kommentar>
   <text versstart="000" versend="083" verfasser="an">
    <p><hi rend="italic">Vorbemerkung:</hi> Die Sure, obwohl bereits aus unregelmäßigen rhythmischen
-    Einheiten – die Verse sind zwischen ein und fünf Kola lang – bestehend, erhebt Anspruch auf
+    Einheiten — die Verse sind zwischen ein und fünf Kola lang — bestehend, erhebt Anspruch auf
     Poetizität. Bereits der erste, an sich unkomplizierte Satz wird auf zwei Verse verteilt, um dann
-    künstlich durch Enjambement wieder zusammengezogen zu werden. Das Schlußkolon des – nach einer
-    Unterbrechung (<q type="koran" versstart="036:005" versend="036:005">V. 5</q>) – anschließenden
+    künstlich durch Enjambement wieder zusammengezogen zu werden. Das Schlußkolon des — nach einer
+    Unterbrechung (<q type="koran" versstart="036:005" versend="036:005">V. 5</q>) — anschließenden
     Nebensatzes (<q type="koran" versstart="036:006" versend="036:006">V. 6</q>),
     <lang xml:lang="ar-Latn">fa-hum ġāfilūn</lang>, hat ein Echo in den Schlußkola der drei
     folgenden Verse, <q type="koran" versstart="036:007" versend="036:007">V. 7</q>:
@@ -433,8 +428,8 @@
     markiert: <q type="koran" versstart="036:045" versend="036:045">V. 45</q>:
     <lang xml:lang="ar-Latn">wa-iḏā qīla lahum</lang> (ohne explizite Antwort), <q type="koran"
      versstart="036:047" versend="036:047">V. 47</q>
-    <lang xml:lang="ar-Latn">wa-iḏā qīla lahum – qāla</lang>. – Die Sure weist – wie angesichts des
-    2n/m-Reims zu erwarten – mehrere Klauseln auf, d.h. Schlußkola, die formelhafte, erklärende
+    <lang xml:lang="ar-Latn">wa-iḏā qīla lahum — qāla</lang>. — Die Sure weist — wie angesichts des
+    2n/m-Reims zu erwarten — mehrere Klauseln auf, d.h. Schlußkola, die formelhafte, erklärende
     Bemerkungen zu den Aussagen ihres Verses enthalten (siehe dazu <bibl Zotero_Id_1="4WEWN8NZ"><hi
       rend="italic">SKMS</hi>, S. 103f.</bibl>), so in <q type="koran" versstart="036:035"
      versend="036:035">V. 35</q>, <q type="koran" versstart="036:061" versend="036:061">61</q>, <q
@@ -442,8 +437,8 @@
      versend="036:068">68</q> und <q type="koran" versstart="036:073" versend="036:073">73</q>.</p>
   </text>
   <text versstart="001" versend="006" verfasser="an">
-   <p><lem>yā-sīn / wa-l-qurʾāni l-ḥakīmi / ʾinnaka la-mina l-mursalīna / ʿalā ṣirāṭin mustaqīmin / tanzīla [tanzīlu] l-ʿazīzi r-raḥīmi / li-tunḏira qauman mā ʾunḏira ʾābāʾuhum fa-hum ġāfilūna]</lem>
-    Nach der ‚Intonation‘ des Vortrags mit der Buchstabennamengruppe folgt wie üblich eine
+   <p><lem>yā-sīn / wa-l-qurʾāni l-ḥakīm / ʾinnaka la-mina l-mursalīn / ʿalā ṣirāṭin mustaqīm / 〈tanzīla〉 [tanzīlu] l-ʿazīzi r-raḥīm / li-tunḏira qauman mā ʾunḏira ʾābāʾuhum fa-hum ġāfilūn]</lem>
+    Nach der ›Intonation‹ des Vortrags mit der Buchstabennamengruppe folgt wie üblich eine
     Erinnerung an die Offenbarung (siehe zu den Buchstabennamen am Surenanfang den Kommentar zu <q
      type="koran" versstart="015:001" versend="015:001">Q 15:1</q>, <bibl Zotero_Id_1="R7C4TXP6"><hi
       rend="italic">HK 2/1</hi>, S. 252f.</bibl>). Sie nimmt wie in <q type="koran"
@@ -466,24 +461,24 @@
     die Phrase keinen <lang xml:lang="ar-Latn">kitāb</lang>-Bezug hat, sondern auf eine Aussage über
     den Propheten folgt, von fast allen Übersetzern vorausgesetzt; so erweitert <bibl
      Zotero_Id_1="J6TM6UHR">Paret (<hi rend="italic">KÜ</hi>, S. 308)</bibl> die Phrase zu einem
-    vollständigen Satz: »Er [d.h. der Koran] ist &lt;…&gt; herabgesandt, damit du &lt;…&gt; warnst«,
-    ähnlich <bibl Zotero_Id_1="Q9EDU63R">Bobzin (2010:385)</bibl> und <bibl Zotero_Id_1="ZNVIBIDF"
-     >Bell (1937:625)</bibl>. Diese Übersetzung setzt sich aber über den von Hafṣ ʿan ʿAṣim
-    überlieferten Akkusativ tanzīla hinweg. <bibl Zotero_Id_1="K3XVV34A">Abdel Haleem
-     (2004:442)</bibl> hat der Akkusativform Aufmerksamkeit geschenkt, indem er übersetzt: »with a
-    revelation &lt;…&gt;«, so daß die Autorität von <lang xml:lang="ar-Latn">tanzīl</lang> auf die
-    Verkünderrolle übertragen wird. Ebenfalls den Akkusativ berücksichtigend, übersetzen <bibl
-     Zotero_Id_1="MKTX4VQ9">Blachère (1949:469)</bibl> und <bibl Zotero_Id_1="J7GZ5X57">Zirker
-     (2003:273)</bibl> – unter Annahme einer parenthetischen Stellung des Kolons – mit einem Ausruf
-    »revelation &lt;…&gt;!« bzw. »Die Herabsendung &lt;…&gt;!«. Sie deuten die Ausnahmevokalisierung
-    offenbar im Sinne eines Anrufs, was aber argumentationslogisch wenig einleuchtet, da nicht der
-    Auftritt des Verkünders, sondern die Schrift »herabgesandt« ist. Da die problemfreie Lautung
-    <lang xml:lang="ar-Latn">tanzīlu</lang> gegen Ḥafṣ von drei Lesern vertreten wird (siehe <q
-     type="textkritik" versstart="036:001" versend="036:083">»Textkritik«</q>), wird sie hier
-    angesichts des Formelcharakters des Kolons übernommen und der Vers als parenthetische Aussage
-    übersetzt. Eine befriedigende Lösung der problematischen Position der Formel im Einleitungsteil
-    von <q type="koran" versstart="036:001" versend="036:083">Q 36</q> gibt es nicht (siehe oben <q
-     type="textkritik" versstart="036:001" versend="036:083">»Textkritik«</q>).</p>
+    vollständigen Satz: »Er [d.h. der Koran] ist 〈…〉 herabgesandt, damit du 〈…〉 warnst«, ähnlich
+     <bibl Zotero_Id_1="Q9EDU63R">Bobzin (2010:385)</bibl> und <bibl Zotero_Id_1="ZNVIBIDF">Bell
+     (1937:625)</bibl>. Diese Übersetzung setzt sich aber über den von Hafṣ ʿan ʿAṣim überlieferten
+    Akkusativ tanzīla hinweg. <bibl Zotero_Id_1="K3XVV34A">Abdel Haleem (2004:442)</bibl> hat der
+    Akkusativform Aufmerksamkeit geschenkt, indem er übersetzt: »with a revelation 〈…〉«, so daß die
+    Autorität von <lang xml:lang="ar-Latn">tanzīl</lang> auf die Verkünderrolle übertragen wird.
+    Ebenfalls den Akkusativ berücksichtigend, übersetzen <bibl Zotero_Id_1="MKTX4VQ9">Blachère
+     (1949:469)</bibl> und <bibl Zotero_Id_1="J7GZ5X57">Zirker (2003:273)</bibl> — unter Annahme
+    einer parenthetischen Stellung des Kolons — mit einem Ausruf »revelation 〈…〉!« bzw. »Die
+    Herabsendung 〈…〉!«. Sie deuten die Ausnahmevokalisierung offenbar im Sinne eines Anrufs, was
+    aber argumentationslogisch wenig einleuchtet, da nicht der Auftritt des Verkünders, sondern die
+    Schrift »herabgesandt« ist. Da die problemfreie Lautung <lang xml:lang="ar-Latn">tanzīlu</lang>
+    gegen Ḥafṣ von drei Lesern vertreten wird (siehe <q type="textkritik" versstart="036:001"
+     versend="036:083">»Textkritik«</q>), wird sie hier angesichts des Formelcharakters des Kolons
+    übernommen und der Vers als parenthetische Aussage übersetzt. Eine befriedigende Lösung der
+    problematischen Position der Formel im Einleitungsteil von <q type="koran" versstart="036:001"
+     versend="036:083">Q 36</q> gibt es nicht (siehe oben <q type="textkritik" versstart="036:001"
+     versend="036:083">»Textkritik«</q>).</p>
    <p>Zielgruppe der Warnung ist eine vorher noch nicht von prophetischer Botschaft berührte
     Gesellschaft, die folglich »achtlos« ist, eine auch sonst für die die Eschatologie verwerfenden
     Gegner festgestellte Befindlichkeit (siehe <q type="koran" versstart="050:032" versend="050:032"
@@ -493,22 +488,22 @@
     <lang xml:lang="ar-Latn">qaum</lang>, eine (Stadt-)Gesellschaft, ausgedehnt.</p>
   </text>
   <text versstart="007" versend="010" verfasser="an">
-   <p><lem>la-qad ḥaqqa l-qaulu ʿalā ʾakṯarihim fa-hum lā yuʾminūna / ʾinnā ǧaʿalnā fī ʾaʿnāqihim ʾaġlālan fa-hiya ʾila l-ʾaḏqāni fa-hum muqmaḥūna / wa-ǧaʿalnā min baini ʾaidīhim saddan wa-min ḫalfihim saddan fa-ʾaġšaināhum fa-hum lā yubṣirūna / wa-sawāʾun ʿalaihim ʾa-ʾanḏartahum ʾam lam tunḏirhum lā yuʾminūna]</lem>
-    Die verurteilende Vorbestimmung ist für die meisten der – offenbar zahlreichen – ins Auge
-    gefaßten Adressaten bereits eingetroffen; im Diesseits tragen sie – nun metaphorisch – jene
+   <p><lem>la-qad ḥaqqa l-qaulu ʿalā ʾakṯarihim fa-hum lā yuʾminūn / ʾinnā ǧaʿalnā fī ʾaʿnāqihim ʾaġlālan fa-hiya ʾila l-ʾaḏqāni fa-hum muqmaḥūn / wa-ǧaʿalnā min baini ʾaidīhim saddan wa-min ḫalfihim saddan fa-ʾaġšaināhum fa-hum lā yubṣirūn / wa-sawāʾun ʿalaihim ʾa-ʾanḏartahum ʾam lam tunḏirhum lā yuʾminūn]</lem>
+    Die verurteilende Vorbestimmung ist für die meisten der — offenbar zahlreichen — ins Auge
+    gefaßten Adressaten bereits eingetroffen; im Diesseits tragen sie — nun metaphorisch — jene
     Ketten, <lang xml:lang="ar-Latn">aġlāl</lang>, die sonst Teil der Vergeltung sind (vgl. <q
      type="koran" versstart="076:004" versend="076:004">Q 76:4</q>). Das Bild ist aus der
     Kamelhaltung übertragen, die Ketten dienen ihrer Behinderung am Verstehen, sie sind damit von
     der spirituellen Lebensquelle abgeschnitten, wie Kamele durch solche Ketten am Trinken gehindert
     werden; ähnlich auch die Dämme vor und hinter ihnen, die sie am Sehen, an der Einsicht, hindern.
-    Die starke Körpermetapher, die die menschlichen Personen in die Nähe von Tieren rückt –
+    Die starke Körpermetapher, die die menschlichen Personen in die Nähe von Tieren rückt —
     vergleichbare Metaphern sind sonst zur Beschreibung der Reaktion der Gegner auf die Verkündigung
     geläufig, siehe <q type="koran" versstart="070:036" versend="070:036">Q 70:36</q>: fa-mā
     li-llaḏīna kafarū qibalaka muhṭiʿīn, »Was haben die Ungläubigen, daß sie den Hals nach dir
     recken« (wie Kamele), und <q type="koran" versstart="075:025" versend="075:025">Q 75:25</q>:
     <lang xml:lang="ar-Latn">tazunnu an yufʿala bihā fāqirah</lang>, »als würde bei ihnen eine Kerbe
-    eingebrannt« (wie bei Herdenvieh) –, präludiert weiteren Körpermetaphern im Schlußteil der Sure
-    (siehe <q type="koran" versstart="036:065" versend="036:065">V. 65</q>). – Es ist den Gegnern
+    eingebrannt« (wie bei Herdenvieh) —, präludiert weiteren Körpermetaphern im Schlußteil der Sure
+    (siehe <q type="koran" versstart="036:065" versend="036:065">V. 65</q>). — Es ist den Gegnern
     gleichgültig, ob sie gewarnt werden oder nicht (vgl. <q type="koran" versstart="026:136"
      versend="026:139">Q 26:136–139</q>, siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK
       2/1</hi>, S. 421f.</bibl>). Die Resignation über den Unglauben nimmt in Spätmittelmekka zu; in
@@ -518,25 +513,25 @@
     Sure</q>).</p>
   </text>
   <text versstart="011" versend="012" verfasser="an">
-   <p><lem>ʾinnamā tunḏiru mani ttabaʿa ḏ-ḏikra wa-ḫašiya r-raḥmāna bi-l-ġaibi fa-bašširhu bi-maġfiratin wa-ʾaǧrin karīmin / ʾinnā naḥnu nuḥyi l-mautā wa-naktubu mā qaddamū wa-ʾāṯārahum wa-kulla šaiʾin ʾaḥṣaināhu fī ʾimāmin mubīnin]</lem>
+   <p><lem>ʾinnamā tunḏiru mani ttabaʿa ḏ-ḏikra wa-ḫašiya r-raḥmāna bi-l-ġaibi fa-bašširhu bi-maġfiratin wa-ʾaǧrin karīm / ʾinnā naḥnu nuḥyi l-mautā wa-naktubu mā qaddamū wa-ʾāṯārahum wa-kulla šaiʾin ʾaḥṣaināhu fī ʾimāmin mubīn]</lem>
     Die positiv auf die Verkündigung Ansprechenden sind die bereits Gläubigen, ihre Beschreibung als
-    <lang xml:lang="ar-Latn">wa-ḫašiya l-raḥmāna bi-l-ġaibi</lang> – erinnernd an <q type="bibel"
+    <lang xml:lang="ar-Latn">wa-ḫašiya l-raḥmāna bi-l-ġaibi</lang> — erinnernd an <q type="bibel"
      versstart="006:006" versend="006:006" buch="Mt">Mt 6,6</q>: »Wenn du aber betest, so geh in
     dein Kämmerlein und schließ die Tür zu und bete zu deinem Vater, der im Verborgenen ist; und
-    dein Vater, der in das Verborgene sieht, wird dir’s vergelten« – evoziert die demütigen Gesten
-    der Christen, die später – etwa im medinischen Zusatz zu <q type="koran" versstart="019:058"
+    dein Vater, der in das Verborgene sieht, wird dir’s vergelten« — evoziert die demütigen Gesten
+    der Christen, die später — etwa im medinischen Zusatz zu <q type="koran" versstart="019:058"
      versend="019:058">Q 19, 19:58</q> (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK
       2/1</hi>, S. 625f.</bibl>), und in <q type="koran" versstart="017:031" versend="017:031">Q
      17:31</q>, <q type="koran" versstart="017:100" versend="017:100">100</q> (siehe auch <q
      type="koran" versstart="023:057" versend="023:058">Q 23:57–58</q>) sowie <q type="koran"
-     versstart="032:015" versend="032:017">Q 32:15–17</q> (spätmekkanisch) – auch deutlich als
+     versstart="032:015" versend="032:017">Q 32:15–17</q> (spätmekkanisch) — auch deutlich als
     solche gekennzeichnet werden. Dieser Typus des demütigen Frommen soll ermutigt werden. Auch die
     Zusage der Vergebung evoziert christliche Erwartungen (siehe zu maġfira die volle Formulierung
-    <lang xml:lang="ar-Latn">maġfirat al-ḫaṭāyā</lang>, »Vergebung der Sünde« – eine Bitte aus dem
-    Vaterunser –, siehe auch das Zeugnis des Frommen, unten <q type="koran" versstart="036:027"
+    <lang xml:lang="ar-Latn">maġfirat al-ḫaṭāyā</lang>, »Vergebung der Sünde« — eine Bitte aus dem
+    Vaterunser —, siehe auch das Zeugnis des Frommen, unten <q type="koran" versstart="036:027"
      versend="036:027">V. 27</q>, vorher schon <q type="koran" versstart="020:073" versend="020:073"
      >Q 20:73</q>, siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 340</bibl>).
-    Die Betonung der Totenerweckung – <lang xml:lang="ar-Latn">iḥyāʾ al-mautā</lang> – geht über die
+    Die Betonung der Totenerweckung — <lang xml:lang="ar-Latn">iḥyāʾ al-mautā</lang> — geht über die
     früheren Affirmationen der göttlichen Kraft, Leben zu geben und zu nehmen (siehe <q type="koran"
      versstart="015:023" versend="015:023">Q 15:23</q> und <q type="koran" versstart="050:043"
      versend="050:043">Q 50:43</q>: »leben und sterben lassen«,
@@ -544,20 +539,20 @@
     bekannten Formulierung, <lang xml:lang="gr-Latn">anastasis nekrōn</lang>, aus dem christlichen
     Glaubensbekenntnis. Diese Kraft wird später mit einer der Wundertaten Jesu verbunden (siehe dazu
      <q type="koran" versstart="003:049" versend="003:049">Q 3:49</q>). Während die Registrierung
-    der Taten – hier auch der Errungenschaften, <lang xml:lang="ar-Latn">āṯār</lang> – geläufig ist
+    der Taten — hier auch der Errungenschaften, <lang xml:lang="ar-Latn">āṯār</lang> — geläufig ist
     (siehe <q type="koran" versstart="080:013" versend="080:013">Q 80:13</q>), ist die Benennung des
     Registerbuches mit <lang xml:lang="ar-Latn">imām</lang> neu. <bibl Zotero_Id_1="Q9EDU63R">Bobzin
      (2010:386)</bibl> übersetzt »Hauptbuch«, <bibl Zotero_Id_1="J7GZ5X57">Zirker (2003:273)</bibl>
     »Register«.</p>
   </text>
   <text versstart="013" versend="014" verfasser="an">
-   <p><lem>wa-ḍrib lahum maṯalan ʾaṣḥāba l-qaryati ʾiḏ ǧāʾaha l-mursalūna / ʾiḏ ʾarsalnā ʾilaihimu ṯnaini fa-kaḏḏabūhumā fa-ʿazzaznā bi-ṯāliṯin fa-qālū ʾinnā ʾilaikum mursalūna]</lem>
+   <p><lem>wa-ḍrib lahum maṯalan ʾaṣḥāba l-qaryati ʾiḏ ǧāʾaha l-mursalūn / ʾiḏ ʾarsalnā ʾilaihimu ṯnaini fa-kaḏḏabūhumā fa-ʿazzaznā bi-ṯāliṯin fa-qālū ʾinnā ʾilaikum mursalūn]</lem>
     Der Mittelteil ist, wie für Mittelmekka üblich, Lesung aus der Heilsgeschichte, die typologisch
     ein Licht auf die Situation des Verkünders wirft. Zum ersten Mal wird nun aber ein Gleichnis
     vorgestellt, das auch explizit mit dem Namen dieser Textsorte,
     <lang xml:lang="ar-Latn">maṯal</lang>, angekündigt wird, wenn es auch von den traditionellen wie
     auch den modernen Erklärern nicht als solches wahrgenommen worden ist. Siehe zu den koranischen
-    Gleichnissen, die generisch zumindest grob den Evangelien-gleichnissen entsprechen und mit deren
+    Gleichnissen, die generisch zumindest grob den Evangeliengleichnissen entsprechen und mit deren
     Einsatz offenbar Anspruch auf eine didaktische Technik der christlichen Tradition erhoben werden
     soll, <bibl Zotero_Id_1="6I96FAXT"><hi rend="italic">KTS</hi>, S. 498–503</bibl>. Wer in dieser
     Tradition in Gleichnissen spricht, ist der Lehrer Jesus (siehe <bibl Zotero_Id_1="UC3T9FVT"
@@ -573,7 +568,7 @@
     Exegese gebotene, bereits koranisch eingefärbte Erzählung von Ḥabīb al-Naǧǧār kurzerhand als das
     historische Vorbild ansetzt). Ähnlich rezeptionsgeschichtlich festgelegt war schon <bibl
      Zotero_Id_1="MKTX4VQ9">Blachère (1949:469)</bibl>, der bemerkt, daß die angekündigte Parabel
-    »wie eine Geschichte erzählt« ist, die ihn – zumal in der Deutung al-Ṭabarīs – an <q
+    »wie eine Geschichte erzählt« ist, die ihn — zumal in der Deutung al-Ṭabarīs — an <q
      type="bibel" versstart="013:014" versend="013:014" buch="Apg">Apg 13,14–52</q> erinnert, wo
     über die wechselvolle Geschichte der Apostel Paulus und Barnabas berichtet wird, die jedoch
     keine Gewalttätigkeit erfahren. Ein viel näherliegendes Vorbild als dieses in Pisidien spielende
@@ -583,8 +578,8 @@
     von Sarug (gest. 521), weite Verbreitung gefunden hatten. Dieser einflußreiche Text über die
     Einführung des Christentums im syrischen Antiochien (zugänglich bei <bibl Zotero_Id_1="FP2PTSMW"
      >van Esbroeck 1994</bibl>) erzählt von der Mission der beiden Apostel Petrus und Johannes, die
-    – später durch Paulus verstärkt – die Konversion der Antiochener erwirkten. Es fällt auf, daß
-    hier – anders als im Koran – keiner der Protagonisten zu Tode kommt noch auch die
+    — später durch Paulus verstärkt — die Konversion der Antiochener erwirkten. Es fällt auf, daß
+    hier — anders als im Koran — keiner der Protagonisten zu Tode kommt noch auch die
     Stadtgemeinschaft mit einer kollektiven Vernichtung für ihre Haltung büßt. Es ist also nur die
     erste Hälfte der Erzählung, die die <hi rend="italic">Petrusakten</hi> spiegelt. Das für die
     zweite Hälfte maßgebliche Detail des Martyriums des dazugekommenen Fremden sowie die kollektive
@@ -592,7 +587,7 @@
      <hi rend="italic">Petrusakten</hi> orientierte islamische Exegese hat daher deren Plot früh mit
     einer Märtyrererzählung verbunden, in deren Zentrum ein von den Muslimen in Antiochien verehrter
     Heiliger, Ḥabīb al-Naǧǧār, steht. Die Erzählung erhält damit das wichtige Element des Martyriums
-    nachgetragen. Folgt man dieser in der Exegese und – in Anlehnung an Busse auch – in der
+    nachgetragen. Folgt man dieser in der Exegese und — in Anlehnung an Busse auch — in der
     westlichen Forschung dominierenden Deutung, so hätte man in Sure 36 die Relektüre einer
     außerbiblischen spätantiken Legende zu sehen, ähnlich wie im Fall der Erzählungen in <q
      type="koran" versstart="018:001" versend="018:110">Sure 18</q>. Die Geschichte wäre dann eine
@@ -626,9 +621,9 @@
     >41</hi>Sie sprachen zu ihm: Er wird den Bösen ein böses Ende bereiten und seinen Weinberg
     andern Weingärtnern verpachten, die ihm die Früchte zur rechten Zeit geben. <hi
      rend="superscript">42</hi>Jesus sprach zu ihnen: »Habt ihr nie gelesen in der Schrift (<q
-     type="bibel" versstart="018:022" versend="018:023" buch="Ps">Ps 118,22–23</q>): ‚Der Stein, den
+     type="bibel" versstart="018:022" versend="018:023" buch="Ps">Ps 118,22–23</q>): ›Der Stein, den
     die Bauleute verworfen haben, der ist zum Eckstein geworden. Vom Herrn ist das geschehen, und er
-    ist ein Wunder vor unsern Augen‘? <hi rend="superscript">43</hi>Darum sage ich euch: Das Reich
+    ist ein Wunder vor unsern Augen‹? <hi rend="superscript">43</hi>Darum sage ich euch: Das Reich
     Gottes wird von euch genommen und einem Volk gegeben werden, das seine Früchte bringt. <hi
      rend="superscript">44</hi>Und wer auf diesen Stein fällt, der wird zerschellen; auf wen aber er
     fällt, den wird er zermalmen.« <hi rend="superscript">45</hi>Und als die Hohenpriester und die
@@ -636,7 +631,7 @@
      rend="superscript">46</hi>Und sie trachteten danach, ihn zu ergreifen; aber sie fürchteten sich
     vor dem Volk, denn es hielt ihn für einen Propheten.</p>
    <p>Das Gleichnis ist im Evangelium gegen die Sadduzäer gerichtet, deren Auslöschung hier
-    angedroht wird; erst später wurde es in der christlichen Exegese auf die Juden bezogen. – Dem
+    angedroht wird; erst später wurde es in der christlichen Exegese auf die Juden bezogen. — Dem
     Evangeliengleichnis zugrunde liegt das Weinberglied Jesajas (<q type="bibel" versstart="005:001"
      versend="005:007" buch="Jes">Jes 5,1–7</q>), ebenfalls ein Gleichnis, das am Ende dekodiert
     wird:</p>
@@ -656,51 +651,51 @@
     Heerscharen Weinberg aber ist das Haus Israel und die Männer Judas seine Pflanzung, an der sein
     Herz hing. Er wartete auf Rechtsspruch, siehe, da war Rechtsbruch, auf Gerechtigkeit, siehe, da
     war Geschrei über Schlechtigkeit.</p>
-   <p>Im Koran ist der Weinberg – der im Evangelium noch ein Kürzel für den ‚Weinberg Israel‘ ist –
+   <p>Im Koran ist der Weinberg — der im Evangelium noch ein Kürzel für den ›Weinberg Israel‹ ist —
     eliminiert und durch die »Stadt« ersetzt worden. Diese Umgestaltung des Szenarios, die die
     Beziehung zwischen den Texten verunklart hat, ist bereits Teil einer koranischen Umdeutung: Im
     Koran sind es nicht Weinbauern, sondern Städter, zu denen Boten kommen. Die Szene, die im
     Evangeliengleichnis symbolisch mit Figuren aus dem Haushalt eines Weinbergbesitzers besetzt ist,
-    ist in der Sure bereits ‚dekodiert‘: Es geht um die Entsendung – und Verwerfung – von Propheten.
-    Damit entfällt die Notwendigkeit der Suche nach einer ‚Sachhälfte‘, die in der Parabeltheorie
+    ist in der Sure bereits ›dekodiert‹: Es geht um die Entsendung — und Verwerfung — von Propheten.
+    Damit entfällt die Notwendigkeit der Suche nach einer ›Sachhälfte‹, die in der Parabeltheorie
     (siehe <bibl Zotero_Id_1="VLNMVAVV">Jülicher <hi rend="superscript">2</hi>1910</bibl>) der
-    ‚Bildhälfte‘ entsprechen würde: Das ‚Gemeinte‘, die erfolglos endende Entsendung von Gesandten,
+    ›Bildhälfte‹ entsprechen würde: Das ›Gemeinte‹, die erfolglos endende Entsendung von Gesandten,
     ist bereits von Anfang an explizit gemacht.</p>
    <p>Die Umverlagerung des Geschehens vom Weinberg in die Stadt ist folgenschwer: Mit dem Verzicht
     auf die Winzerszenerie ist zugleich der biblisch-prophetische Subtext des
     Evangeliengleichnisses, der dort durch verschiedene Details heraufbeschworen wird, eliminiert:
     Jesajas Klage (<q type="bibel" versstart="005:001" versend="005:007" buch="Jes">Jes 5,1–7</q>)
-    über das gestörte Verhältnis zwischen Gott und dem ‚Weinberg Israel‘, dessen von ihm
+    über das gestörte Verhältnis zwischen Gott und dem ›Weinberg Israel‹, dessen von ihm
     angeprangerte Untreue im Evangeliengleichnis neu gedeutet wird. Die Sure nimmt nicht auf dieses
     besondere Gottesverhältnis Bezug, sondern rekurriert auf die koranische Prophetologie, nach
     welcher Propheten selbst zwar scheitern, nicht aber getötet werden. Es kann daher bereits mit
-    der Auflösung des Gleichnisrätsels einsetzen, dessen Diskurs – Prophetologie – aber gegenüber
-    dem messianischen Evangelien-gleichnis eine neue Richtung nimmt.</p>
+    der Auflösung des Gleichnisrätsels einsetzen, dessen Diskurs — Prophetologie — aber gegenüber
+    dem messianischen Evangeliengleichnis eine neue Richtung nimmt.</p>
   </text>
   <text versstart="015" versend="019" verfasser="an">
-   <p><lem>qālū mā ʾantum ʾillā bašarun miṯlunā wa-mā ʾanzala r-raḥmānu min šaiʾin ʾin ʾantum ʾillā takḏibūna / qālū rabbunā yaʿlamu ʾinnā ʾilaikum la-mursalūna / wa-mā ʿalainā ʾilla l-balāġu l-mubīnu / qālū ʾinnā taṭayyarnā bikum la-ʾin lam tantahū la-narǧumannakum wa-la-yamassannakum minnā ʿaḏābun ʾalīmun / qālū ṭāʾirukum maʿakum ʾa-ʾin ḏukkirtum bal ʾantum qaumun musrifūna]</lem>
-    Der Handlungsverlauf entspricht – in das Szenario von Aposteln übersetzt – zunächst dem im
+   <p><lem>qālū mā ʾantum ʾillā bašarun miṯlunā wa-mā ʾanzala r-raḥmānu min šaiʾin ʾin ʾantum ʾillā takḏibūn / qālū rabbunā yaʿlamu ʾinnā ʾilaikum la-mursalūn / wa-mā ʿalainā ʾilla l-balāġu l-mubīn / qālū ʾinnā taṭayyarnā bikum la-ʾin lam tantahū la-narǧumannakum wa-la-yamassannakum minnā ʿaḏābun ʾalīm / qālū ṭāʾirukum maʿakum ʾa-ʾin ḏukkirtum bal ʾantum qaumun musrifūn]</lem>
+    Der Handlungsverlauf entspricht — in das Szenario von Aposteln übersetzt — zunächst dem im
     Evangelium, noch genauer dem der von vornherein von Aposteln handelnden <hi rend="italic"
      >Petrusakten</hi>, erst in der zweiten Hälfte weicht das Detail der Tötung des fremden
     Gerechten von deren Hergang ab. Die Boten werden wie der Verkünder (<q type="koran"
-     versstart="054:025" versend="054:025">Q 54:25</q>) als anmaßend – da sie nicht mehr als
-    Menschen sind – und als Lügner verleumdet (vgl. <bibl Zotero_Id_1="GG85BMXE">Radscheit
+     versstart="054:025" versend="054:025">Q 54:25</q>) als anmaßend — da sie nicht mehr als
+    Menschen sind — und als Lügner verleumdet (vgl. <bibl Zotero_Id_1="GG85BMXE">Radscheit
      1996:36–38</bibl>). Ihre Berufung auf den göttlichen Sender ist vergeblich. Daß dabei der
     Gottesname <lang xml:lang="ar-Latn">al-raḥmān</lang> im Munde der Leugner erscheint, dürfte eine
     äußerliche Angleichung an die neue Sprachregelung sein, <q type="koran" versstart="036:001"
      versend="036:083">Q 36</q> ist eine <lang xml:lang="ar-Latn">raḥmān</lang>-Sure. Die Gegner
     sehen in den Boten ein böses Omen (siehe dazu <q type="koran" versstart="027:047"
      versend="027:047">Q 27:47</q>) und drohen mit ihrer Vertreibung
-    (<lang xml:lang="ar-Latn">raǧama</lang> muß – gegen <bibl Zotero_Id_1="Q9EDU63R">Bobzin
-     [2010:386]</bibl> – nicht »steinigen« meinen, hier wäre zudem bei dieser Deutung die folgende
-    Strafankündigung ein Pleonasmus). An diesem Punkt tritt – wie auch im Evangelium nach dem
-    Scheitern der Boten – eine Wende ein.</p>
+    (<lang xml:lang="ar-Latn">raǧama</lang> muß — gegen <bibl Zotero_Id_1="Q9EDU63R">Bobzin
+     [2010:386]</bibl> — nicht »steinigen« meinen, hier wäre zudem bei dieser Deutung die folgende
+    Strafankündigung ein Pleonasmus). An diesem Punkt tritt — wie auch im Evangelium nach dem
+    Scheitern der Boten — eine Wende ein.</p>
   </text>
   <text versstart="020" versend="027" verfasser="an">
-   <p><lem>wa-ǧāʾa min ʾaqṣa l-madīnati raǧulun yasʿā qāla yā-qaumi ttabiʿu l-mursalīna / ttabiʿū man lā yasʾalukum ʾaǧran wa-hum muhtadūna / wa-mā liya lā ʾaʿbudu llaḏī faṭaranī wa-ʾilaihi turǧaʿūna / ʾa-ʾattaḫiḏu min dūnihī ʾālihatan ʾin yuridni r-raḥmānu bi-ḍurrin lā tuġni ʿannī šafāʿatuhum šaiʾan wa-lā yunqiḏūni / ʾinnī ʾiḏan la-fī ḍalālin mubīnin / ʾinnī ʾāmantu bi-rabbikum fa-smaʿūni / qīla dḫuli l-ǧannata qāla yā-laita qaumī yaʿlamūna / bi-mā ġafara lī rabbī wa-ǧaʿalanī mina l-mukramīna]</lem>
+   <p><lem>wa-ǧāʾa min ʾaqṣa l-madīnati raǧulun yasʿā qāla yā-qaumi ttabiʿu l-mursalīn / ttabiʿū man lā yasʾalukum ʾaǧran wa-hum muhtadūn / wa-mā liya lā ʾaʿbudu llaḏī faṭaranī wa-ʾilaihi turǧaʿūn / ʾa-ʾattaḫiḏu min dūnihī ʾālihatan ʾin yuridni r-raḥmānu bi-ḍurrin lā tuġni ʿannī šafāʿatuhum šaiʾan wa-lā yunqiḏūn / ʾinnī ʾiḏan la-fī ḍalālin mubīn / ʾinnī ʾāmantu bi-rabbikum fa-smaʿūn / qīla dḫuli l-ǧannata qāla yā-laita qaumī yaʿlamūn / bi-mā ġafara lī rabbī wa-ǧaʿalanī mina l-mukramīn]</lem>
     Ein anonymer Gerechter, der in den Petrusakten nicht auftritt und erst in der um Ḥabīb al-Naǧǧār
     kreisenden exegetischen Bearbeitung prominent wird, kommt zur Hilfe. Er hat seine Entsprechung
-    im Evangelium im Sohn des Weinbergbesitzers, in dessen Rolle – in der Exegese – der nachmalige
+    im Evangelium im Sohn des Weinbergbesitzers, in dessen Rolle — in der Exegese — der nachmalige
     muslimische Heilige Ḥabīb eintritt, wohl um die offenkundige christologische Symbolik
     auszuschließen. Das Szenario des zur Rettung von Bedrängten hinzueilenden Fremden ist ein
     narrativer Topos, der auch in der Mose-Geschichte <q type="koran" versstart="020:069"
@@ -726,9 +721,9 @@
      Zotero_Id_1="7DTSVVRQ">Busse (2000:175)</bibl> mit der Predigt des Stephanus (<q type="bibel"
      versstart="007:055" versend="007:060" buch="Apg">Apg 7,55–60</q>) in Verbindung gebracht
     worden, dem seinerseits im Angesicht des Todes sein Volk trotz dessen Feindseligkeit noch am
-    Herzen liegt. Die unmittelbare Einweisung des Gerechten ins Paradies – die den Exegeten
+    Herzen liegt. Die unmittelbare Einweisung des Gerechten ins Paradies — die den Exegeten
     theologisch Probleme bereiten sollte, siehe <bibl Zotero_Id_1="7DTSVVRQ">Busse (2000:175)</bibl>
-    – erinnert an die später den ‚auf dem Weg Gottes Getöteten‘ erwiesene Vorzugsstellung, siehe
+    — erinnert an die später den ›auf dem Weg Gottes Getöteten‹ erwiesene Vorzugsstellung, siehe
     z.B. <q type="koran" versstart="003:169" versend="003:169">Q 3:169</q>:
     <lang xml:lang="ar-Latn">wa-lā taḥsabanna llaḏīna qutilū fī sabīli llāhi amwātan bal aḥyāʾun ʿinda rabbihim yurzaqūn</lang>,
     »Und du darfst ja nicht meinen, daß diejenigen, die um Gottes willen getötet worden sind,
@@ -743,34 +738,34 @@
     Entschlossenheit Gottes, die Menschen auf das Gottesreich vorzubereiten, fokussiert und die
     Szene folglich mit der Ermordung des Sohnes des Weinbergbesitzers durch die verbrecherischen
     Winzer, also mit einem Opfer, endet, geht es im koranischen Gleichnis einzig um die verbale
-    Botschaft, wie sie in zahlreichen – ebenfalls mit dem Mißerfolg des Boten endenden –
+    Botschaft, wie sie in zahlreichen — ebenfalls mit dem Mißerfolg des Boten endenden —
     Straflegenden fokussiert wird. Doch anders als in diesen kommt es hier zu einem Martyrium, wenn
     dies auch nur angedeutet wird (<q type="koran" versstart="036:026" versend="036:026">Q 36:26</q>
     ), das nicht einen der Boten, sondern einen Außenstehenden trifft. Es ist dieses über die
     Straflegenden hinausgehende Detail, das der Geschichte ihre Einmaligkeit gibt und die Verbindung
-    zum Evan-geliengleichnis bezeugt. Die in der Exegese hergestellte Verbindung zu einem Frommen
-    aus Antiochien, der den Märtyrertod stirbt, scheint ein – theologisch entschärfter – Ersatz für
-    die christologische Klimax des Evangeliengleichnisses zu sein. Wie das Opfer des anonymen
-    Märtyrers zeigt, ist der koranischen Version die für das Evangelium – wo das Sohnesopfer einen
-    das Gleichnis sprengenden großen theologischen Diskurs eröffnet – charakteristische Spannung
-    fremd, vielmehr wird das Opfer des Frommen umgehend vergolten. Die koranische Geschichte hat das
+    zum Evangeliengleichnis bezeugt. Die in der Exegese hergestellte Verbindung zu einem Frommen aus
+    Antiochien, der den Märtyrertod stirbt, scheint ein — theologisch entschärfter — Ersatz für die
+    christologische Klimax des Evangeliengleichnisses zu sein. Wie das Opfer des anonymen Märtyrers
+    zeigt, ist der koranischen Version die für das Evangelium — wo das Sohnesopfer einen das
+    Gleichnis sprengenden großen theologischen Diskurs eröffnet — charakteristische Spannung fremd,
+    vielmehr wird das Opfer des Frommen umgehend vergolten. Die koranische Geschichte hat das
     Geschehen an der theologisch entscheidenden Stelle von einem Christusgleichnis in eine
-    Prophetenentsendungsgeschichte ‚umgewandelt‘. Das Opfer bleibt daher Episode – das
-    christologische Gleichnis des Evangeliums wird ‚entallegorisiert‘ und damit theologisch
+    Prophetenentsendungsgeschichte ›umgewandelt‹. Das Opfer bleibt daher Episode — das
+    christologische Gleichnis des Evangeliums wird ›entallegorisiert‹ und damit theologisch
     entschärft.</p>
    <p>Es ist bemerkenswert, daß es auch in der älteren Tradition bereits soteriologisch entschärfte
-    Versionen des Gleichnisses gab. Ein in Ein-zelzügen ähnliches Gleichnis aus der rabbinischen
+    Versionen des Gleichnisses gab. Ein in Einzelzügen ähnliches Gleichnis aus der rabbinischen
     Literatur, <hi rend="italic">Sifre Deuteronomium</hi> (hg. von Finkelstein) zu <q type="bibel"
-     versstart="031:029" versend="032:001" buch="Dtn">Dtn 32,9</q> – spätes drittes Jahrhundert,
-    siehe <q type="koran" versstart="036:001" versend="036:083">TUK_1367 [Dirk Hartwig]</q> –,
+     versstart="031:029" versend="032:001" buch="Dtn">Dtn 32,9</q> — spätes drittes Jahrhundert,
+    siehe <q type="koran" versstart="036:001" versend="036:083">TUK_1367 [Dirk Hartwig]</q> —,
     erzählt die Geschichte ebenfalls bis zur Klimax, die Entsendung des Sohnes des übervorteilten
     Landbesitzers zu den frevlerischen Pächtern, läßt dessen Ergehen dann aber nicht katastrophal,
-    sondern positiv – er ist von Gott erwählt – ausgehen. Das Gleichnis klingt wie eine ‚Korrektur‘
+    sondern positiv — er ist von Gott erwählt — ausgehen. Das Gleichnis klingt wie eine ›Korrektur‹
     der messianischen Version im Evangelium, wenn auch einzelne Forscher für den umgekehrten
     Rezeptionsprozeß plädieren (siehe <bibl Zotero_Id_1="ASANBHWG">Read-Heimerdinger
     2014</bibl>).</p>
-   <p>Die sich im koranischen Gleichnis abzeichnende Abwehr von Soteriologie – ein entscheidender
-    diskursiver Fortschritt in der Auseinandersetzung mit der Nachbartradition – bleibt bei der
+   <p>Die sich im koranischen Gleichnis abzeichnende Abwehr von Soteriologie — ein entscheidender
+    diskursiver Fortschritt in der Auseinandersetzung mit der Nachbartradition — bleibt bei der
     bisher in der Forschung aufrechterhaltenen erbaulichen Lektüre des Gleichnisses unerkannt. An
     die Stelle einer intertextuell sinngefüllten und theologisch relevanten Debatte steht dann eine
     lose an christliche Märtyrerlegenden angehängte Geschichte, deren Eingangsbezeichnung als
@@ -807,33 +802,33 @@
     in mir bleibt und ich in ihm, der bringt viel Frucht; denn ohne mich könnt ihr nichts tun«).</p>
   </text>
   <text versstart="028" versend="029" verfasser="an">
-   <p><lem>wa-mā ʾanzalnā ʿalā qaumihī min baʿdihī min ǧundin mina s-samāʾi wa-mā kunnā munzilīna / ʾin kānat ʾillā ṣaiḥatan wāḥidatan fa-ʾiḏā hum ḫāmidūna]</lem>
+   <p><lem>wa-mā ʾanzalnā ʿalā qaumihī min baʿdihī min ǧundin mina s-samāʾi wa-mā kunnā munzilīn / ʾin kānat ʾillā ṣaiḥatan wāḥidatan fa-ʾiḏā hum ḫāmidūn]</lem>
     Über die ursprünglich entsandten drei Boten verlautet nichts weiter, ihre Verkünderrolle war
-    durch den anonymen Fremden übernommen worden, von ‚dessen Volk‘,
-    <lang xml:lang="ar-Latn">qaumihi</lang> – nicht von ‚ihrem Volk‘ –, abschließend noch die Rede
-    ist. Weitere Boten, etwa Engel – die Ungläubigen würden Hilfe seitens der von ihnen verehrten
+    durch den anonymen Fremden übernommen worden, von ›dessen Volk‹,
+    <lang xml:lang="ar-Latn">qaumihi</lang> — nicht von ›ihrem Volk‹ —, abschließend noch die Rede
+    ist. Weitere Boten, etwa Engel — die Ungläubigen würden Hilfe seitens der von ihnen verehrten
     Geistwesen erwarten, von deren erhoffter Intervention in <q type="koran" versstart="037:171"
      versend="037:173">Q 37:171–173</q> (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK
       2/1</hi>, S. 203f.</bibl>) und <q type="koran" versstart="054:047" versend="054:048">Q
      54:47–48</q> (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S.
-    133f.</bibl>) die Rede ist –, wurden nach der Tötung des Fremden nicht an die Städter gesandt.
+    133f.</bibl>) die Rede ist —, wurden nach der Tötung des Fremden nicht an die Städter gesandt.
     Wie im Evangeliengleichnis ist mit der Tötung des letzten Mahners der Prozeß der
     Prophetenentsendung zum Abschluß gekommen. Über das Evangeliengleichnis hinaus, welches von
-    einer Wende spricht, wird im Koran die Auslöschung der Frevler thematisiert. – Der später, in <q
+    einer Wende spricht, wird im Koran die Auslöschung der Frevler thematisiert. — Der später, in <q
      type="koran" versstart="005:079" versend="005:079">Q 5:79</q>, in der gegen Juden gerichteten
     Polemik durchdringende Topos der in der Geschichte wiederholten Tötung der Propheten (siehe <q
-     type="bibel" versstart="013:034" versend="013:034" buch="Lk">Lk 13,34</q>) – vgl. <bibl
+     type="bibel" versstart="013:034" versend="013:034" buch="Lk">Lk 13,34</q>) — vgl. <bibl
      Zotero_Id_1="FGSSW89C">H.J. Schoeps (1943)</bibl> und <bibl Zotero_Id_1="DGSLVQ6L">O.H. Steck
-     (1967)</bibl> –, ein Verdikt, das bereits in der innerisraelitischen Selbstkritik erhoben
+     (1967)</bibl> —, ein Verdikt, das bereits in der innerisraelitischen Selbstkritik erhoben
     worden war, dürfte hier noch keine Rolle spielen. Die Episode ist im Koran deutlich in ein
-    städtisches und damit ‚sektiererisches‘ Milieu gestellt, das aber nicht mit Antiochien
-    identifiziert wird, sondern – wie Zishan Ghaffar (mündliche Mitteilung) betont –
+    städtisches und damit ›sektiererisches‹ Milieu gestellt, das aber nicht mit Antiochien
+    identifiziert wird, sondern — wie Zishan Ghaffar (mündliche Mitteilung) betont —
     detopographisiert ist. Daß nach dem Tötungsakt die Kommunikation zwischen Gott und den Städtern
-    abbricht und statt dessen eine – an das Jesaja-Gleichnis erinnernde – vernichtende Strafe
+    abbricht und statt dessen eine — an das Jesaja-Gleichnis erinnernde — vernichtende Strafe
     verhängt wird, ist als negative Intertextualität zu dem Ausgang des Evangeliums zu deuten.</p>
   </text>
   <text versstart="030" versend="032" verfasser="an">
-   <p><lem>yā-ḥasratan ʿala l-ʿibādi mā yaʾtīhim min rasūlin ʾillā kānū bihī yastahziʾūna / ʾa-lam yarau kam ʾahlaknā qablahum mina l-qurūni ʾannahum ʾilaihim lā yarǧiʿūna / wa-ʾin kullun lammā ǧamīʿun ladainā muḥḍarūna]</lem>
+   <p><lem>yā-ḥasratan ʿala l-ʿibādi mā yaʾtīhim min rasūlin ʾillā kānū bihī yastahziʾūn / ʾa-lam yarau kam ʾahlaknā qablahum mina l-qurūni ʾannahum ʾilaihim lā yarǧiʿūn / wa-ʾin kullun lammā ǧamīʿun ladainā muḥḍarūn]</lem>
     Zwar ist von einem göttlichen Erlösungsversprechen an das Volk nicht die Rede, doch verlautet
     eine Klage Gottes, ein Weheruf über seine unbotmäßigen Diener. Die Einleitung
     <lang xml:lang="ar-Latn">yā ḥasratan</lang> begegnete auch in <q type="koran"
@@ -854,17 +849,17 @@
      versend="036:083">»Literarkritik«</q>).</p>
   </text>
   <text versstart="033" versend="036" verfasser="an">
-   <p><lem>wa-ʾāyatun lahumu l-ʾarḍu l-maitatu ʾaḥyaināhā wa-ʾaḫraǧnā minhā ḥabban fa-minhu yaʾkulūna / wa-ǧaʿalnā fīhā ǧannātin min naḫīlin wa-ʾaʿnābin wa-faǧǧarnā fīhā mina l-ʿuyūni / li-yaʾkulū min ṯamarihī wa-mā ʿamilathu ʾaidīhim ʾa-fa-lā yaškurūna / subḥāna llaḏī ḫalaqa l-ʾazwāǧa kullahā mimmā tunbitu l-ʾarḍu wa-min ʾanfusihim wa-mimmā lā yaʿlamūna]</lem>
+   <p><lem>wa-ʾāyatun lahumu l-ʾarḍu l-maitatu ʾaḥyaināhā wa-ʾaḫraǧnā minhā ḥabban fa-minhu yaʾkulūn / wa-ǧaʿalnā fīhā ǧannātin min naḫīlin wa-ʾaʿnābin wa-faǧǧarnā fīhā mina l-ʿuyūn / li-yaʾkulū min ṯamarihī wa-mā ʿamilathu ʾaidīhim ʾa-fa-lā yaškurūn / subḥāna llaḏī ḫalaqa l-ʾazwāǧa kullahā mimmā tunbitu l-ʾarḍu wa-min ʾanfusihim wa-mimmā lā yaʿlamūn]</lem>
     Es beginnt eine <lang xml:lang="ar-Latn">āyāt</lang>-Serie, die den Gedanken von Gottes Macht
     zur Totenerweckung, die ja bei dem Martyrium des anonymen Fremden narrativ bereits inszeniert
     wurde, nun für die Zeitgenossen an der Natur demonstriert; es folgt eine Serie von
     Allmachtszeichen in Form von Wir-Prädikationen: Wiederbelebung der Natur, Palmgärten,
     Weingärten, Quellen, Ermöglichung des Unterhalts als Anlaß zum Dank, Hervorbringung der Arten in
-    der Natur und der Geschlechter der Menschen – <lang xml:lang="ar-Latn">zauǧ</lang> deckt sowohl
+    der Natur und der Geschlechter der Menschen — <lang xml:lang="ar-Latn">zauǧ</lang> deckt sowohl
     »Art« als auch »Gatte«, »Gattin« ab.</p>
   </text>
   <text versstart="037" versend="040" verfasser="an">
-   <p><lem>wa-ʾāyatun lahumu l-lailu naslaḫu minhu n-nahāra fa-ʾiḏā hum muẓlimūna / wa-š-šamsu taǧrī li-mustaqarrin lahā ḏālika taqdīru l-ʿazīzi l-ʿalīmi / wa-l-qamara qaddarnāhu manāzila ḥattā ʿāda ka-l-ʿurǧūni l-qadīmi / la š-šamsu yanbaġī lahā ʾan tudrika l-qamara wa-la l-lailu sābiqu n-nahāri wa-kullun fī falakin yasbaḥūna]</lem>
+   <p><lem>wa-ʾāyatun lahumu l-lailu naslaḫu minhu n-nahāra fa-ʾiḏā hum muẓlimūn / wa-š-šamsu taǧrī li-mustaqarrin lahā ḏālika taqdīru l-ʿazīzi l-ʿalīm / wa-l-qamara qaddarnāhu manāzila ḥattā ʿāda ka-l-ʿurǧūni l-qadīm / la š-šamsu yanbaġī lahā ʾan tudrika l-qamara wa-la l-lailu sābiqu n-nahāri wa-kullun fī falakin yasbaḥūn]</lem>
     Von der Erde wendet sich der Blick zum Himmel, wo der geregelte Wechsel von Nacht und Tag, der
     vorgezeichnete Lauf von Sonne und Mond als Zeichen von Gottes Macht über den Kosmos in den Blick
     treten (vgl. <q type="koran" versstart="017:012" versend="017:012">Q 17:12</q>).
@@ -874,7 +869,7 @@
     Wissensbestände neu gedeutet: Im geozentrischen Weltbild der Antike mit der Erde als ruhendem
     Mittelpunkt des Universums, um den alle Himmelskörper kreisen, figurieren die Sphären als
     konzentrisch um die Weltmitte angeordnete, sich gleichförmig drehende Hohlkugeln, an denen die
-    Gestirne befestigt sind. Durch diese Halterung werden dem Modell zufolge die Himmels-körper in
+    Gestirne befestigt sind. Durch diese Halterung werden dem Modell zufolge die Himmelskörper in
     ihren stets gleichbleibenden Kreisbahnen gehalten. Die äußerste Sphäre ist die des
     Fixsternhimmels; auf ihr sind alle Fixsterne befestigt. Hinzu kommen die Sphären der damals
     bekannten, mit bloßem Auge sichtbaren fünf Planeten Merkur, Venus, Mars, Jupiter und Saturn
@@ -894,7 +889,7 @@
     Lichtrest herunterkommen kann, der den Vergleich mit einem Palmstengel zuläßt.</p>
   </text>
   <text versstart="041" versend="044" verfasser="an">
-   <p><lem>wa-ʾāyatun lahum ʾannā ḥamalnā ḏurriyyatahum fi l-fulki l-mašḥūni / wa-ḫalaqnā lahum min miṯlihī mā yarkabūna / wa-ʾin našaʾ nuġriqhum fa-lā ṣarīḫa lahum wa-lā hum yunqaḏūna / ʾillā raḥmatan minnā wa-matāʿan ʾilā ḥīnin]</lem>
+   <p><lem>wa-ʾāyatun lahum ʾannā ḥamalnā ḏurriyyatahum fi l-fulki l-mašḥūn / wa-ḫalaqnā lahum min miṯlihī mā yarkabūn / wa-ʾin našaʾ nuġriqhum fa-lā ṣarīḫa lahum wa-lā hum yunqaḏūn / ʾillā raḥmatan minnā wa-matāʿan ʾilā ḥīn]</lem>
     Nach den kosmischen <lang xml:lang="ar-Latn">āyāt</lang> folgen solche der Geschichte,
     historisch an erster Stelle die wunderbare Rettung der Menschen in der Arche, vgl. die ähnliche
     Reminiszenz in <q type="koran" versstart="017:001" versend="017:111">Q 17</q>. Ihre
@@ -905,7 +900,7 @@
      versend="019:058">Q 19:58</q>) nicht erforderlich. <lang xml:lang="ar-Latn">Ḏurrīyatahum</lang>
     sollte hier nicht mit »Nachkommen« übersetzt werden, <bibl Zotero_Id_1="MKTX4VQ9">Blachère
      (1949:471)</bibl> übersetzt »les leurs« (»die Ihren«). <lang xml:lang="ar-Latn">Ḏurrīya</lang>
-    ist hier ein Kürzel für <lang xml:lang="ar-Latn">ḏurrīyat Ādam</lang> – von den
+    ist hier ein Kürzel für <lang xml:lang="ar-Latn">ḏurrīyat Ādam</lang> — von den
     <lang xml:lang="ar-Latn">banū Ādam</lang> ist (in dieser Sure erstmals und daher auffallend) in
      <q type="koran" versstart="036:060" versend="036:060">V. 60</q> die Rede. Entsprechend
     übersetzt <bibl Zotero_Id_1="Q9EDU63R">Bobzin (2010:388)</bibl> mit »Menschenkinder«.
@@ -915,10 +910,10 @@
    <p>Die Himmels-<lang xml:lang="ar-Latn">āyāt</lang> endeten (<q type="koran" versstart="036:040"
      versend="036:040">V. 40</q>) mit dem Bild der Sphäre, <lang xml:lang="ar-Latn">falak</lang>,
     auf der die Himmelskörper gleichsam »schwimmen«. Es dürfte kein Zufall sein, daß daran eine
-    Aussage über das ähnlich lautende <lang xml:lang="ar-Latn">fulk</lang>, »Schiff« – bereits
+    Aussage über das ähnlich lautende <lang xml:lang="ar-Latn">fulk</lang>, »Schiff« — bereits
     eingeführt in <q type="koran" versstart="037:140" versend="037:140">Q 37:140</q>, wohl ein
     Fremdwort (siehe <bibl Zotero_Id_1="Z468GCXQ">Jeffery, <hi rend="italic">FVQ</hi>, S.
-     229f.</bibl>) –, anschließt, das – ebenfalls schwimmend – in <q type="koran"
+     229f.</bibl>) —, anschließt, das — ebenfalls schwimmend — in <q type="koran"
      versstart="036:042" versend="036:042">V. 42</q> als Instrument der Rettung begegnet. Diese
     Erinnerung leitet über zu dem Gedanken der Schiffahrt als solcher als eines Geschenks Gottes.
     Daß Schiffe eine besondere Gabe Gottes sind, ging bereits aus <q type="koran"
@@ -936,22 +931,115 @@
     Sure (<q type="koran" versstart="078:006" versend="078:016">Q 78:6–16</q>), die in <q
      type="koran" versstart="036:001" versend="036:083">Q 36</q> erweitert wird. Es lohnt sich, die
     beiden Texte nebeneinanderzustellen:</p>
-   <p>6 a-lam naǧʿali l-arḍa mihādā 7 wa-l-ǧibāla autādā 8 wa-ḫalaqnākum azwāǧā 9 wa-ǧaʿalnā
-    naumakum subātā 10 wa-ǧaʿalnā l-laila libāsā 11 wa-ǧaʿalnā n-nahāra maʿāšā 12 wa-banainā
-    fauqakum sabʿan šidādā 13 wa-ǧaʿalnā sirāǧan wahhāǧā 14 wa-anzalnā mina l-muʿṣirāti māʾan
-    ṯaǧǧāǧā 15 li-nuḫriǧa bihi ḥabban wa-nabātā 16 wa-ǧannātin alfāfā 17 inna yauma l-faṣli kāna
-    mīqātā 6 Haben wir die Erde nicht zur ebenen Fläche ausgebreitet 7 und die Berge zu Zeltpflöcken
-    gemacht? 8 Haben wir euch nicht zu Paaren geschaffen 9 und euch den Schlaf zur Ruhe eingesetzt?
-    10 Haben wir euch nicht die Nacht zum Gewand gemacht 11 und den Tag zum Lebensunterhalt? 12
-    Haben wir nicht über euch sieben Festen eingesetzt 13 und eine helleuchtende Lampe? 14 Haben wir
-    nicht von den Wolken reichlich Wasser herabfließen lassen 15 und damit Korn und Pflanzen
-    sprießen lassen 16 und dichtbewachsene Gärten? 17 Der Tag der Entscheidung ist ein fester
-    Termin!</p>
+   <p>
+    <table cols="2" rows="12">
+     <head/>
+     <row>
+      <cell>6</cell>
+      <cell>a-lam naǧʿali l-arḍa mihādā</cell>
+     </row>
+     <row>
+      <cell>7</cell>
+      <cell>wa-l-ǧibāla autādā</cell>
+     </row>
+     <row>
+      <cell>8</cell>
+      <cell>wa-ḫalaqnākum azwāǧā</cell>
+     </row>
+     <row>
+      <cell>9</cell>
+      <cell>wa-ǧaʿalnā naumakum subātā</cell>
+     </row>
+     <row>
+      <cell>10</cell>
+      <cell>wa-ǧaʿalnā l-laila libāsā</cell>
+     </row>
+     <row>
+      <cell>11</cell>
+      <cell>wa-ǧaʿalnā n-nahāra maʿāšā</cell>
+     </row>
+     <row>
+      <cell>12</cell>
+      <cell>wa-banainā fauqakum sabʿan šidādā</cell>
+     </row>
+     <row>
+      <cell>13</cell>
+      <cell>wa-ǧaʿalnā sirāǧan wahhāǧā</cell>
+     </row>
+     <row>
+      <cell>14</cell>
+      <cell>wa-anzalnā mina l-muʿṣirāti māʾan ṯaǧǧāǧā</cell>
+     </row>
+     <row>
+      <cell>15</cell>
+      <cell>li-nuḫriǧa bihi ḥabban wa-nabātā</cell>
+     </row>
+     <row>
+      <cell>16</cell>
+      <cell>wa-ǧannātin alfāfā</cell>
+     </row>
+     <row>
+      <cell>17</cell>
+      <cell>inna yauma l-faṣli kāna mīqātā</cell>
+     </row>
+    </table>
+    <table cols="2" rows="12">
+     <head/>
+     <row>
+      <cell>6</cell>
+      <cell>Haben wir die Erde nicht zur ebenen Fläche ausgebreitet</cell>
+     </row>
+     <row>
+      <cell>7</cell>
+      <cell>und die Berge zu Zeltpflöcken gemacht?</cell>
+     </row>
+     <row>
+      <cell>8</cell>
+      <cell>Haben wir euch nicht zu Paaren geschaffen</cell>
+     </row>
+     <row>
+      <cell>9</cell>
+      <cell>und euch den Schlaf zur Ruhe eingesetzt?</cell>
+     </row>
+     <row>
+      <cell>10</cell>
+      <cell>Haben wir euch nicht die Nacht zum Gewand gemacht</cell>
+     </row>
+     <row>
+      <cell>11</cell>
+      <cell>und den Tag zum Lebensunterhalt?</cell>
+     </row>
+     <row>
+      <cell>12</cell>
+      <cell>Haben wir nicht über euch sieben Festen eingesetzt</cell>
+     </row>
+     <row>
+      <cell>13</cell>
+      <cell>und eine helleuchtende Lampe?</cell>
+     </row>
+     <row>
+      <cell>14</cell>
+      <cell>Haben wir nicht von den Wolken reichlich Wasser herabfließen lassen</cell>
+     </row>
+     <row>
+      <cell>15</cell>
+      <cell>und damit Korn und Pflanzen sprießen lassen</cell>
+     </row>
+     <row>
+      <cell>16</cell>
+      <cell>und dichtbewachsene Gärten?</cell>
+     </row>
+     <row>
+      <cell>17</cell>
+      <cell>Der Tag der Entscheidung ist ein fester Termin!</cell>
+     </row>
+    </table>
+   </p>
    <p>Mit <q type="koran" versstart="078:017" versend="078:017">V. 17</q> folgt ein eschatologischer
     Schlußteil, der den Gedanken des Anfangsteils (Eschatologie) wieder aufgreift. Der Katalog
     göttlicher Schöpfungstaten (<lang xml:lang="ar-Latn">āyāt</lang>-Serie) in <q type="koran"
      versstart="078:006" versend="078:016">Q 78:6–16</q> soll jene Zweifel an der Allmacht Gottes
-    zerstreuen, die bei einigen den Glauben an das Jüngste Gericht noch blockieren. – <q
+    zerstreuen, die bei einigen den Glauben an das Jüngste Gericht noch blockieren. — <q
      type="koran" versstart="078:001" versend="078:040">Sure 78</q> bietet einen der seltenen Fälle,
     in denen ein nichtnarrativer biblischer Subtext klar zutage tritt: Die
     <lang xml:lang="ar-Latn">āyāt</lang>-Serie in den <q type="koran" versstart="017:006"
@@ -967,13 +1055,13 @@
      6–12</q> wird der koranisch nicht reflektierte Mythos von der Trennung der Wasser angeführt.)
     Du tränkst die Berge von oben her, du machst das Land voll Früchte, die du schaffest. / Du läßt
     das Gras wachsen für das Vieh und Saat zu Nutz den Menschen, daß du Brot aus der Erde
-    hervorbringst. / &lt;…&gt; Du hast den Mond gemacht, das Jahr danach zu teilen; die Sonne weiß
-    ihren Niedergang. / Du machst Finsternis, daß es Nacht wird; da regen sich alle Tiere des
-    Waldes, / die jungen Löwen, die da brüllen nach Raub und ihre Speise fordern von Gott. / Wenn
-    aber die Sonne aufgeht, heben sie sich davon und legen sich in ihre Höhlen. / Dann geht der
-    Mensch hinaus an seine Arbeit und an sein Werk bis an den Abend. (<q type="bibel"
-     versstart="104:001" versend="104:001" buch="Ps">Verse 13–14</q> und <q type="bibel"
-     versstart="104:001" versend="104:001" buch="Ps">19–23</q>)</p>
+    hervorbringst. / 〈…〉 Du hast den Mond gemacht, das Jahr danach zu teilen; die Sonne weiß ihren
+    Niedergang. / Du machst Finsternis, daß es Nacht wird; da regen sich alle Tiere des Waldes, /
+    die jungen Löwen, die da brüllen nach Raub und ihre Speise fordern von Gott. / Wenn aber die
+    Sonne aufgeht, heben sie sich davon und legen sich in ihre Höhlen. / Dann geht der Mensch hinaus
+    an seine Arbeit und an sein Werk bis an den Abend. (<q type="bibel" versstart="104:001"
+     versend="104:001" buch="Ps">Verse 13–14</q> und <q type="bibel" versstart="104:001"
+     versend="104:001" buch="Ps">19–23</q>)</p>
    <p>Wenn in <q type="koran" versstart="036:001" versend="036:083">Q 36</q> auch das auffallende
     Bild von der Erde als Zelt (<q type="koran" versstart="078:006" versend="078:007">Q 78,6–7</q>),
     festgegründet auf Pfeilern (<q type="bibel" versstart="104:001" versend="104:001" buch="Ps">Ps
@@ -999,7 +1087,7 @@
     Erschaffung der Menschen zu Paaren, denen die Nacht als Zeit ihrer sexuellen Erfüllung
     eingerichtet ist (eindeutig in <q type="koran" versstart="078:008" versend="078:010">Q
      78:8–10</q>, wohl ebenso zu verstehen in <q type="koran" versstart="036:036" versend="036:037"
-     >Q 36:36–37</q>) – ein markanter koranischer Nachtrag zu dem psalmistischen Bild des
+     >Q 36:36–37</q>) — ein markanter koranischer Nachtrag zu dem psalmistischen Bild des
     menschlichen Habitats, das die Sexualität nicht thematisiert. Dieser Gedanke wurde in <q
      type="koran" versstart="078:001" versend="078:040">Q 78</q> mit einer im Koran einzigartigen
     Metapher ausgedrückt: Die beiden Geschlechter erscheinen in ein kosmisches Gewand gehüllt (<q
@@ -1009,12 +1097,12 @@
     Pracht und Hoheit bist du angetan (<lang xml:lang="ar-Latn">lavašta</lang>). Du hüllst dich in
     Licht wie in ein Kleid <lang xml:lang="ar-Latn">ka-salmah</lang>)« (<q type="bibel"
      versstart="104:001" versend="104:001" buch="Ps">V. 1–2</q>). Im Koran wird dieser
-    Anthropomorphismus gewissermaßen ‚korrigiert‘, indem die Perspektive von Gott weg auf den
+    Anthropomorphismus gewissermaßen ›korrigiert‹, indem die Perspektive von Gott weg auf den
     Menschen gelenkt wird. Die kosmische Metapher braucht in <q type="koran" versstart="078:001"
      versend="078:040">Q 78</q> nicht geopfert zu werden, sie wird auf das Menschenpaar übertragen;
     obwohl diese Metapher in <q type="koran" versstart="036:001" versend="036:083">Q 36</q> nicht
-    wiederkehrt, dürfte sie intertextuell präsent sein. – Nicht nur mit der in der zeitgenössischen
-    Bibelexegese geläufigen Strategie der ‚Anthropomorphismuskorrektur‘, auch mit dem Verweis auf
+    wiederkehrt, dürfte sie intertextuell präsent sein. — Nicht nur mit der in der zeitgenössischen
+    Bibelexegese geläufigen Strategie der ›Anthropomorphismuskorrektur‹, auch mit dem Verweis auf
     den Erkenntnisstand seiner Zeit, auf die auf sieben Planetensphären basierende kosmische
     Struktur (so in <q type="koran" versstart="078:001" versend="078:040">Q 78</q>, <q type="koran"
      versstart="036:040" versend="036:040">Q 36:40</q> deutet dieses Wissen an), weist sich der
@@ -1039,18 +1127,18 @@
     kosmischen Metaphorik schwelgenden Psalmtext, aber auch ausnimmt, so signifikant und theologisch
     bereichernd ist doch seine positive Umdeutung des großen Vorgängertextes für die neue
     Wahrnehmung der Welt. Der in der vorislamischen Weltsicht der Natur ausgelieferte Mensch wird im
-    Koran als behaust dargestellt. Ihm sind – anders als dem vorislamischen Helden – weder Unterhalt
+    Koran als behaust dargestellt. Ihm sind — anders als dem vorislamischen Helden — weder Unterhalt
     noch sexuelle Erfüllung verwehrt oder unzugänglich gemacht. Der Korantext kehrt das altarabische
     Verhältnis von Mensch und Natur (siehe dazu <bibl Zotero_Id_1="GZUBHJWN">Müller 1981</bibl>) um.
     Er tut das aber nicht mit Hilfe einer aus der Realität abgeleiteten Argumentation, sondern
     mittels Referentialität, mit Hilfe des psalmistischen Intertexts, aus dem er gewissermaßen den
-    für die Menschen relevanten Teil herausschneidet. Der Psalmist preist – den Blick nach oben
-    gerichtet – die monumentale Herrlichkeit Gottes, der koranische Sprecher läßt Gott – von oben
-    auf den Menschen blickend – diesem seine irdische Behausung als das erklären, was sie als
+    für die Menschen relevanten Teil herausschneidet. Der Psalmist preist — den Blick nach oben
+    gerichtet — die monumentale Herrlichkeit Gottes, der koranische Sprecher läßt Gott — von oben
+    auf den Menschen blickend — diesem seine irdische Behausung als das erklären, was sie als
     Schöpfungswerk ist: ein fast paradiesisches Szenario der Interaktion, in dem der Mensch im
     Zentrum steht. Dem Psalmtext wird eine koranische Gegenversion gegenübergestellt, bei der der
     Sprecherwechsel von Mensch zu Gott und die damit gegebene Umkehrung der Perspektive des Blickes
-    auf die Welt zu einer neuen – gegenüber dem Psalm emotional zurückgenommenen –, kühl
+    auf die Welt zu einer neuen — gegenüber dem Psalm emotional zurückgenommenen —, kühl
     argumentierenden Darstellung der Welt geführt haben. Psalmistische Hymnik hat koranischer
     Rhetorik Platz gemacht.</p>
    <p>Die beiden <lang xml:lang="ar-Latn">āyāt</lang>-Texte mit ihren psalmreferentiellen
@@ -1071,24 +1159,24 @@
     zuweilen sogar als idyllisches Szenario dar. Sie präsentieren ihn als Ort der Beglückung und der
     Muße, als Ort der Entgegennahme göttlicher Wohltaten und ethisch motivierter menschlicher
     Interaktion. Gerade die im Falle von <q type="bibel" versstart="104:001" versend="104:001"
-     buch="Ps">Psalm 104</q> – aber auch von <q type="bibel" versstart="036:001" versend="036:001"
+     buch="Ps">Psalm 104</q> — aber auch von <q type="bibel" versstart="036:001" versend="036:001"
      >Psalm 136</q> (siehe dazu <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S.
-     586–620</bibl> zu <q type="koran" versstart="055:001" versend="055:078">Q 55</q>) –
+     586–620</bibl> zu <q type="koran" versstart="055:001" versend="055:078">Q 55</q>) —
     nachweisbare koranische Orientierung an biblischen Bildern legt die Annahme einer grundsätzlich
     eher textreferentiellen als wirklichkeitsbezogenen Aussage im Koran nahe, wenn dieses Problem
     auch noch genauerer Untersuchung bedarf.</p>
   </text>
   <text versstart="045" versend="047" verfasser="an">
-   <p><lem>wa-ʾiḏā qīla lahumu ttaqū mā baina ʾaidīkum wa-mā ḫalfakum laʿallakum turḥamūna / &lt;wa-mā taʾtīhim min ʾāyatin min ʾāyāti rabbihim ʾillā kānū ʿanhā muʿriḍīna&gt; / wa-ʾiḏā qīla lahum ʾanfiqū mimmā razaqakumu llāhu qāla llaḏīna kafarū li-llaḏīna ʾāmanū ʾa-nuṭʿimu man lau yašāʾu llāhu ʾaṭʿamahū ʾin ʾantum ʾillā fī ḍalālin mubīnin]</lem>
+   <p><lem>wa-ʾiḏā qīla lahumu ttaqū mā baina ʾaidīkum wa-mā ḫalfakum laʿallakum turḥamūn / 〈wa-mā taʾtīhim min ʾāyatin min ʾāyāti rabbihim ʾillā kānū ʿanhā muʿriḍīn〉 / wa-ʾiḏā qīla lahum ʾanfiqū mimmā razaqakumu llāhu qāla llaḏīna kafarū li-llaḏīna ʾāmanū ʾa-nuṭʿimu man lau yašāʾu llāhu ʾaṭʿamahū ʾin ʾantum ʾillā fī ḍalālin mubīn]</lem>
     Der erste <lang xml:lang="ar-Latn">iḏā</lang>-Satz (<q type="koran" versstart="036:045"
      versend="036:045">V. 45</q>) ist elliptisch, was von mehreren Forschern als Crux wahrgenommen
     worden ist. <q type="koran" versstart="036:046" versend="036:046">V. 46</q> enthält nicht das
     erwartete Referat der gegnerischen Rede, sondern einen Kommentar, der eine Klage über die
     Verweigerung ihrer Gottesfurcht bringt, um die es bei
     <lang xml:lang="ar-Latn">mā baina aidikum wa-mā ḫalfakum</lang> gehen dürfte. Diese
-    umschreibende Gotteserwähnung – von Gott wird in <q type="koran" versstart="017:060"
+    umschreibende Gotteserwähnung — von Gott wird in <q type="koran" versstart="017:060"
      versend="017:060">Q 17:60</q> gesagt: <lang xml:lang="ar-Latn">aḥāṭa bi-n-nāsi</lang>, »dein
-    Herr hält die Menschen umzingelt« – gibt der auch anderswo hervorgehobenen Nähe Gottes Ausdruck.
+    Herr hält die Menschen umzingelt« — gibt der auch anderswo hervorgehobenen Nähe Gottes Ausdruck.
      <bibl Zotero_Id_1="J7GZ5X57">Zirker (2003:274)</bibl> versteht den Ausdruck als »das, was vor
     euch und hinter euch ist«, doch dürfte <lang xml:lang="ar-Latn">ittaqa</lang> eher auf ein
     persönliches Gegenüber deuten. Der zweite <lang xml:lang="ar-Latn">iḏā</lang>-Satz (<q
@@ -1110,31 +1198,31 @@
      30</q> gestellt werden (siehe oben zu <q type="koran" versstart="036:030" versend="036:030">V.
      30</q> und <q type="literarkritik" versstart="036:001" versend="036:083">»Literarkritik«</q>).
     Zishan Ghaffar (mündliche Mitteilung) plädiert aber für seine Belassung an seiner Stelle, da er
-    – wenn auch nachträglich – noch einmal die Ablehnung der vorher entfalteten
+    — wenn auch nachträglich — noch einmal die Ablehnung der vorher entfalteten
     <lang xml:lang="ar-Latn">āyāt</lang> zum Ausdruck bringt.</p>
   </text>
   <text versstart="048" versend="054" verfasser="an">
-   <p><lem>wa-yaqūlūna matā hāḏa l-waʿdu ʾin kuntum ṣādiqīna / mā yanẓurūna ʾillā ṣaiḥatan wāḥidatan taʾḫuḏuhum wa-hum yaḫiṣṣimūna / fa-lā yastaṭīʿūna tauṣiyatan wa-lā ʾilā ʾahlihim yarǧiʿūna / wa-nufiḫa fi ṣ-ṣūri fa-ʾiḏā hum mina l-ʾaǧdāṯi ʾilā rabbihim yansilūna / qālū yā-wailanā man baʿaṯanā min marqadinā hāḏā mā waʿada r-raḥmānu wa-ṣadaqa l-mursalūna / ʾin kānat ʾillā ṣaiḥatan wāḥidatan fa-ʾiḏā hum ǧamīʿun ladainā muḥḍarūna / fa-l-yauma lā tuẓlamu nafsun šaiʾan wa-lā tuǧzauna ʾillā mā kuntum taʿmalūna]</lem>
+   <p><lem>wa-yaqūlūna matā hāḏa l-waʿdu ʾin kuntum ṣādiqīn / mā yanẓurūna ʾillā ṣaiḥatan wāḥidatan taʾḫuḏuhum wa-hum yaḫiṣṣimūn / fa-lā yastaṭīʿūna tauṣiyatan wa-lā ʾilā ʾahlihim yarǧiʿūn / wa-nufiḫa fi ṣ-ṣūri fa-ʾiḏā hum mina l-ʾaǧdāṯi ʾilā rabbihim yansilūn / qālū yā-wailanā man baʿaṯanā min marqadinā hāḏā mā waʿada r-raḥmānu wa-ṣadaqa l-mursalūn / ʾin kānat ʾillā ṣaiḥatan wāḥidatan fa-ʾiḏā hum ǧamīʿun ladainā muḥḍarūn / fa-l-yauma lā tuẓlamu nafsun šaiʾan wa-lā tuǧzauna ʾillā mā kuntum taʿmalūn]</lem>
     Die herausfordernde Frage der Gegner nach dem Zeitpunkt des Gerichts ist bereits Topos (vgl.
     frühmekkanisch <lang xml:lang="ar-Latn">yasʾalūnaka ʿani s-sāʿati aiyāna mursāhā</lang>, »Sie
     fragen dich nach der Stunde, wann sie eintreffen wird«, <q type="koran" versstart="079:042"
-     versend="079:042">Q 79:42</q>). Die Antwort – wie im Stadtgleichnis (<q type="koran"
-     versstart="036:013" versend="036:033">V. 13–32</q>) ihre Plötzlichkeit betonend – ist zynisch.
+     versend="079:042">Q 79:42</q>). Die Antwort — wie im Stadtgleichnis (<q type="koran"
+     versstart="036:013" versend="036:033">V. 13–32</q>) ihre Plötzlichkeit betonend — ist zynisch.
     Es wird ihnen nicht mehr Zeit für eine letzthändige Verfügung bleiben. Die Übersetzung mit
     »Testament« (<q type="koran" versstart="036:050" versend="036:050">V. 50</q>, vgl. <bibl
      Zotero_Id_1="Q9EDU63R">Bobzin 2010:388</bibl>; siehe aber <bibl Zotero_Id_1="2MN3J8JI">Leicht
-     2008</bibl>) ist problematisch, weil sie Schriftlichkeit voraussetzen würde. – Es folgt eine
+     2008</bibl>) ist problematisch, weil sie Schriftlichkeit voraussetzen würde. — Es folgt eine
     eschatologische Szenerie, nun nicht mehr wie frühmekkanisch als
     <lang xml:lang="ar-Latn">iḏā</lang>-, d.h. Wenn-dann-Vorhersage, sondern als Behauptung über die
     Zukunft. Sie wird wieder beschlossen mit der Nennung des einzigen Schreis wie in <q type="koran"
      versstart="036:049" versend="036:049">V. 49</q> und <q type="koran" versstart="036:053"
      versend="036:053">V. 53</q>, der die Betroffenen vielleicht zunächst innerweltlich ereilt,
-    bevor er – zusätzlich zum Posaunenstoß (vgl. <q type="bibel" versstart="008:001"
-     versend="008:001" buch="Offb">Offb 8–9</q>) – noch ein weiteres Mal ertönt, um die
+    bevor er — zusätzlich zum Posaunenstoß (vgl. <q type="bibel" versstart="008:001"
+     versend="008:001" buch="Offb">Offb 8–9</q>) — noch ein weiteres Mal ertönt, um die
     eschatologische Erweckung einzuleiten.</p>
   </text>
   <text versstart="055" versend="058" verfasser="an">
-   <p><lem>ʾinna ʾaṣḥāba l-ǧannati l-yauma fī šuġulin fākihūna / hum wa-ʾazwāǧuhum fī ẓilālin ʿala l-ʾarāʾiki muttakiʾūna / lahum fīhā fākihatun wa-lahum mā yaddaʿūna /salāmun qaulan min rabbin raḥīmin]</lem>
+   <p><lem>ʾinna ʾaṣḥāba l-ǧannati l-yauma fī šuġulin fākihūn / hum wa-ʾazwāǧuhum fī ẓilālin ʿala l-ʾarāʾiki muttakiʾūn / lahum fīhā fākihatun wa-lahum mā yaddaʿūn /salāmun qaulan min rabbin raḥīm]</lem>
     Nach frühmekkanischem Muster folgt auf die eschatologische Szenerie ein Doppelbild. Die kurze
     Paradiesbeschreibung spielt mit der Wurzel <lang xml:lang="ar-Latn">FKH</lang>, die als Verb für
     »sich erfreuen«, als Substantiv für »Obst« eingesetzt wird:
@@ -1152,7 +1240,7 @@
     steht der sprachliche Aspekt im Vordergrund.</p>
   </text>
   <text versstart="059" versend="064" verfasser="an">
-   <p><lem>wa-mtāzu l-yauma ʾayyuha l-muǧrimūna / ʾa-lam ʾaʿhad ʾilaikum yā-banī ʾādama ʾan lā taʿbudu š-šaiṭāna ʾinnahū lakum ʿaduwwun mubīnun / wa-ʾani ʿbudūnī hāḏā ṣirāṭun mustaqīmun / wa-la-qad ʾaḍalla minkum ǧibillan kaṯīran ʾa-fa-lam takūnū taʿqilūna / hāḏihī ǧahannamu llatī kuntum tūʿadūna / ṣlauha l-yauma bi-mā kuntum takfurūna]</lem>
+   <p><lem>wa-mtāzu l-yauma ʾayyuha l-muǧrimūn / ʾa-lam ʾaʿhad ʾilaikum yā-banī ʾādama ʾan lā taʿbudu š-šaiṭāna ʾinnahū lakum ʿaduwwun mubīn / wa-ʾani ʿbudūnī hāḏā ṣirāṭun mustaqīmun / wa-la-qad ʾaḍalla minkum ǧibillan kaṯīran ʾa-fa-lam takūnū taʿqilūn / hāḏihī ǧahannamu llatī kuntum tūʿadūn / ṣlauha l-yauma bi-mā kuntum takfurūn]</lem>
     Es folgt die konträr, nämlich in abweisendem Ton gehaltene Einblendung der Übeltäter, die
     bereits an ihren Vergeltungsort projiziert sind. Doch wird ihre Strafe nur gestreift, die
     Beschreibung ihrer Lage konzentriert sich auf Argumentation, in einer rhetorischen Frage
@@ -1173,16 +1261,16 @@
     geworden.</p>
   </text>
   <text versstart="065" versend="068" verfasser="an">
-   <p><lem>al-yauma naḫtimu ʿalā ʾafwāhihim wa-tukallimunā ʾaidīhim wa-tašhadu ʾarǧuluhum bi-mā kānū yaksibūna / wa-lau našāʾu la-ṭamasnā ʿalā ʾaʿyunihim fa-stabaqu ṣ-ṣirāṭa fa-ʾannā yubṣirūna / wa-lau našāʾu la-masaḫnāhum ʿalā makānatihim fa-ma staṭāʿū muḍiyyan wa-lā yarǧiʿūna / wa-man nuʿammirhu nunakkishu fi l-ḫalqi ʾa-fa-lā yaʿqilūna]</lem>
+   <p><lem>al-yauma naḫtimu ʿalā ʾafwāhihim wa-tukallimunā ʾaidīhim wa-tašhadu ʾarǧuluhum bi-mā kānū yaksibūn / wa-lau našāʾu la-ṭamasnā ʿalā ʾaʿyunihim fa-stabaqu ṣ-ṣirāṭa fa-ʾannā yubṣirūn / wa-lau našāʾu la-masaḫnāhum ʿalā makānatihim fa-ma staṭāʿū muḍiyyan wa-lā yarǧiʿūn / wa-man nuʿammirhu nunakkishu fi l-ḫalqi ʾa-fa-lā yaʿqilūn]</lem>
     Rede über die Frevler, wieder zurückprojiziert auf den Jüngsten Tag, denen nun das Sprechen
     verunmöglicht wird, so daß sie mit Gebärdensprache, sogar mit Hilfe ihrer Füße, sprechen müssen,
-    um Rechenschaft über ihr Tun abzulegen – eine Körpermetapher, die an die bereits in <q
+    um Rechenschaft über ihr Tun abzulegen — eine Körpermetapher, die an die bereits in <q
      type="koran" versstart="076:004" versend="076:004">Q 76:4</q> vorgestellten Ketten, die eine
     freie Verfügung über die Wahrnehmung behinderten, anschließt. Die Vorstellung, daß alle
     Gliedmaßen (Ohren, Augen, Herz) vor Gericht zum Zeugnis aufgerufen sind, wird erst am Ende des
     Dekalogs in <q type="koran" versstart="017:036" versend="017:036">Q 17:36</q> thematisiert.
-    Weitere Behinderungen an ihrer Wahrnehmung und Bewegung – nun wieder für das irdische Leben der
-    Gegner – werden angedroht. Auch Langlebigkeit bewahrt vor dem angedrohten Geschick nicht; auch
+    Weitere Behinderungen an ihrer Wahrnehmung und Bewegung — nun wieder für das irdische Leben der
+    Gegner — werden angedroht. Auch Langlebigkeit bewahrt vor dem angedrohten Geschick nicht; auch
     solche, denen ein langes Leben geschenkt ist, sind nicht sicher: Sie werden durch ihr Alter
     hilflos gemacht. Die Vor- und Rückblenden in dem früher eindeutig dreistufigen Ablauf der
     eschatologischen Ereignisse: Szenerie, Vorgang und Vergeltung zeigen ein neues Verhältnis zu dem
@@ -1191,17 +1279,17 @@
     in der Lebenswelt angefangen.</p>
   </text>
   <text versstart="069" versend="070" verfasser="an">
-   <p><lem>wa-mā ʿallamnāhu š-šiʿra wa-mā yanbaġī lahū ʾin huwa ʾillā ḏikrun wa-qurʾānun mubīnun /li-yunḏira man kāna ḥayyan wa-yaḥiqqa l-qaulu ʿala l-kāfirīna]</lem>
+   <p><lem>wa-mā ʿallamnāhu š-šiʿra wa-mā yanbaġī lahū ʾin huwa ʾillā ḏikrun wa-qurʾānun mubīn /li-yunḏira man kāna ḥayyan wa-yaḥiqqa l-qaulu ʿala l-kāfirīn]</lem>
     Unvermittelt folgt eine Offenbarungsbestätigung, vgl. zu diesem abrupten Einsatz von
     Schlußteilen <q type="koran" versstart="026:192" versend="026:192">Q 26:192</q>. Angesichts
     ihrer Frequenz im Koran möchte man an eine extratextuelle Markierung des Schlußteils, etwa durch
     besonderes Sprechpathos, denken. In <q type="koran" versstart="036:001" versend="036:083">Q
      36</q> distanziert sie den Verkünder erneut von den Dichtern. Seine Rede ist, wie gleich in der
     einleitenden Tröstung (<q type="koran" versstart="036:003" versend="036:004">V. 3–4</q>, <q
-     type="koran" versstart="036:006" versend="036:006">6</q>) ausgesprochen, Mahnung – offenbar im
+     type="koran" versstart="036:006" versend="036:006">6</q>) ausgesprochen, Mahnung — offenbar im
     Gegensatz zu der nicht ernsthaften oder nicht wahrheitsgemäßen Rede bestimmter Dichter, von
     deren Unverläßlichkeit besonders in <q type="koran" versstart="026:001" versend="026:227">Q
-     26</q> die Rede war, wo eine Polemik gegen die ‚offiziellen‘ Qasidendichter, die der Unwahrheit
+     26</q> die Rede war, wo eine Polemik gegen die ›offiziellen‹ Qasidendichter, die der Unwahrheit
     überführt wurden, geschleudert wurde. Von ihr wurden in einer einschränkenden Ausnahme die
     (politischen) <lang xml:lang="ar-Latn">Hiǧāʾ</lang>-Dichter (siehe zu ihnen <bibl
      Zotero_Id_1="3RYKL7UX">Ullmann 1966</bibl>) ausgenommen. <q type="koran" versstart="036:069"
@@ -1220,7 +1308,7 @@
     Leugner.</p>
   </text>
   <text versstart="071" versend="076" verfasser="an">
-   <p><lem>ʾa-wa-lam yarau ʾannā ḫalaqnā lahum mimmā ʿamilat ʾaidīnā ʾanʿāman fa-hum lahā mālikūna / wa-ḏallalnāhā lahum fa-minhā rakūbuhum wa-minhā yaʾkulūna / wa-lahum fīhā manāfiʿu wa-mašāribu ʾa-fa-lā yaškurūna / wa-ttaḫaḏū min dūni llāhi ʾālihatan laʿallahum yunṣarūna / lā yastaṭīʿūna naṣrahum wa-hum lahum ǧundun muḥḍarūna /fa-lā yaḥzunka qauluhum ʾinnā naʿlamu mā yusirrūna wa-mā yuʿlinūna]</lem>
+   <p><lem>ʾa-wa-lam yarau ʾannā ḫalaqnā lahum mimmā ʿamilat ʾaidīnā ʾanʿāman fa-hum lahā mālikūn / wa-ḏallalnāhā lahum fa-minhā rakūbuhum wa-minhā yaʾkulūn / wa-lahum fīhā manāfiʿu wa-mašāribu ʾa-fa-lā yaškurūn / wa-ttaḫaḏū min dūni llāhi ʾālihatan laʿallahum yunṣarūn / lā yastaṭīʿūna naṣrahum wa-hum lahum ǧundun muḥḍarūn /fa-lā yaḥzunka qauluhum ʾinnā naʿlamu mā yusirrūna wa-mā yuʿlinūn]</lem>
     Nochmalige <lang xml:lang="ar-Latn">āyāt</lang>-Serie, die einige in der ersten
     <lang xml:lang="ar-Latn">āyāt</lang>-Serie in Teil II formulierte Gedanken noch weiter
     entwickelt. So kann die Versorgung des Menschen mit Nutztieren (<q type="koran"
@@ -1247,8 +1335,8 @@
      Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 330</bibl>) bekannt.</p>
   </text>
   <text versstart="077" versend="083" verfasser="an">
-   <p><lem>ʾa-wa-lam yara l-ʾinsānu ʾannā ḫalaqnāhu min nuṭfatin fa-ʾiḏā huwa ḫaṣīmun mubīnun / wa-ḍaraba lanā maṯalan wa-nasiya ḫalqahū qāla man yuḥyi l-ʿiẓāma wa-hiya ramīmun / qul yuḥyīha llaḏī ʾanšaʾahā ʾawwala marratin wa-huwa bi-kulli ḫalqin ʿalīmun-i / llaḏī ǧaʿala lakum mina š-šaǧari l-ʾaḫḍari nāran fa-ʾiḏā ʾantum minhu tūqidūna / ʾa-wa-laisa llaḏī ḫalaqa s-samāwāti wa-l-ʾarḍa bi-qādirin ʿalā ʾan yaḫluqa miṯlahum balā wa-huwa l-ḫallāqu l-ʿalīmu / ʾinnamā ʾamruhū ʾiḏā ʾarāda šaiʾan ʾan yaqūla lahū kun fa-yakūnu / fa-subḥāna llaḏī bi-yadihī malakūtu kulli šaiʾin wa-ʾilaihi turǧaʿūna]</lem>
-    Die Ungläubigen sollten sich ihres niederen Ursprungs erinnern – ein Topos, angelehnt an <q
+   <p><lem>ʾa-wa-lam yara l-ʾinsānu ʾannā ḫalaqnāhu min nuṭfatin fa-ʾiḏā huwa ḫaṣīmun mubīn / wa-ḍaraba lanā maṯalan wa-nasiya ḫalqahū qāla man yuḥyi l-ʿiẓāma wa-hiya ramīm / qul yuḥyīha llaḏī ʾanšaʾahā ʾawwala marratin wa-huwa bi-kulli ḫalqin ʿalīm / allaḏī ǧaʿala lakum mina š-šaǧari l-ʾaḫḍari nāran fa-ʾiḏā ʾantum minhu tūqidūn / ʾa-wa-laisa llaḏī ḫalaqa s-samāwāti wa-l-ʾarḍa bi-qādirin ʿalā ʾan yaḫluqa miṯlahum balā wa-huwa l-ḫallāqu l-ʿalīm / ʾinnamā ʾamruhū ʾiḏā ʾarāda šaiʾan ʾan yaqūla lahū kun fa-yakūn / fa-subḥāna llaḏī bi-yadihī malakūtu kulli šaiʾin wa-ʾilaihi turǧaʿūn]</lem>
+    Die Ungläubigen sollten sich ihres niederen Ursprungs erinnern — ein Topos, angelehnt an <q
      type="bibel" versstart="008:005" versend="008:001" buch="Ps">Ps 8,5</q>, der bereits in <q
      type="koran" versstart="096:002" versend="096:002">Q 96:2</q> (siehe <bibl
      Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 268</bibl>) angesprochen wurde. Der
@@ -1292,7 +1380,7 @@
    <text versstart="000" versend="083" verfasser="an">
     <p>Die Sure kreist um den Gedanken der Totenerweckung, sie schließt damit an frühere an: <q
       type="koran" versstart="075:001" versend="075:040">Q 75</q>. Dieses Thema wird aber anders als
-     in Frühmekka nicht mit dem Dreischritt Zerfall des Kosmos – Erweckung – Vergeltung entfaltet,
+     in Frühmekka nicht mit dem Dreischritt Zerfall des Kosmos — Erweckung — Vergeltung entfaltet,
      die konventionelle eschatologische Motivfolge ist aufgegeben bzw. wird in <q type="koran"
       versstart="036:055" versend="036:059">V. 55–59</q> auseinandergebrochen, wo ein Jüngster Tag
      angedeutet und auch ein Doppelbild der im Jenseits Beglückten bzw. Verdammten nur kurz
@@ -1338,11 +1426,11 @@
       versstart="078:006" versend="078:016">Q 78:6–16</q> dar. Auch hier ist der biblische
      Grundtext, <q type="bibel" versstart="104:001" versend="104:001" buch="Ps">Ps 104</q>, noch
      deutlich herauszuhören. Zwar sind einzelne Bilder weniger expressiv als in der frühmekkanischen
-     Sure, doch ist der beiden gemeinsame dialogische Charakter – die Serien antworten als
-     argumentative Aussagen auf einen mythisch-hymnischen Psalm – noch deutlich wahrnehmbar. Gott
-     begegnet in beiden Suren nicht nur als Schöpfer, sondern auch als ‚Erzähler‘ seiner Schöpfung,
+     Sure, doch ist der beiden gemeinsame dialogische Charakter — die Serien antworten als
+     argumentative Aussagen auf einen mythisch-hymnischen Psalm — noch deutlich wahrnehmbar. Gott
+     begegnet in beiden Suren nicht nur als Schöpfer, sondern auch als ›Erzähler‹ seiner Schöpfung,
      der mit rhetorischen Mitteln sein Werk pädagogisch als eine Lehre darlegt, die zur Einsicht in
-     die protologisch und eschatologisch eingebettete Welt aufruft. – Zugleich ist wie schon in <q
+     die protologisch und eschatologisch eingebettete Welt aufruft. — Zugleich ist wie schon in <q
       type="koran" versstart="078:001" versend="078:040">Q 78</q> das Gesamtbild der Geborgenheit
      bietenden Welt, der Behaustheit des Menschen in der Natur, als ein Gegenentwurf zu dem
      melancholischen Blick des vorislamischen Dichters auf die Natur unverkennbar.</p>
@@ -1358,8 +1446,8 @@
   </Inhaltstrukturkurz>
   <Inhaltstruktur>
    <text versstart="000" versend="083" verfasser="an">
-    <p>Die Sure ist dreiteilig. Auf einen Schwur bei der Lesung folgt eine Sendungsbestätigung –
-     parenthetisch durchbrochen von einer Offenbarungsbestätigung –, die in eine Polemik gegen die
+    <p>Die Sure ist dreiteilig. Auf einen Schwur bei der Lesung folgt eine Sendungsbestätigung —
+     parenthetisch durchbrochen von einer Offenbarungsbestätigung —, die in eine Polemik gegen die
      Ablehner der Totenerweckung einmündet.</p>
     <p>Im Mittelteil, dem Lesungsteil, figuriert erstmals ein Gleichnis,
      <lang xml:lang="ar-Latn">maṯal</lang>, eine Textsorte, die für die weiteren Suren, insbesondere
@@ -1375,8 +1463,8 @@
      Märtyrerepisode ergänzt werden, deren Protagonist mit einem in Antiochien verehrten Heiligen,
      Ḥabīb al-Naǧǧār, identifiziert wird. Dieser Deutung hat sich die Forschung angeschlossen. Das
      Gleichnis, das im Koran von Anfang an als Prophetenentsendungsgeschichte entschlüsselt ist,
-     wird damit in die Textsorte ‚Straflegende‘ überführt. Die einleitend beanspruchte Textsorte
-     <lang xml:lang="ar-Latn">maṯal</lang> mag also formal unvollkommen verwirklicht sein – sie kann
+     wird damit in die Textsorte ›Straflegende‹ überführt. Die einleitend beanspruchte Textsorte
+     <lang xml:lang="ar-Latn">maṯal</lang> mag also formal unvollkommen verwirklicht sein — sie kann
      sich aber intertextuell auf ihre Abstammung von einem prominenten Evangeliengleichnis, nämlich
      dem Gleichnis von den bösen Winzern (<q type="bibel" versstart="021:033" versend="021:046"
       buch="Mt">Mt 21,33–46</q>; <q type="bibel" versstart="012:001" versend="012:012" buch="Mk">Mk
@@ -1387,70 +1475,70 @@
      Sachebene des Gemeinten zu ermitteln, aufgehoben. Noch gravierender ist, daß die
      christologische Stoßrichtung des zugrundeliegenden Gleichnisses von den bösen Winzern in der
      koranischen Erzählung durch Entallegorisierung unkenntlich gemacht ist. Dennoch folgt die
-     Erzählung – die sich ja als Gleichnis ausgibt – der Spannungslinie des Gleichnisses von den
+     Erzählung — die sich ja als Gleichnis ausgibt — der Spannungslinie des Gleichnisses von den
      bösen Winzern, die in der Tötung des wichtigsten Gesandten gipfelt, worauf dann ein Dénouement
      folgt, das der gesamten Prophetengeschichte eine neue Wendung gibt. Wenn dieses Dénouement im
      Evangelium die auf dem Opfer Christi basierte Neuerrichtung des Glaubensgebäudes ist, so ist es
-     im Koran – ganz im Tenor der Straflegenden – die gerechte Bestrafung der Frevler und das Ende
+     im Koran — ganz im Tenor der Straflegenden — die gerechte Bestrafung der Frevler und das Ende
      der göttlichen Ansprache an die frevelhafte Stadt. Daß dabei der Tötung des Gerechten eine
      substantiell verschiedene Wertigkeit zukommt: eine messianisch-christologische im
-     Evangeliengleichnis, eine eher exemplarische – der Fromme wird zum Märtyrer, dem sofort
-     vergolten wird – im Koran, sollte über die Intertextualität nicht hinwegtäuschen. Im Gegenteil:
+     Evangeliengleichnis, eine eher exemplarische — der Fromme wird zum Märtyrer, dem sofort
+     vergolten wird — im Koran, sollte über die Intertextualität nicht hinwegtäuschen. Im Gegenteil:
      Indem die beiden Gleichnisse mit äußerlich ähnlichem Plot deutlich eine verschiedene
      Stoßrichtung verfolgen, zeigen sie eine theologische Differenz an. Während das
      Evangeliengleichnis die bis zur Aufopferung des eigenen Sohnes reichende Entschlossenheit
      Gottes, die Menschen auf das Gottesreich vorzubereiten, fokussiert und die Szene folglich mit
-     der Ermordung des Sohnes des Wein-bergbesitzers durch die verbrecherischen Winzer endet, wird
-     im koranischen Gleichnis gerade das theologisch schwerwiegende Martyrium zu einem theologisch
-     unerheblichen ‚verkleinert‘. Und auch dieses wird undramatisch dargestellt, mehr angedeutet als
+     der Ermordung des Sohnes des Weinbergbesitzers durch die verbrecherischen Winzer endet, wird im
+     koranischen Gleichnis gerade das theologisch schwerwiegende Martyrium zu einem theologisch
+     unerheblichen ›verkleinert‹. Und auch dieses wird undramatisch dargestellt, mehr angedeutet als
      beschrieben (<q type="koran" versstart="036:026" versend="036:026">Q 36:26</q>), es trifft auch
      nicht den letzten Boten, sondern einen Außenstehenden. Die im Evangelium, wo das Sohnesopfer
      einen das Gleichnis sprengenden großen theologischen Diskurs eröffnet, fortbestehende Spannung
      erlischt in der koranischen Version, wo das Opfer des Frommen umgehend vergolten wird. Die
      koranische Geschichte hat das Geschehen an der theologisch entscheidenden Stelle von einem
-     Christusgleichnis in eine Propheten-entsendungsgeschichte ‚umgeformt‘. Das Opfer bleibt daher
-     Episode – das christologische Gleichnis des Evangeliums ist ‚entallegorisiert‘ und damit
+     Christusgleichnis in eine Prophetenentsendungsgeschichte ›umgeformt‹. Das Opfer bleibt daher
+     Episode — das christologische Gleichnis des Evangeliums ist ›entallegorisiert‹ und damit
      theologisch entschärft. Es wird aber nicht etwa explizit negiert, eher könnte man von einer
-     ‚Verkleinerung bis zu einem Minimum‘ des im Evangelium stark ‚vergrößerten‘ soteriologischen
+     ›Verkleinerung bis zu einem Minimum‹ des im Evangelium stark ›vergrößerten‹ soteriologischen
      Gehalts der Erzählung sprechen. Was in den Mittelpunkt getreten ist, ist vielmehr Gottes
      sofortiger Akt der Erweckung als eine gerechte Handlung.</p>
     <p>Das Gleichnis stellt gewissermaßen die Kulmination eines Diskurses dar, der die Verkündigung
-     schon seit Ende der frühmekkanischen Zeit beherrscht: die Vorstellung von der <hi rend="italic"
-      >revelatio perpetua</hi>, der immer wieder erfolgenden göttlichen Ansprache, die nach Joh 1 so
-     lange unvollendet war, bis sie mit der Inkarnation und dem Selbstopfer Christi ihren Durchbruch
-     erlebte. In der jüdischen Tradition ist die Wahrnehmung von der vergeblich gesandten Tora
-     ebenfalls gängig, siehe <bibl Zotero_Id_1="2F4ZUZWK">Boyarin (2001)</bibl>, der den
-     Johannesprolog sogar für einen Midrasch auf einen Genesistargum liest (siehe <bibl
-      Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 594–596</bibl> zu <q type="koran"
-      versstart="055:001" versend="055:004">Q 55:1–4</q>). Die zahlreichen koranischen Straflegenden
-     dokumentieren dieses Modell, wenn sie auch unverbunden, ohne erkennbare Teleologie, aufeinander
-     folgen. Die bei Johannes und auch im Winzergleichnis erkennbare Teleologie, die Vorstellung,
-     daß es einen Wendepunkt geben muß, schlägt sich nun auch in <q type="koran" versstart="036:001"
-      versend="036:083">Q 36</q> nieder, wo ein Märtyrer die Wahrheit der Botschaft mit seinem
-     Selbstopfer bezeugt und damit eine Wende in der Prophetengeschichte einleitet. Als göttliche
-     Antwort tritt nun aber nicht Versöhnung, sondern Gerechtigkeit ins Feld. Während im Evangelium
-     durch den Ausgang der Begebenheit eine beispiellos enge Beziehung zwischen Gott und seinem
-     Weinberg hergestellt wird bzw. die enge Beziehung Gottes zu Israel aus dem Weinberglied Jesajas
-     erneuert wird, ist das Verhältnis zwischen Gott und den Leuten der Stadt in der koranischen
-     Erzählung beendet. Dieser Ausgang ist insofern menschheitsgeschichtlich nicht gravierend, als
-     es sich explizit nur um ein Gleichnis, eine fiktive Geschichte, handelt. Anders in der
-     Winzergeschichte, die trotz formalen Gleich-nischarakters durchsichtig eine messianische
-     Verheißung ausspricht. Deren angedeuteter Fortgang, der Übergang des Weinbergs in andere Hände,
-     wird in der späteren christlichen Liturgie manifest, wo die vom Liturgen (Bischof)
-     angesprochene christliche Gemeinde sich als der Weinberg Gottes verstehen darf und explizit so
-     angesprochen wird.</p>
+     schon seit Ende der frühmekkanischen Zeit beherrscht: die Vorstellung von der
+     <lang xml:lang="lat-Latn">revelatio perpetua</lang>, der immer wieder erfolgenden göttlichen
+     Ansprache, die nach Joh 1 so lange unvollendet war, bis sie mit der Inkarnation und dem
+     Selbstopfer Christi ihren Durchbruch erlebte. In der jüdischen Tradition ist die Wahrnehmung
+     von der vergeblich gesandten Tora ebenfalls gängig, siehe <bibl Zotero_Id_1="2F4ZUZWK">Boyarin
+      (2001)</bibl>, der den Johannesprolog sogar für einen Midrasch auf einen Genesistargum liest
+     (siehe <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 594–596</bibl> zu <q
+      type="koran" versstart="055:001" versend="055:004">Q 55:1–4</q>). Die zahlreichen koranischen
+     Straflegenden dokumentieren dieses Modell, wenn sie auch unverbunden, ohne erkennbare
+     Teleologie, aufeinander folgen. Die bei Johannes und auch im Winzergleichnis erkennbare
+     Teleologie, die Vorstellung, daß es einen Wendepunkt geben muß, schlägt sich nun auch in <q
+      type="koran" versstart="036:001" versend="036:083">Q 36</q> nieder, wo ein Märtyrer die
+     Wahrheit der Botschaft mit seinem Selbstopfer bezeugt und damit eine Wende in der
+     Prophetengeschichte einleitet. Als göttliche Antwort tritt nun aber nicht Versöhnung, sondern
+     Gerechtigkeit ins Feld. Während im Evangelium durch den Ausgang der Begebenheit eine
+     beispiellos enge Beziehung zwischen Gott und seinem Weinberg hergestellt wird bzw. die enge
+     Beziehung Gottes zu Israel aus dem Weinberglied Jesajas erneuert wird, ist das Verhältnis
+     zwischen Gott und den Leuten der Stadt in der koranischen Erzählung beendet. Dieser Ausgang ist
+     insofern menschheitsgeschichtlich nicht gravierend, als es sich explizit nur um ein Gleichnis,
+     eine fiktive Geschichte, handelt. Anders in der Winzergeschichte, die trotz formalen
+     Gleichnischarakters durchsichtig eine messianische Verheißung ausspricht. Deren angedeuteter
+     Fortgang, der Übergang des Weinbergs in andere Hände, wird in der späteren christlichen
+     Liturgie manifest, wo die vom Liturgen (Bischof) angesprochene christliche Gemeinde sich als
+     der Weinberg Gottes verstehen darf und explizit so angesprochen wird.</p>
     <p>Das Gleichnis wird durch einen predigtartigen Teil fortgesetzt, der wieder auf die Erweckung
      abhebt. Dabei werden <lang xml:lang="ar-Latn">āyāt</lang> zum Beweisgrund für Gottes
      Erweckungsmacht eingesetzt.</p>
-    <p>Āyāt sind auch Hauptthema des dritten Teils: Das Gesätz <q type="koran" versstart="036:033"
-      versend="036:047">V. 33–47</q> erweist sich als eine Weiterentfaltung von <q type="koran"
-      versstart="078:006" versend="078:016">Q 78:6–16</q>, das wiederum einen Psalm (<q type="bibel"
-      versstart="104:001" versend="104:001" buch="Ps">Ps 104</q>) fortschreibt. Die beiden
-     <lang xml:lang="ar-Latn">āyāt</lang>-Serien, <q type="koran" versstart="036:033"
-      versend="036:047">V. 33–47</q> und <q type="koran" versstart="036:071" versend="036:080">V.
-      71–80</q>, die ähnliche Gegenstände unter verschiedenem Aspekt behandeln, legen sich dabei
-     konzentrisch um die Eschatologiesektion, <q type="koran" versstart="036:048" versend="036:068"
-      >V. 48–68</q>.</p>
+    <p><lang xml:lang="ar-Latn">Āyāt</lang> sind auch Hauptthema des dritten Teils: Das Gesätz <q
+      type="koran" versstart="036:033" versend="036:047">V. 33–47</q> erweist sich als eine
+     Weiterentfaltung von <q type="koran" versstart="078:006" versend="078:016">Q 78:6–16</q>, das
+     wiederum einen Psalm (<q type="bibel" versstart="104:001" versend="104:001" buch="Ps">Ps
+      104</q>) fortschreibt. Die beiden <lang xml:lang="ar-Latn">āyāt</lang>-Serien, <q type="koran"
+      versstart="036:033" versend="036:047">V. 33–47</q> und <q type="koran" versstart="036:071"
+      versend="036:080">V. 71–80</q>, die ähnliche Gegenstände unter verschiedenem Aspekt behandeln,
+     legen sich dabei konzentrisch um die Eschatologiesektion, <q type="koran" versstart="036:048"
+      versend="036:068">V. 48–68</q>.</p>
    </text>
   </Inhaltstruktur>
   <situativitätkurz>
@@ -1462,23 +1550,24 @@
    <text versstart="000" versend="083" verfasser="an">
     <p>Die Rede wendet sich zunächst an den Verkünder persönlich,
      <lang xml:lang="ar-Latn">innaka la-mina l-mursalīn</lang> (<q type="koran" versstart="036:003"
-      versend="036:003">V. 3</q>). Im Fortgang werden die Hörer als Abwesende behandelt, li-tunḏira
-     qauman (<q type="koran" versstart="036:006" versend="036:006">V. 6</q>); der Verkünder soll
-     »ihnen« ein Gleichnis vortragen, <lang xml:lang="ar-Latn">wa-ḍrib lahum maṯalan</lang> (<q
-      type="koran" versstart="036:013" versend="036:013">V. 13</q>), »sie« haben Zeichen in den
-     Naturphänomenen, <lang xml:lang="ar-Latn">wa-āyatun lahum</lang> (<q type="koran"
-      versstart="036:033" versend="036:033">V. 33</q>). Anwesend gemacht werden sie durch ihre
-     respektlose Rede, die von ihnen in »Wenn zu ihnen gesagt wird – sagen sie«-Wechselreden zitiert
-     wird (<q type="koran" versstart="036:047" versend="036:047">V. 47</q>). Eine direkte Anrede an
-     die zeitgenössischen Hörer ergeht ein einziges Mal an sie als »Kinder Adams« (<q type="koran"
-      versstart="036:060" versend="036:062">V. 60–62</q>), diese ist aber aus der Distanz
-     gesprochen; denn sie erfolgt in einer Szene, in der sie an den Ort ihrer Vergeltung, in die
-     Hölle, projiziert sind. Schließlich wird selbst vom Propheten in der dritten Person gesprochen
-      (<q type="koran" versstart="036:069" versend="036:070">V. 69–70</q>), sein Warneramt wird
-     abwesenden Hörern gegenüber gegen den Anwurf, er sei Dichter, verteidigt. Erst der Schlußhymnus
-      (<q type="koran" versstart="036:080" versend="036:083">V. 80–83</q>) wird von einer direkten
-     Anrede an ihn präludiert (<q type="koran" versstart="036:079" versend="036:079">V. 79</q>), so
-     daß der persönliche Ton der einleitenden Prophetentröstung wieder anklingt.</p>
+      versend="036:003">V. 3</q>). Im Fortgang werden die Hörer als Abwesende behandelt,
+     <lang xml:lang="ar-Latn">li-tunḏira qauman</lang> (<q type="koran" versstart="036:006"
+      versend="036:006">V. 6</q>); der Verkünder soll »ihnen« ein Gleichnis vortragen,
+     <lang xml:lang="ar-Latn">wa-ḍrib lahum maṯalan</lang> (<q type="koran" versstart="036:013"
+      versend="036:013">V. 13</q>), »sie« haben Zeichen in den Naturphänomenen,
+     <lang xml:lang="ar-Latn">wa-āyatun lahum</lang> (<q type="koran" versstart="036:033"
+      versend="036:033">V. 33</q>). Anwesend gemacht werden sie durch ihre respektlose Rede, die von
+     ihnen in »Wenn zu ihnen gesagt wird — sagen sie«-Wechselreden zitiert wird (<q type="koran"
+      versstart="036:047" versend="036:047">V. 47</q>). Eine direkte Anrede an die zeitgenössischen
+     Hörer ergeht ein einziges Mal an sie als »Kinder Adams« (<q type="koran" versstart="036:060"
+      versend="036:062">V. 60–62</q>), diese ist aber aus der Distanz gesprochen; denn sie erfolgt
+     in einer Szene, in der sie an den Ort ihrer Vergeltung, in die Hölle, projiziert sind.
+     Schließlich wird selbst vom Propheten in der dritten Person gesprochen (<q type="koran"
+      versstart="036:069" versend="036:070">V. 69–70</q>), sein Warneramt wird abwesenden Hörern
+     gegenüber gegen den Anwurf, er sei Dichter, verteidigt. Erst der Schlußhymnus (<q type="koran"
+      versstart="036:080" versend="036:083">V. 80–83</q>) wird von einer direkten Anrede an ihn
+     präludiert (<q type="koran" versstart="036:079" versend="036:079">V. 79</q>), so daß der
+     persönliche Ton der einleitenden Prophetentröstung wieder anklingt.</p>
     <p>Autorisiert wurde der Verkünder bereits im Anfangsteil, wo er als »einer der Gesandten«,
      <lang xml:lang="ar-Latn">mursalīn</lang>, also als gerade nicht zum Kreis der Dichter gehörig,
      angesprochen wurde. Sein Mißerfolg bei der Überzeugung der Hörer wird nun auf göttliche
@@ -1486,16 +1575,16 @@
      Die Ablehner sind psychisch außerstand gesetzt zu verstehen. Das etwas unvermittelt einsetzende
      Gleichnis (<q type="koran" versstart="036:013" versend="036:032">V. 13–32</q>) exemplifiziert
      die Lage des bedrängten Gesandten, <lang xml:lang="ar-Latn">mursal</lang>, es spiegelt die
-     verzweifelte Lage des Verkünders wider, der sich allein – nicht einmal wie in der Erzählung
-     verstärkt durch weitere Boten – gegen die Anwürfe der Lügenhaftigkeit wehren muß. Sollte das
-     Gleichnis – indirekt, in narrativer Form – bereits den Beweis für Gottes Auferweckungsmacht
+     verzweifelte Lage des Verkünders wider, der sich allein — nicht einmal wie in der Erzählung
+     verstärkt durch weitere Boten — gegen die Anwürfe der Lügenhaftigkeit wehren muß. Sollte das
+     Gleichnis — indirekt, in narrativer Form — bereits den Beweis für Gottes Auferweckungsmacht
      erbringen, so folgt mit der anschließenden <lang xml:lang="ar-Latn">āyāt</lang>-Serie (<q
       type="koran" versstart="036:033" versend="036:047">V. 33–47</q>) ein direkter, argumentativer
      Nachweis von Erweckungsakten Gottes in der Lebenswelt der Angesprochenen. Heilsgeschichte wird
-     so durch Empirie gestützt. Doch auch diese Referenz fordert zu Widerspruch heraus. Als <hi
-      rend="italic">ultima ratio</hi> folgt eine Projektion der Ablehner in ihre Situation am
-     Jüngsten Tag (<q type="koran" versstart="036:059" versend="036:066">V. 59–66</q>). Eine letzte
-     <lang xml:lang="ar-Latn">āyāt</lang>-Serie (<q type="koran" versstart="036:071"
+     so durch Empirie gestützt. Doch auch diese Referenz fordert zu Widerspruch heraus. Als
+     <lang xml:lang="lat-Latn">ultima ratio</lang> folgt eine Projektion der Ablehner in ihre
+     Situation am Jüngsten Tag (<q type="koran" versstart="036:059" versend="036:066">V. 59–66</q>).
+     Eine letzte <lang xml:lang="ar-Latn">āyāt</lang>-Serie (<q type="koran" versstart="036:071"
       versend="036:080">V. 71–80</q>) nimmt die Proteste der Ablehner noch einmal diskursiv auf und
      führt das stärkstmögliche Argument ins Feld, Gottes Schöpfungsimperativ (<q type="koran"
       versstart="036:082" versend="036:082">V. 82</q>).</p>

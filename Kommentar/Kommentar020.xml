@@ -9,10 +9,15 @@
     </surentitel>
     <autorenkurz>
         <text versstart="000" versend="135" verfasser="an">
-            <p>Übersetzt und analysiert von Angelika Neuwirth und Dirk Hartwig unter Mitwirkung von
+            <p>Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth unter Mitwirkung von
                 Ali Aghaei und Tolou Khademalsharieh</p>
         </text>
     </autorenkurz>
+    <datierungkurz>
+        <text versstart="000" versend="135" verfasser="an">
+            <p>Mekka II</p>
+        </text>
+    </datierungkurz>
     <literarkritikkurz>
         <text versstart="000" versend="135" verfasser="an">
             <p/>
@@ -539,8 +544,7 @@
                     versstart="019:003" versend="019:003">Q 19:3</q>) bezeugt.</p>
         </text>
         <text versstart="009" versend="010" verfasser="an">
-            <p><lem>wa-hal ʾatāka ḥadīṯu mūsā / ʾiḏ raʾā nāran fa-qāla li-ʾahlihi mkuṯū ʾinnī ʾānastu nāran
- laʿallī ʾātīkum minhā bi-qabasin ʾau ʾaǧidu ʿala n-nāri hudā]</lem>
+            <p><lem>wa-hal ʾatāka ḥadīṯu mūsā / ʾiḏ raʾā nāran fa-qāla li-ʾahlihi mkuṯū ʾinnī ʾānastu nāran laʿallī ʾātīkum minhā bi-qabasin ʾau ʾaǧidu ʿala n-nāri hudā]</lem>
                 Auf den kurzen paränetischen Eingang folgt sogleich der Lesungsteil, eine biblische
                 Geschichte. Sie entfaltet — nach einer stereotyp gestalteten Einleitung (siehe <bibl
                     Zotero_Id_1="TJNE7TP3"><hi rend="italic">KU</hi>, S. 7</bibl>) — eine im
@@ -741,7 +745,8 @@
                 Erinnerung gebracht. Alles Geschehen steht im Dienst eines göttlichen Projekts.
                 Moses Aufenthalt unter den Midianitern erscheint als Prüfung und Maßnahme seiner
                 Erziehung zu einer für Gottes Heilsplan geeigneten Persönlichkeit (vgl. <hi
-                    rend="italic">Exodus Rabba</hi> 1,32: »Er wuchs heran auf ungewöhnliche Art«). </p>
+                    rend="italic">Exodus Rabba</hi> 1,32: »Er wuchs heran auf ungewöhnliche Art«).
+            </p>
         </text>
         <text versstart="042" versend="046" verfasser="an">
             <p><lem>ḏhab ʾanta wa-ʾaḫūka bi-ʾāyātī wa-lā taniyā fī ḏikrī / ḏhabā ʾilā firʿauna ʾinnahū ṭaġā / fa-qūlā lahū qaulan layyinan laʿallahū yataḏakkaru ʾau yaḫšā / qālā rabbanā ʾinnanā naḫāfu ʾan yafruṭa ʿalainā ʾau ʾan yaṭġā / qāla lā taḫāfā ʾinnanī maʿakumā ʾasmaʿu wa-ʾarā]</lem>
@@ -896,7 +901,7 @@
                 Mose-Auftritts vor Pharao ist damit abgeschlossen.</p>
         </text>
         <text versstart="077" versend="079" verfasser="an">
-            <p><lem>wa-la-qad ʾauḥainā ʾilā mūsā ʾan ʾasri bi-ʿibādī fa-ḍrib lahum ṭarīqan fi l-baḥri yabasan lā taḫāfu darakan wa-lā taḫšā / fa-ʾatbaʿahum firʿaunu bi-ǧunūdihī fa-ġašiyahum mina l-yammi mā ġašiyahum / wa-ʾaḍalla firʿaunu qaumahū wa-mā hadā]</lem>
+            <p><lem>wa-la-qad ʾauḥainā ʾilā mūsā ʾan ʾasri bi-ʿibādī fa-ḍrib lahum ṭarīqan fi l-baḥri yabasan lā taḫāfu darakan wa-lā taḫšā / fa-ʾatbaʿahum firʿaunu bi-ǧunūdihī fa-ġašiyahum mina l-yammi mā ġašiyahum (/) wa-ʾaḍalla firʿaunu qaumahū wa-mā hadā]</lem>
                 Was in <q type="koran" versstart="026:052" versend="026:068">Q 26:52–68</q> die
                 Abschlußerzählung des zweiteiligen Mose-Zyklus sein wird, der Bericht über die
                 erfolgreiche Flucht der Israeliten unter Moses Leitung vor Pharao, erweist sich in
@@ -1028,7 +1033,7 @@
         </text>
         <text versstart="086" versend="086" verfasser="an">
             <p><q type="koran" versstart="020:086" versend="020:086">V. 86</q>a, b
-                <lem>fa-raǧaʿa mūsā ʾilā qaumihī ġaḍbāna ʾasifan qāla yā-qaumi ʾa-lam yaʿidkum rabbukum waʿdan ḥasanan ʾa-fa-ṭāla ʿalaikumu l-ʿahdu ʾam ʾaradtum ʾan yaḥilla ʿalaikum ġaḍabun min rabbikum fa-ʾaḫlaftum mauʿidī]</lem>
+                <lem>fa-raǧaʿa mūsā ʾilā qaumihī ġaḍbāna ʾasifā / qāla yā-qaumi ʾa-lam yaʿidkum rabbukum waʿdan ḥasanan ʾa-fa-ṭāla ʿalaikumu l-ʿahdu ʾam ʾaradtum ʾan yaḥilla ʿalaikum ġaḍabun min rabbikum fa-ʾaḫlaftum mauʿidī]</lem>
                 Mose — obwohl zornig — erscheint bei seiner Rückkehr zu den Israeliten beherrscht,
                 anders als im biblischen Bericht, wo er die von Gott beschriebenen Tafeln zu Boden
                 wirft (vgl. <q type="bibel" buch="Ex" versstart="032:011" versend="032:013">Ex
@@ -1130,7 +1135,7 @@
                 programmatisch ausgeweitet.</p>
         </text>
         <text versstart="092" versend="094" verfasser="an">
-            <p><lem>qāla yā-hārūnu mā manaʿaka ʾiḏ raʾaitahum ḍallū / ʾallā tattabiʿani ʾa-fa-ʿaṣaita ʾamrī / qāla ya-bna-ʾumma lā taʾḫuḏ bi-liḥyatī wa-lā bi-raʾsī ʾinnī ḫašītu ʾan taqūla farraqta baina banī ʾisrāʾīla wa-lam tarqub qaulī]</lem>
+            <p><lem>qāla yā-hārūnu mā manaʿaka ʾiḏ raʾaitahum ḍallū (/) ʾallā tattabiʿani ʾa-fa-ʿaṣaita ʾamrī / qāla ya-bna-ʾumma lā taʾḫuḏ bi-liḥyatī wa-lā bi-raʾsī ʾinnī ḫašītu ʾan taqūla farraqta baina banī ʾisrāʾīla wa-lam tarqub qaulī]</lem>
                 Wechselrede zwischen Mose und Aaron. Das Am-Bart-Packen Aarons könnte ein —
                 entmythisierend zu verstehender — Umgang mit dem in jüdischer und christlicher
                 Tradition als Symbol der priesterlichen Würde geltenden Bart Aarons sein (siehe
@@ -1594,13 +1599,13 @@
     </kommentar>
     <analysedeutungkurz>
         <text versstart="000" versend="135" verfasser="an">
-            <p>Analyse und Deutung</p>
+            <p/>
         </text>
     </analysedeutungkurz>
     <analysedeutung>
         <EntwicklungsgeschichtlicheEinordnungkurz>
             <text versstart="000" versend="135" verfasser="an">
-                <p>Entwicklungsgeschichtliche Einordnung</p>
+                <p/>
             </text>
         </EntwicklungsgeschichtlicheEinordnungkurz>
         <EntwicklungsgeschichtlicheEinordnung>
@@ -1621,7 +1626,7 @@
                     <lang xml:lang="ar-Latn">ar-raḥmān</lang>.</p>
                 <p>Die folgende Erzählung ist die detaillierteste Darstellung Moses im Koran. Sie
                     bezieht sich bereits durch die Einleitungsformel
-                    <lang xml:lang="ar-Latn">hal ʾatāka hadīṯu mūsā </lang>und ihren Reim auf 3(C)Cā
+                    <lang xml:lang="ar-Latn">hal ʾatāka hadīṯu mūsā</lang> und ihren Reim auf 3(C)Cā
                     zurück auf die früheste Mose-Geschichte (<q type="koran" versstart="079:015"
                         versend="079:026">Q 79:15–26</q>). Die dort in einem eschatologischen
                     Diskurs stehende Mosefigur wird in <q type="koran" versstart="020:000"
@@ -1903,7 +1908,7 @@
         </EntwicklungsgeschichtlicheEinordnung>
         <Inhaltstrukturkurz>
             <text versstart="000" versend="135" verfasser="an">
-                <p>Inhalt und Struktur</p>
+                <p/>
             </text>
         </Inhaltstrukturkurz>
         <Inhaltstruktur>

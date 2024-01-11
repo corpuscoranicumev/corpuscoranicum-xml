@@ -9,9 +9,14 @@
 	</surentitel>
 	<autorenkurz>
 		<text versstart="000" versend="110" verfasser="tjj">
-			<p>Übersetzt und analysiert von Angelika Neuwirth und Dirk Hartwig</p>
+			<p>Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth</p>
 		</text>
 	</autorenkurz>
+	<datierungkurz>
+		<text versstart="000" versend="110" verfasser="an">
+			<p>Mekka II</p>
+		</text>
+	</datierungkurz>
 	<literarkritikkurz>
 		<text versstart="000" versend="110" verfasser="an">
 			<p/>
@@ -438,7 +443,7 @@
 				Gesamtdiskurs erkennbar zu machen.</p>
 		</text>
 		<text versstart="001" versend="003" verfasser="an">
-			<p><lem>al-ḥamdu li-llāhi llaḏī ʾanzala ʿalā ʿabdihi l-kitāba wa-lam yaǧʿal lahū ʿiwaǧā / qaiyiman li-yunḏira baʾsan šadīdan min ladunhu wa-yubaššira l-muʾminīna llaḏīna yaʿmalūna ṣ-ṣāliḥāti ʾanna lahum ʾaǧran ḥasanan / mākiṯīna fīhi ʾabadan]</lem>
+			<p><lem>al-ḥamdu li-llāhi llaḏī ʾanzala ʿalā ʿabdihi l-kitāba wa-lam yaǧʿal lahū ʿiwaǧā / qaiyiman li-yunḏira baʾsan šadīdan min ladunhu wa-yubaššira l-muʾminīna llaḏīna yaʿmalūna ṣ-ṣāliḥāti ʾanna lahum ʾaǧran ḥasanā / mākiṯīna fīhi ʾabadā]</lem>
 				Die Sure erhebt bereits mit ihrem Reim, dem Antepänultima-betonten 3(C)C3Cā — der
 				sonst nur frühmekkanisch zweimal über längere Versreihen (<q type="koran"
 					versstart="077:008" versend="077:012">Q 77:8–12</q> und <q type="koran"
@@ -733,7 +738,7 @@
 				Offenbarungsbestätigung).</p>
 		</text>
 		<text versstart="004" versend="005" verfasser="an">
-			<p><lem>wa-yunḏira llaḏīna qālu ttaḫaḏa llāhu waladan / mā lahum bihī min ʿilmin wa-lā li-ʾābāʾihim kaburat kalimatan taḫruǧu min ʾafwāhihim ʾin yaqūlūna ʾillā kaḏiban]</lem>
+			<p><lem>wa-yunḏira llaḏīna qālu ttaḫaḏa llāhu waladā / mā lahum bihī min ʿilmin wa-lā li-ʾābāʾihim kaburat kalimatan taḫruǧu min ʾafwāhihim ʾin yaqūlūna ʾillā kaḏibā]</lem>
 				Die Identität der Gewarnten wird präzisiert, es sind die, die Gott ein Kind bzw.
 				Kinder, eine Familie, zuschreiben. Diese Behauptung basiert nicht auf ihrem Wissen
 				oder dem ihrer Väter, sie wird als blasphemisch gegeißelt und auf bloße, lügenhafte
@@ -777,7 +782,7 @@
 				eine Deutung im Sinn eines Gottessohnvorwurfs nahe.</p>
 		</text>
 		<text versstart="006" versend="006" verfasser="an">
-			<p><lem>fa-laʿallaka bāḫiʿun nafsaka ʿalā ʾāṯārihim ʾin lam yuʾminū bi-hāḏa l-ḥadīṯi ʾasafan]</lem>
+			<p><lem>fa-laʿallaka bāḫiʿun nafsaka ʿalā ʾāṯārihim ʾin lam yuʾminū bi-hāḏa l-ḥadīṯi ʾasafā]</lem>
 				Es folgt ein Zuspruch an den Verkünder, wie in <q type="koran" versstart="026:003"
 					versend="026:003">Q 26:3</q>:
 				<lang xml:lang="ar-Latn">laʿallaka bāḫiʿun nafsaka allā yakūnū muʾminīn</lang>,
@@ -786,7 +791,7 @@
 				nicht »verzehren«.</p>
 		</text>
 		<text versstart="007" versend="008" verfasser="an">
-			<p><lem>ʾinnā ǧaʿalnā mā ʿala l-ʾarḍi zīnatan lahā li-nabluwahum ʾaiyuhum ʾaḥsanu ʿamalan / wa-ʾinnā la-ǧāʿilūna mā ʿalaihā ṣaʿīdan ǧuruzan]</lem>
+			<p><lem>ʾinnā ǧaʿalnā mā ʿala l-ʾarḍi zīnatan lahā li-nabluwahum ʾaiyuhum ʾaḥsanu ʿamalā / wa-ʾinnā la-ǧāʿilūna mā ʿalaihā ṣaʿīdan ǧuruzā]</lem>
 				Unglaube resultiert aus Selbsttäuschung: Es folgt eine kurze Erinnerung an die
 				göttliche Absicht hinter dem Pflanzenwachstum auf der Erde, das als Mittel
 				göttlicher Prüfung erkannt werden muß. Es ist ein »Schmuck« der Erde, der aber
@@ -955,7 +960,7 @@
 				Trauma des Exils versus Erlösung durch Erweckung).</p>
 		</text>
 		<text versstart="009" versend="012" verfasser="an">
-			<p><lem>ʾam ḥasibta ʾanna ʾaṣḥāba l-kahfi wa-r-raqīmi kānū min ʾāyātinā ʿaǧaban / ʾiḏ ʾaua l-fityatu ʾila l-kahfi fa-qālū rabbanā ʾātinā min ladunka raḥmatan wa-haiyiʾ lanā min ʾamrinā rašadan / fa-ḍarabnā ʿalā ʾāḏānihim fi l-kahfi sinīna ʿadadan / ṯumma baʿaṯnāhum li-naʿlama ʾayyu l-ḥizbaini ʾaḥṣā li-mā labiṯū ʾamadan]</lem>
+			<p><lem>ʾam ḥasibta ʾanna ʾaṣḥāba l-kahfi wa-r-raqīmi kānū min ʾāyātinā ʿaǧabā / ʾiḏ ʾaua l-fityatu ʾila l-kahfi fa-qālū rabbanā ʾātinā min ladunka raḥmatan wa-haiyiʾ lanā min ʾamrinā rašadā / fa-ḍarabnā ʿalā ʾāḏānihim fi l-kahfi sinīna ʿadadā / ṯumma baʿaṯnāhum li-naʿlama ʾayyu l-ḥizbaini ʾaḥṣā li-mā labiṯū ʾamadā]</lem>
 				Der koranischen Erzählung — mit dem üblichen <lang xml:lang="ar-Latn">ʾiḏ</lang>
 				eingeleitet — ist eine rhetorische Frage vorausgestellt, die triumphal das
 				vermeintliche Wunder, <lang xml:lang="ar-Latn">ʿaǧab</lang>, der Episode als unter
@@ -1010,7 +1015,7 @@
 				Höhlengleichnis.</p>
 		</text>
 		<text versstart="013" versend="016" verfasser="an">
-			<p><lem>naḥnū naquṣṣu ʿalāyka nabaʾahum bi-l-ḥaqqi ʾinnahum fityatun ʾāmanū bi-rabbihim wa-zidnāhum hudan / wa-rabaṭnā ʿalā qulūbihim ʾiḏ qāmū fa-qālū rabbunā rabbu s-samāwāti wa-l-ʾarḍi lan nadʿuwa min dūnihī ʾilāhan la-qad qulnā ʾiḏan šaṭaṭan / hāʾulāʾi qaumuna ttaḫaḏū min dūnihī ʾālihatan lau-lā yaʾtūna ʿalaihim bi-sulṭānin baiyinin fa-man ʾaẓlamu mimmani ftarā ʿalā llāhi kaḏiban / wa-ʾiḏi ʿtazaltumūhum wa-mā yaʿbudūna ʾilla llāha fa-ʾwū ʾila l-kahfi yanšur lakum rabbukum min raḥmatihī wa-yuhayyiʾ lakum min ʾamrikum mirfaqan]</lem>
+			<p><lem>naḥnū naquṣṣu ʿalāyka nabaʾahum bi-l-ḥaqqi ʾinnahum fityatun ʾāmanū bi-rabbihim wa-zidnāhum hudā / wa-rabaṭnā ʿalā qulūbihim ʾiḏ qāmū fa-qālū rabbunā rabbu s-samāwāti wa-l-ʾarḍi lan nadʿuwa min dūnihī ʾilāhan la-qad qulnā ʾiḏan šaṭaṭā / hāʾulāʾi qaumuna ttaḫaḏū min dūnihī ʾālihatan lau-lā yaʾtūna ʿalaihim bi-sulṭānin baiyinin fa-man ʾaẓlamu mimmani ftarā ʿalā llāhi kaḏibā / wa-ʾiḏi ʿtazaltumūhum wa-mā yaʿbudūna ʾilla llāha fa-ʾwū ʾila l-kahfi yanšur lakum rabbukum min raḥmatihī wa-yuhayyiʾ lakum min ʾamrikum mirfaqā]</lem>
 				Der zweite Einsatz der Geschichte verspricht gegenüber der vorher als Hintergrund
 				evozierten Kontroverse nun Klarheit. Der ›wahrheitsgemäßen Erzählung‹ zufolge sind
 				die jungen Männer Gläubige, die (während der Verfolgung) in ihrem Glauben noch
@@ -1061,7 +1066,7 @@
 					Zotero_Id_1="NQIPWSX4">Koloska 2015:79</bibl>)</p>
 		</text>
 		<text versstart="017" versend="018" verfasser="an">
-			<p><lem>wa-tara š-šamsa ʾiḏā ṭalaʿat tazāwaru ʿan kahfihim ḏāta l-yamīni wa-ʾiḏā ġarabat taqriḍuhum ḏāta š-šimāli wa-hum fī faǧwatin minhu ḏālika min ʾāyāti llāhi man yahdi llāhu fa-huwa l-muhtadi wa-man yuḍlil fa-lan taǧida lahū walīyan muršidan / wa-taḥsabuhum ʾaiqāẓan wa-hum ruqūdun wa-nuqallibuhum ḏāta l-yamīni wa-ḏāta š-šimāli wa-kalbuhum bāsiṭun ḏirāʿaihi bi-l-waṣīdi lawi ṭṭalaʿta ʿalaihim la-wallaita minhum firāran wa-la-muliʾta minhum ruʿban]</lem>
+			<p><lem>wa-tara š-šamsa ʾiḏā ṭalaʿat tazāwaru ʿan kahfihim ḏāta l-yamīni wa-ʾiḏā ġarabat taqriḍuhum ḏāta š-šimāli wa-hum fī faǧwatin minhu ḏālika min ʾāyāti llāhi man yahdi llāhu fa-huwa l-muhtadi wa-man yuḍlil fa-lan taǧida lahū walīyan muršidā / wa-taḥsabuhum ʾaiqāẓan wa-hum ruqūdun wa-nuqallibuhum ḏāta l-yamīni wa-ḏāta š-šimāli wa-kalbuhum bāsiṭun ḏirāʿaihi bi-l-waṣīdi lawi ṭṭalaʿta ʿalaihim la-wallaita minhum firāran wa-la-muliʾta minhum ruʿbā]</lem>
 				Es folgt eine im Koran einzigartig anschauliche Beschreibung ihres Anblicks als
 				Schlafende, die Koloska mit einer ikonischen Darstellung verglichen hat: »Dem
 				Betrachter erscheinen die Gefährten als wach, vielleicht sogar wachsam, während sie
@@ -1083,7 +1088,7 @@
 				Gleichwohl bleibt das Szenario rätselhaft.</p>
 		</text>
 		<text versstart="019" versend="020" verfasser="an">
-			<p><lem>wa-ka-ḏālika baʿaṯnāhum li-yatasāʾalū bainahum qāla qāʾilun minhum kam labiṯtum qālū labiṯnā yauman ʾau baʿḍa yaumin qālū rabbukum ʾaʿlamu bi-mā labiṯtum fa-bʿaṯū ʾaḥadakum bi-wariqikum hāḏihī ʾilā l-madīnati fa-l-yanẓur ʾaiyuhā ʾazkā ṭaʿāman fa-l-yaʾtikum bi-rizqin minhu wa-l-yatalaṭṭaf wa-lā yušʿiranna bikum ʾaḥadan / ʾinnahum ʾin yaẓharū ʿalaikum yarǧumūkum ʾau yuʿīdūkum fī millatihim wa-lan tufliḥū ʾiḏan ʾabadan]</lem>
+			<p><lem>wa-ka-ḏālika baʿaṯnāhum li-yatasāʾalū bainahum qāla qāʾilun minhum kam labiṯtum qālū labiṯnā yauman ʾau baʿḍa yaumin qālū rabbukum ʾaʿlamu bi-mā labiṯtum fa-bʿaṯū ʾaḥadakum bi-wariqikum hāḏihī ʾilā l-madīnati fa-l-yanẓur ʾaiyuhā ʾazkā ṭaʿāman fa-l-yaʾtikum bi-rizqin minhu wa-l-yatalaṭṭaf wa-lā yušʿiranna bikum ʾaḥadā / ʾinnahum ʾin yaẓharū ʿalaikum yarǧumūkum ʾau yuʿīdūkum fī millatihim wa-lan tufliḥū ʾiḏan ʾabadā]</lem>
 				Von der visuellen Präsentmachung der Jünglinge kehrt die Rede zurück zu einer
 				theologisch relevanten Implikation: Wie ist die Verweildauer zwischen Tod und
 				Auferstehung einzuschätzen? Denn kaum erweckt, befragen sie einander. Sie meinen, es
@@ -1120,7 +1125,7 @@
 					Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 540f.</bibl>).</p>
 		</text>
 		<text versstart="021" versend="021" verfasser="an">
-			<p><lem>wa-ka-ḏālika ʾaʿṯarnā ʿalaihim li-yaʿlamū ʾanna waʿda llāhi ḥaqqun wa-ʾanna s-sāʿata lā raiba fīhā ʾiḏ yatanāzaʿūna bainahum ʾamrahum fa-qālū bnū ʿalaihim bunyānan rabbuhum ʾaʿlamu bihim qāla llaḏīna ġalabū ʿalā ʾamrihim la-nattaḫiḏanna ʿalaihim masǧidan]</lem>
+			<p><lem>wa-ka-ḏālika ʾaʿṯarnā ʿalaihim li-yaʿlamū ʾanna waʿda llāhi ḥaqqun wa-ʾanna s-sāʿata lā raiba fīhā ʾiḏ yatanāzaʿūna bainahum ʾamrahum fa-qālū bnū ʿalaihim bunyānan rabbuhum ʾaʿlamu bihim qāla llaḏīna ġalabū ʿalā ʾamrihim la-nattaḫiḏanna ʿalaihim masǧidā]</lem>
 				Ein durch die göttliche Stimme autorisierter Kommentar legt den Zweck der Auffindung
 				der Jünglinge dar: die Demonstration, daß die (Auferstehungs-)Verheißung Gottes wahr
 				ist — im Einklang mit dem Ziel der christlichen Legende. — Die Geschichte geht —
@@ -1152,7 +1157,7 @@
 				Umweltkulturen bei <bibl Zotero_Id_1="NQIPWSX4">Koloska (2015:68)</bibl>.</p>
 		</text>
 		<text versstart="022" versend="022" verfasser="an">
-			<p><lem>sa-yaqūlūna ṯalāṯatun rābiʿuhum kalbuhum wa-yaqūlūna ḫamsatun sādisuhum kalbuhum raǧman bi-l-ġaibi wa-yaqūlūna sabʿatun wa-ṯāminuhum kalbuhum qul rabbī ʾaʿlamu bi-ʿiddatihim mā yaʿlamuhum ʾillā qalīlun fa-lā tumāri fīhim ʾillā mirāʾan ẓāhiran wa-lā tastafti fīhim minhum ʾaḥadan]</lem>
+			<p><lem>sa-yaqūlūna ṯalāṯatun rābiʿuhum kalbuhum wa-yaqūlūna ḫamsatun sādisuhum kalbuhum raǧman bi-l-ġaibi wa-yaqūlūna sabʿatun wa-ṯāminuhum kalbuhum qul rabbī ʾaʿlamu bi-ʿiddatihim mā yaʿlamuhum ʾillā qalīlun fa-lā tumāri fīhim ʾillā mirāʾan ẓāhiran wa-lā tastafti fīhim minhum ʾaḥadā]</lem>
 				Die Rede wendet sich nun der Situation des Verkünders zu. Bei
 				<lang xml:lang="ar-Latn">sa-yaqūlūna</lang> sollte es sich nicht — wie von <bibl
 					Zotero_Id_1="NQIPWSX4">Koloska (2015:74)</bibl> und <bibl Zotero_Id_1="TXU6734D"
@@ -1255,7 +1260,7 @@
 				offenbar sehr wohl ernst genommene ›Wahrheit‹ der Geschichte.</p>
 		</text>
 		<text versstart="023" versend="024" verfasser="an">
-			<p><lem>wa-lā taqūlanna li-šaiʾin ʾinnī fāʿilun ḏālika ġadan / ʾillā ʾan yašāʾa llāhu wa-ḏkur rabbaka ʾiḏā nasīta wa-qul ʿasā ʾan yahdiyani rabbī li-ʾaqraba min hāḏā rašadan]</lem>
+			<p><lem>wa-lā taqūlanna li-šaiʾin ʾinnī fāʿilun ḏālika ġadā / ʾillā ʾan yašāʾa llāhu wa-ḏkur rabbaka ʾiḏā nasīta wa-qul ʿasā ʾan yahdiyani rabbī li-ʾaqraba min hāḏā rašadā]</lem>
 				Die beiden Verse, die offenbar die Moral aus dem noch folgenden Gartengleichnis
 				ziehen, könnten zunächst erratisch erscheinen. <bibl Zotero_Id_1="NQIPWSX4">Koloska
 					(2015:75)</bibl> hat aber auf »eine antizipatorische und die Sure in ihrer
@@ -1269,7 +1274,7 @@
 				zentrale Bedeutung erhält«.</p>
 		</text>
 		<text versstart="025" versend="026" verfasser="an">
-			<p><lem>wa-labiṯū fī kahfihim ṯalāṯa miʾatin sinīna wa-zdādū tisʿan / quli llāhu ʾaʿlamu bi-mā labiṯū lahū ġaibu s-samāwāti wa-l-ʾarḍi ʾabṣir bihī wa-ʾasmiʿ mā lahum min dūnihī min walīyin wa-lā yušriku fī ḥukmihī ʾaḥadan]</lem>
+			<p><lem>wa-labiṯū fī kahfihim ṯalāṯa miʾatin sinīna wa-zdādū tisʿā / quli llāhu ʾaʿlamu bi-mā labiṯū lahū ġaibu s-samāwāti wa-l-ʾarḍi ʾabṣir bihī wa-ʾasmiʿ mā lahum min dūnihī min walīyin wa-lā yušriku fī ḥukmihī ʾaḥadā]</lem>
 				Eine konkrete Information (die der dominanten Version der christlichen Legende, die
 				Kaiser Decius involviert, widerspricht, siehe dazu im einzelnen <bibl
 					Zotero_Id_1="3C5UXFEV">Reynolds 2010</bibl>) über die Verweildauer der Jünglinge
@@ -1279,7 +1284,7 @@
 				wird.</p>
 		</text>
 		<text versstart="027" versend="027" verfasser="an">
-			<p><lem>wa-tlu mā ʾūḥiya ʾilaika min kitābi rabbika lā mubaddila li-kalimātihī wa-lan taǧida min dūnihī multaḥadan]</lem>
+			<p><lem>wa-tlu mā ʾūḥiya ʾilaika min kitābi rabbika lā mubaddila li-kalimātihī wa-lan taǧida min dūnihī multaḥadā]</lem>
 				Mit <q type="koran" versstart="018:027" versend="018:028">V. 27–28</q> folgt ein für
 				Surenhauptteilschlüsse charakteristischer Trostspruch an den Verkünder, beginnend
 				mit der Aufforderung, aus der Schrift zu rezitieren, deren bereits eingangs als
@@ -1295,7 +1300,7 @@
 					type="kommentar" versstart="072:022" versend="072:022">Q 72:22</q>).</p>
 		</text>
 		<text versstart="028" versend="028" verfasser="an">
-			<p><lem>wa-ṣbir nafsaka maʿa llaḏīna yadʿūna rabbahum bi-l-ġadāti wa-l-ʿašīyi yurīdūna waǧhahū wa-lā taʿdu ʿaināka ʿanhum turīdu zīnata l-ḥayāti d-dunyā wa-lā tuṭiʿ man ʾaġfalnā qalbahū ʿan ḏikrinā wa-ttabaʿa hauāhu wa-kāna ʾamruhū furuṭan]</lem>
+			<p><lem>wa-ṣbir nafsaka maʿa llaḏīna yadʿūna rabbahum bi-l-ġadāti wa-l-ʿašīyi yurīdūna waǧhahū wa-lā taʿdu ʿaināka ʿanhum turīdu zīnata l-ḥayāti d-dunyā wa-lā tuṭiʿ man ʾaġfalnā qalbahū ʿan ḏikrinā wa-ttabaʿa hauāhu wa-kāna ʾamruhū furuṭā]</lem>
 				Der mit <lang xml:lang="ar-Latn">iṣbir</lang> eingeleitete Aufruf zur Geduld ist
 				vielleicht die älteste Prophetenmahnung überhaupt (vgl. <q type="koran"
 					versstart="073:010" versend="073:010">Q 73:10</q>, <q type="koran"
@@ -1343,7 +1348,7 @@
 					>»Literarkritik«</q>.</p>
 		</text>
 		<text versstart="029" versend="029" verfasser="an">
-			<p><lem>wa-quli l-ḥaqqu min rabbikum fa-man šāʾa fa-l-yuʾmin wa-man šāʾa fa-l-yakfur ʾinnā ʾaʿtadnā li-ẓ-ẓālimīna nāran ʾaḥāṭa bihim surādiquhā wa-ʾin yastaġīṯū yuġāṯū bi-māʾin ka-l-muhli yašwi l-wuǧūha biʾsa š-šarābu wa-sāʾat murtafaqan]</lem>
+			<p><lem>wa-quli l-ḥaqqu min rabbikum fa-man šāʾa fa-l-yuʾmin wa-man šāʾa fa-l-yakfur ʾinnā ʾaʿtadnā li-ẓ-ẓālimīna nāran ʾaḥāṭa bihim surādiquhā wa-ʾin yastaġīṯū yuġāṯū bi-māʾin ka-l-muhli yašwi l-wuǧūha biʾsa š-šarābu wa-sāʾat murtafaqā]</lem>
 				Es folgt die Aufforderung, die Hörer auf die Wahrheit des göttlichen Wortes
 				einzuschwören, gleichgültig, ob sie glauben wollen oder nicht. Noch im selben Vers
 				wird den Frevlern eine drastische Bestrafung angedroht, die in den ersten Teil, den
@@ -1373,7 +1378,7 @@
 					Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 183–185</bibl>).</p>
 		</text>
 		<text versstart="030" versend="031" verfasser="an">
-			<p><lem>ʾinna llaḏīna ʾāmanū wa-ʿamilū ṣ-ṣāliḥāti ʾinnā lā nuḍīʿu ʿaǧra man ʾaḥsana ʿamalan / ʾulāʾika lahum ǧannātu ʿadnin taǧrī min taḥtihimu l-ʾanhāru yuḥallauna fīhā min ʾasāwira min ḏahabin wa-yalbasūna ṯiyāban ḫuḍran min sundusin wa-ʾistabraqin muttakiʾīna fīhā ʿalā l-ʾarāʾiki niʿma ṯ-ṯawābu wa-ḥasunat murtafaqan]</lem>
+			<p><lem>ʾinna llaḏīna ʾāmanū wa-ʿamilū ṣ-ṣāliḥāti ʾinnā lā nuḍīʿu ʿaǧra man ʾaḥsana ʿamalā / ʾulāʾika lahum ǧannātu ʿadnin taǧrī min taḥtihimu l-ʾanhāru yuḥallauna fīhā min ʾasāwira min ḏahabin wa-yalbasūna ṯiyāban ḫuḍran min sundusin wa-ʾistabraqin muttakiʾīna fīhā ʿalā l-ʾarāʾiki niʿma ṯ-ṯawābu wa-ḥasunat murtafaqā]</lem>
 				Zweiter Teil des Doppelbildes, dessen — antinomisch zur Hölle waltende — Kühle mit
 				dem poetischen Bild der von Wassern durchflossenen Gärten Edens präsentiert wird,
 				eine Bezeichnung des Paradieses, die in Frühmittelmekka in <q type="koran"
@@ -1406,7 +1411,7 @@
 				Lukasevangelium auf.</p>
 		</text>
 		<text versstart="032" versend="044" verfasser="an">
-			<p><lem>wa-ḍrib lahum maṯalan raǧulaini ǧaʿalnā li-ʾaḥadihimā ǧannataini min ʾaʿnābin wa-ḥafafnāhumā bi-naḫlin wa-ǧaʿalnā bainahumā zarʿan / kiltā l-ǧannataini ʾātat ʾukulahā wa-lam taẓlim minhu šaiʾan wa-faǧǧarnā ḫilālahumā naharan / wa-kāna lahū ṯamarun fa-qāla li-ṣāḥibihī wa-huwa yuḥāwiruhū ʾana ʾakṯaru minka mālan wa-ʾaʿazzu nafaran / wa-daḫala ǧannatahū wa-huwa ẓālimun li-nafsihī qāla mā ʾaẓunnu ʾan tabīda hāḏihī ʾabadan / wa-mā ʾaẓunnu s-sāʿata qāʾimatan wa-la-ʾin rudidtu ʾilā rabbī la-ʾaǧidanna ḫairan minhā munqalaban / qāla lahū ṣāḥibuhū wa-huwa yuḥāwiruhū ʾa-kafarta bi-llaḏī ḫalaqaka min turābin ṯumma min nuṭfatin ṯumma sauwāka raǧulan / lākinna huwa llāhu rabbī wa-lā ʾušriku bi-rabbī ʾaḥadan / wa-lau-lā ʾiḏ daḫalta ǧannataka qulta mā šāʾa llāhu lā qūwata ʾillā bi-llāhi ʾin tarani ʾana ʾaqalla minka mālan wa-waladan / fa-ʿasā rabbī ʾan yuʾtiyani ḫairan min ǧannatika wa-yursila ʿalaihā ḥusbānan mina s-samāʾi fa-tuṣbiḥa ṣaʿīdan zalaqan / ʾau yuṣbiḥa māʾuhā ġauran fa-lan tastaṭīʿa lahū ṭalaban / wa-ʾuḥīṭa bi-ṯamarihī fa-ʾaṣbaḥa yuqallibu kaffaihi ʿalā mā ʾanfaqa fīhā wa-hiya ḫāwiyatun ʿalā ʿurūšihā wa-yaqūlu yā-laitanī lam ʾušrik bi-rabbī ʾaḥadan / wa-lam takun lahū fiʾatun yanṣurūnahū min dūni llāhi wa-mā kāna muntaṣiran / hunālika l-walāyatu li-llāhi l-ḥaqqi huwa ḫairun ṯawāban wa-ḫairun ʿuqban]</lem>
+			<p><lem>wa-ḍrib lahum maṯalan raǧulaini ǧaʿalnā li-ʾaḥadihimā ǧannataini min ʾaʿnābin wa-ḥafafnāhumā bi-naḫlin wa-ǧaʿalnā bainahumā zarʿā / kiltā l-ǧannataini ʾātat ʾukulahā wa-lam taẓlim minhu šaiʾan wa-faǧǧarnā ḫilālahumā naharā / wa-kāna lahū ṯamarun fa-qāla li-ṣāḥibihī wa-huwa yuḥāwiruhū ʾana ʾakṯaru minka mālan wa-ʾaʿazzu nafarā / wa-daḫala ǧannatahū wa-huwa ẓālimun li-nafsihī qāla mā ʾaẓunnu ʾan tabīda hāḏihī ʾabadā / wa-mā ʾaẓunnu s-sāʿata qāʾimatan wa-la-ʾin rudidtu ʾilā rabbī la-ʾaǧidanna ḫairan minhā munqalabā / qāla lahū ṣāḥibuhū wa-huwa yuḥāwiruhū ʾa-kafarta bi-llaḏī ḫalaqaka min turābin ṯumma min nuṭfatin ṯumma sauwāka raǧulā / lākinna huwa llāhu rabbī wa-lā ʾušriku bi-rabbī ʾaḥadā / wa-lau-lā ʾiḏ daḫalta ǧannataka qulta mā šāʾa llāhu lā qūwata ʾillā bi-llāhi ʾin tarani ʾana ʾaqalla minka mālan wa-waladā / fa-ʿasā rabbī ʾan yuʾtiyani ḫairan min ǧannatika wa-yursila ʿalaihā ḥusbānan mina s-samāʾi fa-tuṣbiḥa ṣaʿīdan zalaqā / ʾau yuṣbiḥa māʾuhā ġauran fa-lan tastaṭīʿa lahū ṭalabā / wa-ʾuḥīṭa bi-ṯamarihī fa-ʾaṣbaḥa yuqallibu kaffaihi ʿalā mā ʾanfaqa fīhā wa-hiya ḫāwiyatun ʿalā ʿurūšihā wa-yaqūlu yā-laitanī lam ʾušrik bi-rabbī ʾaḥadā / wa-lam takun lahū fiʾatun yanṣurūnahū min dūni llāhi wa-mā kāna muntaṣirā / hunālika l-walāyatu li-llāhi l-ḥaqqi huwa ḫairun ṯawāban wa-ḫairun ʿuqbā]</lem>
 				Die Wendung <lang xml:lang="ar-Latn">ḍaraba maṯalan</lang> wird erst in der
 				spätmittelmekkanischen Sure <q type="koran" versstart="036:013" versend="036:013">Q
 					36:13</q>, <q type="koran" versstart="036:078" versend="036:078">78</q>
@@ -1487,7 +1492,7 @@
 			<p>Es folgt stimmig das Gleichnis von der diesseitigen Welt.</p>
 		</text>
 		<text versstart="045" versend="046" verfasser="an">
-			<p><lem>wa-ḍrib lahum maṯala l-ḥayāti d-dunyā ka-māʾin ʾanzalnāhu mina s-samāʾi fa-ḫtalaṭa bihī nabātu l-ʾarḍi fa-ʾaṣbaḥa hašīman taḏrūhu r-riyāḥu wa-kāna llāhu ʿalā kulli šaiʾin muqtadiran-i / al-mālu wa-l-banūna zīnatu l-ḥayāti d-dunyā wa-l-bāqiyātu ṣ-ṣāliḥātu ḫairun ʿinda rabbika ṯawāban wa-ḫairun ʾamalan]</lem>
+			<p><lem>wa-ḍrib lahum maṯala l-ḥayāti d-dunyā ka-māʾin ʾanzalnāhu mina s-samāʾi fa-ḫtalaṭa bihī nabātu l-ʾarḍi fa-ʾaṣbaḥa hašīman taḏrūhu r-riyāḥu wa-kāna llāhu ʿalā kulli šaiʾin muqtadirā / al-mālu wa-l-banūna zīnatu l-ḥayāti d-dunyā wa-l-bāqiyātu ṣ-ṣāliḥātu ḫairun ʿinda rabbika ṯawāban wa-ḫairun ʾamalā]</lem>
 				Das irdische Leben (<lang xml:lang="ar-Latn">al-ḥayāt ad-dunyā</lang>) ist in seiner
 				Vergänglichkeit der Vegetation vergleichbar, deren Sprießen sich dem lebenspendenden
 				Regen verdankt, die jedoch verdorren und vom Wind verweht werden wird — eine
@@ -1509,7 +1514,7 @@
 				angesprochen.</p>
 		</text>
 		<text versstart="047" versend="049" verfasser="an">
-			<p><lem>wa-yauma nusayyiru l-ǧibāla wa-tara l-ʾarḍa bārizatan wa-ḥašarnāhum fa-lam nuġādir minhum ʾaḥadan / wa-ʿuriḍū ʿalā rabbika ṣaffan la-qad ǧiʾtumūnā ka-mā ḫalaqnākum ʾawwala marratin bal zaʿamtum ʾallan naǧʿala lakum mauʿidan / wa-wuḍiʿa l-kitābu fa-tarā l-muǧrimīna mušfiqīna mimmā fīhi wa-yaqūlūna yā-wailatanā mā-li hāḏa l-kitābi lā yuġadiru ṣaġīratan wa-lā kabīratan ʾillā ʾaḥṣāhā wa-waǧadū mā ʿamilū ḥāḍiran wa-lā yaẓlimu rabbuka ʾaḥadan]</lem>
+			<p><lem>wa-yauma nusayyiru l-ǧibāla wa-tara l-ʾarḍa bārizatan wa-ḥašarnāhum fa-lam nuġādir minhum ʾaḥadā / wa-ʿuriḍū ʿalā rabbika ṣaffan la-qad ǧiʾtumūnā ka-mā ḫalaqnākum ʾawwala marratin bal zaʿamtum ʾallan naǧʿala lakum mauʿidā / wa-wuḍiʿa l-kitābu fa-tarā l-muǧrimīna mušfiqīna mimmā fīhi wa-yaqūlūna yā-wailatanā mā-li hāḏa l-kitābi lā yuġadiru ṣaġīratan wa-lā kabīratan ʾillā ʾaḥṣāhā wa-waǧadū mā ʿamilū ḥāḍiran wa-lā yaẓlimu rabbuka ʾaḥadā]</lem>
 				Die <q type="koran" versstart="018:047" versend="018:049">Verse 47–49</q> bieten
 				eine eschatologische Szenerie mit Akzent auf der offenbar in einem Gebärvorgang
 				fokussierten Erde, vgl. <q type="koran" versstart="099:002" versend="099:002">Q
@@ -1531,7 +1536,7 @@
 				Sprich: ›Der macht sie lebendig, der sie ein erstes Mal erschuf‹«.</p>
 		</text>
 		<text versstart="050" versend="053" verfasser="an">
-			<p><lem>wa-ʾiḏ qulnā li-l-malāʾikati sǧudū li-ʾādama fa-saǧadū ʾillā ʾiblīsa kāna mina l-ǧinni fa-fasaqa ʿan ʾamri rabbihī ʾa-fa-tattaḫiḏūnahū wa-ḏurrīyatahū ʾauliyāʾa min dūnī wa-hum lakum ʿadūwun biʾsa li-ẓ-ẓālimīna badalan / mā ʾašhadtuhum ḫalqa s-samāwāti wa-l-ʾarḍi wa-lā ḫalqa ʾanfusihim wa-mā kuntu muttaḫiḏa l-muḍillīna ʿaḍudan / wa-yauma yaqūlu nādū šurakāʾiya llaḏīna zaʿamtum fa-daʿauhum fa-lam yastaǧībū lahum wa-ǧaʿalnā bainahum maubiqan / wa-raʾa l-muǧrimūna n-nāra fa-ẓannū ʾannahum muwāqiʿūhā wa-lam yaǧidū ʿanhā maṣrifan]</lem>
+			<p><lem>wa-ʾiḏ qulnā li-l-malāʾikati sǧudū li-ʾādama fa-saǧadū ʾillā ʾiblīsa kāna mina l-ǧinni fa-fasaqa ʿan ʾamri rabbihī ʾa-fa-tattaḫiḏūnahū wa-ḏurrīyatahū ʾauliyāʾa min dūnī wa-hum lakum ʿadūwun biʾsa li-ẓ-ẓālimīna badalā / mā ʾašhadtuhum ḫalqa s-samāwāti wa-l-ʾarḍi wa-lā ḫalqa ʾanfusihim wa-mā kuntu muttaḫiḏa l-muḍillīna ʿaḍudā / wa-yauma yaqūlu nādū šurakāʾiya llaḏīna zaʿamtum fa-daʿauhum fa-lam yastaǧībū lahum wa-ǧaʿalnā bainahum maubiqā / wa-raʾa l-muǧrimūna n-nāra fa-ẓannū ʾannahum muwāqiʿūhā wa-lam yaǧidū ʿanhā maṣrifā]</lem>
 				Aus der längst bekannten Adam-Diabolos/Iblīs-Episode (vorher schon <q type="koran"
 					versstart="015:026" versend="015:048">Q 15:26–48</q>; <q type="koran"
 					versstart="020:116" versend="020:120">20:116–120</q>; <q type="koran"
@@ -1584,7 +1589,7 @@
 				»Alle erkennen an, daß am ersten Tag keine erschaffen wurden«.</p>
 		</text>
 		<text versstart="054" versend="059" verfasser="an">
-			<p><lem>wa-la-qad ṣarrafnā fī hāḏa l-qurʾāni li-n-nāsi min kulli maṯalin wa-kāna l-ʾinsānu ʾakṯara šaiʾin ǧadalan / wa-mā manaʿa n-nāsa ʾan yuʾminū ʾiḏ ǧāʾahumu l-hudā wa-yastaġfirū rabbahum ʾillā ʾan taʾtiyahum sunnatu l-ʾawwalīna ʾau yaʾtiyahumu l-ʿaḏābu qubulan / wa-mā nursilu l-mursalīna ʾillā mubašširīna wa-munḏirīna wa-yuǧādilu llaḏīna kafarū bi-l-bāṭili li-yudḥiḍū bihi l-ḥaqqa wa-ttaḫaḏū ʾāyātī wa-mā ʾunḏirū huzuwan / wa-man ʾaẓlamu mimman ḏukkira bi-ʾāyāti rabbihī fa-ʾaʿraḍa ʿanhā wa-nasiya mā qaddamat yadāhu ʾinnā ǧaʿalnā ʿalā qulūbihim ʾakinnatan ʾan yafqahūhu wa-fī ʾāḏānihim waqran wa-ʾin tadʿuhum ʾila l-hudā fa-lan yahtadū ʾiḏan ʾabadan / wa-rabbuka l-ġafūru ḏu r-raḥmati lau yuʾāḫiḏuhum bi-mā kasabū la-ʿaǧǧala lahumu l-ʿaḏāba bal lahum mauʿidun lan yaǧidū min dūnihī mauʾilan / wa-tilka l-qurā ʾahlaknāhum lammā ẓalamū wa-ǧaʿalnā li-mahlikihim mauʿidan]</lem>
+			<p><lem>wa-la-qad ṣarrafnā fī hāḏa l-qurʾāni li-n-nāsi min kulli maṯalin wa-kāna l-ʾinsānu ʾakṯara šaiʾin ǧadalā / wa-mā manaʿa n-nāsa ʾan yuʾminū ʾiḏ ǧāʾahumu l-hudā wa-yastaġfirū rabbahum ʾillā ʾan taʾtiyahum sunnatu l-ʾawwalīna ʾau yaʾtiyahumu l-ʿaḏābu qubulā / wa-mā nursilu l-mursalīna ʾillā mubašširīna wa-munḏirīna wa-yuǧādilu llaḏīna kafarū bi-l-bāṭili li-yudḥiḍū bihi l-ḥaqqa wa-ttaḫaḏū ʾāyātī wa-mā ʾunḏirū huzuwā / wa-man ʾaẓlamu mimman ḏukkira bi-ʾāyāti rabbihī fa-ʾaʿraḍa ʿanhā wa-nasiya mā qaddamat yadāhu ʾinnā ǧaʿalnā ʿalā qulūbihim ʾakinnatan ʾan yafqahūhu wa-fī ʾāḏānihim waqran wa-ʾin tadʿuhum ʾila l-hudā fa-lan yahtadū ʾiḏan ʾabadā / wa-rabbuka l-ġafūru ḏu r-raḥmati lau yuʾāḫiḏuhum bi-mā kasabū la-ʿaǧǧala lahumu l-ʿaḏāba bal lahum mauʿidun lan yaǧidū min dūnihī mauʾilā / wa-tilka l-qurā ʾahlaknāhum lammā ẓalamū wa-ǧaʿalnā li-mahlikihim mauʿidā]</lem>
 				<bibl Zotero_Id_1="TXU6734D">Ghaffar (2019:148)</bibl> hat den Stellenwert des
 				selbstreferentiellen <q type="koran" versstart="018:054" versend="018:054">Verses
 					54</q> besonders hervorgehoben: »Auffällig ist, dass in der nahezu exakten
@@ -1628,7 +1633,7 @@
 				implizite Supersessionsgedanke ist der koranischen Verkündigung fremd.</p>
 		</text>
 		<text versstart="060" versend="064" verfasser="an">
-			<p><lem>wa-ʾiḏ qāla mūsā li-fatāhu lā ʾabraḥu ḥattā ʾabluġa maǧmaʿa l-baḥraini ʾau ʾamḍiya ḥuquban / fa-lammā balaġā maǧmaʿa bainihimā nasiyā ḥūtahumā fa-ttaḫaḏa sabīlahū fi l-baḥri saraban / fa-lammā ǧāwaza qāla li-fatāhu ʾātinā ġadāʾanā la-qad laqīnā min safarinā hāḏā naṣaban / qāla ʾa-raʾaita ʾiḏ ʾawainā ʾila ṣ-ṣaḫrati fa-ʾinnī nasītu l-ḥūta wa-mā ʾansānīhu ʾilla š-šaiṭānu ʾan ʾaḏkurahū wa-ttaḫaḏa sabīlahū fi l-baḥri ʿaǧaban / qāla ḏālika mā kunnā nabġi fa-rtaddā ʿalā ʾāṯārihimā qaṣaṣan]</lem>
+			<p><lem>wa-ʾiḏ qāla mūsā li-fatāhu lā ʾabraḥu ḥattā ʾabluġa maǧmaʿa l-baḥraini ʾau ʾamḍiya ḥuqubā / fa-lammā balaġā maǧmaʿa bainihimā nasiyā ḥūtahumā fa-ttaḫaḏa sabīlahū fi l-baḥri sarabā / fa-lammā ǧāwaza qāla li-fatāhu ʾātinā ġadāʾanā la-qad laqīnā min safarinā hāḏā naṣabā / qāla ʾa-raʾaita ʾiḏ ʾawainā ʾila ṣ-ṣaḫrati fa-ʾinnī nasītu l-ḥūta wa-mā ʾansānīhu ʾilla š-šaiṭānu ʾan ʾaḏkurahū wa-ttaḫaḏa sabīlahū fi l-baḥri ʿaǧabā / qāla ḏālika mā kunnā nabġi fa-rtaddā ʿalā ʾāṯārihimā qaṣaṣā]</lem>
 				Die Episode der Reise Mūsās zum Zusammenfluß der Ströme wird hier — entgegen <bibl
 					Zotero_Id_1="4WEWN8NZ"><hi rend="italic">SKMS</hi>, S. 268</bibl> — separat von
 				der folgenden behandelt, da nach <q type="koran" versstart="018:064"
@@ -1729,7 +1734,7 @@
 				weiterer Erklärung.</p>
 		</text>
 		<text versstart="065" versend="070" verfasser="an">
-			<p><lem>fa-waǧadā ʿabdan min ʿibādinā ʾātaināhu raḥmatan min ʿindinā wa-ʿallamnāhu min ladunnā ʿilman / qāla lahū mūsā hal ʾattabiʿuka ʿalā ʾan tuʿallimani mimmā ʿullimta rušdan / qāla ʾinnaka lan tastaṭīʿa maʿiya ṣabran / wa-kaifa taṣbiru ʿalā mā lam tuḥiṭ bihī ḫubran / qāla sa-taǧidunī ʾin šāʾa llāhu ṣābiran wa-lā ʾaʿṣī laka ʾamran / qāla fa-ʾini ttabaʿtanī fa-lā tasʾalnī ʿan šaiʾin ḥattā ʾuḥdiṯa laka minhu ḏikran]</lem>
+			<p><lem>fa-waǧadā ʿabdan min ʿibādinā ʾātaināhu raḥmatan min ʿindinā wa-ʿallamnāhu min ladunnā ʿilmā / qāla lahū mūsā hal ʾattabiʿuka ʿalā ʾan tuʿallimani mimmā ʿullimta rušdan / qāla ʾinnaka lan tastaṭīʿa maʿiya ṣabrā / wa-kaifa taṣbiru ʿalā mā lam tuḥiṭ bihī ḫubrā / qāla sa-taǧidunī ʾin šāʾa llāhu ṣābiran wa-lā ʾaʿṣī laka ʾamrā / qāla fa-ʾini ttabaʿtanī fa-lā tasʾalnī ʿan šaiʾin ḥattā ʾuḥdiṯa laka minhu ḏikrā]</lem>
 				Mit <q type="koran" versstart="018:065" versend="018:065">V. 65</q> beginnt eine
 				neue Erzählung, signalisiert durch Reimwechsel (von Antepänultima zu Pänultima), die
 				Identität der Akteure Mūsā und Bursche bleibt jedoch bestehen (ausgedrückt durch die
@@ -1794,7 +1799,7 @@
 					(1982)</bibl>.</p>
 		</text>
 		<text versstart="071" versend="076" verfasser="an">
-			<p><lem>fa-nṭalaqā ḥattā ʾiḏā rakibā fi s-safīnati ḫaraqahā qāla ʾa-ḫaraqtahā li-tuġriqa ʾahlahā la-qad ǧiʾta šaiʾan ʾimran / qāla ʾa-lam ʾaqul ʾinnaka lan tastaṭīʿa maʿiya ṣabran / qāla lā tuʾāḫiḏnī bi-mā nasītu wa-lā turhiqnī min ʾamrī ʿusran / fa-nṭalaqā ḥattā ʾiḏā laqiyā ġulāman fa-qatalahū qāla ʾa-qatalta nafsan zakīyatan bi-ġairi nafsin la-qad ǧiʾta šaiʾan nukran / qāla ʾa-lam ʾaqul laka ʾinnaka lan tastaṭīʿa maʿiya ṣabran / qāla ʾin saʾaltuka ʿan šaiʾin baʿdahā fa-lā tuṣāḥibnī qad balaġta min ladunnī ʿuḏran]</lem>
+			<p><lem>fa-nṭalaqā ḥattā ʾiḏā rakibā fi s-safīnati ḫaraqahā qāla ʾa-ḫaraqtahā li-tuġriqa ʾahlahā la-qad ǧiʾta šaiʾan ʾimrā / qāla ʾa-lam ʾaqul ʾinnaka lan tastaṭīʿa maʿiya ṣabrā / qāla lā tuʾāḫiḏnī bi-mā nasītu wa-lā turhiqnī min ʾamrī ʿusrā / fa-nṭalaqā ḥattā ʾiḏā laqiyā ġulāman fa-qatalahū qāla ʾa-qatalta nafsan zakīyatan bi-ġairi nafsin la-qad ǧiʾta šaiʾan nukrā / qāla ʾa-lam ʾaqul laka ʾinnaka lan tastaṭīʿa maʿiya ṣabrā / qāla ʾin saʾaltuka ʿan šaiʾin baʿdahā fa-lā tuṣāḥibnī qad balaġta min ladunnī ʿuḏrā]</lem>
 				Die Erzählung selbst, die aus drei als Prüfung verstandenen Begebenheiten besteht,
 				ist klar in drei Teile gegliedert: die Zerstörung des Schiffes (<q type="koran"
 					versstart="018:071" versend="018:073">V. 71–73</q>), die Tötung des Knaben (<q
@@ -1806,7 +1811,7 @@
 				Übertretung selbst seinen Abschied anbietet.</p>
 		</text>
 		<text versstart="077" versend="082" verfasser="an">
-			<p><lem>fa-nṭalaqā ḥattā ʾiḏā ʾatayā ʾahla qaryatin-i staṭʿamā ʾahlahā fa-ʾabau ʾan yuḍaiyifūhumā fa-waǧadā fīhā ǧidāran yurīdu ʾan yanqaḍḍa fa-ʾaqāmahū qāla lau šiʾta la-ttaḫaḏta ʿalaihi ʾaǧran / qāla hāḏā firāqu bainī wa-bainika sa-ʾunabbiʾuka bi-taʾwīli mā lam tastaṭiʿ ʿalaihi ṣabran / ʾamma s-safīnatu fa-kānat li-masākīna yaʿmalūna fi l-baḥri fa-ʾaradtu ʾan ʾaʿībahā wa-kāna warāʾahum malikun yaʾḫuḏu kulla safīnatin ġaṣban / wa-ʾamma l-ġulāmu fa-kānā ʾabawāhu muʾminaini fa-ḫašīnā ʾan yurhiqahumā ṭuġyānan wa-kufran / fa-ʾaradnā ʾan yubdilahumā rabbuhumā ḫairan minhu zakātan wa-ʾaqraba ruḥman / wa-ʾamma l-ǧidāru fa-kāna li-ġulāmaini yatīmaini fi l-madīnati wa-kāna taḥtahū kanzun lahumā wa-kāna ʾabūhumā ṣāliḥan fa-ʾarāda rabbuka ʾan yabluġā ʾašuddahumā wa-yastaḫriǧā kanzahumā raḥmatan min rabbika wa-mā faʿaltuhū ʿan ʾamrī ḏālika taʾwīlu mā lam tasṭiʿ ʿalaihi ṣabran]</lem>
+			<p><lem>fa-nṭalaqā ḥattā ʾiḏā ʾatayā ʾahla qaryatin-i staṭʿamā ʾahlahā fa-ʾabau ʾan yuḍaiyifūhumā fa-waǧadā fīhā ǧidāran yurīdu ʾan yanqaḍḍa fa-ʾaqāmahū qāla lau šiʾta la-ttaḫaḏta ʿalaihi ʾaǧrā / qāla hāḏā firāqu bainī wa-bainika sa-ʾunabbiʾuka bi-taʾwīli mā lam tastaṭiʿ ʿalaihi ṣabrā / ʾamma s-safīnatu fa-kānat li-masākīna yaʿmalūna fi l-baḥri fa-ʾaradtu ʾan ʾaʿībahā wa-kāna warāʾahum malikun yaʾḫuḏu kulla safīnatin ġaṣbā / wa-ʾamma l-ġulāmu fa-kānā ʾabawāhu muʾminaini fa-ḫašīnā ʾan yurhiqahumā ṭuġyānan wa-kufrā / fa-ʾaradnā ʾan yubdilahumā rabbuhumā ḫairan minhu zakātan wa-ʾaqraba ruḥmā / wa-ʾamma l-ǧidāru fa-kāna li-ġulāmaini yatīmaini fi l-madīnati wa-kāna taḥtahū kanzun lahumā wa-kāna ʾabūhumā ṣāliḥan fa-ʾarāda rabbuka ʾan yabluġā ʾašuddahumā wa-yastaḫriǧā kanzahumā raḥmatan min rabbika wa-mā faʿaltuhū ʿan ʾamrī ḏālika taʾwīlu mā lam tasṭiʿ ʿalaihi ṣabrā]</lem>
 				Die dritte Begebenheit betrifft eine positive Tat: die Aufrichtung der Mauer, die
 				allerdings angesichts der ungastfreundlichen Stadtbewohner auf Mißbilligung stößt.
 				Der erneute Vorwurf Mūsās führt zu seiner Entlassung aus dem
@@ -1994,7 +1999,7 @@
 			</p>
 		</text>
 		<text versstart="083" versend="084" verfasser="an">
-			<p><lem>wa-yasʾalūnaka ʿan ḏi l-qarnaini qul sa-ʾatlū ʿalaikum minhu ḏikran ʾinnā makkannā lahū fi l-ʾarḍi wa-ʾātaināhu min kulli šaiʾin sababan]</lem>
+			<p><lem>wa-yasʾalūnaka ʿan ḏi l-qarnaini qul sa-ʾatlū ʿalaikum minhu ḏikrā /  ʾinnā makkannā lahū fi l-ʾarḍi wa-ʾātaināhu min kulli šaiʾin sababā]</lem>
 				Die letzte Erzählung beginnt mit der Ankündigung eines Vortrags zu einer im Koran
 				neuen Figur. Ihre Vorstellung geschieht auf Nachfrage der Hörer. Die Figur wird
 				nicht namentlich genannt, sondern erscheint kodiert als »der Zweigehörnte«, der in
@@ -2076,7 +2081,7 @@
 				vorhalten soll.</p>
 		</text>
 		<text versstart="085" versend="088" verfasser="an">
-			<p><lem>fa-ʾatbaʿa sababan / ḥattā ʾiḏā balaġa maġriba š-šamsi waǧadahā taġrubu fī ʿainin ḥamiʾatin wa-waǧada ʿindahā qauman qulnā yā-ḏa l-qarnaini ʾimmā ʿan tuʿaḏḏiba wa-ʾimmā ʾan tattaḫiḏa fīhim ḥusnan / qāla ʾammā man ẓalama fa-saufa nuʿaḏḏibuhū ṯumma yuraddu ʾilā rabbihī fa-yuʿaḏḏibuhū ʿaḏāban nukran / wa-ʾammā man ʾāmana wa-ʿamila ṣāliḥan fa-lahū ǧazāʾan-i l-ḥusnā wa-sa-naqūlu lahū min ʾamrinā yusran]</lem>
+			<p><lem>fa-ʾatbaʿa sababā / ḥattā ʾiḏā balaġa maġriba š-šamsi waǧadahā taġrubu fī ʿainin ḥamiʾatin wa-waǧada ʿindahā qauman qulnā yā-ḏa l-qarnaini ʾimmā ʿan tuʿaḏḏiba wa-ʾimmā ʾan tattaḫiḏa fīhim ḥusnā / qāla ʾammā man ẓalama fa-saufa nuʿaḏḏibuhū ṯumma yuraddu ʾilā rabbihī fa-yuʿaḏḏibuhū ʿaḏāban nukrā / wa-ʾammā man ʾāmana wa-ʿamila ṣāliḥan fa-lahū ǧazāʾan-i l-ḥusnā wa-sa-naqūlu lahū min ʾamrinā yusrā]</lem>
 				Wieder — wie schon in der vorausgehenden Alexandergeschichte (<q type="koran"
 					versstart="018:060" versend="018:061">V. 60ff.</q>) — wird eine schematische
 				Form der Darstellung befolgt:
@@ -2094,7 +2099,7 @@
 				unausgesprochen.«</p>
 		</text>
 		<text versstart="089" versend="091" verfasser="an">
-			<p><lem>ṯumma ʾatbaʿa sababan / ḥattā ʾiḏā balaġa maṭliʿa š-šamsi waǧadahā taṭluʿu ʿalā qaumin lam naǧʿal lahum min dūnihā sitran / ka-ḏālika wa-qad ʾaḥaṭnā bi-mā ladaihi ḫubran]</lem>
+			<p><lem>ṯumma ʾatbaʿa sababā / ḥattā ʾiḏā balaġa maṭliʿa š-šamsi waǧadahā taṭluʿu ʿalā qaumin lam naǧʿal lahum min dūnihā sitrā / ka-ḏālika wa-qad ʾaḥaṭnā bi-mā ladaihi ḫubrā]</lem>
 				Die zweite Route in den <q type="koran" versstart="018:089" versend="018:090">Versen
 					89–90</q> führt ihn nach der Reise zum Sonnenaufgang, nach Osten, wo er wieder
 				ein Volk in einer Krise, nun schutzlos vor der Sonne, vorfindet. <q type="koran"
@@ -2103,11 +2108,11 @@
 				betont« (<bibl Zotero_Id_1="NQIPWSX4">Koloska 2015:150</bibl>).</p>
 		</text>
 		<text versstart="092" versend="098" verfasser="an">
-			<p><lem>ṯumma ʾatbaʿa sababan / ḥattā ʾiḏā balaġa baina s-saddaini waǧada min dūnihimā qauman lā yakādūna yafqahūna qaulan / qālū yā-ḏa l-qarnaini ʾinna yaʾǧūǧa wa-maʾǧūǧa mufsidūna fi l-ʾarḍi fa-hal naǧʿalu laka ḫarǧan ʿalā ʾan taǧʿala bainanā wa-bainahum saddan / qāla mā makkannī fīhi rabbī ḫairun fa-ʾaʿīnūnī bi-qūwatin ʾaǧʿal bainakum wa-bainahum radman / ʾātūnī zubara l-ḥadīdi ḥattā ʾiḏā sāwā baina ṣ-ṣadafaini qāla nfuḫū ḥattā ʾiḏā ǧaʿalahū nāran qāla ʾātūnī ʾufriġ ʿalaihi qiṭran / fa-mā sṭāʿū ʾan yaẓharūhu wa-mā staṭāʿū lahū naqban / qāla hāḏā raḥmatun min rabbī fa-ʾiḏā ǧāʾa waʿdu rabbī ǧaʿalahū dakkāʾa wa-kāna waʿdu rabbī ḥaqqan]</lem>
+			<p><lem>ṯumma ʾatbaʿa sababā / ḥattā ʾiḏā balaġa baina s-saddaini waǧada min dūnihimā qauman lā yakādūna yafqahūna qaulā / qālū yā-ḏa l-qarnaini ʾinna yaʾǧūǧa wa-maʾǧūǧa mufsidūna fi l-ʾarḍi fa-hal naǧʿalu laka ḫarǧan ʿalā ʾan taǧʿala bainanā wa-bainahum saddā / qāla mā makkannī fīhi rabbī ḫairun fa-ʾaʿīnūnī bi-qūwatin ʾaǧʿal bainakum wa-bainahum radmā / ʾātūnī zubara l-ḥadīdi ḥattā ʾiḏā sāwā baina ṣ-ṣadafaini qāla nfuḫū ḥattā ʾiḏā ǧaʿalahū nāran qāla ʾātūnī ʾufriġ ʿalaihi qiṭrā / fa-mā sṭāʿū ʾan yaẓharūhu wa-mā staṭāʿū lahū naqbā / qāla hāḏā raḥmatun min rabbī fa-ʾiḏā ǧāʾa waʿdu rabbī ǧaʿalahū dakkāʾa wa-kāna waʿdu rabbī ḥaqqā]</lem>
 				Die Erzählung — Ḏū l-qarnains Befolgen einer neuen Route — geht in eine konkrete
 				Beschreibung über, mit viel Aufwand wird der Bau der Abwehrmauer, die vor Gog und
-				Magog schützen soll, beschrieben. Pirtea (<ref target="#TUK1416">TUK_1416</ref>)
-				hat den Handlungsverlauf historisch mit der Alexanderlegende kontextualisiert:</p>
+				Magog schützen soll, beschrieben. Pirtea (<ref target="#TUK1416">TUK_1416</ref>) hat
+				den Handlungsverlauf historisch mit der Alexanderlegende kontextualisiert:</p>
 			<p>Nach der Reise zu den östlichen und westlichen Rändern der Welt (<q type="koran"
 					versstart="018:085" versend="018:086">Q 18:85–86</q>, <q type="koran"
 					versstart="018:089" versend="018:090">89–90</q>, dazu <ref target="#TUK14"
@@ -2289,7 +2294,7 @@
 				Gerechtigkeit schaffender Eschatologie Platz.</p>
 		</text>
 		<text versstart="099" versend="102" verfasser="an">
-			<p><lem>wa-taraknā baʿḍahum yaumaʾiḏin yamūǧu fī baʿḍin wa-nufiḫa fi ṣ-ṣūri fa-ǧamaʿnāhum ǧamʿan / wa-ʿaraḍnā ǧahannama yaumaʾiḏin li-l-kāfirīna ʿarḍan-i / allaḏīna kānat ʾaʿyunuhum fi ġiṭāʾin ʿan ḏikrī wa-kānū lā yastaṭīʿūna samʿan / ʾa-fa-ḥasiba llaḏīna kafarū ʾan yattaḫiḏū ʿibādī min dūnī ʾauliyāʾa ʾinnā ʾaʿtadnā ǧahannama li-l-kāfirīna nuzulan]</lem>
+			<p><lem>wa-taraknā baʿḍahum yaumaʾiḏin yamūǧu fī baʿḍin wa-nufiḫa fi ṣ-ṣūri fa-ǧamaʿnāhum ǧamʿā / wa-ʿaraḍnā ǧahannama yaumaʾiḏin li-l-kāfirīna ʿarḍā / allaḏīna kānat ʾaʿyunuhum fi ġiṭāʾin ʿan ḏikrī wa-kānū lā yastaṭīʿūna samʿā / ʾa-fa-ḥasiba llaḏīna kafarū ʾan yattaḫiḏū ʿibādī min dūnī ʾauliyāʾa ʾinnā ʾaʿtadnā ǧahannama li-l-kāfirīna nuzulā]</lem>
 				»Die eschatologische Katastrophe aus <q type="koran" versstart="018:000"
 					versend="018:098">Vers 98</q>, in der der Gog und Magog Einhalt gebietende Damm
 				zerstört wird, scheint in <q type="koran" versstart="018:099" versend="018:099">Vers
@@ -2314,7 +2319,7 @@
 				der apokalyptisch orientierten Umweltkulturen.</p>
 		</text>
 		<text versstart="103" versend="108" verfasser="an">
-			<p><lem>qul hal nunabbiʾukum bi-l-ʾaḫsarīna ʾaʿmālan-i / allaḏīna ḍalla saʿyuhum fi l-ḥayāti d-dunyā wa-hum yaḥsabūna ʾannahum yuḥsinūna ṣunʿan / ʾulāʾika llaḏīna kafarū bi-ʾāyāti rabbihim wa-liqāʾihī fa-ḥabiṭat ʾaʿmāluhum fa-lā nuqīmu lahum yauma l-qiyāmati waznan / ḏālika ǧazāʾuhum ǧahannamu bi-mā kafarū wa-ttaḫaḏū ʾāyātī wa-rusulī huzuwan / ʾinna llaḏīna ʾāmanū wa-ʿamilu ṣ-ṣāliḥāti kānat lahum ǧannātu l-firdausi nuzulan / ḫālidīna fīhā lā yabġūna ʿanhā ḥiwalan]</lem>
+			<p><lem>qul hal nunabbiʾukum bi-l-ʾaḫsarīna ʾaʿmālā / allaḏīna ḍalla saʿyuhum fi l-ḥayāti d-dunyā wa-hum yaḥsabūna ʾannahum yuḥsinūna ṣunʿā / ʾulāʾika llaḏīna kafarū bi-ʾāyāti rabbihim wa-liqāʾihī fa-ḥabiṭat ʾaʿmāluhum fa-lā nuqīmu lahum yauma l-qiyāmati waznā / ḏālika ǧazāʾuhum ǧahannamu bi-mā kafarū wa-ttaḫaḏū ʾāyātī wa-rusulī huzuwā / ʾinna llaḏīna ʾāmanū wa-ʿamilu ṣ-ṣāliḥāti kānat lahum ǧannātu l-firdausi nuzulā / ḫālidīna fīhā lā yabġūna ʿanhā ḥiwalā]</lem>
 				Den Schluß bilden eine lose Reihe <lang xml:lang="ar-Latn">qul</lang>-eingeleiteten
 				Reden, deren erste in der Identifizierung der ›Verlierer‹, der in ihrem weltlichen
 				Handeln Versagenden besteht. Sie haben die Auferstehung geleugnet und die Gesandten
@@ -2323,7 +2328,7 @@
 				Rede.</p>
 		</text>
 		<text versstart="109" versend="109" verfasser="an">
-			<p><lem>qul lau kāna l-baḥru midādan li-kalimāti rabbī la-nafida l-baḥru qabla ʾan tanfada kalimātu rabbī wa-lau ǧiʾnā bi-miṯlihī madadan]</lem>
+			<p><lem>qul lau kāna l-baḥru midādan li-kalimāti rabbī la-nafida l-baḥru qabla ʾan tanfada kalimātu rabbī wa-lau ǧiʾnā bi-miṯlihī madadā]</lem>
 				Die unvermittelt gnomische Aussage am Surenschluß suggeriert die Wahrnehmung
 				Unzulänglichkeit des Vorgetragenen, das noch unendlich hätte weitergeführt werden
 				können. Der Tenor des Verses hat ein Vorbild in <q type="bibel" buch="Joh"
@@ -2357,7 +2362,7 @@
 				scheint überzogen.</p>
 		</text>
 		<text versstart="110" versend="110" verfasser="an">
-			<p><lem>qul ʾinnamā ʾana bašarun miṯlukum yūḥā ʾilaiya ʾannamā ʾilāhukum ʾilāhun wāḥidun fa-man kāna yarǧū liqāʾa rabbihī fa-l-yaʿmal ʿamalan ṣāliḥan wa-lā yušrik bi-ʿibādati rabbihī ʾaḥadan]</lem>
+			<p><lem>qul ʾinnamā ʾana bašarun miṯlukum yūḥā ʾilaiya ʾannamā ʾilāhukum ʾilāhun wāḥidun fa-man kāna yarǧū liqāʾa rabbihī fa-l-yaʿmal ʿamalan ṣāliḥan wa-lā yušrik bi-ʿibādati rabbihī ʾaḥadā]</lem>
 				Die Sure schließt mit einem kurzen Bekenntnis, das wiederum als Eingeständnis der
 				Unzulänglichkeit des Gesagten verstanden werden kann: Der Verkünder ist bloßer
 				Sterblicher, er empfängt Eingebung, deren Herzstück in der Verpflichtung zu guten

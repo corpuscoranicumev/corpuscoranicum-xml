@@ -9,10 +9,15 @@
       </surentitel>
       <autorenkurz>
             <text versstart="000" versend="099" verfasser="an">
-                  <p>Übersetzt und analysiert von Angelika Neuwirth und Dirk Hartwig unter
+                  <p>Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth unter
                         Mitwirkung von Ali Aghaei und Tolou Khademalsharieh</p>
             </text>
       </autorenkurz>
+      <datierungkurz>
+            <text versstart="000" versend="099" verfasser="an">
+                  <p>Mekka II</p>
+            </text>
+      </datierungkurz>
       <literarkritikkurz>
             <text versstart="000" versend="099" verfasser="an">
                   <p/>
@@ -525,7 +530,7 @@
       </komposition>
       <kommentar>
             <text versstart="001" versend="001" verfasser="an">
-                  <p><lem>ʾalif-lām-rā tilka ʾāyātu l-kitābi wa-qurʾānin mubīnin]</lem> Die Sure
+                  <p><lem>ʾalif-lām-rā tilka ʾāyātu l-kitābi wa-qurʾānin mubīn]</lem> Die Sure
                         beginnt mit einer Folge von semantisch leeren Klangeinheiten,
                         Buchstabennamen, <lang xml:lang="ar-Latn">fawātiḥ</lang> (»Eröffnungen«).
                         Dieses in Mittelmekka üblich werdende Incipit übersetzt gewissermaßen das
@@ -587,7 +592,7 @@
                   </p>
             </text>
             <text versstart="002" versend="003" verfasser="an">
-                  <p><lem>〈rubamā〉 [rubbamā] rubamā yawaddu llaḏīna kafarū lau kānū muslimīna / ḏarhum yaʾkulū wa-yatamattaʿū wa-yulhihimu l-ʿamalu fa-saufa yaʿlamūna]</lem>
+                  <p><lem>〈rubamā〉 [rubbamā] rubamā yawaddu llaḏīna kafarū lau kānū muslimīn / ḏarhum yaʾkulū wa-yatamattaʿū wa-yulhihimu l-ʿamalu fa-saufa yaʿlamūn]</lem>
                         Die durch »vielleicht« — <lang xml:lang="ar-Latn">rubbamā</lang>, zur
                         Orthographıe vgl. <q type="textkritik" versstart="015:000" versend="015:099"
                               >oben »Textkritik«</q> — eingeleitete Aussage dürfte auf die
@@ -631,7 +636,7 @@
                               versstart="052:045" versend="052:045">Q 52:45</q>.</p>
             </text>
             <text versstart="004" versend="005" verfasser="an">
-                  <p><lem>wa-mā ʾahlaknā min qaryatin ʾillā wa-lahā kitābun maʿlūmun / mā tasbiqu min ʾummatin ʾaǧalahā wa-mā yastaʾḫirūna]</lem>
+                  <p><lem>wa-mā ʾahlaknā min qaryatin ʾillā wa-lahā kitābun maʿlūm / mā tasbiqu min ʾummatin ʾaǧalahā wa-mā yastaʾḫirūn]</lem>
                         Wie in <q type="koran" versstart="054:051" versend="054:051">Q 54:51</q>
                         Anspielung auf Präzedenzfälle von früheren Vernichtungsakten. Diesen ging
                         stets ein fester Beschluß <lang xml:lang="ar-Latn">(kitāb)</lang> voraus; es
@@ -657,7 +662,7 @@
                               type="koran" versstart="017:099" versend="017:099">17:99</q>.</p>
             </text>
             <text versstart="006" versend="007" verfasser="an">
-                  <p><lem>wa-qālū yā-ʾayyuha llaḏī nuzzila ʿalaihi ḏ-ḏikru ʾinnaka la-maǧnūnun / lau mā taʾtīnā bi-l-malāʾikati ʾin kunta mina ṣ-ṣādiqīna]</lem>
+                  <p><lem>wa-qālū yā-ʾayyuha llaḏī nuzzila ʿalaihi ḏ-ḏikru ʾinnaka la-maǧnūn / lau mā taʾtīnā bi-l-malāʾikati ʾin kunta mina ṣ-ṣādiqīn]</lem>
                         Vielleicht parodierend zugespitzte Wiedergabe der spöttischen Rede der
                         Gegner, die den Verkünder als den (selbsternannten) ›Träger der Mahnung‹
                         adressieren und ihn, wie es bereits früh zum Topos geworden ist (siehe <q
@@ -691,7 +696,7 @@
                         zynische Geringschätzung vorauszusetzen ist.</p>
             </text>
             <text versstart="008" versend="011" verfasser="an">
-                  <p><lem>mā nunazzilu l-malāʾikata ʾillā bi-l-ḥaqqi wa-mā kānū ʾiḏan munẓarīna / ʾinnā naḥnu nazzalna ḏ-ḏikra wa-ʾinnā lahū la-ḥāfiẓūna / wa-la-qad ʾarsalnā min qablika fī šiyaʿi l-ʾawwalīna / wa-mā yaʾtīhim min rasūlin ʾillā kānū bihī yastahziʾūna]</lem>
+                  <p><lem>mā nunazzilu l-malāʾikata ʾillā bi-l-ḥaqqi wa-mā kānū ʾiḏan munẓarīn / ʾinnā naḥnu nazzalna ḏ-ḏikra wa-ʾinnā lahū la-ḥāfiẓūn / wa-la-qad ʾarsalnā min qablika fī šiyaʿi l-ʾawwalīn / wa-mā yaʾtīhim min rasūlin ʾillā kānū bihī yastahziʾūn]</lem>
                         Göttliche Replik mit Zuspruch an den Verkünder, ihrerseits sarkastisch
                         gefärbt: Die Engel, die den Erweckungsschrei
                         (<lang xml:lang="ar-Latn">zaǧra</lang>, vgl. <q type="koran"
@@ -727,7 +732,7 @@
                         lediglich negativ die Verworfenheit der Gegner.</p>
             </text>
             <text versstart="012" versend="013" verfasser="an">
-                  <p><lem>ka-ḏālika naslukuhū fī qulūbi l-muǧrimīna / lā yuʾminūna bihī wa-qad ḫalat sunnatu l-ʾawwalīna]</lem>
+                  <p><lem>ka-ḏālika naslukuhū fī qulūbi l-muǧrimīn / lā yuʾminūna bihī wa-qad ḫalat sunnatu l-ʾawwalīn]</lem>
                         Gott läßt das Wort in das Herz bzw. den Verstand —
                         <lang xml:lang="ar-Latn">qalb</lang> steht auch für »Verstand« (siehe <bibl
                               Zotero_Id_1="XJSBMSQE">Seidensticker 1992</bibl>) — eingehen, ohne daß
@@ -736,7 +741,7 @@
                         und eine Lehre sein sollten.</p>
             </text>
             <text versstart="014" versend="015" verfasser="an">
-                  <p><lem>wa-lau fataḥnā ʿalaihim bāban mina s-samāʾi fa-ẓallū fīhi yaʿruǧūna / la-qālū ʾinnamā sukkirat ʾabṣārunā bal naḥnu qaumun masḥūrūna]</lem>
+                  <p><lem>wa-lau fataḥnā ʿalaihim bāban mina s-samāʾi fa-ẓallū fīhi yaʿruǧūn / la-qālū ʾinnamā sukkirat ʾabṣārunā bal naḥnu qaumun masḥūrūn]</lem>
                         Einblendung eines irrealen Szenarios: einer Öffnung des Himmels, die den
                         Ungläubigen ermöglicht, in den Himmel aufzusteigen. Doch würden sie selbst
                         dieses Wunder als Augenwischerei abtun, vgl. zu einer früheren — ähnlich
@@ -763,7 +768,7 @@
                         Bild der Jakobsleiter als unmittelbares Modell nahelegt.</p>
             </text>
             <text versstart="016" versend="018" verfasser="an">
-                  <p><lem>wa-la-qad ǧaʿalnā fi s-samāʾi burūǧan wa-zayyannāhā li-n-nāẓirīna / wa-ḥafiẓnāhā min kulli šaiṭānin raǧīmin / ʾillā mani staraqa s-samʿa fa-ʾatbaʿahū šihābun mubīnun]</lem>
+                  <p><lem>wa-la-qad ǧaʿalnā fi s-samāʾi burūǧan wa-zayyannāhā li-n-nāẓirīn / wa-ḥafiẓnāhā min kulli šaiṭānin raǧīmin / ʾillā mani staraqa s-samʿa fa-ʾatbaʿahū šihābun mubīn]</lem>
                         Der Gedanke der Vermittlung zwischen Himmel und Erde, sei es durch die
                         Botschaft eines Engels wie der Verkünder sie in Anspruch nimmt, sei es durch
                         ein Aufsteigen von Individuen in den Himmel, wird fortgeführt. Er tangiert
@@ -805,15 +810,15 @@
                         entmachtet.</p>
             </text>
             <text versstart="019" versend="021" verfasser="an">
-                  <p><lem>wa-l-ʾarḍa madadnāhā wa-ʾalqainā fīhā rawāsiya wa-ʾanbatnā fīhā min kulli šaiʾin mauzūnin / wa-ǧaʿalnā lakum fīhā maʿāyiša wa-man lastum lahū bi-rāziqīna / wa-ʾin min šaiʾin ʾillā ʿindanā ḫazāʾinuhū wa-mā nunazziluhū ʾillā bi-qadarin maʿlūmin]</lem>
+                  <p><lem>wa-l-ʾarḍa madadnāhā wa-ʾalqainā fīhā rawāsiya wa-ʾanbatnā fīhā min kulli šaiʾin mauzūn / wa-ǧaʿalnā lakum fīhā maʿāyiša wa-man lastum lahū bi-rāziqīn / wa-ʾin min šaiʾin ʾillā ʿindanā ḫazāʾinuhū wa-mā nunazziluhū ʾillā bi-qadarin maʿlūm]</lem>
                         Die mit der Ausschmückung des Himmels begonnene
                         <lang xml:lang="ar-Latn">ʾāyāt</lang>-Serie fährt mit der Beschreibung der
                         Erde fort, in der — demselben, auch in der altarabischen Dichtung zugrunde
                         gelegten Weltbild zufolge — Berge, (hier metonymisch als »festgegründete«,
                         <lang xml:lang="ar-Latn">rawāsin</lang>, bezeichnet) als Stützen des Himmels
                         dienen und daher fest verankert sind (siehe <bibl Zotero_Id_1="UIC8IJC4"
-                              >Zuhair, <hi rend="italic">Dīwān</hi> 13:101, <hi rend="italic"
-                                    >SEAP</hi>, S. 361</bibl>.
+                              >Zuhair, <hi rend="italic">Dīwān</hi> 13:101</bibl>, <bibl
+                              Zotero_Id_1="AFDB8IG7"><hi rend="italic">SEAP</hi>, S. 361</bibl>.
                         <lang xml:lang="ar-Latn">A-lā lā ʾarā ʿalā l-hawādiṯi bāqiyan wa-lā ḫālidan ʾillā l-ǧibāla l-rawāsiyā</lang>
                         »Wohl sehe ich nichts, was den Schicksalschlägen gegenüber bestehen und sie
                         überdauern kann als die fest eingefügten Berge«). — Zu dieser Vorstellung
@@ -831,7 +836,7 @@
                               versstart="026:007" versend="026:007">Q 26:7</q>) die Rede.</p>
             </text>
             <text versstart="022" versend="022" verfasser="an">
-                  <p><lem>wa-ʾarsalna r-riyāḥa lawāqiḥa fa-ʾanzalnā mina s-samāʾi māʾan fa-ʾasqainākumūhu wa-mā ʾantum lahū bi-ḫāzinīna]</lem>
+                  <p><lem>wa-ʾarsalna r-riyāḥa lawāqiḥa fa-ʾanzalnā mina s-samāʾi māʾan fa-ʾasqainākumūhu wa-mā ʾantum lahū bi-ḫāzinīn]</lem>
                         Wie auch sonst sind »Winde« (Plural, <lang xml:lang="ar-Latn">riyāḥ</lang>,
                               <q type="koran" versstart="018:025" versend="018:025">Q 18:25</q>; <q
                               type="koran" versstart="027:063" versend="027:063">27:63</q> und
@@ -854,7 +859,7 @@
                               target="#TUK909">TUK 0909</ref>).</p>
             </text>
             <text versstart="023" versend="025" verfasser="an">
-                  <p><lem>wa-ʾinnā la-naḥnu nuḥyī wa-numītu wa-naḥnu l-wāriṯūna / wa-la-qad ʿalimna l-mustaqdimīna minkum wa-la-qad ʿalimna l-mustaʾḫirīna / wa-ʾinna rabbaka huwa yaḥšuruhum ʾinnahū ḥakīmun ʿalīmun]</lem>
+                  <p><lem>wa-ʾinnā la-naḥnu nuḥyī wa-numītu wa-naḥnu l-wāriṯūn / wa-la-qad ʿalimna l-mustaqdimīna minkum wa-la-qad ʿalimna l-mustaʾḫirīn / wa-ʾinna rabbaka huwa yaḥšuruhum ʾinnahū ḥakīmun ʿalīm]</lem>
                         Gottes Kraft, Leben und Tod zu geben (siehe dazu <q type="bibel" buch="1Sam"
                               versstart="002:006" versend="002:006">1 Sam 2,6</q>:
                         <lang xml:lang="hbo-Latn">YHWH memit u-meḥayyeh</lang> [im Gebet der
@@ -870,7 +875,7 @@
                         Klausel ist ein gängiger Abschlußvers von Hauptteilen.</p>
             </text>
             <text versstart="026" versend="027" verfasser="an">
-                  <p><lem>wa-la-qad ḫalaqna l-ʾinsāna min ṣalṣālin min ḥamaʾin masnūnin / wa-l-ǧānna ḫalaqnāhu min qablu min nāri s-samūmi]</lem>
+                  <p><lem>wa-la-qad ḫalaqna l-ʾinsāna min ṣalṣālin min ḥamaʾin masnūn / wa-l-ǧānna ḫalaqnāhu min qablu min nāri s-samūm]</lem>
                         Unvermittelt, fast wie eine Fortsetzung der Wir-Prädikationen, folgt der
                         Mythos von <lang xml:lang="ar-Latn">ʾIblīs‎’‎</lang> Fall. Obwohl in Form
                         einer Erzählung gehalten, wird dieser Mythos nicht mit einer die Lesung
@@ -919,7 +924,7 @@
                         Ǧinnen gegenüber dem der Menschen angespielt worden.</p>
             </text>
             <text versstart="028" versend="031" verfasser="an">
-                  <p><lem>wa-ʾiḏ qāla rabbuka li-l-malāʾikati ʾinnī ḫāliqun bašaran min ṣalṣālin min ḥamaʾin masnūnin / fa-ʾiḏā sawwaituhū wa-nafaḫtu fīhi min rūḥī fa-qaʿū lahū sāǧidīna / fa-saǧada l-malāʾikatu kulluhum ʾaǧmaʿūna / ʾillā ʾiblīsa ʾabā ʾan yakūna maʿa s-sāǧidīna]</lem>
+                  <p><lem>wa-ʾiḏ qāla rabbuka li-l-malāʾikati ʾinnī ḫāliqun bašaran min ṣalṣālin min ḥamaʾin masnūn / fa-ʾiḏā sawwaituhū wa-nafaḫtu fīhi min rūḥī fa-qaʿū lahū sāǧidīn / fa-saǧada l-malāʾikatu kulluhum ʾaǧmaʿūn / ʾillā ʾiblīsa ʾabā ʾan yakūna maʿa s-sāǧidīn]</lem>
                         Die erste Erzählung zu den Begleitumständen der Menschenschöpfung
                         konzentriert sich aber nicht auf den neu geschaffenen Menschen. Dieser
                         bleibt unbenannt, figuriert nur als ›Sterblicher‹
@@ -980,7 +985,7 @@
                                     >BEQ</hi>, S. 54–58</bibl>).</p>
             </text>
             <text versstart="032" versend="035" verfasser="an">
-                  <p><lem>qāla yā-ʾiblīsu mā laka ʾallā takūna maʿa s-sāǧidīna / qāla lam ʾakun li-ʾasǧuda li-bašarin ḫalaqtahū min ṣalṣālin min ḥamaʾin masnūnin / qāla fa-ḫruǧ minhā fa-ʾinnaka raǧīmun / wa-ʾinna ʿalaika l-laʿnata ʾilā yaumi d-dīni]</lem>
+                  <p><lem>qāla yā-ʾiblīsu mā laka ʾallā takūna maʿa s-sāǧidīn / qāla lam ʾakun li-ʾasǧuda li-bašarin ḫalaqtahū min ṣalṣālin min ḥamaʾin masnūn / qāla fa-ḫruǧ minhā fa-ʾinnaka raǧīm / wa-ʾinna ʿalaika l-laʿnata ʾilā yaumi d-dīn]</lem>
                         Auf seine Zurechtweisung hin trägt <lang xml:lang="ar-Latn">ʾIblīs</lang>
                         das Argument der — im Vergleich mit seiner eigenen — geringerwertigen
                         Materie des neuen Geschöpfes vor, die ihm die Niederwerfung vor dem neuen
@@ -1011,7 +1016,7 @@
                               versend="056:056">56:56</q>.</p>
             </text>
             <text versstart="036" versend="041" verfasser="an">
-                  <p><lem>qāla rabbi fa-ʾanẓirnī ʾilā yaumi yubʿaṯūna / qāla fa-ʾinnaka mina l-munẓarīna / ʾilā yaumi l-waqti l-maʿlūmi / qāla rabbi bi-mā ʾaġwaitanī la-ʾuzayyinanna lahum fi l-ʾarḍi wa-la-ʾuġwiyannahum ʾaǧmaʿīna / ʾillā ʿibādaka minhumu l-muḫlaṣīna / qāla hāḏā ṣirāṭun ʿalayya mustaqīmun]</lem>
+                  <p><lem>qāla rabbi fa-ʾanẓirnī ʾilā yaumi yubʿaṯūn / qāla fa-ʾinnaka mina l-munẓarīn / ʾilā yaumi l-waqti l-maʿlūm / qāla rabbi bi-mā ʾaġwaitanī la-ʾuzayyinanna lahum fi l-ʾarḍi wa-la-ʾuġwiyannahum ʾaǧmaʿīn / ʾillā ʿibādaka minhumu l-muḫlaṣīn / qāla hāḏā ṣirāṭun ʿalayya mustaqīm]</lem>
                         Die Fortsetzung stellt dem christlichen Mythos eine ganz andere Theologie,
                         eine Theodizee, entgegen: <lang xml:lang="ar-Latn">ʾIblīs</lang> erbittet
                         sich eine Frist bis zum Gericht, vor allem aber die Rolle des Verführers und
@@ -1066,7 +1071,7 @@
                         eindeutig.</p>
             </text>
             <text versstart="042" versend="044" verfasser="an">
-                  <p><lem>ʾinna ʿibādī laisa laka ʿalaihim sulṭānun ʾillā mani ttabaʿaka mina l-ġāwīna / wa-ʾinna ǧahannama la-mauʿiduhum ʾaǧmaʿīna / lahā sabʿatu ʾabwābin li-kulli bābin minhum ǧuzʾun maqsūmun]</lem>
+                  <p><lem>ʾinna ʿibādī laisa laka ʿalaihim sulṭānun ʾillā mani ttabaʿaka mina l-ġāwīn / wa-ʾinna ǧahannama la-mauʿiduhum ʾaǧmaʿīn / lahā sabʿatu ʾabwābin li-kulli bābin minhum ǧuzʾun maqsūm]</lem>
                         Mit der Bestätigung des Ausnahmezustands der Gemeinde, mit der bereits in
                         der Präexistenz geregelten Bewahrung der
                         <lang xml:lang="ar-Latn">ʿibād</lang> (»Diener«) vor dem Zugriff des
@@ -1110,7 +1115,7 @@
                         Coranicum).</p>
             </text>
             <text versstart="045" versend="048" verfasser="an">
-                  <p><lem>ʾinna l-muttaqīna fī ǧannātin wa-ʿuyūnin-i / dḫulūhā bi-salāmin ʾāminīna / wa-nazaʿnā mā fī ṣudūrihim min ġillin ʾiḫwānan ʿalā sururin mutaqābilīna / lā yamassuhum fīhā naṣabun wa-mā hum minhā bi-muḫraǧīna]</lem>
+                  <p><lem>ʾinna l-muttaqīna fī ǧannātin wa-ʿuyūn / udḫulūhā bi-salāmin ʾāminīn / wa-nazaʿnā mā fī ṣudūrihim min ġillin ʾiḫwānan ʿalā sururin mutaqābilīn / lā yamassuhum fīhā naṣabun wa-mā hum minhā bi-muḫraǧīn]</lem>
                         An die Straferwähnung schließt sich eine Paradiesbeschreibung an, die neben
                         dem Standardinventar — Gärten und Quellen — auch ein Gelageszenario aufweist
                         (siehe zum Bild der Einander-gegenüber-Sitzenden: <q type="koran"
@@ -1152,7 +1157,7 @@
                               target="#TUK501">TUK 501</ref>).</p>
             </text>
             <text versstart="049" versend="050" verfasser="an">
-                  <p><lem>nabbiʾ ʿibādī ʾannī ʾana l-ġafūru r-raḥīmu / wa-ʾanna ʿaḏābī huwa l-ʿaḏābu l-ʾalīmu]</lem>
+                  <p><lem>nabbiʾ ʿibādī ʾannī ʾana l-ġafūru r-raḥīm / wa-ʾanna ʿaḏābī huwa l-ʿaḏābu l-ʾalīm]</lem>
                         Die nun folgenden Erzählungen bilden ganz eindeutig eine Schriftperikope.
                         Sie wird durch eine Lesungseinleitung eingeführt. Der schon frühmekkanisch
                         nachweisbare Gebrauch des genuin arabischen Verbums
@@ -1242,7 +1247,7 @@
                         Darstellung, erzeugt.</p>
             </text>
             <text versstart="051" versend="053" verfasser="an">
-                  <p><lem>wa-nabbiʾhum ʿan ḍaifi ʾibrāhīma / ʾiḏ daḫalū ʿalaihi fa-qālū salāman qāla ʾinnā minkum waǧilūna / qālū lā tauǧal ʾinnā nubašširuka bi-ġulāmin ʿalīmin]</lem>
+                  <p><lem>wa-nabbiʾhum ʿan ḍaifi ʾibrāhīm / ʾiḏ daḫalū ʿalaihi fa-qālū salāman qāla ʾinnā minkum waǧilūn / qālū lā tauǧal ʾinnā nubašširuka bi-ġulāmin ʿalīm]</lem>
                         Einleitung zu der Philoxenieerzählung, Abrahams Bewirtung der himmlischen
                         Gäste. Die Geschichte, entsprechend <q type="bibel" buch="Gen"
                               versstart="018:001" versend="018:017">Gen 18,1–17</q>, wurde bereits
@@ -1277,7 +1282,7 @@
                         Beschwichtigung Maria gegenüber nicht ausgesprochen.</p>
             </text>
             <text versstart="054" versend="056" verfasser="an">
-                  <p><lem>qāla ʾa-baššartumūnī ʿalā ʾan massaniya l-kibaru fa-bi-ma tubašširūna / qālū baššarnāka bi-l-ḥaqqi fa-lā takun mina l-qāniṭīna / qāla wa-man yaqnaṭu min raḥmati rabbihī ʾilla d-ḍāllūna]</lem>
+                  <p><lem>qāla ʾa-baššartumūnī ʿalā ʾan massaniya l-kibaru fa-bi-ma tubašširūn / qālū baššarnāka bi-l-ḥaqqi fa-lā takun mina l-qāniṭīn / qāla wa-man yaqnaṭu min raḥmati rabbihī ʾilla d-ḍāllūn]</lem>
                         Anstelle der Frau Abrahams, die in <q type="koran" versstart="051:029"
                               versend="051:029">Q 51:29</q> gemäß <q type="bibel" buch="Gen"
                               versstart="018:012" versend="018:013">Gen 18,12–13</q> die Ankündigung
@@ -1298,7 +1303,7 @@
                         2016</bibl>.</p>
             </text>
             <text versstart="057" versend="060" verfasser="an">
-                  <p><lem>qāla fa-mā ḫaṭbukum ʾayyuha l-mursalūna / qālū ʾinnā ʾursilnā ʾilā qaumin muǧrimīna / ʾillā ʾāla lūṭin ʾinnā la-munaǧǧūhum ʾaǧmaʿīna / ʾilla mraʾatahū qaddarnā ʾinnahā la-mina l-ġābirīna]</lem>
+                  <p><lem>qāla fa-mā ḫaṭbukum ʾayyuha l-mursalūn / qālū ʾinnā ʾursilnā ʾilā qaumin muǧrimīn / ʾillā ʾāla lūṭin ʾinnā la-munaǧǧūhum ʾaǧmaʿīn / ʾilla mraʾatahū qaddarnā ʾinnahā la-mina l-ġābirīn]</lem>
                         Es folgt wie in <q type="koran" versstart="051:031" versend="051:032">Q
                               51:31–32</q> Abrahams Nachfrage nach ihrem Auftrag. Anders als im
                         biblischen Bericht und anders als in <q type="koran" versstart="051:000"
@@ -1316,7 +1321,7 @@
                         für die Sodomiten einzulegen.</p>
             </text>
             <text versstart="061" versend="064" verfasser="an">
-                  <p><lem>fa-lammā ǧāʾa ʾāla lūṭin-i l-mursalūna / qāla ʾinnakum qaumun munkarūna / qālū bal ǧiʾnāka bi-mā kānū fīhi yamtarūna / wa-ʾataināka bi-l-ḥaqqi wa-ʾinnā la-ṣādiqūna]</lem>
+                  <p><lem>fa-lammā ǧāʾa ʾāla lūṭin-i l-mursalūn / qāla ʾinnakum qaumun munkarūn / qālū bal ǧiʾnāka bi-mā kānū fīhi yamtarūn / wa-ʾataināka bi-l-ḥaqqi wa-ʾinnā la-ṣādiqūn]</lem>
                         Die Lot-Geschichte selbst beginnt mit der deutlich zurückhaltenden Begrüßung
                         der Gäste durch Lot, der sie nicht wie im biblischen Bericht <q type="bibel"
                               buch="Gen" versstart="019:001" versend="019:003">Gen 19,1–3</q> in
@@ -1331,7 +1336,7 @@
                         um die eschatologische Wirklichkeit der Stunde geht.</p>
             </text>
             <text versstart="065" versend="066" verfasser="an">
-                  <p><lem>fa-ʾasri bi-ʾahlika bi-qiṭʿin mina l-laili wa-ttabiʿ ʾadbārahum wa-lā yaltafit minkum ʾaḥadun wa-mḍū ḥaiṯu tuʾmarūna / wa-qaḍainā ʾilaihi ḏālika l-ʾamra ʾanna dābira hāʾulāʾi maqṭūʿun muṣbiḥīna]</lem>
+                  <p><lem>fa-ʾasri bi-ʾahlika bi-qiṭʿin mina l-laili wa-ttabiʿ ʾadbārahum wa-lā yaltafit minkum ʾaḥadun wa-mḍū ḥaiṯu tuʾmarūn / wa-qaḍainā ʾilaihi ḏālika l-ʾamra ʾanna dābira hāʾulāʾi maqṭūʿun muṣbiḥīn]</lem>
                         Es folgt der Auftrag zum Auszug zusammen mit der Familie gemäß <q
                               type="bibel" buch="Gen" versstart="019:012" versend="019:012">Gen
                               19,12</q>. Das Verb <lang xml:lang="ar-Latn">asrā</lang> ist außer in
@@ -1348,7 +1353,7 @@
                         — metaphorisch ausgedrückt mit dem Bild des zu durchtrennenden Rückens.</p>
             </text>
             <text versstart="067" versend="072" verfasser="an">
-                  <p><lem>wa-ǧāʾa ʾahlu l-madīnati yastabširūna / qāla ʾinna hāʾulāʾi ḍaifī fa-lā tafḍaḥūni / wa-ttaqu llāha wa-lā tuḫzūni / qālū ʾa-wa-lam nanhaka ʿani l-ʿālamīna / qāla hāʾulāʾi banātī ʾin kuntum fāʿilīna / la-ʿamruka ʾinnahum la-fī sakratihim yaʿmahūna]</lem>
+                  <p><lem>wa-ǧāʾa ʾahlu l-madīnati yastabširūn / qāla ʾinna hāʾulāʾi ḍaifī fa-lā tafḍaḥūn / wa-ttaqu llāha wa-lā tuḫzūn / qālū ʾa-wa-lam nanhaka ʿani l-ʿālamīn / qāla hāʾulāʾi banātī ʾin kuntum fāʿilīn / la-ʿamruka ʾinnahum la-fī sakratihim yaʿmahūn]</lem>
                         Auf die Verheißung der Vernichtung der Frevler werden diese — dialektisch in
                         ausgelassener Stimmung und mit provokanter Äußerung — selbst eingeblendet.
                         Nur an dieser Stelle wird Einblick in das Vergehen der sonst einfach als
@@ -1375,7 +1380,7 @@
                         in die religiös konnotierte Sprache des Gesandten übersetzt.</p>
             </text>
             <text versstart="073" versend="075" verfasser="an">
-                  <p><lem>fa-ʾaḫaḏathumu ṣ-ṣaiḥatu mušriqīna / fa-ǧaʿalnā ʿāliyahā sāfilahā wa-ʾamṭarnā ʿalaihim ḥiǧāratan min siǧǧīlin / ʾinna fī ḏālika la-ʾāyātin li-l-mutawassimīna]</lem>
+                  <p><lem>fa-ʾaḫaḏathumu ṣ-ṣaiḥatu mušriqīn / fa-ǧaʿalnā ʿāliyahā sāfilahā wa-ʾamṭarnā ʿalaihim ḥiǧāratan min siǧǧīl / ʾinna fī ḏālika la-ʾāyātin li-l-mutawassimīn]</lem>
                         Die sie treffende Strafe ähnelt derjenigen der Thamūd aus <q type="koran"
                               versstart="054:031" versend="054:031">Q 54:31</q>:
                         <lang xml:lang="ar-Latn">ʾinnā ʾarsalnā ʿalaihim ṣaiḥatan wāḥidatan fa-kānū ka-hašīmi l-muḥtaẓir</lang>
@@ -1398,7 +1403,7 @@
                         105</q>.</p>
             </text>
             <text versstart="076" versend="077" verfasser="an">
-                  <p><lem>wa-ʾinnahā la-bi-sabīlin muqīmin / ʾinna fī ḏālika la-ʾāyatan li-l-muʾminīna]</lem>
+                  <p><lem>wa-ʾinnahā la-bi-sabīlin muqīm / ʾinna fī ḏālika la-ʾāyatan li-l-muʾminīn]</lem>
                         Die empirische Zugänglichkeit und Kenntnis der Überreste Sodoms wird auch in
                               <q type="koran" versstart="037:137" versend="037:137">Q 37:137</q>
                         vorausgesetzt:
@@ -1409,7 +1414,7 @@
                         den Wohnsitzen der »vernichteten Völkerschaften«.</p>
             </text>
             <text versstart="078" versend="079" verfasser="an">
-                  <p><lem>wa-ʾin kāna 〈ʾaṣḥābu l-ʾaikati〉 (ʾaṣḥābu laikata) la-ẓālimīna / fa-ntaqamnā minhum wa-ʾinnahumā la-bi-ʾimāmin mubīnin]</lem>
+                  <p><lem>wa-ʾin kāna 〈ʾaṣḥābu l-ʾaikati〉 (ʾaṣḥābu laikata) la-ẓālimīn / fa-ntaqamnā minhum wa-ʾinnahumā la-bi-ʾimāmin mubīn]</lem>
                         An die Straflegende um Lot schließt ein Katalog von
                         Straflegendenreminiszenzen an: Von den
                         <lang xml:lang="ar-Latn">ʾaṣḥāb al-ʾaika</lang> (vgl. <bibl
@@ -1449,7 +1454,7 @@
                         Laika schließt südlich an das Gebiet um Sodom an.</p>
             </text>
             <text versstart="080" versend="084" verfasser="an">
-                  <p><lem>wa-la-qad kaḏḏaba ʾaṣḥābu l-ḥiǧri l-mursalīna / wa-ʾātaināhum ʾāyātinā fa-kānū ʿanhā muʿriḍīna / wa-kānū yanḥitūna mina l-ǧibāli buyūtan ʾāminīna / fa-ʾaḫaḏathumu ṣ-ṣaiḥatu muṣbiḥīna / fa-mā ʾaġnā ʿanhum mā kānū yaksibūna]</lem>
+                  <p><lem>wa-la-qad kaḏḏaba ʾaṣḥābu l-ḥiǧri l-mursalīn / wa-ʾātaināhum ʾāyātinā fa-kānū ʿanhā muʿriḍīn / wa-kānū yanḥitūna mina l-ǧibāli buyūtan ʾāminīn / fa-ʾaḫaḏathumu ṣ-ṣaiḥatu muṣbiḥīn / fa-mā ʾaġnā ʿanhum mā kānū yaksibūn]</lem>
                         Der Katalog wird beschlossen mit der Erinnerung an die Leute von
                         <lang xml:lang="ar-Latn">al-Ḥiǧr</lang>, den Bewohnern der spätantik als
                         Egra (in dieser Lautung bei Strabo, sonst auch Hegra) bekannten Siedlung,
@@ -1513,7 +1518,7 @@
                         Ubiquität von Ruinenstätten in ihrer Lebenswelt.</p>
             </text>
             <text versstart="085" versend="086" verfasser="an">
-                  <p><lem>wa-mā ḫalaqna s-samāwāti wa-l-ʾarḍa wa-mā bainahumā ʾillā bi-l-ḥaqqi wa-ʾinna s-sāʿata la-ʾātiyatun fa-ṣfaḥi ṣ-ṣafḥa l-ǧamīla / ʾinna rabbaka huwa l-ḫallāqu l-ʿalīmu]</lem>
+                  <p><lem>wa-mā ḫalaqna s-samāwāti wa-l-ʾarḍa wa-mā bainahumā ʾillā bi-l-ḥaqqi wa-ʾinna s-sāʿata la-ʾātiyatun fa-ṣfaḥi ṣ-ṣafḥa l-ǧamīl / ʾinna rabbaka huwa l-ḫallāqu l-ʿalīm]</lem>
                         Auf die ›Lesung‹ mit ihrer Erzählserie folgt eine Prophetenermutigung,
                         basierend auf der Erinnerung daran, daß die Weltschöpfung einem Heilsplan
                         folgt, der »eingedenk der Wahrheit« oder »in Gerechtigkeit«
@@ -1523,7 +1528,7 @@
                               versstart="015:008" versend="015:008">V. 8</q>).</p>
             </text>
             <text versstart="087" versend="087" verfasser="an">
-                  <p><lem>wa-la-qad ʾātaināka sabʿan mina l-maṯānī wa-l-qurʾāna l-ʿaẓīma]</lem> Es
+                  <p><lem>wa-la-qad ʾātaināka sabʿan mina l-maṯānī wa-l-qurʾāna l-ʿaẓīm]</lem> Es
                         beginnt eine Offenbarungsbestätigung mit Prophetentrost. Eigentlicher Anlaß
                         des Trostes ist die Tatsache, daß der Verkünder nicht nur über seine Lesung
                         verfügt, sondern auch über die zunächst enigmatischen, da nur metonymisch
@@ -1626,14 +1631,14 @@
                               >Kommentar zu Q 1</q>.</p>
             </text>
             <text versstart="088" versend="089" verfasser="an">
-                  <p><lem>lā tamuddanna ʿainaika ʾilā mā mattaʿnā bihī ʾazwāǧan minhum wa-lā taḥzan ʿalaihim wa-ḫfiḍ ǧanāḥaka li-l-muʾminīna / wa-qul ʾinnī ʾana n-naḏīru l-mubīnu]</lem>
+                  <p><lem>lā tamuddanna ʿainaika ʾilā mā mattaʿnā bihī ʾazwāǧan minhum wa-lā taḥzan ʿalaihim wa-ḫfiḍ ǧanāḥaka li-l-muʾminīn / wa-qul ʾinnī ʾana n-naḏīru l-mubīn]</lem>
                         Anweisung, die Privilegierten unter den Gegnern nicht zu beneiden noch ih
                         Verweigerung zu bedauern, sondern die — offenbar — unter Belagerung
                         stehenden — Gläubigen zu beschützen. Der Verkünder soll sich auf seine
                         Warnerrolle beschränken.</p>
             </text>
             <text versstart="090" versend="093" verfasser="an">
-                  <p><lem>〈ka-mā〉 [wa-mā] ʾanzalnā ʿala l-muqtasimīna / llaḏīna ǧaʿalu l-qurʾāna ʿiḍīna / fa-wa-rabbika la-nasʾalannahum ʾaǧmaʿīna / ʿammā kānū yaʿmalūna]</lem>
+                  <p><lem>〈ka-mā〉 [wa-mā] ʾanzalnā ʿala l-muqtasimīn / llaḏīna ǧaʿalu l-qurʾāna ʿiḍīn / fa-wa-rabbika la-nasʾalannahum ʾaǧmaʿīn / ʿammā kānū yaʿmalūn]</lem>
                         »Die <q type="koran" versstart="015:090" versend="015:090">Verse 90</q> und
                               <q type="koran" versstart="015:091" versend="015:091">91</q> sind bis
                         jetzt nicht einleuchtend gedeutet worden« (<bibl Zotero_Id_1="J6TM6UHR"><hi
@@ -1666,7 +1671,7 @@
                         genau ihre Zerteilung der Lesung in kleine Teile besteht.</p>
             </text>
             <text versstart="094" versend="096" verfasser="an">
-                  <p><lem>fa-ṣdaʿ bi-mā tuʾmaru wa-ʾaʿriḍ ʿani l-mušrikīna / ʾinnā kafaināka l-mustahziʾīna / llaḏīna yaǧʿalūna maʿa llāhi ʾilāhan ʾāḫara fa-saufa yaʿlamūna]</lem>
+                  <p><lem>fa-ṣdaʿ bi-mā tuʾmaru wa-ʾaʿriḍ ʿani l-mušrikīn / ʾinnā kafaināka l-mustahziʾīn / llaḏīna yaǧʿalūna maʿa llāhi ʾilāhan ʾāḫara fa-saufa yaʿlamūn]</lem>
                         Neuerliche tröstende Anrede an den Verkünder, Aufforderung zur Meidung der
                         »Beigeseller«, die hier erstmals in der später üblich werdenden
                         Partizipialform <lang xml:lang="ar-Latn">mušrikūn</lang> erwähnt werden.
@@ -1695,7 +1700,7 @@
                               60 f.</bibl>) erwägt einen ironischen Umgang mit der Metapher.</p>
             </text>
             <text versstart="097" versend="099" verfasser="an">
-                  <p><lem>wa-la-qad naʿlamu ʾannaka yaḍīqu ṣadruka bi-mā yaqūlūna / fa-sabbiḥ bi-ḥamdi rabbika wa-kun mina s-sāǧidīna / wa-ʿbud rabbaka ḥattā yaʾtiyaka l-yaqīnu]</lem>
+                  <p><lem>wa-la-qad naʿlamu ʾannaka yaḍīqu ṣadruka bi-mā yaqūlūn / fa-sabbiḥ bi-ḥamdi rabbika wa-kun mina s-sāǧidīn / wa-ʿbud rabbaka ḥattā yaʾtiyaka l-yaqīn]</lem>
                         Der empfohlenen Abwendung von den Gegnern steht die Versicherung der
                         Anteilnahme Gottes selbst gegenüber. Eine Beklommenheit war dem Verkünder,
                         wie eine der ersten Suren (<q type="koran" versstart="097:000"

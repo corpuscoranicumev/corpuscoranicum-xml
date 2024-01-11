@@ -9,10 +9,15 @@
  </surentitel>
  <autorenkurz>
   <text versstart="000" versend="062" verfasser="tjj">
-   <p>Übersetzt und analysiert von Angelika Neuwirth und Dirk Hartwig unter Mitwirkung von Ali
+   <p>Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth unter Mitwirkung von Ali
     Aghaei und Tolou Khademalsharieh</p>
   </text>
  </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="007" verfasser="an">
+   <p>Mekka II</p>
+  </text>
+ </datierungkurz>
  <literarkritikkurz>
   <text versstart="000" versend="007" verfasser="an">
    <p>Keine Einschübe</p>
@@ -122,7 +127,7 @@
  </komposition>
  <kommentar>
   <text versstart="001" versend="001" verfasser="an">
-   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīmi]</lem> Die Invokationsformel, mit dem Akronym <hi
+   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Die Invokationsformel, mit dem Akronym <hi
      rend="italic">»<lang xml:lang="ar-Latn">Basmala</lang>«</hi> benannt, wird – wohl ab
     mittelmekkanischer Zeit – allen Suren vorangestellt, d.h. nachträglich auch den bereits
     verkündeten. Ihr Gebrauch entspricht dem der Trinitätsformel »Im Namen des Vaters und des Sohnes
@@ -191,10 +196,10 @@
     nicht erforderlich, um sie aufrechtzuerhalten.</p>
   </text>
   <text versstart="002" versend="002" verfasser="an">
-   <p><lem>l-ḥamdu li-llāhi rabbi l-ʿālamīna]</lem> Mit dieser hymnischen Preisung, nach der die
-    Sure auch mit ihrem alternativen Namen <lang xml:lang="ar-Latn">al-Ḥamd</lang> benannt ist,
-    beginnt der eigentliche Text (siehe zu ihren liturgiegeschichtlichen Vorläufern <q
-     type="kommentar" versstart="001:007" versend="001:007">unten zu V. 7</q>). Die Doxologie
+   <p><lem>l-ḥamdu li-llāhi rabbi l-ʿālamīn]</lem> Mit dieser hymnischen Preisung, nach der die Sure
+    auch mit ihrem alternativen Namen <lang xml:lang="ar-Latn">al-Ḥamd</lang> benannt ist, beginnt
+    der eigentliche Text (siehe zu ihren liturgiegeschichtlichen Vorläufern <q type="kommentar"
+     versstart="001:007" versend="001:007">unten zu V. 7</q>). Die Doxologie
     <lang xml:lang="ar-Latn">al-ḥamdu li-llāh</lang> war bereits frühmekkanisch (so in <q
      type="koran" versstart="052:048" versend="052:048">Q 52:48</q>) in Gebrauch, hier wie in den
     weiteren mittelmekkanischen Texten <q type="koran" versstart="037:182" versend="037:182">Q
@@ -262,14 +267,14 @@
     stillschweigend vorausgesetzt.</p>
   </text>
   <text versstart="003" versend="003" verfasser="an">
-   <p><lem>r-raḥmāni r-raḥīmi]</lem> Da <q type="koran" versstart="001:001" versend="001:001">V.
+   <p><lem>r-raḥmāni r-raḥīm]</lem> Da <q type="koran" versstart="001:001" versend="001:001">V.
      1</q> nicht Teil des Textes ist – die <lang xml:lang="ar-Latn">Fātiḥa</lang> wird in einigen
     Riten bis heute ohne die <lang xml:lang="ar-Latn">Basmala</lang> rezitiert (siehe Neuwirth,
      <bibl Zotero_Id_1="3VUVHDEU">Neuwirth 1991:348</bibl>) –, ist die Prädikation an dieser Stelle
     nicht Wiederholung, sondern emphatische Einführung des neuen Titels.</p>
   </text>
   <text versstart="004" versend="004" verfasser="an">
-   <p><lem>māliki yaumi d-dīni]</lem> Die in der Übersetzung zugrunde gelegte Lesart
+   <p><lem>māliki yaumi d-dīn]</lem> Die in der Übersetzung zugrunde gelegte Lesart
     <lang xml:lang="ar-Latn">malik</lang> (»König«) wird in der sonst befolgten Tradition von Ḥafṣ
     ʿan ʿĀṣīm nicht vertreten. ʿĀṣīm liest vielmehr – vielleicht aus rhythmisch-prosodischen Gründen
     – <lang xml:lang="ar-Latn">mālik</lang> (»Besitzer, Regierender«; siehe www.corpuscoranicum.de,
@@ -306,7 +311,7 @@
      versstart="076:000" versend="076:031">Q 76</q>)<?oxy_comment_end?>.</p>
   </text>
   <text versstart="005" versend="005" verfasser="an">
-   <p><lem>ʾiyyāka naʿbudu wa-ʾiyyāka nastaʿīnu]</lem> Mit dieser doppelten Wir-Aussage erweist sich
+   <p><lem>ʾiyyāka naʿbudu wa-ʾiyyāka nastaʿīn]</lem> Mit dieser doppelten Wir-Aussage erweist sich
     der Text explizit als Gebet einer Glaubensgemeinde. Er verstößt damit gegen die für Suren
     geltende Regel, daß der Sprecher Gott und der Angesprochene/die Angesprochenen der Prophet bzw.
     seine Gemeinde ist. Gewiß, mit <bibl Zotero_Id_1="HDW5LYTG">Devin Stewart (2016)</bibl> ließe
@@ -326,7 +331,7 @@
      versstart="001:000" versend="001:007">Entwicklungsgeschichtliche Einordnung</q>«.</p>
   </text>
   <text versstart="006" versend="006" verfasser="an">
-   <p><lem>hdina ṣ-ṣirāṭa l-mustaqīma]</lem> Das letztlich auf die jüdisch-christliche
+   <p><lem>hdina ṣ-ṣirāṭa l-mustaqīm]</lem> Das letztlich auf die jüdisch-christliche
     Zwei-Wege-Lehre zurückverweisende Bild des rechten Weges erhält durch die
     <lang xml:lang="ar-Latn">Fātiḥa</lang> seine Standardformulierung. Es entspricht fast wörtlich
      <q type="bibel" buch="Ps" versstart="027:011" versend="027:011">Ps. 27,11</q>:
@@ -346,7 +351,7 @@
     Leitung der Menschen insgesamt reserviert.</p>
   </text>
   <text versstart="007" versend="007" verfasser="an">
-   <p><lem>ṣirāṭa llaḏīna ʾanʿamta ʿalaihim ġairi l-maġḍūbi ʿalaihim wa-la ḍ-ḍāllīna]</lem> Die mit
+   <p><lem>ṣirāṭa llaḏīna ʾanʿamta ʿalaihim ġairi l-maġḍūbi ʿalaihim wa-la ḍ-ḍāllīn]</lem> Die mit
     Konkatenation an den vorausgehenden Vers angeschlossene Spezifizierung des rechten Weges dient
     der Abgrenzung gegen konkurrierende Gruppen, die gleichfalls als auf einem Wege zu Gott
     vorgestellt werden, deren Zuordnung aber nicht unproblematisch ist. Die erste Gruppe,

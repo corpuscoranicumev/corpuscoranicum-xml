@@ -9,19 +9,14 @@
  </surentitel>
  <autorenkurz>
   <text versstart="000" versend="030" verfasser="an">
-   <p>Übersetzt und analysiert von Angelika Neuwirth und Dirk Hartwig</p>
+   <p>Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth</p>
   </text>
  </autorenkurz>
  <datierungkurz>
   <text versstart="000" versend="030" verfasser="an">
-   <p/>
+   <p>Mekka II</p>
   </text>
  </datierungkurz>
- <datierung>
-  <text versstart="000" versend="030" verfasser="an">
-   <p/>
-  </text>
- </datierung>
  <literarkritikkurz>
   <text versstart="000" versend="030" verfasser="an">
    <p/>
@@ -256,12 +251,12 @@
  </komposition>
  <kommentar>
   <text versstart="001" versend="001" verfasser="an">
-   <p><lem>tabāraka llaḏī bi-yadihi l-mulku wa-huwa ʿalā kulli šaiʾin qadīrun-i]</lem> Die Sure
-    beginnt wie schon <q type="koran" versstart="025:000" versend="025:077">Q 25</q> mit einer
-    Doxologie, d.h. einem als Aufforderung (›Wunschperfekt‹) zum Gotteslob zu verstehenden Ausruf.
-    Der Preis gilt Gott als König und Allherrscher. Gerade dieses Attributenensemble ist in der
-    byzantinischen Hymnik vielfach präsent, vgl. die mehrmals wiederholte Anrufung in der »Großen
-    Doxologie« in der Vorfeier zur Liturgie:
+   <p><lem>tabāraka llaḏī bi-yadihi l-mulku wa-huwa ʿalā kulli šaiʾin qadīr]</lem> Die Sure beginnt
+    wie schon <q type="koran" versstart="025:000" versend="025:077">Q 25</q> mit einer Doxologie,
+    d.h. einem als Aufforderung (›Wunschperfekt‹) zum Gotteslob zu verstehenden Ausruf. Der Preis
+    gilt Gott als König und Allherrscher. Gerade dieses Attributenensemble ist in der byzantinischen
+    Hymnik vielfach präsent, vgl. die mehrmals wiederholte Anrufung in der »Großen Doxologie« in der
+    Vorfeier zur Liturgie:
     <lang xml:lang="gr-Latn">kyrie basileu, epouranie thee patēr pantokratōr</lang>, »Herr, König,
     himmlischer Gott, Vater, Allherrscher«.</p>
    <p>Die vorliegenden Koranübersetzungen verkennen diesen performativen Charakter, indem sie eine
@@ -518,7 +513,7 @@
     Entwicklung.</p>
   </text>
   <text versstart="002" versend="002" verfasser="an">
-   <p><lem>llaḏī ḫalaqa l-mauta wa-l-ḥayāta li-yabluwakum ʾayyukum ʾaḥsanu ʿamalan wa-huwa l-ʿazīzu l-ġafūru]</lem>
+   <p><lem>llaḏī ḫalaqa l-mauta wa-l-ḥayāta li-yabluwakum ʾayyukum ʾaḥsanu ʿamalan wa-huwa l-ʿazīzu l-ġafūr]</lem>
     Der Hymnus fährt fort mit einem Preis auf die Erschaffung der Zeit, die in den Grenzen von
     Geburt und Tod der Prüfung dienen soll. Zu ihrer Vorbereitung stehen Tugendkataloge zur
     Verfügung: <q type="koran" versstart="025:063" versend="025:076">Q 25:63–76</q>, <q type="koran"
@@ -554,7 +549,7 @@
     aktuell gewordene Kontroverse um das Leben nach dem Tod anklingen.</p>
   </text>
   <text versstart="003" versend="003" verfasser="an">
-   <p><lem>llaḏī ḫalaqa sabʿa samāwātin ṭibāqan mā tarā fī ḫalqi r-raḥmāni min tafāwutin fa-rǧiʿi l-baṣara hal tarā min fuṭūrin]</lem>
+   <p><lem>llaḏī ḫalaqa sabʿa samāwātin ṭibāqan mā tarā fī ḫalqi r-raḥmāni min tafāwutin fa-rǧiʿi l-baṣara hal tarā min fuṭūr]</lem>
     Die Betrachtung wendet sich von der Zeit zum Raum, konkret zum Kosmos. Die Vorstellung, daß der
     Himmel aus sieben übereinandergelagerten Schichten (<lang xml:lang="ar-Latn">ṭibāq</lang>)
     besteht, geht auch aus <q type="koran" versstart="071:015" versend="071:015">Q 71:15</q> hervor
@@ -581,7 +576,7 @@
      Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 457–459</bibl>).</p>
   </text>
   <text versstart="004" versend="004" verfasser="an">
-   <p><lem>ṯumma rǧiʿi l-baṣara karrataini yanqalib ʾilaika l-baṣaru ḫāsiʾan wa-huwa ḥasīrun]</lem>
+   <p><lem>ṯumma rǧiʿi l-baṣara karrataini yanqalib ʾilaika l-baṣaru ḫāsiʾan wa-huwa ḥasīr]</lem>
     Die perfekte Schöpfungsordnung, die absolute Unangreifbarkeit der Schöpfungsharmonie, wird (mit
     zwei Versen!) so zentral gemacht, daß dahinter eine gegenteilige Wahrnehmung angenommen werden
     muß. Die emphatisch-insistente Aufforderung zum Hinsehen läßt auf Kontroversität dieser Position
@@ -655,7 +650,7 @@
     gerichtet an eine präsente Hörergruppe.</p>
   </text>
   <text versstart="005" versend="005" verfasser="an">
-   <p><lem>wa-la-qad zayyanna s-samāʾa d-dunyā bi-maṣābīḥa wa-ǧaʿalnāhā ruǧūman li-š-šayāṭīni wa-ʾaʿtadnā lahum ʿaḏāba s-saʿīri]</lem>
+   <p><lem>wa-la-qad zayyanna s-samāʾa d-dunyā bi-maṣābīḥa wa-ǧaʿalnāhā ruǧūman li-š-šayāṭīni wa-ʾaʿtadnā lahum ʿaḏāba s-saʿīr]</lem>
     Die kurze Einblendung der Dämonen (Satane), mit der der zweite Teil einsetzt, ist vielleicht
     erforderlich, um sie, die in <q type="koran" versstart="055:000" versend="055:078">Q 55</q> als
     engste Partner der Menschen in der Beurteilung der Schöpfung (Refrain in <q type="koran"
@@ -684,9 +679,9 @@
     modifiziert).</p>
   </text>
   <text versstart="006" versend="006" verfasser="an">
-   <p><lem>wa-li-llaḏīna kafarū bi-rabbihim ʿaḏābu ǧahannama wa-biʾsa l-maṣīru]</lem> Wie die
-    Dämonen bestraft werden, so auch die Leugner, denen nun die Aufmerksamkeit gilt. — Die
-    Fluchformel <lang xml:lang="ar-Latn">wa-biʾsa l-maṣīr</lang>, »Welch übles Ziel!«, kehrt die
+   <p><lem>wa-li-llaḏīna kafarū bi-rabbihim ʿaḏābu ǧahannama wa-biʾsa l-maṣīr]</lem> Wie die Dämonen
+    bestraft werden, so auch die Leugner, denen nun die Aufmerksamkeit gilt. — Die Fluchformel
+    <lang xml:lang="ar-Latn">wa-biʾsa l-maṣīr</lang>, »Welch übles Ziel!«, kehrt die
     Paradiesverheißung in <q type="koran" versstart="025:015" versend="025:015">Q 25:15</q> um:
     <lang xml:lang="ar-Latn">qul a-ḏālika ḫairun am ǧannatu l-ḫuldi llatī wuʿida l-muttaqūna kānat lahum ǧazāʾan wa-maṣīrā</lang>,
     »Sprich: ›Ist dies wirklich besser als der Garten der Ewigkeit, der den Gottesfürchtigen
@@ -703,7 +698,7 @@
     einer Redensart werden. ›Fort mit einem Volk, das nicht glaubt‹«.</p>
   </text>
   <text versstart="007" versend="007" verfasser="an">
-   <p><lem>ʾiḏā ʾulqū fīhā samiʿū lahā šahīqan wa-hiya tafūru]</lem> Das Bild der brodelnden Hölle
+   <p><lem>ʾiḏā ʾulqū fīhā samiʿū lahā šahīqan wa-hiya tafūr]</lem> Das Bild der brodelnden Hölle
     mit akustischer Untermalung begegnete ähnlich in den benachbarten Suren <q type="koran"
      versstart="025:011" versend="025:012">Q 25:11–12</q> und <q type="koran" versstart="023:027"
      versend="023:027">Q 23:27</q>. In <q type="koran" versstart="025:011" versend="025:012">Q
@@ -724,7 +719,7 @@
      >Kommentar zur Stelle</q>).</p>
   </text>
   <text versstart="008" versend="009" verfasser="an">
-   <p><lem>takādu tamayyazu mina l-ġaiẓi kullamā ʾulqiya fīhā fauǧun saʾalahum ḫazanatuhā ʾa-lam yaʾtikum naḏīrun / qālū balā qad ǧāʾanā naḏīrun fa-kaḏḏabnā wa-qulnā mā nazzala llāhu min šaiʾin ʾin ʾantum ʾillā fī ḍalālin kabīrin]</lem>
+   <p><lem>takādu tamayyazu mina l-ġaiẓi kullamā ʾulqiya fīhā fauǧun saʾalahum ḫazanatuhā ʾa-lam yaʾtikum naḏīr / qālū balā qad ǧāʾanā naḏīrun fa-kaḏḏabnā wa-qulnā mā nazzala llāhu min šaiʾin ʾin ʾantum ʾillā fī ḍalālin kabīr]</lem>
     Steigerung der Absurdität des Szenarios durch ein Gespräch zwischen Höllenwächtern und den
     Bestraften — eine Wiederaufnahme der bereits früher häufigen Verlegung des Gesprächs mit den
     Gegnern aus der realen Zeit ins Jenseits, siehe etwa die Teichoskopieszene in <q type="koran"
@@ -749,13 +744,12 @@
      >Kommentar zu Q 72</q>), so daß die Rede nun eindeutig auf Menschen zielt.</p>
   </text>
   <text versstart="010" versend="011" verfasser="an">
-   <p><lem>wa-qālū lau kunnā nasmaʿu ʾau naʿqilu mā kunnā fī ʾaṣḥābi s-saʿīri / fa-ʿtarafū bi-ḏanbihim fa-suḥqan li-ʾaṣḥābi s-saʿīri]</lem>
+   <p><lem>wa-qālū lau kunnā nasmaʿu ʾau naʿqilu mā kunnā fī ʾaṣḥābi s-saʿīr / fa-ʿtarafū bi-ḏanbihim fa-suḥqan li-ʾaṣḥābi s-saʿīr]</lem>
     Reuige Einsicht der Gerichteten, als <lang xml:lang="ar-Latn">aṣḥāb as-saʿīr</lang>, »Bewohner
     des Flammenmeers«, bezeichnet, die ihre eigene Schuld zugeben —
     <lang xml:lang="ar-Latn">aṣḥābi s-saʿīr</lang> evoziert <q type="koran" versstart="081:012"
      versend="081:013">Q 81:12–13</q>:
-    <lang xml:lang="ar-Latn">wa-iḏā l-ǧaḥīmu suʿʿirat
- / wa-iḏā l-ǧannatu uzlifat</lang>, »wenn das
+    <lang xml:lang="ar-Latn">wa-iḏā l-ǧaḥīmu suʿʿirat  / wa-iḏā l-ǧannatu uzlifat</lang>, »wenn das
     Höllenfeuer entfacht wird / und wenn der Garten nahegebracht wird« (siehe <bibl
      Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 297</bibl>). — Die aus der Vergeltung
     deduzierte Benennung der Verurteilten erinnert an die eines frühen Gegners des Verkünders, ʿAbd
@@ -764,7 +758,7 @@
     in <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 141–143</bibl>).</p>
   </text>
   <text versstart="012" versend="012" verfasser="an">
-   <p><lem>ʾinna llaḏīna yaḫšauna rabbahum bi-l-ġaibi lahum maġfiratun wa-ʾaǧrun kabīrun]</lem> Der
+   <p><lem>ʾinna llaḏīna yaḫšauna rabbahum bi-l-ġaibi lahum maġfiratun wa-ʾaǧrun kabīr]</lem> Der
     Vers vervollständigt das mit <q type="koran" versstart="067:006" versend="067:006">V. 6</q>
     begonnene Doppelbild, freilich ohne für die ›Guten‹, hier: diejenigen, die ›in sich gegangen‹
     sind, den eschatologischen Gewinn auszumalen. <lang xml:lang="ar-Latn">Ḫašya</lang> ist bereits
@@ -795,7 +789,7 @@
     der Mächtige, der Vergebende«.</p>
   </text>
   <text versstart="013" versend="014" verfasser="an">
-   <p><lem>wa-ʾasirrū qaulakum ʾawi ǧharū bihī ʾinnahū ʿalīmun bi-ḏāti ṣ-ṣudūri / ʾa-lā yaʿlamu man ḫalaqa wa-huwa l-laṭīfu l-ḫabīru]</lem>
+   <p><lem>wa-ʾasirrū qaulakum ʾawi ǧharū bihī ʾinnahū ʿalīmun bi-ḏāti ṣ-ṣudūr / ʾa-lā yaʿlamu man ḫalaqa wa-huwa l-laṭīfu l-ḫabīr]</lem>
     Nach dem Doppelbild wendet sich die Botschaft dem Menschen als Geschöpf zu, dem Innerlichkeit
     (<lang xml:lang="ar-Latn">ḏāt aṣ-ṣudūr</lang>) eignet. Ganz im Sinne von <q type="koran"
      versstart="020:007" versend="020:007">Q 20:7</q> werden hörbares und unhörbares Sprechen auf
@@ -827,7 +821,7 @@
     sehen?«.</p>
   </text>
   <text versstart="015" versend="015" verfasser="an">
-   <p><lem>huwa llaḏī ǧaʿala lakumu l-ʾarḍa ḏalūlan fa-mšū fī manākibihā wa-kulū min rizqihī wa-ʾilaihi n-nušūru]</lem>
+   <p><lem>huwa llaḏī ǧaʿala lakumu l-ʾarḍa ḏalūlan fa-mšū fī manākibihā wa-kulū min rizqihī wa-ʾilaihi n-nušūr]</lem>
     Der Vers ruft den biblischen Aufruf an den Menschen (Schluß des ersten Schöpfungsberichts) in
     Erinnerung, sich die Erde zu unterwerfen, vgl. <q type="bibel" versstart="001:028"
      versend="001:029" buch="Gen">Gen 1,28–29</q>: »<hi rend="superscript">28</hi>Gott segnete sie,
@@ -883,7 +877,7 @@
     Auferstehung: »Und zu ihm hin ist die Erweckung«.</p>
   </text>
   <text versstart="016" versend="018" verfasser="an">
-   <p><lem>ʾa-ʾamintum man fi s-samāʾi ʾan yaḫsifa bikumu l-ʾarḍa fa-ʾiḏā hiya tamūru / ʾam ʾamintum man fi s-samāʾi ʾan yursila ʿalaikum ḥāṣiban fa-sa-taʿlamūna kaifa naḏīri / wa-la-qad kaḏḏaba llaḏīna min qablihim fa-kaifa kāna nakīri]</lem>
+   <p><lem>ʾa-ʾamintum man fi s-samāʾi ʾan yaḫsifa bikumu l-ʾarḍa fa-ʾiḏā hiya tamūr / ʾam ʾamintum man fi s-samāʾi ʾan yursila ʿalaikum ḥāṣiban fa-sa-taʿlamūna kaifa naḏīr / wa-la-qad kaḏḏaba llaḏīna min qablihim fa-kaifa kāna nakīr]</lem>
     <lang xml:lang="ar-Latn">a-amintum</lang>-Serie; sie blendet wie bereits die am Anfang der
     spätmittelmekkanischen Periode stehende Sure <q type="koran" versstart="017:068"
      versend="017:069">Q 17:68–69</q> die Kontingenz der gegebenen Verhältnisse ein. Sie verweist
@@ -904,7 +898,7 @@
     <lang xml:lang="ar-Latn">rīḥ ḥāṣib</lang>, »Wind, der Kiesel aufwirbelt«.</p>
   </text>
   <text versstart="019" versend="019" verfasser="an">
-   <p><lem>ʾa-wa-lam yarau ʾila ṭ-ṭairi fauqahum ṣāffātin wa-yaqbiḍna mā yumsikuhunna ʾilla r-raḥmānu ʾinnahū bi-kulli šaiʾin baṣīrun]</lem>
+   <p><lem>ʾa-wa-lam yarau ʾila ṭ-ṭairi fauqahum ṣāffātin wa-yaqbiḍna mā yumsikuhunna ʾilla r-raḥmānu ʾinnahū bi-kulli šaiʾin baṣīr]</lem>
     Die Verfügung Gottes über die sich verändernden Bewegungen der Geschöpfe wird am Vogelflug
     demonstriert, an dem die Formationsbildung als Zeichen göttlicher Macht Bewunderung erregt.
     Paret versteht <lang xml:lang="ar-Latn">ṣāffāt</lang> als »Flügel ausbreiten«, vgl. seine
@@ -976,7 +970,7 @@
     Belehrung, im Koran um ein Allmachtszeichen.</p>
   </text>
   <text versstart="020" versend="021" verfasser="an">
-   <p><lem>ʾam-man hāḏa llaḏī huwa ǧundun lakum yanṣurukum min dūni r-raḥmāni ʾini l-kāfirūna ʾillā fī ġurūrin / ʾam-man hāḏa llaḏī yarzuqukum ʾin ʾamsaka rizqahū bal laǧǧū fī ʿutuwwin wa-nufūrin]</lem>
+   <p><lem>ʾam-man hāḏa llaḏī huwa ǧundun lakum yanṣurukum min dūni r-raḥmāni ʾini l-kāfirūna ʾillā fī ġurūr / ʾam-man hāḏa llaḏī yarzuqukum ʾin ʾamsaka rizqahū bal laǧǧū fī ʿutuwwin wa-nufūr]</lem>
     Beginn einer <lang xml:lang="ar-Latn">am-man</lang>-Serie: Die Übersetzer sind sich in der
     Interpretation von <q type="koran" versstart="067:020" versend="067:020">V. 20</q> nicht einig.
     Paret (<bibl Zotero_Id_1="J6TM6UHR"><hi rend="italic">KÜ</hi>, S. 402</bibl>): »Oder wo ist
@@ -994,7 +988,7 @@
     Versorgung zurückhält?«) spricht ebenfalls gegen Bobzins Deutung.</p>
   </text>
   <text versstart="022" versend="022" verfasser="an">
-   <p><lem>ʾa-fa-man yamšī mukibban ʿalā waǧhihī ʾahdā ʾam-man yamšī sawiyyan ʿalā ṣirāṭin mustaqīmin]</lem>
+   <p><lem>ʾa-fa-man yamšī mukibban ʿalā waǧhihī ʾahdā ʾam-man yamšī sawiyyan ʿalā ṣirāṭin mustaqīm]</lem>
     In <q type="koran" versstart="067:022" versend="067:022">V. 22</q> erfolgt Reimwechsel von 2r
     auf 2m/n, einen Vers vor dem Übergang von Teil II zu Teil III. <q type="koran"
      versstart="067:022" versend="067:022">V. 22</q> beschließt die
@@ -1020,7 +1014,7 @@
      Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 85–102</bibl>).</p>
   </text>
   <text versstart="023" versend="024" verfasser="an">
-   <p><lem>qul huwa llaḏī ʾanšaʾakum wa-ǧaʿala lakumu s-samʿa wa-l-ʾabṣāra wa-l-ʾafʾidata qalīlan mā taškurūna / qul huwa llaḏī ḏaraʾakum fi l-ʾarḍi wa-ʾilaihi tuḥšarūna]</lem>
+   <p><lem>qul huwa llaḏī ʾanšaʾakum wa-ǧaʿala lakumu s-samʿa wa-l-ʾabṣāra wa-l-ʾafʾidata qalīlan mā taškurūn / qul huwa llaḏī ḏaraʾakum fi l-ʾarḍi wa-ʾilaihi tuḥšarūn]</lem>
     Der dritte Teil beginnt mit einem Aufruf an den Verkünder, die Hörer an ihre Erschaffung und
     ihre Ausstattung mit Sinnesorganen zu erinnern. Ähnlich begann der Schlußteil von <q
      type="koran" versstart="023:078" versend="023:080">Sure 23:78–80</q>:
@@ -1067,7 +1061,7 @@
     vorauszusetzen.</p>
   </text>
   <text versstart="025" versend="026" verfasser="an">
-   <p><lem>wa-yaqūlūna matā hāḏa l-waʿdu ʾin kuntum ṣādiqīna / qul ʾinnama l-ʿilmu ʿinda llāhi wa-ʾinnamā ʾana naḏīrun mubīnun]</lem>
+   <p><lem>wa-yaqūlūna matā hāḏa l-waʿdu ʾin kuntum ṣādiqīn / qul ʾinnama l-ʿilmu ʿinda llāhi wa-ʾinnamā ʾana naḏīrun mubīn]</lem>
     Die Ankündigung der Auferstehung provoziert die Entgegnung mit einer Frage, die bereits Topos
     ist. Der Topos begegnete bereits in Q 27 (<q type="koran" versstart="067:025" versend="067:025"
      >V. 25</q> = <q type="koran" versstart="027:071" versend="027:071">Q 27:71</q>). Auch hier wird
@@ -1110,7 +1104,7 @@
     an die Betroffenen.</p>
   </text>
   <text versstart="028" versend="028" verfasser="an">
-   <p><lem>qul ʾa-raʾaitum ʾin ʾahlakaniya llāhu wa-man maʿiya ʾau raḥimanā fa-man yuǧīru l-kāfirīna min ʿaḏābin ʾalīmin]</lem>
+   <p><lem>qul ʾa-raʾaitum ʾin ʾahlakaniya llāhu wa-man maʿiya ʾau raḥimanā fa-man yuǧīru l-kāfirīna min ʿaḏābin ʾalīm]</lem>
     Die Rede wendet sich nun an die Hörer mit der Aufforderung an den Verkünder, ihnen die Folgen
     seines möglichen Untergangs (d.h. seines Todes) zu bedenken zu geben. Selbst die Leugner würden
     dann keinen Schutz mehr haben. Die Frage der Zufluchtsmöglichkeit
@@ -1121,7 +1115,7 @@
     Sure <q type="koran" versstart="072:022" versend="072:022">Q 72:22</q>.</p>
   </text>
   <text versstart="030" versend="030" verfasser="an">
-   <p><lem>qul ʾa-raʾaitum ʾin ʾaṣbaḥa māʾukum ġauran fa-man yaʾtīkum bi-māʾin maʿīnin]</lem> Dieser
+   <p><lem>qul ʾa-raʾaitum ʾin ʾaṣbaḥa māʾukum ġauran fa-man yaʾtīkum bi-māʾin maʿīn]</lem> Dieser
     Vers gehört vor <q type="koran" versstart="067:029" versend="067:029">V. 29</q> (siehe oben <q
      type="literarkritik" versstart="067:029" versend="067:029">»Literarkritik«</q>). Die Umstellung
     legt sich nahe, soll die Sure nach bereits etabliertem Surenschlußtypus beendet werden, vgl. <q
@@ -1147,7 +1141,7 @@
     >»Literarkritik«</q>).</p>
   </text>
   <text versstart="029" versend="029" verfasser="an">
-   <p><lem>qul huwa r-raḥmānu ʾāmannā bihī wa-ʿalaihi tawakkalnā fa-sa-taʿlamūna man huwa fī ḍalālin mubīnin]</lem>
+   <p><lem>qul huwa r-raḥmānu ʾāmannā bihī wa-ʿalaihi tawakkalnā fa-sa-taʿlamūna man huwa fī ḍalālin mubīn]</lem>
     Als Anweisung an den Verkünder formulierter Schlußruf: Das Bekenntnis zum
     <lang xml:lang="ar-Latn">raḥmān</lang> nimmt den bereits in <q type="koran" versstart="067:003"
      versend="067:003">V. 3</q>, <q type="koran" versstart="067:019" versend="067:020">19 und 20</q>

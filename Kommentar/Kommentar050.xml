@@ -9,10 +9,15 @@
  </surentitel>
  <autorenkurz>
   <text versstart="000" versend="045" verfasser="an">
-   <p>Übersetzt und analysiert von Angelika Neuwirth und Dirk Hartwig unter Mitwirkung von Ali
+   <p>Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth unter Mitwirkung von Ali
     Aghaei und Tolou Khademalsharieh</p>
   </text>
  </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="045" verfasser="an">
+   <p>Mekka II</p>
+  </text>
+ </datierungkurz>
  <literarkritikkurz>
   <text versstart="000" versend="045" verfasser="an">
    <p/>
@@ -458,7 +463,7 @@
     angesprochen, deren Vergehen bereits vorgezeichnet ist.</p>
   </text>
   <text versstart="012" versend="014" verfasser="an">
-   <p><lem>kaḏḏabat qablahum qaumu Nūḥin wa-ʾaṣḥābu r-rassi wa- Ṯamūd / wa-ʿĀdun wa-Firʿaunu wa-ʾiḫwānu Lūṭ / wa-ʾaṣḥābu l-ʾaikati wa-qaumu Tubbaʿin kullun kaḏḏaba r-rusula fa-ḥaqqa waʿīd]</lem>
+   <p><lem>kaḏḏabat qablahum qaumu Nūḥin wa-ʾaṣḥābu r-rassi wa-Ṯamūd / wa-ʿĀdun wa-Firʿaunu wa-ʾiḫwānu Lūṭ / wa-ʾaṣḥābu l-ʾaikati wa-qaumu Tubbaʿin kullun kaḏḏaba r-rusula fa-ḥaqqa waʿīd]</lem>
     Die hier an die Stelle der vom Muster der mittelmekkanischen Surenkomposition her erwarteten
     Erzählung oder Erzählserie getretene Liste führt das Argument über den mit dem Stichwort
     <lang xml:lang="ar-Latn">ḫurūǧ</lang> (»Auferstehung«, vgl. <q type="koran" versstart="050:042"
@@ -881,13 +886,13 @@
  </kommentar>
  <analysedeutungkurz>
   <text versstart="000" versend="045" verfasser="an">
-   <p>Analyse und Deutung</p>
+   <p></p>
   </text>
  </analysedeutungkurz>
  <analysedeutung>
   <EntwicklungsgeschichtlicheEinordnungkurz>
    <text versstart="000" versend="045" verfasser="an">
-    <p>Entwicklungsgeschichtliche Einordnung</p>
+    <p></p>
    </text>
   </EntwicklungsgeschichtlicheEinordnungkurz>
   <EntwicklungsgeschichtlicheEinordnung>
@@ -985,7 +990,7 @@
   </EntwicklungsgeschichtlicheEinordnung>
   <Inhaltstrukturkurz>
    <text versstart="000" versend="045" verfasser="an">
-    <p>Inhalt und Struktur</p>
+    <p></p>
    </text>
   </Inhaltstrukturkurz>
   <Inhaltstruktur>
@@ -1112,7 +1117,7 @@
   </Inhaltstruktur>
   <situativitätkurz>
    <text versstart="000" versend="045" verfasser="an">
-    <p>Sprecher-Hörer-Interaktion; Autorisierung</p>
+    <p></p>
    </text>
   </situativitätkurz>
   <Situativität>
