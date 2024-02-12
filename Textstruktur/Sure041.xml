@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
-    <Sure id="41" translator="Hartmut Bobzin modifiziert" webtauglich="false">
+    <Sure id="41" translator="Hartmut Bobzin (modifiziert)" webtauglich="false">
         <Hauptteil id="0">
             <Abschnitt id="0">
                 <Gesaetz n="0">
@@ -19,7 +19,7 @@
                     <Vers n="001">
                         <Teilvers n="001">
                             <Kolon Einschub="false" lang="ar" n="1">حمٓ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="1">hā mīm</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Ḥā Mīm</Kolon>
                         </Teilvers>
                     </Vers>
                 </Gesaetz>
