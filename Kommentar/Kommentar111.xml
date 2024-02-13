@@ -2,10 +2,9 @@
 <korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:noNamespaceSchemaLocation="Kommentar.xsd">
  <sure id="111" webtauglich="true"/>
- <!-- id + 000 = Zotero -->
  <surentitel>
   <text versstart="000" versend="005" verfasser="tjj">
-   <p>Sure 111: Die Palmfasern (<lang xml:lang="ar-Latn">al-Masad</lang>)</p>
+   <p>Sure 111 — <lang xml:lang="ar-Latn">al-Masad</lang> — »Die Palmfasern«</p>
   </text>
  </surentitel>
  <autorenkurz>

@@ -4,7 +4,7 @@
  <sure id="076" webtauglich="true"/>
  <surentitel>
   <text versstart="000" versend="031" verfasser="an">
-   <p>Sure 76: Der Mensch (<lang xml:lang="ar-Latn">al-ʾinsān </lang>)</p>
+   <p>Sure 76 — <lang xml:lang="ar-Latn">al-ʾinsān</lang> — »Der Mensch«</p>
   </text>
  </surentitel>
  <autorenkurz>
@@ -33,10 +33,10 @@
    <p><hi rend="bold">Versabteilungsdifferenzen</hi>
    </p>
    <p>Die islamische Tradition verzeichnet keine Differenzen. In <bibl Zotero_Id_1="4WEWN8NZ"><hi
-      rend="italic">SKMS</hi>, S. 49 f</bibl>. war dafür plädiert worden, <q type="koran"
+      rend="italic">SKMS</hi>, S. 49 f.</bibl> war dafür plädiert worden, <q type="koran"
      versstart="076:012" versend="076:012">V. 12</q> und <q type="koran" versstart="076:013"
-     versend="076:013">V. 13</q> zusammenzuziehen, so dass <lang xml:lang="ar-Latn">ḥarīran</lang>
-    keinen Versschluss gebildet hätte. Denn <lang xml:lang="ar-Latn">ḥarīr</lang> steht in <q
+     versend="076:013">V. 13</q> zusammenzuziehen, so daß <lang xml:lang="ar-Latn">ḥarīrā</lang>
+    keinen Versschluß gebildet hätte. Denn <lang xml:lang="ar-Latn">ḥarīr</lang> steht in <q
      type="koran" versstart="076:012" versend="076:012">V. 12</q> neben
     <lang xml:lang="ar-Latn">ǧanna</lang> isoliert. In <q type="koran" versstart="022:023"
      versend="022:023">Q 22:23</q> und <q type="koran" versstart="035:033" versend="035:033">Q
@@ -194,25 +194,25 @@
     denn eine Zeit?« (<bibl Zotero_Id_1="Q9EDU63R">Bobzin 2010:537</bibl>) wird jedoch dem Gewicht
     der Aussage nicht gerecht; denn <lang xml:lang="ar-Latn">dahr</lang> bedeutet zwar »Zeit«, diese
     ist aber schicksalhaft konnotiert; <lang xml:lang="ar-Latn">ʾatā ʿalā</lang> (»kommen über«)
-    deutet noch auf das Erleidenmüssen der Zeitphase hin. Es wurde deshalb mit »Musste der Mensch
+    deutet noch auf das Erleidenmüssen der Zeitphase hin. Es wurde deshalb mit »Mußte der Mensch
     nicht einmal eine Zeit durchlaufen« übersetzt. — Der frühmekkanisch zumeist unter dem Aspekt der
     ihm von der Schöpfung her eignenden Mangelhaftigkeit betrachtete Mensch (siehe <q type="koran"
      versstart="103:002" versend="103:002">Q 103:2</q>:
     <lang xml:lang="ar-Latn">ʾinna l-ʾinsāna la-fī ḫusr</lang>, vgl. <q type="koran"
      versstart="100:006" versend="100:006">Q 100:6</q>; <q type="koran" versstart="099:003"
-     versend="099:003">Q 99:3</q>; <q type="koran" versstart="096:006" versend="096:006">Q 96:6</q>;
-     <q type="koran" versstart="090:004" versend="090:004">Q 90:4</q>; <q type="koran"
-     versstart="089:023" versend="089:023">Q 89:23</q>; <q type="koran" versstart="086:005"
-     versend="086:005">Q 86:5</q>; <q type="koran" versstart="080:017" versend="080:017">Q
-    80:17</q>; <q type="koran" versstart="075:003" versend="075:003">Q 75:3</q>, <q type="koran"
-     versstart="005:000" versend="005:120">Q 5</q>, <q type="koran" versstart="036:000"
-     versend="036:083">Q 36</q> und <q type="koran" versstart="070:019" versend="070:019">Q
-     70:19</q>) wird hier keinem entsprechenden Tadel ausgesetzt, vielmehr erscheint er als von Gott
-    aus dem anfänglichen Zustand der Nichtigkeit in den Rang eines mündigen Wesens erhoben. Die
-    Erinnerung an die niedrige Herkunft des Menschen dient früh seiner Erziehung zur Bescheidenheit
-     (<q type="koran" versstart="080:019" versend="080:019">Q 80:19</q>; <q type="koran"
-     versstart="075:037" versend="075:037">Q 75:37</q>; <q type="koran" versstart="053:046"
-     versend="053:046">Q 53:46</q>). Die Nennung von <lang xml:lang="ar-Latn">dahr</lang>, das hier
+     versend="099:003">99:3</q>; <q type="koran" versstart="096:006" versend="096:006">96:6</q>; <q
+     type="koran" versstart="090:004" versend="090:004">90:4</q>; <q type="koran"
+     versstart="089:023" versend="089:023">89:23</q>; <q type="koran" versstart="086:005"
+     versend="086:005">86:5</q>; <q type="koran" versstart="080:017" versend="080:017">80:17</q>; <q
+     type="koran" versstart="075:003" versend="075:003">75:3</q>, <q type="koran"
+     versstart="075:005" versend="075:005">5</q>, <q type="koran" versstart="075:036"
+     versend="075:036">36</q> und <q type="koran" versstart="070:019" versend="070:019">70:19</q>)
+    wird hier keinem entsprechenden Tadel ausgesetzt, vielmehr erscheint er als von Gott aus dem
+    anfänglichen Zustand der Nichtigkeit in den Rang eines mündigen Wesens erhoben. Die Erinnerung
+    an die niedrige Herkunft des Menschen dient früh seiner Erziehung zur Bescheidenheit (<q
+     type="koran" versstart="080:019" versend="080:019">Q 80:19</q>; <q type="koran"
+     versstart="075:037" versend="075:037">75:37</q>; <q type="koran" versstart="053:046"
+     versend="053:046">53:46</q>). Die Nennung von <lang xml:lang="ar-Latn">dahr</lang>, das hier
     für eine lange Dauer der Vergangenheit steht, von der die frühe embryonische Phase des Menschen
     nur einen kurzen Ausschnitt deckt, könnte polemisch gemeint sein: als Entwertung der in der
     vorislamischen Dichtung dominierenden Auffassung von Zeit als einer verzehrenden Macht, aus der
@@ -220,7 +220,7 @@
      Zotero_Id_1="ZMF3R2TM">Tamer 2008:192 f.</bibl>). Der Vers wird im allgemeinen als auf die
     embryonale Phase des Menschen bezogen verstanden, die in den folgenden Versen entwickelt wird.
     Angesichts der Erwähnung des <lang xml:lang="ar-Latn">dahr</lang> ist aber auch ein Verständnis
-    im Sinne der kollektiven Menschenentwicklung nicht ausgeschlossen: »Musste der Mensch nicht
+    im Sinne der kollektiven Menschenentwicklung nicht ausgeschlossen: »Mußte der Mensch nicht
     einmal eine vom <lang xml:lang="ar-Latn">dahr</lang> beherrschte [d.h. pagane] Phase
     durchlaufen, in der er [so wie die frühmekkanischen Suren es konstatieren] ›nichts‹ war?« Diese
     Entwicklung beträfe die gesamte Gemeinde, die ja erst durch die Verkündigung auf das Niveau von
@@ -242,8 +242,8 @@
     deuten (freundliche Mitteilung von Thomas Eich, Hamburg). Der Gedanke der göttlichen Prüfung
     kommt erst gegen Ende der frühmekkanischen Zeit auf (vgl. die Prüfung durch Wohlstand im
     Gartengleichnis, <q type="koran" versstart="068:017" versend="068:017">Q 68:17</q>:
-    <lang xml:lang="ar-Latn">ʾinnā balaunāhum ka-mā balaunā ʾaṣḥāba l-ǧannati</lang>, und den
-    späteren Zusatz in <q type="koran" versstart="089:015" versend="089:015">Q 89:15</q>:
+    <lang xml:lang="ar-Latn">ʾinnā balaunāhum ka-mā balaunā ʾaṣḥāba l-ǧanna</lang>, und den späteren
+    Zusatz in <q type="koran" versstart="089:015" versend="089:015">Q 89:15</q>:
     <lang xml:lang="ar-Latn">fa-ʾamma l-ʾinsānu iḏā ma btalāhū rabbuhū fa-ʾakramahū wa-naʿʿamahū fa-yaqūlu rabbī ʾakramanī</lang>,
     »Der Mensch aber, wenn sein Herr ihn prüft und ihn ehrt, spricht: ›Mein Herr hat mich
     geehrt.‹«). — An die zu moralisch verantwortlichem Handeln verpflichtende Ausstattung des
@@ -265,7 +265,7 @@
     der sie [die Seele] reinhält! Weh dem, der sie mit Füßen tritt!«; vgl auch <q type="koran"
      versstart="090:010" versend="090:010">Q 90:10</q>:
     <lang xml:lang="ar-Latn">wa-hadaināhu l-nağdain</lang>, »und [haben wir ihn nicht] die beiden
-    hohen Wege hinaufgeführt?«, siehe dazu<bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>,
+    hohen Wege hinaufgeführt?«, siehe dazu <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>,
      S. 236–252</bibl>. In Sure 76 wird nun die Option zwischen »dankbar« und »undankbar« bzw. der
     Akt des Dankerweises als notwendige Anerkennung göttlicher Zuwendung zum Leitmotiv des gesamten
     Textes.</p>
@@ -287,7 +287,7 @@
     Bedeutungen), werden für ihre Haltung entehrt, die Dankbaren dagegen mit einer Auszeichnung
     versehen, die etymologisch wieder auf die Wurzel <lang xml:lang="ar-Latn">KFR</lang>
     zurückgreift: Der ihnen kredenzte Wein ist mit <lang xml:lang="ar-Latn">kāfūr</lang>
-    (»Kampfer«), duftendem Mischwasser, versetzt. Die Reinen erwartet Genuss — aus einer Quelle, die
+    (»Kampfer«), duftendem Mischwasser, versetzt. Die Reinen erwartet Genuß — aus einer Quelle, die
     sie selbst immer wieder zum Sprudeln bringen können. Diese Qualifikation der Quelle wäre schwer
     verständlich, wenn man sie nicht als Antwort auf eine bereits in älteren Traditionen besonders
     ausgezeichneten Quelle verstehen könnte. David Kiltz und Nicolai Sinai (<ref target="#TUK0899"
@@ -347,7 +347,7 @@
     wahrscheinlich als Echo der talmudischen Deutung von <q type="bibel" buch="Ps"
      versstart="017:015" versend="017:015">Ps 17.15</q>. ›Durch Almosengabe werde ich dein Angesicht
     sehen‹ (bBaba Bathra 10a).» Das fünfradikalige <lang xml:lang="ar-Latn">qamṭarīr</lang> ist ein
-    gesuchter Ausdruck, er lässt sich ableiten von <lang xml:lang="ar-Latn">iqmaṭarra</lang> (vom
+    gesuchter Ausdruck, er läßt sich ableiten von <lang xml:lang="ar-Latn">iqmaṭarra</lang> (vom
     Skorpion: »den Schwanz zum Stich ausrichten«), ist also am ehesten mit »bedrohlich«
     wiederzugeben; die morphologische Ausnahmeform reflektiert die existentielle Ausnahmesituation.
     Zur versprochenen »Frische«, einer festen Eigenschaft der Paradiesatmosphäre, siehe
@@ -412,7 +412,7 @@
     Zu den zivilisatorischen Aspekten, der luxuriösen Ausstattung des Paradieses, vgl. <bibl
      Zotero_Id_1="JVED4PGP">Neuwirth 2014</bibl> und <bibl Zotero_Id_1="6I96FAXT"><hi rend="italic"
       >KTS</hi>, S. 711–716</bibl>. Wenn man auch Horovitz’ Abhängigkeitsthese (»Die
-    Übereinstimmungen gehen in der Tat 〈…〉 so weit, dass die paradiesischen Gastmahlbilder des Koran
+    Übereinstimmungen gehen in der Tat 〈…〉 so weit, daß die paradiesischen Gastmahlbilder des Koran
     sich 〈…〉 wie Nachahmungen der Beschreibungen der Dichter ausnehmen«) nicht als hinreichende
     Erklärung für die zentrale Stellung der Paradiesbeschreibungen im mekkanischen Koran akzeptieren
     kann, so bleibt seine Aufdeckung von Gemeinsamkeiten doch unverzichtbar für die Erklärung von
@@ -433,14 +433,14 @@
     Humpen schäumt‹ 〈…〉.« <lang xml:lang="ar-Latn">Kub</lang> ist eventuell aus griechisch
     <lang xml:lang="gr-Latn">kymbē</lang> (vgl. lateinisch <lang xml:lang="lat-Latn">cupa</lang>)
     abgeleitet (siehe <bibl Zotero_Id_1="TI3ABIQE">Horovitz 1975:66</bibl>). Die Getränke betreffend
-    fasst Horovitz zusammen: »Der Trank der Seligen erhält einen Zusatz von Mischwasser <q
+    faßt Horovitz zusammen: »Der Trank der Seligen erhält einen Zusatz von Mischwasser <q
      type="koran" versstart="083:027" versend="083:027">Q 83:27</q>: <q type="koran"
      versstart="076:005" versend="076:005">Q 76:5</q>, <q type="koran" versstart="017:000"
      versend="017:111">Q 17</q>; <lang xml:lang="ar-Latn">mizāǧ = mezāgā</lang>), wie es auch die
     Dichter häufig erwähnen (siehe Geyer, <hi rend="italic">Zwei Gedichte</hi> I, 87 ff.). Das Wort
     für Ingwer, <lang xml:lang="ar-Latn">zanǧabīl</lang>, letztlich aus dem Indischen stammend 〈…〉,
     hat im Arabischen die gleiche Form wie im Aramäischen, doch ist bei dem regen Verkehr, der von
-    alters her zwischen Indien und Arabien bestand, nicht anzunehmen, dass in diesem Fall die
+    alters her zwischen Indien und Arabien bestand, nicht anzunehmen, daß in diesem Fall die
     arabische Form aus der aramäischen entlehnt wäre.«</p>
    <p>Der Name der Quelle <lang xml:lang="ar-Latn">salsabīl</lang> ist wahrscheinlich ein Kunstwort,
     er verdankt sich der Reimassoziation zu <lang xml:lang="ar-Latn">zanǧabīl</lang> (»Ingwer«),
@@ -459,7 +459,7 @@
     Korallen«), vgl. auch <q type="koran" versstart="056:022" versend="056:022">Q 56:22</q> und
     siehe <bibl Zotero_Id_1="TI3ABIQE">Horovitz 1975:68</bibl>. Er wird in <q type="koran"
      versstart="076:000" versend="076:031">Q 76</q> auf Jünglinge übertragen. Yousef Kouriyhe
-    (TUK_0181) macht auf einen ähnlichen Perlenvergleich in christlich-syrischen Beschreibungen von
+    (<ref target="#TUK0181">TUK_0181</ref>) macht auf einen ähnlichen Perlenvergleich in christlich-syrischen Beschreibungen von
     im Kindesalter verstorbenen Jungen aufmerksam, siehe Jakob von Sarug (451–521): »O Verständiger,
     der du diesen Toten, der voller Vorzüge ist, auf das Begräbnis vorbereitet hast! Warum weinst du
     über den Schönen, der ohne Fehl ist? Wer weint über eine Perle, die aus den Wellen des Meeres
@@ -480,13 +480,14 @@
     späteren Beschreibungen in <q type="koran" versstart="056:000" versend="056:096">Q 56</q> und <q
      type="koran" versstart="052:000" versend="052:049">Q 52</q> waren die Seligen selbst nicht
     Akteure, sie waren nicht selbst in Festgewänder gekleidet, sondern wurden nur zum paradiesischen
-    Gastmahl zugelassen, ohne dass eine Integration in das himmlische Personal stattgefunden hätte.
+    Gastmahl zugelassen, ohne daß eine Integration in das himmlische Personal stattgefunden hätte.
     Ihre in <q type="koran" versstart="076:000" versend="076:031">Q 76</q> dargestellte Einkleidung
     in besonders preziöse Gewänder stellt eine deutliche Steigerung des Status der Seligen dar. Die
-    Vorstellung orientiert sich hier an der Hekhalot-Literatur (»Palastmystik«, vgl. Schäfer 1988
-    und Schäfer 1991); denn wie <bibl Zotero_Id_1="TI3ABIQE">Horovitz (1975)</bibl> betont, ist
-    diese Ausstattung in den altarabischen Gelageszenen nicht geläufig. Die Einkleidung markiert
-    ihre nunmehr erreichte Zugehörigkeit zum himmlischen Hofstaat (vgl. <q type="koran"
+    Vorstellung orientiert sich hier an der Hekhalot-Literatur (»Palastmystik«, vgl. <bibl
+     Zotero_Id_1="QRMEUEGK">Schäfer 1988</bibl> und <bibl Zotero_Id_1="7ZFDPYND">Schäfer
+    1991</bibl>); denn wie <bibl Zotero_Id_1="TI3ABIQE">Horovitz (1975)</bibl> betont, ist diese
+    Ausstattung in den altarabischen Gelageszenen nicht geläufig. Die Einkleidung markiert ihre
+    nunmehr erreichte Zugehörigkeit zum himmlischen Hofstaat (vgl. <q type="koran"
      versstart="076:020" versend="076:020">V. 20</q>: <lang xml:lang="ar-Latn">mulk</lang>), der in
     der Sure allerdings ausgeblendet bleibt, wie auch von keiner zeremoniellen Funktion der Seligen
     die Rede ist; anders in dem hier vielleicht verhandelten Text <q type="bibel" buch="Offb"
@@ -508,7 +509,7 @@
     <lang xml:lang="ar-Latn">ʾaṯīm</lang> vgl. die Lasterkataloge <q type="koran"
      versstart="083:010" versend="083:013">Q 83:10–13</q> und <q type="koran" versstart="068:010"
      versend="068:012">Q 68:10–12</q>) oder Undankbaren — ein nochmaliger Rückverweis auf den
-    Surenanfang — verleiten zu lassen. Die paronomastische Konstruktion lässt verschiedene Deutungen
+    Surenanfang — verleiten zu lassen. Die paronomastische Konstruktion läßt verschiedene Deutungen
     zu. Betont werden soll die Herabsendung; eine Übersetzung mit »immer wieder« im Sinne eines
     kontinuierlichen Vorgangs scheint dem Gemeinten am nächsten zu kommen.</p>
   </text>
@@ -624,7 +625,7 @@
       versstart="076:007" versend="076:010">V. 7–10</q> zeigt, wird sie — wie es auch im
      monastischen Kontext üblich ist (siehe <bibl Zotero_Id_1="FPHTTNUA">Andrae 1926</bibl>) — in
      der Furcht vor dem Jüngsten Tag praktiziert. Trotz der Entsprechung zur christlichen Praxis ist
-     aber zu betonen, dass hier nicht — wie in <q type="kommentar" versstart="090:000"
+     aber zu betonen, daß hier nicht — wie in <q type="kommentar" versstart="090:000"
       versend="090:020">Q 90</q> der Fall (siehe <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK
        1</hi>, S. 236–252</bibl>) — ein Gegenmodell zur christlich empfohlenen Wohltätigkeit »um
      Christi willen« konstruiert werden soll. Die Sure nimmt also nicht eindeutig auf eine
@@ -645,12 +646,13 @@
      beherrschenden »Schicksalszeit« <lang xml:lang="ar-Latn">(dahr)</lang> bezieht. Die Sure
      verfolgt daher als Nebenthema Manifestationen von Zeit: die von Gott allein dirigierte Zeit,
      die den Menschen aus der Nichtigkeit zum Mündigsein geführt hat, und die seitens des Menschen
-     zu ziehende moralische Konsequenz aus seiner Mündigkeit. Liest man V. I als Aussage nicht über
-     den embryonischen Zustand des Menschen, sondern über seine Zeit vor der ›Konversion‹, ist die
-     Sure eine Antwort auf das Rätsel des in den frühmekkanischen Suren durchweg als mangelhaft
-     erachteten Menschen, ein Verdikt, von dem aber — wie es die späteren Zusätze darstellen — die
-     Angesprochenen ausgenommen werden. Sie haben offenbar durch ihre religiöse Akkulturation die
-     vorher beklagten Mängel abgelegt. Sie unterstehen nach ihrer ›Konversion‹ nicht mehr dem
+     zu ziehende moralische Konsequenz aus seiner Mündigkeit. Liest man <q type="koran"
+      versstart="076:001" versend="076:001">V. 1</q> als Aussage nicht über den embryonischen
+     Zustand des Menschen, sondern über seine Zeit vor der ›Konversion‹, ist die Sure eine Antwort
+     auf das Rätsel des in den frühmekkanischen Suren durchweg als mangelhaft erachteten Menschen,
+     ein Verdikt, von dem aber — wie es die späteren Zusätze darstellen — die Angesprochenen
+     ausgenommen werden. Sie haben offenbar durch ihre religiöse Akkulturation die vorher beklagten
+     Mängel abgelegt. Sie unterstehen nach ihrer ›Konversion‹ nicht mehr dem
      <lang xml:lang="ar-Latn">dahr.</lang> Der Mensch ist nun vor die Alternative zwischen Dank und
      Undank, d.h. zwischen Einsicht in die erhaltenen Wohltaten Gottes und Verstocktheit, gestellt.
      Der damit konstatierte Antagonismus durchzieht den ganzen Text, der zwischen Lohn und Strafe,
@@ -667,7 +669,7 @@
      mit bestimmten Tageszeitabschnitten verbindet. Wie relevant diese mit sakralen Handlungen
      besetzten Tagesabschnitte sind, zeigt ein Überblick über die den sehr frühen mekkanischen Suren
      vorausgestellten Schwüre, die oft auf Tageszeiten verweisen (siehe <bibl Zotero_Id_1="BCNMF6E3"
-      >Neuwirth 1991</bibl> «Der Horizont der Offenbarung”). — Dass einzig die mündliche Lesung
+      >Neuwirth 1991</bibl> «Der Horizont der Offenbarung”). — Daß einzig die mündliche Lesung
      <lang xml:lang="ar-Latn">(qurʾān)</lang>, nicht die Schrift
      <lang xml:lang="ar-Latn">(kitāb)</lang> im Blick ist, deutet auf eine frühe Entstehung der Sure
      hin.</p>
@@ -682,14 +684,15 @@
    <text versstart="000" versend="031" verfasser="an">
     <p>Zwar scheint sich schon der über gegenwärtige Fromme sprechende Tugendkatalog <q type="koran"
       versstart="076:007" versend="076:011">V. 7ff.</q> an anwesende Hörer zu wenden, eindeutig ist
-     aber erst der Schlussteil an sie gerichtet. In <q type="koran" versstart="076:023"
+     aber erst der Schlußteil an sie gerichtet. In <q type="koran" versstart="076:023"
       versend="076:023">V. 23</q> wird dem Propheten Trost zugesprochen. Er wird weiterhin zu
      verschiedenen Formen von — wohl zusammen mit den Hörern zu praktizierendem — Gottesdienst
      aufgefordert. Erstmals. werden auch die Uneinsichtigen, denen aber noch einmal die Option der
      Umkehr eröffnet werden soll, direkt als »ihr« angesprochen. (Die einmalige direkte Anrede in <q
       type="koran" versstart="076:030" versend="076:030">V. 30</q> könnte jedoch späterer Zusatz
-     sein, siehe »Literarkritik«.) — Die am Surenende stehende Offenbarungsbestätigung bleibt auch
-     in dieser Phase noch ein wichtiges Mittel der Autorisierung der Botschaft.</p>
+     sein, siehe »<q type="literarkritik" versstart="076:031" versend="076:000">Literarkritik</q>«.)
+     — Die am Surenende stehende Offenbarungsbestätigung bleibt auch in dieser Phase noch ein
+     wichtiges Mittel der Autorisierung der Botschaft.</p>
    </text>
   </Situativität>
  </analysedeutung>
