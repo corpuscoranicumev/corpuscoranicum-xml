@@ -25,7 +25,7 @@
     <literarkritik>
         <text versstart="000" versend="093" verfasser="an">
             <p>Die Sure ist Einheit. Wenn auch mit <q type="koran" versstart="027:078"
-                    versend="027:078">V. 78</q> ein Standard-Suren-abschlußvers vorliegt und die
+                    versend="027:078">V. 78</q> ein Standard-Surenabschlußvers vorliegt und die
                 folgende Offenbarungsbestätigung die ideologische Zielsetzung der Sure
                 zusammenzufassen scheint, ist doch der eschatologische Abspann <q type="koran"
                     versstart="027:080" versend="027:093">V. 80–93</q> als integraler Teil der Sure
@@ -523,10 +523,8 @@
                 Suren negativ — als Merkmal der Nichtweisheit Pharaos, der der Hybris,
                 <lang xml:lang="ar-Latn">ʿuluw</lang>, verfallen ist —, während er bei Salomo als
                 Zeichen seiner Begabung mit Weisheit fungiert (siehe unten zu <q type="kommentar"
-                    versstart="027:044" versend="027:044">V. 44</q> und den Exkurs 4 zu
-                <lang xml:lang="ar-Latn">ṣarḥ</lang>,
-                <?oxy_comment_start author="Tobias J. Jocham" timestamp="20231013T202721+0200" comment="Wie verknüpfen?"?>unten
-                S. 556–558<?oxy_comment_end?>).</p>
+                    versstart="027:044" versend="027:044">V. 44</q> und unten den Exkurs 4 zu
+                <lang xml:lang="ar-Latn">ṣarḥ</lang>).</p>
             <p><hi rend="italic">Die Salomo-Geschichte</hi>
             </p>
             <p>Die Serie der Prophetengeschichten fährt fort mit der Salomo-Erzählung. Auf sie
@@ -1707,7 +1705,7 @@
                 verbale Überbringung der Botschaft beschränkt. — Der erste Teil des Verses könnte
                 auch als empfohlenes Loyalitätsbekenntnis für die Gläubigen verstanden werden.</p>
         </text>
-        <text versstart="000" versend="000" verfasser="an">
+        <text versstart="000" versend="093" verfasser="an">
             <p><hi rend="bold">Exkurs 3: Reflexe der christlichen Exegese in Q 27?</hi></p>
             <p>Die christliche Exegese, die offensichtlich von der folkloristischen Version der
                 Geschichte nichts weiß oder keine Kenntnis nimmt, sieht dagegen in Salomos Weisheit
@@ -1774,9 +1772,9 @@
                 eschatologische Rolle, die Begrenzung ihrer Begegnung mit der Transzendenz auf ihre
                 Konversion unter der Leitung des Propheten Salomo, kann ihrerseits als eine Absage
                 an das apokalyptische Geschichtsdenken verstanden werden.</p>
-            <p>
-                <hi rend="bold">Exkurs 4: <lang xml:lang="ar-Latn">ṢARḤ</lang></hi>
-            </p>
+        </text>
+        <text versstart="000" versend="093" verfasser="an">
+            <p><hi rend="bold">Exkurs 4: <lang xml:lang="ar-Latn">ṢARḤ</lang></hi></p>
             <p>Das Lexem <lang xml:lang="ar-Latn">ṣarḥ</lang>, »Bau«, ist religionsgeschichtlich
                 relevant, es erlaubt, wie schon angedeutet, eine typologische Verbindung zu einer
                 weiteren mit <lang xml:lang="ar-Latn">ṣarḥ</lang> verbundenen Geschichte
@@ -1839,7 +1837,8 @@
                 waren mit dem Gedanken göttlicher Gunst — und dies bereits seit den Ziggurat-Bauten
                 und seit Achiqar, dem Weisen« (siehe <bibl Zotero_Id_1="8UUV4P9W">Silverstein
                     2011:477</bibl>).</p>
-            <p/>
+        </text>
+        <text versstart="000" versend="093" verfasser="an">
             <p><hi rend="bold">Exkurs 5: Zur ideologischen Situation im siebten Jahrhundert: drei
                     Diskurse</hi>
             </p>
@@ -2367,11 +2366,9 @@
                     Tugenden hinzu, die offenbar an einen monastischen Kanon angelehnt sind: Demut
                     und Enthaltung; das Keuschheitsgebot wird erst durch einen Zusatz für
                     Verheiratete (<q type="koran" versstart="027:007" versend="027:008">V. 7–8</q>)
-                    abgemildert (siehe zu <q type="koran" versstart="023:005" versend="023:007">Q
-                        23:5–7</q> den Kommentar und den Exkurs 2 »Dekalog« zu <q type="koran"
-                        versstart="017:001" versend="017:111">Q 17</q>,
-                    <?oxy_comment_start author="Tobias J. Jocham" timestamp="20231013T203008+0200" comment="Wie verknüpfen?"?>oben
-                    S. 189–203<?oxy_comment_end?>).</p>
+                    abgemildert (siehe zu <q type="kommentar" versstart="023:005" versend="023:007"
+                        >Q 23:5–7 den Kommentar</q> und den Exkurs 2 »Dekalog« zu <q
+                        type="kommentar" versstart="017:001" versend="017:111">Q 17</q>).</p>
                 <p>Der Erzählteil in <q type="koran" versstart="027:001" versend="027:093">Q 27</q>
                     beginnt mit der Mose-Episode (<q type="koran" versstart="027:007"
                         versend="027:014">V. 7–14</q>), sie greift auf die ausführliche
