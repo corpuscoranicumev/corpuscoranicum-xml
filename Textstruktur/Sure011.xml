@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
-    <Sure id="11" translator="Hartmut Bobzin (modifiziert)" webtauglich="false">
+    <Sure id="11" translator="Hartmut Bobzin (modifiziert)" webtauglich="true">
         <Hauptteil id="0">
             <Abschnitt id="0">
                 <Gesaetz n="0">
@@ -89,7 +89,7 @@
                     <Vers n="007">
                         <Teilvers n="007">
                             <Kolon Einschub="false" lang="ar" n="22">وَهُوَ ٱلَّذِی خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ فِی سِتَّةِ أَيَّامٍۢ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="22">Er ist es, der die Himmel und die Erde in sechs Tagen erschaffen hat –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="22">Er ist es, der die Himmel und die Erde in sechs Tagen erschaffen hat —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="23">وَكَانَ عَرۡشُهُۥ عَلَى ٱلۡمَآءِ</Kolon>
                             <Kolon Einschub="false" lang="de" n="23">Sein Thron war auf dem Wasser.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="24">لِيَبۡلُوَكُمۡ أَيُّكُمۡ أَحۡسَنُ عَمَلًۭاۗ</Kolon>
@@ -343,7 +343,7 @@
                             <Kolon Einschub="false" lang="ar" n="98">وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمۡ أَرَاذِلُنَا</Kolon>
                             <Kolon Einschub="false" lang="de" n="98">und dass nur die dir folgen, die unsere Verachtetsten sind</Kolon>
                             <Kolon Einschub="false" lang="ar" n="99">بَادِیَ ٱلرَّأۡىِ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="99">- ganz offensichtlich.</Kolon>
+                            <Kolon Einschub="false" lang="de" n="99">— ganz offensichtlich.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="100">وَمَا نَرَىٰ لَكُمۡ عَلَيۡنَا مِن فَضۡلٍۭ</Kolon>
                             <Kolon Einschub="false" lang="de" n="100">Wir sehen nicht, dass ihr einen Vorzug uns gegenüber hättet,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="101">بَلۡ نَظُنُّكُمۡ كَٰذِبِينَ</Kolon>
@@ -494,9 +494,9 @@
                             <Kolon Einschub="false" lang="ar" n="143">ٱحۡمِلۡ فِيهَا مِن كُلٍّ زَوۡجَيۡنِ ٱثۡنَيۡنِ</Kolon>
                             <Kolon Einschub="false" lang="de" n="143">»Bring von allem ein Paar hinein,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="144">وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَيۡهِ ٱلۡقَوۡلُ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="144">auch deine Leute - außer denen, gegen die das Wort schon ergangen ist</Kolon>
+                            <Kolon Einschub="false" lang="de" n="144">auch deine Leute — außer denen, gegen die das Wort schon ergangen ist</Kolon>
                             <Kolon Einschub="false" lang="ar" n="145">وَمَنۡ ءَامَنَۚ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٌۭ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="145">- und die, die glauben.« Nur wenige aber glaubten ihm.</Kolon>
+                            <Kolon Einschub="false" lang="de" n="145">— und die, die glauben.« Nur wenige aber glaubten ihm.</Kolon>
                         </Teilvers>
                     </Vers>
                     <Vers n="041">
@@ -589,7 +589,7 @@
                             <Kolon Einschub="false" lang="ar" n="172">وَعَلَىٰۤ أُمَمٍۢ مِّمَّن مَّعَكَۚ</Kolon>
                             <Kolon Einschub="false" lang="de" n="172">und über Gemeinschaften derer, die mit dir sind!«</Kolon>
                             <Kolon Einschub="false" lang="ar" n="173">وَأُمَمٌۭ سَنُمَتِّعُهُمۡ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="173">Es gibt Gemeinschaften, denen wir Nutznießung gewähren werden -</Kolon>
+                            <Kolon Einschub="false" lang="de" n="173">Es gibt Gemeinschaften, denen wir Nutznießung gewähren werden —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="174">ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌۭ</Kolon>
                             <Kolon Einschub="false" lang="de" n="174">dann trifft sie von uns schmerzhafte Strafe.</Kolon>
                         </Teilvers>
@@ -688,7 +688,7 @@
                         <Teilvers n="057">
                             <Kolon Einschub="false" lang="ar" n="199">فَإِن تَوَلَّوۡا۟ فَقَدۡ أَبۡلَغۡتُكُم مَّآ أُرۡسِلۡتُ بِهِۦٓ
                                 إِلَيۡكُمۡۚ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="199">Doch wenn ihr euch abkehrt - ich habe euch ausgerichtet, womit ich zu euch
+                            <Kolon Einschub="false" lang="de" n="199">Doch wenn ihr euch abkehrt — ich habe euch ausgerichtet, womit ich zu euch
                                 gesandt worden bin.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="200">وَيَسۡتَخۡلِفُ رَبِّی قَوۡمًا غَيۡرَكُمۡ</Kolon>
                             <Kolon Einschub="false" lang="de" n="200">Mein Herr lässt ein anderes Volk als euch nachfolgen.</Kolon>
@@ -1262,7 +1262,7 @@
                             <Kolon Einschub="false" lang="de" n="360">sind im Garten. Ewig sind sie darin, solange die Himmel und die Erde
                                 währen</Kolon>
                             <Kolon Einschub="false" lang="ar" n="361">إِلَّا مَا شَآءَ رَبُّكَۖ عَطَآءً غَيۡرَ مَجۡذُوذٍۢ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="361">- außer wenn dein Herr es anders will- als unbeschränkte Gabe.</Kolon>
+                            <Kolon Einschub="false" lang="de" n="361">— außer wenn dein Herr es anders will — als unbeschränkte Gabe.</Kolon>
                         </Teilvers>
                     </Vers>
                 </Gesaetz>

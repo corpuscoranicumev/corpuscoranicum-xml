@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
-    <Sure id="28" translator="Hartmut Bobzin (modifiziert)" webtauglich="false">
+    <Sure id="28" translator="Hartmut Bobzin (modifiziert)" webtauglich="true">
         <Hauptteil id="0">
             <Abschnitt id="0">
                 <Gesaetz n="0">
@@ -35,7 +35,7 @@
                             <Kolon Einschub="false" lang="ar" n="3">نَتۡلُوا۟ عَلَيۡكَ مِن نَّبَإِ مُوسَىٰ وَفِرۡعَوۡنَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="3">Vortragen wollen wir dir von dem, was mit Mose und Pharao geschah,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="4">بِٱلۡحَقِّ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="4">– wahrheitsgemäß –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">— wahrheitsgemäß —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="5">لِقَوۡمٍۢ يُؤۡمِنُونَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="5">für ein Volk, welches glaubt.</Kolon>
                         </Teilvers>
@@ -421,11 +421,11 @@
                             <Kolon Einschub="false" lang="ar" n="125">وَنَجۡعَلُ لَكُمَا سُلۡطَٰنًۭا</Kolon>
                             <Kolon Einschub="false" lang="de" n="125">und euch beiden Vollmacht geben</Kolon>
                             <Kolon Einschub="false" lang="ar" n="126">فَلَا يَصِلُونَ إِلَيۡكُمَاۚ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="126">– dann können sie euch beiden nichts anhaben –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="126">— dann können sie euch beiden nichts anhaben —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="127">بِـَٔايَٰتِنَآ أَنتُمَا</Kolon>
                             <Kolon Einschub="false" lang="de" n="127">durch unsere Wunderzeichen:</Kolon>
                             <Kolon Einschub="false" lang="ar" n="128">وَمَنِ ٱتَّبَعَكُمَا ٱلۡغَٰلِبُونَ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="128">Ihr zwei – und die euch folgen – werdet Sieger sein.«</Kolon>
+                            <Kolon Einschub="false" lang="de" n="128">Ihr zwei — und die euch folgen — werdet Sieger sein.«</Kolon>
                         </Teilvers>
                     </Vers>
                 </Gesaetz>
@@ -509,7 +509,7 @@
                     <Vers n="043">
                         <Teilvers n="044">
                             <Kolon Einschub="false" lang="ar" n="150">وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ مِنۢ بَعۡدِ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="150">Wir gaben Mose das Buch, nachdem wir die früheren Geschlechter vernichtet hatten –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="150">Wir gaben Mose das Buch, nachdem wir die früheren Geschlechter vernichtet hatten —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="151">مَآ أَهۡلَكۡنَا ٱلۡقُرُونَ ٱلۡأُولَىٰ بَصَآئِرَ لِلنَّاسِ</Kolon>
                             <Kolon Einschub="false" lang="de" n="151">als sichtbare Zeichen für die Menschen</Kolon>
                             <Kolon Einschub="false" lang="ar" n="152">وَهُدًۭى وَرَحۡمَةًۭ</Kolon>
@@ -613,7 +613,7 @@
                     <Vers n="051">
                         <Teilvers n="052">
                             <Kolon Einschub="false" lang="ar" n="185">وَلَقَدۡ وَصَّلۡنَا لَهُمُ ٱلۡقَوۡلَ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="185">Wir ließen ja das Wort zu ihnen hingelangen –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="185">Wir ließen ja das Wort zu ihnen hingelangen —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="186">لَعَلَّهُمۡ يَتَذَكَّرُونَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="186">vielleicht lassen sie sich ja ermahnen.</Kolon>
                         </Teilvers>
@@ -681,7 +681,7 @@
                             <Kolon Einschub="false" lang="ar" n="204">أَوَلَمۡ نُمَكِّن لَّهُمۡ حَرَمًا ءَامِنًۭا</Kolon>
                             <Kolon Einschub="false" lang="de" n="204">Gaben wir ihnen denn nicht Macht über ein sicheres Heiligtum,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="205">يُجۡبَىٰۤ إِلَيۡهِ ثَمَرَٰتُ كُلِّ شَىۡءٍۢ رِّزۡقًۭا مِّن لَّدُنَّا</Kolon>
-                            <Kolon Einschub="false" lang="de" n="205">für das Früchte aller Art gesammelt werden – als Versorgung von uns?</Kolon>
+                            <Kolon Einschub="false" lang="de" n="205">für das Früchte aller Art gesammelt werden — als Versorgung von uns?</Kolon>
                             <Kolon Einschub="false" lang="ar" n="206">وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="206">Doch die meisten von ihnen haben kein Wissen.</Kolon>
                         </Teilvers>
@@ -693,7 +693,7 @@
                             <Kolon Einschub="false" lang="ar" n="208">بَطِرَتۡ مَعِيشَتَهَاۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="208">die sich ihrer Lebensweise rühmten;</Kolon>
                             <Kolon Einschub="false" lang="ar" n="209">فَتِلۡكَ مَسَٰكِنُهُمۡ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="209">und das sind ihre Wohnstätten –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="209">und das sind ihre Wohnstätten —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="210">لَمۡ تُسۡكَن مِّنۢ بَعۡدِهِمۡ إِلَّا قَلِيلًۭاۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="210">nur wenige wurden nach ihnen noch bewohnt.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="211">وَكُنَّا نَحۡنُ ٱلۡوَٰرِثِينَ</Kolon>
@@ -963,7 +963,7 @@
                             <Kolon Einschub="false" lang="ar" n="290">فَخَسَفۡنَا بِهِۦ وَبِدَارِهِ ٱلۡأَرۡضَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="290">Da ließen wir ihn und sein Haus versinken in der Erde.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="291">فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="291">Er hatte keine Schar, die ihm gegen Gott hätte helfen können –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="291">Er hatte keine Schar, die ihm gegen Gott hätte helfen können —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="292">وَمَا كَانَ مِنَ ٱلۡمُنتَصِرِينَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="292">und er war keiner von denen, die Hilfe fanden.</Kolon>
                         </Teilvers>
@@ -1001,7 +1001,7 @@
                             <Kolon Einschub="false" lang="ar" n="302">مَن جَآءَ بِٱلۡحَسَنَةِ فَلَهُۥ خَيۡرٌۭ مِّنۡهَاۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="302">Wer Gutes hervorbringt, dem ist noch Besseres bestimmt.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="303">وَمَن جَآءَ بِٱلسَّيِّئَةِ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="303">Und wer Böses hervorbringt –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="303">Und wer Böses hervorbringt —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="304">فَلَا يُجۡزَى ٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ</Kolon>
                             <Kolon Einschub="false" lang="de" n="304">denen, die böse Dinge tun, wird nur das vergolten,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="305">إِلَّا مَا كَانُوا۟ يَعۡمَلُونَ</Kolon>
@@ -1053,7 +1053,7 @@
                             <Kolon Einschub="false" lang="ar" n="317">لَآ إِلَٰهَ إِلَّا هُوَۚ</Kolon>
                             <Kolon Einschub="false" lang="de" n="317">Es gibt keinen Gott außer ihm.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="318">كُلُّ شَىۡءٍ هَالِكٌ إِلَّا وَجۡهَهُۥۚ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="318">Alles vergeht – nur sein Antlitz nicht.</Kolon>
+                            <Kolon Einschub="false" lang="de" n="318">Alles vergeht — nur sein Antlitz nicht.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="319">لَهُ ٱلۡحُكۡمُ وَإِلَيۡهِ تُرۡجَعُونَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="319">Sein ist das Urteil, und zu ihm werdet ihr zurückgebracht.</Kolon>
                         </Teilvers>

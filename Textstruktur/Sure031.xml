@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
-    <Sure id="31" translator="Hartmut Bobzin (modifiziert)" webtauglich="false">
+    <Sure id="31" translator="Hartmut Bobzin (modifiziert)" webtauglich="true">
         <Hauptteil id="0">
             <Abschnitt id="0">
                 <Gesaetz n="0">
@@ -73,7 +73,7 @@
                             <Kolon Einschub="false" lang="ar" n="12">وَإِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا</Kolon>
                             <Kolon Einschub="false" lang="de" n="12">Trägt man ihm unsere Zeichen vor,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="13">وَلَّىٰ مُسۡتَكۡبِرًۭا</Kolon>
-                            <Kolon Einschub="false" lang="de" n="13">dann wendet er sich ab – hochmütig,</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">dann wendet er sich ab — hochmütig,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="14">كَأَن لَّمۡ يَسۡمَعۡهَا</Kolon>
                             <Kolon Einschub="false" lang="de" n="14">als ob er sie nicht höre,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="15">كَأَنَّ فِیٓ أُذُنَيۡهِ وَقۡرًۭاۖ</Kolon>
@@ -109,7 +109,7 @@
                             <Kolon Einschub="false" lang="ar" n="22">خَلَقَ ٱلسَّمَٰوَٰتِ</Kolon>
                             <Kolon Einschub="false" lang="de" n="22">Er schuf die Himmel</Kolon>
                             <Kolon Einschub="false" lang="ar" n="23">بِغَيۡرِ عَمَدٍۢ تَرَوۡنَهَاۖ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="23">– ganz ohne Stützen, die ihr sehen könnt –,</Kolon>
+                            <Kolon Einschub="false" lang="de" n="23">— ganz ohne Stützen, die ihr sehen könnt —,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="24">وَأَلۡقَىٰ فِی ٱلۡأَرۡضِ رَوَٰسِیَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="24">ließ Berge, festgegründet, in die Erde ein,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="25">أَن تَمِيدَ بِكُمۡ</Kolon>
@@ -141,13 +141,13 @@
                     <Vers n="012">
                         <Teilvers n="012">
                             <Kolon Einschub="false" lang="ar" n="32">وَلَقَدۡ ءَاتَيۡنَا لُقۡمَٰنَ ٱلۡحِكۡمَةَ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="32">Weisheit gaben wir einst Luqman/Ahikar:</Kolon>
+                            <Kolon Einschub="false" lang="de" n="32">Weisheit gaben wir einst Luqmān:</Kolon>
                             <Kolon Einschub="false" lang="ar" n="33">أَنِ ٱشۡكُرۡ لِلَّهِۚ</Kolon>
                             <Kolon Einschub="false" lang="de" n="33">»Sei dankbar gegen Gott!«</Kolon>
                             <Kolon Einschub="false" lang="ar" n="34">وَمَن يَشۡكُرۡ فَإِنَّمَا يَشۡكُرُ لِنَفۡسِهِۦۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="34">Wer dankbar ist, tut sich das selbst zugute.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="35">وَمَن كَفَرَ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="35">Doch wer undankbar ist –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="35">Doch wer undankbar ist —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="36">فَإِنَّ ٱللَّهَ غَنِیٌّ حَمِيدٌۭ</Kolon>
                             <Kolon Einschub="false" lang="de" n="36">Gott ist auf keinen angewiesen, er ist hoch zu rühmen.</Kolon>
                         </Teilvers>
@@ -155,7 +155,7 @@
                     <Vers n="013">
                         <Teilvers n="013">
                             <Kolon Einschub="false" lang="ar" n="37">وَإِذۡ قَالَ لُقۡمَٰنُ لِٱبۡنِهِۦ وَهُوَ يَعِظُهُۥ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="37">Als Luqman/Ahikar zu seinem Sohne mahnend sprach:</Kolon>
+                            <Kolon Einschub="false" lang="de" n="37">Als Luqmān zu seinem Sohne mahnend sprach:</Kolon>
                             <Kolon Einschub="false" lang="ar" n="38">يَٰبُنَىَّ لَا تُشۡرِكۡ بِٱللَّهِۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="38">»Mein lieber Sohn, geselle Gott nichts bei!</Kolon>
                             <Kolon Einschub="false" lang="ar" n="39">إِنَّ ٱلشِّرۡكَ لَظُلۡمٌ عَظِيمٌۭ</Kolon>
@@ -167,13 +167,13 @@
                     <Vers n="014">
                         <Teilvers n="014">
                             <Kolon Einschub="false" lang="ar" n="40">وَوَصَّيۡنَا ٱلۡإِنسَٰنَ بِوَٰلِدَيۡهِ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="40">Dem Menschen haben wir besonders seine Eltern anbefohlen –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="40">Dem Menschen haben wir besonders seine Eltern anbefohlen —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="41">حَمَلَتۡهُ أُمُّهُۥ وَهۡنًا عَلَىٰ وَهۡنٍۢ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="41">mit ihm war seine Mutter schwanger – Mühsal über Mühsal –,</Kolon>
+                            <Kolon Einschub="false" lang="de" n="41">mit ihm war seine Mutter schwanger — Mühsal über Mühsal —,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="42">وَفِصَٰلُهُۥ فِی عَامَيۡنِ</Kolon>
                             <Kolon Einschub="false" lang="de" n="42">und seine Entwöhnung dauerte zwei Jahre:</Kolon>
                             <Kolon Einschub="false" lang="ar" n="43">أَنِ ٱشۡكُرۡ لِی وَلِوَٰلِدَيۡكَ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="43">›Sei dankbar – gegen mich und deine Eltern!</Kolon>
+                            <Kolon Einschub="false" lang="de" n="43">›Sei dankbar — gegen mich und deine Eltern!</Kolon>
                             <Kolon Einschub="false" lang="ar" n="44">إِلَىَّ ٱلۡمَصِيرُ</Kolon>
                             <Kolon Einschub="false" lang="de" n="44">Zu mir hin ist der Lebensgang.</Kolon>
                         </Teilvers>
@@ -183,7 +183,7 @@
                             <Kolon Einschub="false" lang="ar" n="45">وَإِن جَٰهَدَاكَ عَلَىٰۤ أَن تُشۡرِكَ بِی</Kolon>
                             <Kolon Einschub="false" lang="de" n="45">Doch wenn dich deine Eltern drängen, dass du mir etwas beigesellst,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="46">مَا لَيۡسَ لَكَ بِهِۦ عِلۡمٌۭ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="46">wovon du gar kein Wissen hast –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="46">wovon du gar kein Wissen hast —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="47">فَلَا تُطِعۡهُمَا</Kolon>
                             <Kolon Einschub="false" lang="de" n="47">gehorche ihnen nicht!</Kolon>
                             <Kolon Einschub="false" lang="ar" n="48">وَصَاحِبۡهُمَا فِی ٱلدُّنۡيَا مَعۡرُوفًۭاۖ</Kolon>
@@ -263,7 +263,7 @@
                             <Kolon Einschub="false" lang="ar" n="69">وَأَسۡبَغَ عَلَيۡكُمۡ نِعَمَهُۥ ظَٰهِرَةًۭ وَبَاطِنَةًۭۗ</Kolon>
                             <Kolon Einschub="false" lang="de" n="69">Dass er euch bedachte mit seinen Gaben, im Offenen und Verborgenen?</Kolon>
                             <Kolon Einschub="false" lang="ar" n="70">وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِی ٱللَّهِ بِغَيۡرِ عِلۡمٍۢ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="70">Mancher Mensch streitet über Gott – ohne Wissen</Kolon>
+                            <Kolon Einschub="false" lang="de" n="70">Mancher Mensch streitet über Gott — ohne Wissen</Kolon>
                             <Kolon Einschub="false" lang="ar" n="71">وَلَا هُدًۭى وَلَا كِتَٰبٍۢ مُّنِيرٍۢ</Kolon>
                             <Kolon Einschub="false" lang="de" n="71">und ohne Führung und ohne erleuchtende Schrift.</Kolon>
                         </Teilvers>
@@ -371,7 +371,7 @@
                             <Kolon Einschub="false" lang="ar" n="99">وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="99">Dass er die Sonne dienstbar machte und den Mond</Kolon>
                             <Kolon Einschub="false" lang="ar" n="100">كُلٌّۭ يَجۡرِیٓ إِلَىٰۤ أَجَلٍۢ مُّسَمًّۭى</Kolon>
-                            <Kolon Einschub="false" lang="de" n="100">– alles läuft bis zu benannter Frist –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="100">— alles läuft bis zu benannter Frist —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="101">وَأَنَّ ٱللَّهَ بِمَا تَعۡمَلُونَ خَبِيرٌۭ</Kolon>
                             <Kolon Einschub="false" lang="de" n="101">und dass Gott mit dem vertraut ist, was ihr tut?</Kolon>
                         </Teilvers>

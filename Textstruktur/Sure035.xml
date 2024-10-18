@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
-    <Sure id="35" translator="Hartmut Bobzin (modifiziert)" webtauglich="false">
+    <Sure id="35" translator="Hartmut Bobzin (modifiziert)" webtauglich="true">
         <Hauptteil id="0">
             <Abschnitt id="0">
                 <Gesaetz n="0">
@@ -53,7 +53,7 @@
                             <Kolon Einschub="false" lang="ar" n="9">يَٰٓأَيُّهَا ٱلنَّاسُ ٱذۡكُرُوا۟ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡۚ</Kolon>
                             <Kolon Einschub="false" lang="de" n="9">Ihr Menschen! Gedenkt der Gnade Gottes, die er euch erwies!</Kolon>
                             <Kolon Einschub="false" lang="ar" n="10">هَلۡ مِنۡ خَٰلِقٍ غَيۡرُ ٱللَّهِ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="10">Gibt es denn einen Schöpfer – außer Gott –,</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">Gibt es denn einen Schöpfer — außer Gott —,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="11">يَرۡزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ</Kolon>
                             <Kolon Einschub="false" lang="de" n="11">der euch versorgen kann vom Himmel und der Erde?</Kolon>
                             <Kolon Einschub="false" lang="ar" n="12">لَآ إِلَٰهَ إِلَّا هُوَۖ</Kolon>
@@ -67,7 +67,7 @@
                     <Vers n="004">
                         <Teilvers n="004">
                             <Kolon Einschub="false" lang="ar" n="14">وَإِن يُكَذِّبُوكَ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="14">Wenn sie dich Lügner nennen –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">Wenn sie dich Lügner nennen —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="15">فَقَدۡ كُذِّبَتۡ رُسُلٌۭ مِّن قَبۡلِكَۚ</Kolon>
                             <Kolon Einschub="false" lang="de" n="15">Schon vor dir wurden doch Gesandte Lügner genannt!</Kolon>
                             <Kolon Einschub="false" lang="ar" n="16">وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ</Kolon>
@@ -147,7 +147,7 @@
                     <Vers n="010">
                         <Teilvers n="010">
                             <Kolon Einschub="false" lang="ar" n="38">مَن كَانَ يُرِيدُ ٱلۡعِزَّةَ فَلِلَّهِ ٱلۡعِزَّةُ جَمِيعًاۚ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="38">Wer die Macht will – bei Gott ist alle Macht!</Kolon>
+                            <Kolon Einschub="false" lang="de" n="38">Wer die Macht will — bei Gott ist alle Macht!</Kolon>
                             <Kolon Einschub="false" lang="ar" n="39">إِلَيۡهِ يَصۡعَدُ ٱلۡكَلِمُ ٱلطَّيِّبُ</Kolon>
                             <Kolon Einschub="false" lang="de" n="39">Zu ihm steigt das gute Wort empor,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="40">وَٱلۡعَمَلُ ٱلصَّٰلِحُ يَرۡفَعُهُۚۥ</Kolon>
@@ -479,7 +479,7 @@
                             <Kolon Einschub="false" lang="ar" n="134">وَهُمۡ يَصۡطَرِخُونَ فِيهَا رَبَّنَآ أَخۡرِجۡنَا</Kolon>
                             <Kolon Einschub="false" lang="de" n="134">Dort schreien sie: »Unser Herr, lass uns heraus,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="135">نَعۡمَلۡ صَٰلِحًا</Kolon>
-                            <Kolon Einschub="false" lang="de" n="135">auf dass wir rechtschaffen handeln –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="135">auf dass wir rechtschaffen handeln —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="136">غَيۡرَ ٱلَّذِی كُنَّا نَعۡمَلُۚ</Kolon>
                             <Kolon Einschub="false" lang="de" n="136">anders, als wir das sonst immer taten!«</Kolon>
                             <Kolon Einschub="false" lang="ar" n="137">أَوَلَمۡ نُعَمِّرۡكُم</Kolon>
@@ -607,7 +607,7 @@
                             <Kolon Einschub="false" lang="ar" n="175">وَلَٰكِن يُؤَخِّرُهُمۡ إِلَىٰۤ أَجَلٍۢ مُّسَمًّۭىۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="175">Doch gewährt er ihnen Aufschub bis zu einer festgelegten Frist.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="176">فَإِذَا جَآءَ أَجَلُهُمۡ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="176">Wenn ihre Frist dann kommt –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="176">Wenn ihre Frist dann kommt —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="177">فَإِنَّ ٱللَّهَ كَانَ بِعِبَادِهِۦ بَصِيرًا</Kolon>
                             <Kolon Einschub="false" lang="de" n="177">Gott schaut auf seine Knechte.</Kolon>
                         </Teilvers>

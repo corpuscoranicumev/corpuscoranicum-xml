@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
-    <Sure id="13" translator="Hartmut Bobzin (modifiziert)" webtauglich="false">
+    <Sure id="13" translator="Hartmut Bobzin (modifiziert)" webtauglich="true">
         <Hauptteil id="0">
             <Abschnitt id="0">
                 <Gesaetz n="0">
@@ -198,7 +198,7 @@
                             <Kolon Einschub="false" lang="ar" n="55">وَيُسَبِّحُ ٱلرَّعۡدُ بِحَمۡدِهِۦ</Kolon>
                             <Kolon Einschub="false" lang="de" n="55">Der Donner rühmt und preist ihn</Kolon>
                             <Kolon Einschub="false" lang="ar" n="56">وَٱلۡمَلَٰٓئِكَةُ مِنۡ خِيفَتِهِۦ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="56">und ebenso die Engel – aus Furcht vor ihm.</Kolon>
+                            <Kolon Einschub="false" lang="de" n="56">und ebenso die Engel — aus Furcht vor ihm.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="57">وَيُرۡسِلُ ٱلصَّوَٰعِقَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="57">Er sendet Blitz- und Donnerschläge</Kolon>
                             <Kolon Einschub="false" lang="ar" n="58">فَيُصِيبُ بِهَا مَن يَشَآءُ</Kolon>
@@ -290,7 +290,7 @@
                             <Kolon Einschub="false" lang="ar" n="85">كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ ٱلۡحَقَّ وَٱلۡبَٰطِلَۚ</Kolon>
                             <Kolon Einschub="false" lang="de" n="85">So verdeutlicht Gott das Wahre und das Nichtige.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="86">فَأَمَّا ٱلزَّبَدُ فَيَذۡهَبُ جُفَآءًۭۖ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="86">Was nun den Schaum betrifft, geht er dahin – nutzloses Treibgut!</Kolon>
+                            <Kolon Einschub="false" lang="de" n="86">Was nun den Schaum betrifft, geht er dahin — nutzloses Treibgut!</Kolon>
                             <Kolon Einschub="false" lang="ar" n="87">وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="87">Doch was den Menschen nützt,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="88">فَيَمۡكُثُ فِی ٱلۡأَرۡضِۚ</Kolon>
@@ -308,7 +308,7 @@
                             <Kolon Einschub="false" lang="ar" n="90">لِلَّذِينَ ٱسۡتَجَابُوا۟ لِرَبِّهِمُ ٱلۡحُسۡنَىٰۚ</Kolon>
                             <Kolon Einschub="false" lang="de" n="90">(a) Denen, die ihrem Herrn gehorchten, ist ‹das Schönste› zugedacht,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="91">وَٱلَّذِينَ لَمۡ يَسۡتَجِيبُوا۟ لَهُۥ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="91">die ihm aber nicht gehorchten –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="91">die ihm aber nicht gehorchten —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="92">لَوۡ أَنَّ لَهُم مَّا فِی ٱلۡأَرۡضِ جَمِيعًۭا</Kolon>
                             <Kolon Einschub="false" lang="de" n="92">wenn sie alles hätten, was es auf der Erde gibt,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="93">وَمِثۡلَهُۥ مَعَهُۥ لَٱفۡتَدَوۡا۟ بِهِۦٓۚ</Kolon>
@@ -372,13 +372,13 @@
                             <Kolon Einschub="false" lang="ar" n="109">وَيَدۡرَءُونَ بِٱلۡحَسَنَةِ ٱلسَّيِّئَةَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="109">und die das Böse mit dem Guten bannen,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="110">أُو۟لَٰٓئِكَ لَهُمۡ عُقۡبَى ٱلدَّارِ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="110">denen sind – als letzte Wohnstatt – zugedacht:</Kolon>
+                            <Kolon Einschub="false" lang="de" n="110">denen sind — als letzte Wohnstatt — zugedacht:</Kolon>
                         </Teilvers>
                     </Vers>
                     <Vers n="023">
                         <Teilvers n="026">
                             <Kolon Einschub="false" lang="ar" n="111">جَنَّٰتُ عَدۡنٍۢ يَدۡخُلُونَهَا</Kolon>
-                            <Kolon Einschub="false" lang="de" n="111">die Gärten Eden – sie werden sie betreten</Kolon>
+                            <Kolon Einschub="false" lang="de" n="111">die Gärten Eden — sie werden sie betreten</Kolon>
                             <Kolon Einschub="false" lang="ar" n="112">وَمَن صَلَحَ مِنۡ ءَابَآئِهِمۡ</Kolon>
                             <Kolon Einschub="false" lang="de" n="112">mit jenen ihrer Väter, welche fromm gewesen,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="113">وَأَزۡوَٰجِهِمۡ وَذُرِّيَّٰتِهِمۡۖ</Kolon>
@@ -457,7 +457,7 @@
                             <Kolon Einschub="false" lang="ar" n="131">ٱلَّذِينَ ءَامَنُوا۟ وَتَطۡمَىِٕنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ</Kolon>
                             <Kolon Einschub="false" lang="de" n="131">Die aber glauben und deren Herzen im Gedenken Gottes Ruhe finden</Kolon>
                             <Kolon Einschub="false" lang="ar" n="132">أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَىِٕنُّ ٱلۡقُلُوبُ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="132">– ja, finden nicht die Herzen im Gedenken Gottes Ruhe?</Kolon>
+                            <Kolon Einschub="false" lang="de" n="132">— ja, finden nicht die Herzen im Gedenken Gottes Ruhe?</Kolon>
                         </Teilvers>
                     </Vers>
                     <Vers n="029">
@@ -541,11 +541,11 @@
                         <Teilvers n="036">
                             <Kolon Einschub="false" lang="ar" n="156">أَفَمَنۡ هُوَ قَآئِمٌ عَلَىٰ كُلِّ نَفۡسٍۭ بِمَا كَسَبَتۡۗ</Kolon>
                             <Kolon Einschub="false" lang="de" n="156">Ist etwa einer, der über jeder Seele steht für das, was sie begangen hat
-                                –</Kolon>
+                                —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="157">وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="157">und sie machten Gott Gesellen!</Kolon>
                             <Kolon Einschub="false" lang="ar" n="158">قُلۡ سَمُّوهُمۡۚ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="158">Sprich: »Gebt ihnen doch Namen –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="158">Sprich: »Gebt ihnen doch Namen —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="159">أَمۡ تُنَبِّـُٔونَهُۥ بِمَا لَا يَعۡلَمُ فِی ٱلۡأَرۡضِ</Kolon>
                             <Kolon Einschub="false" lang="de" n="159">oder wollt ihr ihm berichten, was er nicht kennt auf Erden</Kolon>
                             <Kolon Einschub="false" lang="ar" n="160">أَم بِظَٰهِرٍۢ مِّنَ ٱلۡقَوۡلِۗ</Kolon>

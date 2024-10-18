@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
-    <Sure id="34" translator="Hartmut Bobzin (modifiziert)" webtauglich="false">
+    <Sure id="34" translator="Hartmut Bobzin (modifiziert)" webtauglich="true">
         <Hauptteil id="0">
             <Abschnitt id="0">
                 <Gesaetz n="0">
@@ -157,7 +157,7 @@
                     <Vers n="012">
                         <Teilvers n="012">
                             <Kolon Einschub="false" lang="ar" n="40">وَلِسُلَيۡمَٰنَ ٱلرِّيحَ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="40">Und Salomo – den Wind!</Kolon>
+                            <Kolon Einschub="false" lang="de" n="40">Und Salomo — den Wind!</Kolon>
                             <Kolon Einschub="false" lang="ar" n="41">غُدُوُّهَا شَهۡرٌۭ وَرَوَاحُهَا شَهۡرٌۭۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="41">Sein Morgenwehen währt einen Monat und ebenso sein Abendwehen.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="42">وَأَسَلۡنَا لَهُۥ عَيۡنَ ٱلۡقِطۡرِۖ</Kolon>
@@ -229,7 +229,7 @@
                             <Kolon Einschub="false" lang="ar" n="64">ذَٰلِكَ جَزَيۡنَٰهُم بِمَا كَفَرُوا۟ۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="64">So vergalten wir ihnen, dass sie undankbar waren.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="65">وَهَلۡ نُجَٰزِیٓ إِلَّا ٱلۡكَفُورَ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="65">Bestrafen wir jemanden – außer den, der undankbar ist?</Kolon>
+                            <Kolon Einschub="false" lang="de" n="65">Bestrafen wir jemanden — außer den, der undankbar ist?</Kolon>
                         </Teilvers>
                     </Vers>
                     <Vers n="018">
@@ -271,7 +271,7 @@
                     <Vers n="021">
                         <Teilvers n="021">
                             <Kolon Einschub="false" lang="ar" n="77">وَمَا كَانَ لَهُۥ عَلَيۡهِم مِّن سُلۡطَٰنٍ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="77">Doch über sie hatte er keine Macht –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="77">Doch über sie hatte er keine Macht —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="78">إِلَّا لِنَعۡلَمَ مَن يُؤۡمِنُ بِٱلۡٴَاخِرَةِ مِمَّنۡ</Kolon>
                             <Kolon Einschub="false" lang="de" n="78">wir wollten einzig wissen, wer an das Jenseits glaubt</Kolon>
                             <Kolon Einschub="false" lang="ar" n="79">هُوَ مِنۡهَا فِی شَكٍّۗ</Kolon>
@@ -301,7 +301,7 @@
                     <Vers n="023">
                         <Teilvers n="023">
                             <Kolon Einschub="false" lang="ar" n="86">وَلَا تَنفَعُ ٱلشَّفَٰعَةُ عِندَهُۥٓ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="86">Fürsprache bei ihm hat keinen Nutzen –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="86">Fürsprache bei ihm hat keinen Nutzen —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="87">إِلَّا لِمَنۡ أَذِنَ لَهُۚۥ</Kolon>
                             <Kolon Einschub="false" lang="de" n="87">es sei denn für den, dem er sie erlaubt,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="88">حَتَّىٰۤ إِذَا فُزِّعَ عَن قُلُوبِهِمۡ قَالُوا۟</Kolon>
@@ -321,7 +321,7 @@
                             <Kolon Einschub="false" lang="ar" n="92">قُلۡ مَن يَرۡزُقُكُم مِّنَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="92">Sprich: »Wer versorgt euch denn von den Himmeln und aus der Erde?«</Kolon>
                             <Kolon Einschub="false" lang="ar" n="93">قُلِ ٱللَّهُۖ وَإِنَّآ أَوۡ إِيَّاكُمۡ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="93">Sprich: »Gott! Ob wir nun oder ihr –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="93">Sprich: »Gott! Ob wir nun oder ihr —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="94">لَعَلَىٰ هُدًى أَوۡ فِی ضَلَٰلٍۢ مُّبِينٍۢ</Kolon>
                             <Kolon Einschub="false" lang="de" n="94">entweder rechtgeleitet oder in klarem Irrtum.«</Kolon>
                         </Teilvers>
@@ -369,7 +369,7 @@
                     <Vers n="029">
                         <Teilvers n="029">
                             <Kolon Einschub="false" lang="ar" n="104">وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="104">Sie sprechen: »Diese Verheißung – wann kommt sie denn,</Kolon>
+                            <Kolon Einschub="false" lang="de" n="104">Sie sprechen: »Diese Verheißung — wann kommt sie denn,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="105">إِن كُنتُمۡ صَٰدِقِينَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="105">wenn ihr wahrhaftig seid?«</Kolon>
                         </Teilvers>
@@ -569,7 +569,7 @@
                             <Kolon Einschub="false" lang="ar" n="163">وَمَا بَلَغُوا۟ مِعۡشَارَ مَآ ءَاتَيۡنَٰهُمۡ</Kolon>
                             <Kolon Einschub="false" lang="de" n="163">und sie hier erlangten nicht ein Zehntel dessen, was wir jenen gaben.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="164">فَكَذَّبُوا۟ رُسُلِیۖ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="164">Da nannten sie meine Abgesandten Lügner –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="164">Da nannten sie meine Abgesandten Lügner —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="165">فَكَيۡفَ كَانَ نَكِيرِ</Kolon>
                             <Kolon Einschub="false" lang="de" n="165">und wie war da mein Tadel!</Kolon>
                         </Teilvers>
@@ -593,7 +593,7 @@
                     <Vers n="047">
                         <Teilvers n="047">
                             <Kolon Einschub="false" lang="ar" n="170">قُلۡ مَا سَأَلۡتُكُم مِّنۡ أَجۡرٍۢ فَهُوَ لَكُمۡۖ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="170">Sprich: »Ich habe keinen Lohn von euch verlangt – euch kommt er zu.</Kolon>
+                            <Kolon Einschub="false" lang="de" n="170">Sprich: »Ich habe keinen Lohn von euch verlangt — euch kommt er zu.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="171">إِنۡ أَجۡرِیَ إِلَّا عَلَى ٱللَّهِۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="171">Meine Belohnung obliegt nur Gott allein.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="172">وَهُوَ عَلَىٰ كُلِّ شَىۡءٍۢ شَهِيدٌۭ</Kolon>

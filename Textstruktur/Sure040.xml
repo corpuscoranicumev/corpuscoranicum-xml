@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
-    <Sure id="40" translator="Hartmut Bobzin (modifiziert)" webtauglich="false">
+    <Sure id="40" translator="Hartmut Bobzin (modifiziert)" webtauglich="true">
         <Hauptteil id="0">
             <Abschnitt id="0">
                 <Gesaetz n="0">
@@ -179,7 +179,7 @@
                     <Vers n="015">
                         <Teilvers n="015">
                             <Kolon Einschub="false" lang="ar" n="47">رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلۡعَرۡشِ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="47">Der an Rang Erhabene, der Herr des Thrones -</Kolon>
+                            <Kolon Einschub="false" lang="de" n="47">Der an Rang Erhabene, der Herr des Thrones —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="48">يُلۡقِی ٱلرُّوحَ مِنۡ أَمۡرِهِۦ</Kolon>
                             <Kolon Einschub="false" lang="de" n="48">der da mit dem von ihm gegebenen Wort den Geist ausschickt</Kolon>
                             <Kolon Einschub="false" lang="ar" n="49">عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦ</Kolon>
@@ -197,7 +197,7 @@
                             <Kolon Einschub="false" lang="ar" n="52">لَا يَخۡفَىٰ عَلَى ٱللَّهِ مِنۡهُمۡ شَىۡءٌۭۚ</Kolon>
                             <Kolon Einschub="false" lang="de" n="52">und nichts von ihnen Gott verborgen bleibt.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="53">لِّمَنِ ٱلۡمُلۡكُ ٱلۡيَوۡمَۖ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="53">»Wer hat die Herrschaft heute inne?« -</Kolon>
+                            <Kolon Einschub="false" lang="de" n="53">»Wer hat die Herrschaft heute inne?« —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="54">لِلَّهِ ٱلۡوَٰحِدِ ٱلۡقَهَّارِ</Kolon>
                             <Kolon Einschub="false" lang="de" n="54">»Gott, der Eine, der Bezwinger.</Kolon>
                         </Teilvers>
@@ -335,7 +335,7 @@
                             <Kolon Einschub="false" lang="ar" n="91">أَتَقۡتُلُونَ رَجُلًا</Kolon>
                             <Kolon Einschub="false" lang="de" n="91">»Wollt ihr denn einen Menschen töten,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="92">أَن يَقُولَ رَبِّیَ ٱللَّهُ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="92">nur weil er spricht: ›Gott ist mein Herr‹ -</Kolon>
+                            <Kolon Einschub="false" lang="de" n="92">nur weil er spricht: ›Gott ist mein Herr‹ —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="93">وَقَدۡ جَآءَكُم بِٱلۡبَيِّنَٰتِ مِن رَّبِّكُمۡۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="93">wo er doch zu euch kam mit Beweisen von eurem Herrn?</Kolon>
                             <Kolon Einschub="false" lang="ar" n="94">وَإِن يَكُ كَٰذِبًۭا فَعَلَيۡهِ كَذِبُهُۥ</Kolon>
@@ -429,7 +429,7 @@
                             <Kolon Einschub="false" lang="ar" n="121">وَقَالَ فِرۡعَوۡنُ يَٰهَٰمَٰنُ ٱبۡنِ لِی صَرۡحًۭا</Kolon>
                             <Kolon Einschub="false" lang="de" n="121">Pharao sprach: »Hāmān! Baue mir einen Palast,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="122">لَّعَلِّیٓ أَبۡلُغُ ٱلۡأَسۡبَٰبَ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="122">so dass ich vielleicht Zugänge/Bahnen erreiche –</Kolon>
+                            <Kolon Einschub="false" lang="de" n="122">so dass ich vielleicht Zugänge/Bahnen erreiche —</Kolon>
                         </Teilvers>
                     </Vers>
                     <Vers n="037">
@@ -469,7 +469,7 @@
                             <Kolon Einschub="false" lang="ar" n="132">مَنۡ عَمِلَ سَيِّئَةًۭ فَلَا يُجۡزَىٰۤ إِلَّا مِثۡلَهَاۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="132">Wer Böses tat, dem wird nur mit Gleichem vergolten;</Kolon>
                             <Kolon Einschub="false" lang="ar" n="133">وَمَنۡ عَمِلَ صَٰلِحًۭا مِّن ذَكَرٍ أَوۡ أُنثَىٰ وَهُوَ مُؤۡمِنٌۭ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="133">Wer jedoch Gutes tat – ob Mann, ob Frau –, und dabei gläubig war:</Kolon>
+                            <Kolon Einschub="false" lang="de" n="133">Wer jedoch Gutes tat — ob Mann, ob Frau —, und dabei gläubig war:</Kolon>
                             <Kolon Einschub="false" lang="ar" n="134">فَأُو۟لَٰٓئِكَ يَدۡخُلُونَ ٱلۡجَنَّةَ</Kolon>
                             <Kolon Einschub="false" lang="de" n="134">Die gehen in den Garten ein;</Kolon>
                             <Kolon Einschub="false" lang="ar" n="135">يُرۡزَقُونَ فِيهَا بِغَيۡرِ حِسَابٍۢ</Kolon>
@@ -499,7 +499,7 @@
                             <Kolon Einschub="false" lang="ar" n="141">لَا جَرَمَ أَنَّمَا تَدۡعُونَنِیٓ إِلَيۡهِ</Kolon>
                             <Kolon Einschub="false" lang="de" n="141">Sicher ist: Wozu ihr mich aufruft,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="142">لَيۡسَ لَهُۥ دَعۡوَةٌۭ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="142">dazu kann man nicht aufrufen -</Kolon>
+                            <Kolon Einschub="false" lang="de" n="142">dazu kann man nicht aufrufen —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="143">فِی ٱلدُّنۡيَا وَلَا فِی ٱلۡٴَاخِرَةِ</Kolon>
                             <Kolon Einschub="false" lang="de" n="143">weder hier in dieser Welt noch im Jenseits.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="144">وَأَنَّ مَرَدَّنَآ إِلَى ٱللَّهِ</Kolon>
@@ -525,7 +525,7 @@
                             <Kolon Einschub="false" lang="ar" n="149">فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="149">Da bewahrte ihn Gott vor allem Bösen, was sie planten,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="150">وَحَاقَ بِـَٔالِ فِرۡعَوۡنَ سُوٓءُ ٱلۡعَذَابِ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="150">und schlimme Strafe brach herein über Pharaos Geschlecht -</Kolon>
+                            <Kolon Einschub="false" lang="de" n="150">und schlimme Strafe brach herein über Pharaos Geschlecht —</Kolon>
                         </Teilvers>
                     </Vers>
                 </Gesaetz>
@@ -587,7 +587,7 @@
                     <Vers n="051">
                         <Teilvers n="051">
                             <Kolon Einschub="false" lang="ar" n="167">إِنَّا لَنَنصُرُ رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟</Kolon>
-                            <Kolon Einschub="false" lang="de" n="167">Wir werden unseren Gesandten und denen, die glauben, helfen -</Kolon>
+                            <Kolon Einschub="false" lang="de" n="167">Wir werden unseren Gesandten und denen, die glauben, helfen —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="168">فِی ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَيَوۡمَ يَقُومُ ٱلۡأَشۡهَٰدُ</Kolon>
                             <Kolon Einschub="false" lang="de" n="168">im Leben hier auf Erden und am Tage, da die Zeugen vortreten werden,</Kolon>
                         </Teilvers>
@@ -781,7 +781,7 @@
                             <Kolon Einschub="false" lang="ar" n="218">ثُمَّ لِتَكُونُوا۟ شُيُوخًۭاۚ</Kolon>
                             <Kolon Einschub="false" lang="de" n="218">dann schließlich Greise werdet</Kolon>
                             <Kolon Einschub="false" lang="ar" n="219">وَمِنكُم مَّن يُتَوَفَّىٰ مِن قَبۡلُۖ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="219">- doch gibt es manchem unter euch der vorher abberufen wird -,</Kolon>
+                            <Kolon Einschub="false" lang="de" n="219">- doch gibt es manchem unter euch der vorher abberufen wird —,</Kolon>
                             <Kolon Einschub="false" lang="ar" n="220">وَلِتَبۡلُغُوٓا۟ أَجَلًۭا مُّسَمًّۭى</Kolon>
                             <Kolon Einschub="false" lang="de" n="220">bis ihr dann den festgelegten Zeitpunkt erreicht.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="221">وَلَعَلَّكُمۡ تَعۡقِلُونَ</Kolon>
@@ -815,7 +815,7 @@
                             <Kolon Einschub="false" lang="ar" n="228">وَبِمَآ أَرۡسَلۡنَا بِهِۦ رُسُلَنَاۖ</Kolon>
                             <Kolon Einschub="false" lang="de" n="228">Und all das, womit wir unsere Gesandten geschickt haben.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="229">فَسَوۡفَ يَعۡلَمُونَ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="229">Nur zu bald werden sie erkennen -</Kolon>
+                            <Kolon Einschub="false" lang="de" n="229">Nur zu bald werden sie erkennen —</Kolon>
                         </Teilvers>
                     </Vers>
                     <Vers n="071">
@@ -921,7 +921,7 @@
                     <Vers n="080">
                         <Teilvers n="080">
                             <Kolon Einschub="false" lang="ar" n="258">وَلَكُمۡ فِيهَا مَنَٰفِعُ</Kolon>
-                            <Kolon Einschub="false" lang="de" n="258">- an ihm habt ihr Nutzen -</Kolon>
+                            <Kolon Einschub="false" lang="de" n="258">- an ihm habt ihr Nutzen —</Kolon>
                             <Kolon Einschub="false" lang="ar" n="259">وَلِتَبۡلُغُوا۟ عَلَيۡهَا حَاجَةًۭ فِی صُدُورِكُمۡ</Kolon>
                             <Kolon Einschub="false" lang="de" n="259">und etwas auf ihm erreichen könnt, was euch am Herzen liegt.</Kolon>
                             <Kolon Einschub="false" lang="ar" n="260">وَعَلَيۡهَا وَعَلَى ٱلۡفُلۡكِ تُحۡمَلُونَ</Kolon>
