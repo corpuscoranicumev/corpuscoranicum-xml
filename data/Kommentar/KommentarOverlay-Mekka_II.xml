@@ -27,7 +27,7 @@
     Forschungsenergien vergönnt war, hat sie doch nicht nur eine Vielzahl von Aufsätzen und
     Monographien hervorgebracht, sondern auch mehrere autoritative Synthesen: Zu nennen sind hier
     vor allem die Neubearbeitung von Theodor Nöldekes Geschichte des Qorāns (Bd. <bibl
-     Zotero_Id_1="I4QW4AFU">1</bibl> , <bibl Zotero_Id_1="9Y4DA9L9">2</bibl> und <bibl
+     Zotero_Id_1="I4QW4AFU">1</bibl>, <bibl Zotero_Id_1="9Y4DA9L9">2</bibl> und <bibl
      Zotero_Id_1="AEFVBV8P">3</bibl> 1909–1938), Josef Horovitz’ <bibl Zotero_Id_1="TJNE7TP3"
      >Koranische Untersuchungen</bibl> (1926), Arthur Jefferys enzyklopädische Synthese der
     koranischen Lehnwortforschung (<bibl Zotero_Id_1="Z468GCXQ">The Foreign Vocabulary of the
@@ -38,7 +38,7 @@
       (Hg.), »Im vollen Licht der Geschichte«</bibl> (s. die vorangehende Fußnote) neu abgedruckten
      Aufsatz Franz Rosenthals.</note> die von einer ausführlichen Konkordanz flankierte <bibl
      Zotero_Id_1="J6TM6UHR">Neuübersetzung des Korans durch Rudi Paret</bibl> (1966, <bibl
-     Zotero_Id_1="X9T7RF7R">Kommentar und Konkordanz 1971</bibl> ) sowie Angelika Neuwirths <bibl
+     Zotero_Id_1="X9T7RF7R">Kommentar und Konkordanz 1971</bibl>) sowie Angelika Neuwirths <bibl
      Zotero_Id_1="4WEWN8NZ">Studien zur Komposition der mekkanischen Suren (1981)</bibl>.</p>
    <p>Gleichwohl weist die Koranwissenschaft im Vergleich zur philologischen Erschließung der Bibel
     oder der Literatur der klassischen Antike noch gravierende Lücken auf. Dies liegt nicht nur am
@@ -729,7 +729,7 @@
     Schmid Dank. Letztere hat mir darüberhinaus in besonderer Weise dabei assistiert, das
     formkritische Register (hoffentlich) einigermaßen konsequent zu halten und die äußerst
     arbeitsaufwendige Umwandlung meiner Texte in eine in Zusammenarbeit mit Markus Schnöpf und
-    Tobias Jocham konzipierte XML-Datenstruktur betreut. Für äußerst wertvolle Kommentare zur
+    Tobias J. Jocham konzipierte XML-Datenstruktur betreut. Für äußerst wertvolle Kommentare zur
     Gesamtform des Kommentars sowie zur Behandlung einzelner Textpassagen danke ich Thomas Bauer,
     Frank-Lothar Hossfeld, David Kiltz, Hannelies Koloska, Michael Marx, Veronika Roth, Nora
     Katharina Schmid, Arno Schmitt, Gregor Schoeler, Tilman Seidensticker, Stefan Wild und Erich
@@ -2777,7 +2777,7 @@
      sondern auf (die späteren) Leser.</note> betont worden, ohne dass dabei aber die sich hier
     vollziehende Supersession erkannt worden wäre. Denn Gott als der Bündnispartner und
     Verwirklicher eines Heilsplans tritt an die Stelle des Schicksals,
-    <lang xml:lang="ar-Latn">al-dahr</lang> (<q type="koran" versstart="045:024" versend="045:024">Q
+    <lang xml:lang="ar-Latn">ad-dahr</lang> (<q type="koran" versstart="045:024" versend="045:024">Q
      45:24</q>, <q type="koran" versstart="076:001" versend="076:001">76:1</q>),
      <lang xml:lang="ar-Latn">al-manūn </lang>(<q type="koran" versstart="052:030" versend="052:030"
      >Q 52:30</q>), das willkürlich ohne Plan über Leben und Tod des Paganen entscheidet. <bibl
@@ -2863,7 +2863,7 @@
     auch nicht als Zufall gelten, wenn gewisse Ausdrücke für »offenbaren« in der ersten mekkanischen
     Periode nur vereinzelt vorkommen, dagegen später außerordentlich häufig werden.« (<bibl
      Zotero_Id_1="RF8JH6HZ" Titel_1="Geschichte des Qorāns"><hi rend="italic">GdQ<hi
-       rend="superscript">I</hi></hi>, 119f.</bibl>)</p>
+       rend="superscript">2</hi></hi>, Bd. I, 119f.</bibl>)</p>
    <p>Obwohl die monierten Veränderungen schwerlich zurückzuweisen sind, ist das hier gezeichnete
     Bild problematisch. Seine Fehleinschätzungen beruhen auf der Ansetzung eines auktorialen Textes,
     den sich Nöldeke, der von »Überschriften« spricht, vielleicht sogar schriftlich abgefasst
@@ -2904,9 +2904,9 @@
     Verkündigung — kein auktorialer Text, sondern Spiegel eines durch verschiedene Stadien der
     Belehrung gehenden Ereignisses, Zwar gesteht Nöldeke zu, »daß der Qorān hauptsächlich für Hörer,
     nicht für Leser berechnet war« (<bibl Zotero_Id_1="RF8JH6HZ" Titel_1="Geschichte des Qorāns"><hi
-      rend="italic">GdQ<hi rend="superscript">I</hi></hi>, 119</bibl>), doch scheint immer wieder
-    der Eindruck einer planmäßigen Abfassung des Textes durch den Propheten durch. Vor allem wird
-    der Charakter des Koran als das sich — gleichzeitig mit der Gemeinde — herausbildende
+      rend="italic">GdQ<hi rend="superscript">2</hi></hi>, Bd. I, 119</bibl>), doch scheint immer
+    wieder der Eindruck einer planmäßigen Abfassung des Textes durch den Propheten durch. Vor allem
+    wird der Charakter des Koran als das sich — gleichzeitig mit der Gemeinde — herausbildende
     Identitätsdokument verkannt, wenn die wichtigste Strategie dieser Identitätsfindung, die
     Herstellung einer direkten, sogar typologischen, Verbindung zwischen den früheren Propheten und
     dem Verkünder, als angreifbar, evtl. sogar im Sinne einer Manipulation, dargestellt wird. Was
@@ -2926,24 +2926,24 @@
     Überzeugung eines einzelnen, sondern eines sich sukzessiv bildenden Gemeindekonsenses.</p>
    <p>Wie lässt sich aber erklären, dass die mittelmekkanischen Suren «kaum noch jene Orakelsprache
     [d.h. Schwurserien: siehe <bibl Zotero_Id_1="6I96FAXT"><hi rend="italic">KTS</hi>,
-     284–293</bibl>, und <lang xml:lang="ar-Latn">iḏā</lang>-Serien: siehe <bibl
+     284–293</bibl>, und <lang xml:lang="ar-Latn">ʾiḏā</lang>-Serien: siehe <bibl
      Zotero_Id_1="6I96FAXT"><hi rend="italic">KTS</hi>, 293–296</bibl>] benutzen, mit der die frühen
     Suren hervortraten« (<bibl Zotero_Id_1="RF8JH6HZ"><hi rend="italic">GdQ<hi rend="superscript"
-       >I</hi></hi>, 119</bibl>)? Aus der Perspektive auf den Koran als Kommunikationsprozess ist
-    die Erklärung einfach: die Sure erhält in einer Phase, in der die Gemeinde als Betergemeinschaft
-    bereits etabliert ist (siehe <q type="kommentar" versstart="001:000" versend="001:007">Kommentar
-     zu Q 1</q>), eine neue Funktion. Zu ihrer Legitimierung sind nicht mehr die aus der paganen
-    Tradition übernommenen — rituellen bzw. mit ihrer raschen Wiederholung einen Ritus evozierenden
-    — Autorisierungen gefragt, zumal diese ja mit den kurzen Suren ohnehin weiterhin für die
-    Rezitation zur Verfügung stehen. Was jetzt gefordert ist, sind diskursive Autorisierungen. Daher
-    treten nach einer kurzen Phase des Einsatzes von Schwüren bei der Lesung (<q type="koran"
-     versstart="038:001" versend="038:001">Q 38:1</q>, <q type="koran" versstart="050:001"
-     versend="050:001">50:1</q>) oder der Schrift (<q type="koran" versstart="043:002"
-     versend="043:002">Q 43:2</q>) prosaische Schrift-Ankündigungen, wie
+       >2</hi></hi>, Bd. I, 119</bibl>)? Aus der Perspektive auf den Koran als Kommunikationsprozess
+    ist die Erklärung einfach: die Sure erhält in einer Phase, in der die Gemeinde als
+    Betergemeinschaft bereits etabliert ist (siehe <q type="kommentar" versstart="001:000"
+     versend="001:007">Kommentar zu Q 1</q>), eine neue Funktion. Zu ihrer Legitimierung sind nicht
+    mehr die aus der paganen Tradition übernommenen — rituellen bzw. mit ihrer raschen Wiederholung
+    einen Ritus evozierenden — Autorisierungen gefragt, zumal diese ja mit den kurzen Suren ohnehin
+    weiterhin für die Rezitation zur Verfügung stehen. Was jetzt gefordert ist, sind diskursive
+    Autorisierungen. Daher treten nach einer kurzen Phase des Einsatzes von Schwüren bei der Lesung
+     (<q type="koran" versstart="038:001" versend="038:001">Q 38:1</q>, <q type="koran"
+     versstart="050:001" versend="050:001">50:1</q>) oder der Schrift (<q type="koran"
+     versstart="043:002" versend="043:002">Q 43:2</q>) prosaische Schrift-Ankündigungen, wie
      <lang xml:lang="ar-Latn">tilka ʾāyātu l-kitābi l-mubīn </lang>(<q type="koran"
      versstart="026:002" versend="026:002">Q 26:2</q>), an die Stelle der früheren Schwüre und der
     Heraufbeschwörungen der endzeitlichen Katastrophe in den
-    <lang xml:lang="ar-Latn">iḏā</lang>-Serien — dies jedoch gerade nicht als »Überschriften« von
+    <lang xml:lang="ar-Latn">ʾiḏā</lang>-Serien — dies jedoch gerade nicht als »Überschriften« von
     Kapiteln, sondern als feierlich deklamative Ankündigungen, nicht anders als aus den
     Gottesdiensten der beiden älteren Religionen vertraut, wo ebenfalls eine Schriftlesung mit
     expressiven Formeln angekündigt wird. Mit der Konzentration auf das Novum der nun auch der
@@ -2971,10 +2971,10 @@
     erkennbar machte. Doch stützt man sich bei der Koranerklärung immer noch fast ausschließlich auf
     historische oder religionsgeschichtliche Kriterien, ohne die sprachliche und literarische
     Gestalt des Koran als Medium der Vermittlung ernsthaft in den Blick zu nehmen (siehe <bibl
-     Zotero_Id_1="6I96FAXT"><hi rend="italic">KTS</hi>, 45–58</bibl>). Diese
-    Sprachgestalt verweist jedoch nicht nur auf die Herkunft des Koran aus dem arabischen
-    Kulturraum, sie reflektiert in ihrer besonderen rhetorischen Form zugleich das Szenario einer
-    Interaktion zwischen Propheten und Hörern.</p>
+     Zotero_Id_1="6I96FAXT"><hi rend="italic">KTS</hi>, 45–58</bibl>). Diese Sprachgestalt verweist
+    jedoch nicht nur auf die Herkunft des Koran aus dem arabischen Kulturraum, sie reflektiert in
+    ihrer besonderen rhetorischen Form zugleich das Szenario einer Interaktion zwischen Propheten
+    und Hörern.</p>
    <p>Die Marginalisierung der Sprachgestalt hängt nicht zuletzt mit der gegenwärtig üblichen
     Fokussierung der Textform des kanonisierten Kodex, dem <lang xml:lang="ar-Latn">muṣḥaf</lang>,
     zusammen. Die gegenwärtige Koranforschung, die in den Fußstapfen ihrer historisch-kritischen
@@ -3210,7 +3210,7 @@
     älteren und konkurrierenden Inspirationsmodelle, vor allem die der Dichter durch Dämonen, werden
     dadurch entkräftet, die Dichter selbst auch als wahrheitsfeindlich verurteilt. Die Sure, die
     dies ausspricht, <q type="koran" versstart="026:000" versend="026:227">Q 26</q>, ist in der
-    Forschung bereits von Michael <bibl Zotero_Id_1="NJKVWFS7">Michael Zwettler 1990</bibl> als
+    Forschung bereits von <bibl Zotero_Id_1="NJKVWFS7">Michael Zwettler 1990</bibl> als
     Prophetie-Manifest erkannt worden. Es ist diese Sure, die am stärksten auf der Autorität der
     Propheten insistiert, indem sie Gehorsam ihnen gegenüber einfordert, <q type="koran"
      versstart="026:110" versend="026:110">Q 26:110</q>, <q type="koran" versstart="026:126"
@@ -3306,7 +3306,7 @@
     »Weltbewohner« und nicht einfach »Menschen«? Warum nicht einfach das übliche
     <lang xml:lang="ar-Latn">an-nās</lang>, »die Menschen«?<note place="end">Es ist keineswegs so,
      dass <lang xml:lang="ar-Latn">an-nās</lang> im Koran gar nicht vorkäme. Es wird vor allem
-     gebraucht in den späten medinischen Anreden <lang xml:lang="ar-Latn">yā ʾayyuhā an-nās</lang>,
+     gebraucht in den späten medinischen Anreden <lang xml:lang="ar-Latn">yā-ʾayyuha n-nās</lang>,
      »Ihr Leute«, gerichtet an ein gemischtes Publikum bestehend aus der inzwischen zahlreichen
      Gemeinde, aber auch aus Außenseitern, für die Behauptung der Doppelnatur des Menschen als
      innerweltlich und eschatologisch determiniert sicher ganz unverständlich wäre. Die Anrede
@@ -3475,10 +3475,10 @@
      type="koran" versstart="044:053" versend="044:053">Q 44:53</q>, etc.) die ihrem Rang
     angemessenen Sitze (<q type="koran" versstart="054:055" versend="054:055">Q 54:55</q>)
     einnehmen. Zugleich zeichnet sich eine neue Durchlässigkeit der Grenzen zwischen Himmel und Erde
-    ab, die dem Frommen erlaubt — wohl während seines Gebets-<lang xml:lang="ar-Latn">iḥrām</lang> —
-    auf einen gesegneten Ausgang (aus der alltäglichen Welt) und einen gesegneten Eingang (in die im
-    Gebet aufgesuchte Nähe Gottes) zu hoffen, <q type="koran" versstart="017:001" versend="017:001"
-     >Q 17:1</q>.</p>
+    ab, die dem Frommen erlaubt — wohl während seines Gebets-<lang xml:lang="ar-Latn">ʾiḥrām</lang>
+    — auf einen gesegneten Ausgang (aus der alltäglichen Welt) und einen gesegneten Eingang (in die
+    im Gebet aufgesuchte Nähe Gottes) zu hoffen, <q type="koran" versstart="017:001"
+     versend="017:001">Q 17:1</q>.</p>
    <p>Nicht immer sind diese neuen Positionen in neuen Texten formuliert. Für eine Reihe von frühen
     Suren wurden bereits bei der Analyse der frühmekkanischen Suren Texterweiterungen mit einer
     neuen Stoßrichtung, sog. mittelmekkanische Zusätze, festgestellt. Sie werden in einem Appendix
@@ -3500,38 +3500,38 @@
    <p>Auch textpolitisch setzen die mittelmekkanischen Suren deutlich neue Schwerpunkte. Dass
     Theodor Nöldeke in ihnen nicht mehr als eine Zwischenstufe zwischen Früh- und Spätmekka erkennen
     konnte, die sich selbst als Sondergruppe nicht deutlich abzeichne (siehe <bibl
-     Zotero_Id_1="RF8JH6HZ"><hi rend="italic">GdQ<hi rend="superscript">I</hi></hi>, 119</bibl>),
-    ist überraschend. Denn mit den mittelmekkanischen Suren treten wir zwar nicht abrupt, aber doch
-    klar erkennbar in einen neuen Diskurs ein. Bereits äußerlich heben sich die meisten dieser Suren
-    durch ihre gesteigerte Länge gegen die früheren ab, was nicht immer sogleich die Verslänge
-    betrifft; selbst so lange Suren wie <q type="koran" versstart="037:000" versend="037:182">Q
-     37</q> — sie umfasst über 180 Verse — oder <q type="koran" versstart="026:000"
-     versend="026:227">Q 26</q> — mit 227 Versen — weisen noch überwiegend eingliedrige Verse auf.
-    Doch setzen die nun längeren Kompositionen voraus, dass sich die Vortragssituation gegenüber den
-    kürzeren Suren geändert hat. Die Suren sind nun zu lang, um schlicht Kult-begleitender Vortrag
-    zu sein, sie enthalten in einigen ihrer Teile Reden zur konkreten Situation, die um eindeutig
-    identifizierbare besondere Streitpunkte kreisen. Dabei wird die Polythematik, die bereits die
-    frühmekkanischen Suren charakterisierte, nun auch diskursiv funktional: Während in
-    frühmekkanischen Suren bestimmte im Anfangsteil eingeblendete Bilder wie der »Herabfall« der
-    Strafe in <q type="koran" versstart="056:000" versend="056:096">Q 56</q>, die Plausibiliät der
-    Argumentation um die plötzlich eintretende endzeitliche Katastrophe durch Appell an die
-    Imagination des Hörers unterstützten, sind es nun individuelle Themen, die aus verschiedenen
-    Blickwinkeln und daher im Rahmen verschiedener in den Suren vereinter Textsorten abgehandelt
-    werden. So bearbeitet etwa <q type="koran" versstart="037:000" versend="037:182">Q 37</q> das
-    Thema der Engel bzw. der neben Gott angenommenen übernatürlichen Wesen unter gleich drei
-    fundamentalen Aspekten: in der Einleitung unter dem zeremoniellen Aspekt ihrer Cherubim-Rolle in
-    einer hymnisch geprägten Schwurserie, eine Rolle, die auch in den Liturgien der Juden und
-    Christen vergegenwärtigt wird. Dieselben Engel werden im argumentativen Mittelteil unter
-    polemischem Aspekt als missverständlich mit Gottestöchtern identifizierte Erscheinungen
-    diskutiert, übernatürliche Wesen erscheinen schließlich im Erzählteil im Zerrspiegel der
-    Götzenverehrung der paganen Gesellschaft um Abraham. Die Einbettung eines Themas in verschiedene
-    Textsorten erlaubt, aus verschiedener Perspektive auf die einzelnen Streitpunkte zu blicken. Es
-    geht jetzt mehr als vorher um persuasio, um Überzeugung bzw. Widerlegung abzulehnender
-    Positionen. Dazu passt, dass die Suren jetzt von Wechselreden geprägt sind: neben dem Verkünder
-    treten nicht nur anwesende Gegner auf; es werden auch zunehmend in der Imagination vorgestellte
-    Gespräche referiert. Solche werden auch nicht nur im Diesseits, sondern ebenso im Jenseits,
-    zuweilen sogar über Entfernungen hinweg — in Teichoskopie-Szenarien — etwa zwischen Seligen und
-    Verdammten, geführt, wobei nicht nur reale Zeitgenossen, sondern sogar fantastische
+     Zotero_Id_1="RF8JH6HZ"><hi rend="italic">GdQ<hi rend="superscript">2</hi></hi>, Bd. I,
+     119</bibl>), ist überraschend. Denn mit den mittelmekkanischen Suren treten wir zwar nicht
+    abrupt, aber doch klar erkennbar in einen neuen Diskurs ein. Bereits äußerlich heben sich die
+    meisten dieser Suren durch ihre gesteigerte Länge gegen die früheren ab, was nicht immer
+    sogleich die Verslänge betrifft; selbst so lange Suren wie <q type="koran" versstart="037:000"
+     versend="037:182">Q 37</q> — sie umfasst über 180 Verse — oder <q type="koran"
+     versstart="026:000" versend="026:227">Q 26</q> — mit 227 Versen — weisen noch überwiegend
+    eingliedrige Verse auf. Doch setzen die nun längeren Kompositionen voraus, dass sich die
+    Vortragssituation gegenüber den kürzeren Suren geändert hat. Die Suren sind nun zu lang, um
+    schlicht Kult-begleitender Vortrag zu sein, sie enthalten in einigen ihrer Teile Reden zur
+    konkreten Situation, die um eindeutig identifizierbare besondere Streitpunkte kreisen. Dabei
+    wird die Polythematik, die bereits die frühmekkanischen Suren charakterisierte, nun auch
+    diskursiv funktional: Während in frühmekkanischen Suren bestimmte im Anfangsteil eingeblendete
+    Bilder wie der »Herabfall« der Strafe in <q type="koran" versstart="056:000" versend="056:096">Q
+     56</q>, die Plausibiliät der Argumentation um die plötzlich eintretende endzeitliche
+    Katastrophe durch Appell an die Imagination des Hörers unterstützten, sind es nun individuelle
+    Themen, die aus verschiedenen Blickwinkeln und daher im Rahmen verschiedener in den Suren
+    vereinter Textsorten abgehandelt werden. So bearbeitet etwa <q type="koran" versstart="037:000"
+     versend="037:182">Q 37</q> das Thema der Engel bzw. der neben Gott angenommenen übernatürlichen
+    Wesen unter gleich drei fundamentalen Aspekten: in der Einleitung unter dem zeremoniellen Aspekt
+    ihrer Cherubim-Rolle in einer hymnisch geprägten Schwurserie, eine Rolle, die auch in den
+    Liturgien der Juden und Christen vergegenwärtigt wird. Dieselben Engel werden im argumentativen
+    Mittelteil unter polemischem Aspekt als missverständlich mit Gottestöchtern identifizierte
+    Erscheinungen diskutiert, übernatürliche Wesen erscheinen schließlich im Erzählteil im
+    Zerrspiegel der Götzenverehrung der paganen Gesellschaft um Abraham. Die Einbettung eines Themas
+    in verschiedene Textsorten erlaubt, aus verschiedener Perspektive auf die einzelnen Streitpunkte
+    zu blicken. Es geht jetzt mehr als vorher um persuasio, um Überzeugung bzw. Widerlegung
+    abzulehnender Positionen. Dazu passt, dass die Suren jetzt von Wechselreden geprägt sind: neben
+    dem Verkünder treten nicht nur anwesende Gegner auf; es werden auch zunehmend in der Imagination
+    vorgestellte Gespräche referiert. Solche werden auch nicht nur im Diesseits, sondern ebenso im
+    Jenseits, zuweilen sogar über Entfernungen hinweg — in Teichoskopie-Szenarien — etwa zwischen
+    Seligen und Verdammten, geführt, wobei nicht nur reale Zeitgenossen, sondern sogar fantastische
     Gesprächspartner, wie etwa die von den Gegnern imaginierten Nebengötter, als Redende vorkommen
     können.</p>
    <p>Suren der mittelmekkanischen Zeit kreisen im allgemeinen um Erzählungen, die den Mittelteil
@@ -3616,50 +3616,5 @@
     um bestimmte Suren, so dass man am ehesten einen Kranz von Suren annehmen möchte, die sich um
     eine besonders expressive Sure lagern.</p>
   </text>
-  <label n="3">Register der in den mittelmekkanischen Suren erscheinenden Textsorten</label>
-  <text verfasser="tjj">
-   <p><hi rend="h1"/>
-   </p>
-   <p>Zu den für die mittelmekkanischen Suren relevanten Textsorten s. vorerst das "<ref
-     target="https://corpuscoranicum.de/de/commentary/introduction/early-mecca#register_der_in_den_fr%C3%BChmekkanischen_suren_erscheinenden_textsorten"
-     >Register der in den frühmekkanischen Suren erscheinenden Textsorten</ref>".</p>
-  </text>
  </akkordeon>
- <text verfasser="td">
-  <p><hi rend="h1">Frühmittelmekkanische Suren</hi>
-  </p>
-  <p><q type="koran" versstart="001:000" versend="001:007">Q 1</q></p>
-  <p><hi rend="h2">Suren der Gruppe I</hi></p>
-  <p><q type="koran" versstart="054:000" versend="054:055">Q 54</q>, <q type="koran"
-    versstart="037:000" versend="037:182">Q 37</q>, <q type="koran" versstart="015:000"
-    versend="015:099">Q 15</q>, <q type="koran" versstart="050:000" versend="050:045">Q 50</q></p>
-  <p><hi rend="h2">Suren der Gruppe II</hi>
-  </p>
-  <p><q type="koran" versstart="020:000" versend="020:135">Q 20</q>, <q type="koran"
-    versstart="026:000" versend="026:227">Q 26</q>
-   <q type="koran" versstart="071:000" versend="071:028">Q 71</q>, <q type="koran"
-    versstart="044:000" versend="044:059">Q 44</q></p>
-  <p><hi rend="h2">Einzelsuren</hi>
-  </p>
-  <p><q type="koran" versstart="076:000" versend="076:031">Q 76</q>, <q type="koran"
-    versstart="038:000" versend="038:088">Q 38</q>, <q type="koran" versstart="019:000"
-    versend="019:098">Q 19</q></p>
-  <p><hi rend="h1">Spätmittelmekkanische Suren</hi>
-  </p>
-  <p><q type="koran" versstart="017:000" versend="017:111">Q 17</q></p>
-  <p><hi rend="h2">Suren der Gruppe I</hi></p>
-  <p><q type="koran" versstart="043:000" versend="043:089">Q 43</q>, <q type="koran"
-    versstart="036:000" versend="036:083">Q 36</q></p>
-  <p><hi rend="h2">Suren der Gruppe II</hi></p>
-  <p><q type="koran" versstart="025:000" versend="025:077">Q 25</q>, <q type="koran"
-    versstart="023:000" versend="023:118">Q 23</q>, <q type="koran" versstart="114:000"
-    versend="114:006">Q 114</q>, <q type="koran" versstart="027:000" versend="027:093">Q 27</q></p>
-  <p><hi rend="h2">Suren der Gruppe III</hi></p>
-  <p><q type="koran" versstart="072:000" versend="072:028">Q 72</q>, <q type="koran"
-    versstart="067:000" versend="067:030">Q 67</q></p>
-  <p><hi rend="h2">Einzelsuren</hi>
-  </p>
-  <p><q type="koran" versstart="021:000" versend="021:112">Q 21</q>, <q type="koran"
-    versstart="018:000" versend="018:110">Q 18</q></p>
- </text>
 </overlay>
