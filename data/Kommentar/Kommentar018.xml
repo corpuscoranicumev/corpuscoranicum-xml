@@ -362,7 +362,7 @@
 		</text>
 	</komposition>
 	<kommentar>
-		<text versstart="000" versend="110" verfasser="an">
+		<text versstart="000" versend="000" verfasser="an">
 			<p><hi rend="italic">Vorbemerkung:</hi> Die als letzte kommentierte <q type="koran"
 					versstart="018:000" versend="018:110">Sure 18</q> nimmt eine Sonderstellung ein:
 				Sie fällt durch ungewöhnliche Vielfalt ihrer Motive aus dem Rahmen, darunter
@@ -380,38 +380,39 @@
 				zielgerichteten Deutung zuarbeiten. Unsere — in das vorgegebene Schema des
 				Corpus-Coranicum-Kommentars eingefaßte — Interpretation kann sich mit diesen
 				Defiziten nur gelegentlich auseinandersetzen.</p>
-			<p>Es kommt uns der glückliche Umstand entgegen, daß zu der Sure mehrere Vorarbeiten vorliegen,
-				deren Ergebnisse wir einbeziehen können: <bibl Zotero_Id_1="TXU6734D">Zishan Ghaffar
-					(2019)</bibl> hat in seiner Monographie <hi rend="italic">Der Koran in seinem
-					religions- und weltgeschichtlichen Kontext</hi> die Sure kursorisch — mit
-				verschiedengradiger Konzentration — analysiert und interpretiert. Er stellt sie in
-				den Kontext der apokalyptischen Strömungen der Entstehungszeit und versucht solche
-				Verbindungen, wo immer möglich, nachzuweisen. Sein ausführlicher Exkurs zur
-				Datierung einer der in der Forschung erwogenen ›Quellen‹, d.h. der syrischen
-				Alexanderlegende und des Alexanderliedes, wirft vor allem Licht auf die <q
+			<p>Es kommt uns der glückliche Umstand entgegen, daß zu der Sure mehrere Vorarbeiten
+				vorliegen, deren Ergebnisse wir einbeziehen können: <bibl Zotero_Id_1="TXU6734D"
+					>Zishan Ghaffar (2019)</bibl> hat in seiner Monographie <hi rend="italic">Der
+					Koran in seinem religions- und weltgeschichtlichen Kontext</hi> die Sure
+				kursorisch — mit verschiedengradiger Konzentration — analysiert und interpretiert.
+				Er stellt sie in den Kontext der apokalyptischen Strömungen der Entstehungszeit und
+				versucht solche Verbindungen, wo immer möglich, nachzuweisen. Sein ausführlicher
+				Exkurs zur Datierung einer der in der Forschung erwogenen ›Quellen‹, d.h. der
+				syrischen Alexanderlegende und des Alexanderliedes, wirft vor allem Licht auf die <q
 					type="koran" versstart="018:060" versend="018:064">Verse 60–64</q> und <q
 					type="koran" versstart="018:083" versend="018:102">83–102</q> (Erzählteile C und
 				E). Mit dieser — konsequent außerkoranische Diskurse berücksichtigenden —
 				Kontextualisierung legt Ghaffar eine wichtige Neulektüre der Sure vor.</p>
-			<p>Der Autor überläßt jedoch die Annotierung der Hauptmasse der Sure weitgehend einer bereits
-				vorliegenden Arbeit. Diese von Ghaffar vorausgesetzte (Vor-)Arbeit gehört besonders
-				gewürdigt: Hannelies Koloska (<bibl Zotero_Id_1="NQIPWSX4">Offenbarung, Ästhetik und
-					Koranexegese, 2015</bibl>). Die sorgfältig gearbeitete Monographie liefert einen
-				gleichmäßig detaillierten Kommentar zu den Versen der Gesamtsure und ist auch um die
-				Deutung der einzelnen großen Sinneinheiten bemüht. Wenn wir dennoch einen neuen,
-				eigenen Kommentar vorlegen, so weil sich unsere Vorgehensweise wesentlich von der
-				Koloskas unterscheidet. Diese steht noch stark in der von Rudi Paret in seinem <bibl
-					Zotero_Id_1="X9T7RF7R">Korankommentar (1971)</bibl> begründeten Tradition,
-				möglichst alle Verse durch koranische ›Parallelen‹ — ohne Rücksicht auf Chronologie
-				— zu dokumentieren und die frühere Forschung möglichst vollständig zu referieren,
-				auch da, wo sie von der Argumentationslinie der Sure wegführt, d.h. den Text als
-				einen offenen Text darzustellen. Darin manifestiert sich zweifellos ein erheblicher
-				Wissensschatz, der bei Koloska auch zahlreiche der ihr gut vertrauten biblischen
-				Vorgängerzeugnisse einbegreift und in den sie sogar gelegentlich klassische
-				islamische Exegesen einbezieht. Auch ihre analytische Leistung: etwa die Isolierung
-				verschiedener Erzählebenen, ist für die formale Erfassung des Textes wertvoll.</p>
-			<p>Doch was besagen diese Beobachtungen für die Gesamtaussage der Sure und ihren Status innerhalb
-				der Entwicklung? Sie lassen die Stoßrichtung der Sure nur gelegentlich
+			<p>Der Autor überläßt jedoch die Annotierung der Hauptmasse der Sure weitgehend einer
+				bereits vorliegenden Arbeit. Diese von Ghaffar vorausgesetzte (Vor-)Arbeit gehört
+				besonders gewürdigt: Hannelies Koloska (<bibl Zotero_Id_1="NQIPWSX4">Offenbarung,
+					Ästhetik und Koranexegese, 2015</bibl>). Die sorgfältig gearbeitete Monographie
+				liefert einen gleichmäßig detaillierten Kommentar zu den Versen der Gesamtsure und
+				ist auch um die Deutung der einzelnen großen Sinneinheiten bemüht. Wenn wir dennoch
+				einen neuen, eigenen Kommentar vorlegen, so weil sich unsere Vorgehensweise
+				wesentlich von der Koloskas unterscheidet. Diese steht noch stark in der von Rudi
+				Paret in seinem <bibl Zotero_Id_1="X9T7RF7R">Korankommentar (1971)</bibl>
+				begründeten Tradition, möglichst alle Verse durch koranische ›Parallelen‹ — ohne
+				Rücksicht auf Chronologie — zu dokumentieren und die frühere Forschung möglichst
+				vollständig zu referieren, auch da, wo sie von der Argumentationslinie der Sure
+				wegführt, d.h. den Text als einen offenen Text darzustellen. Darin manifestiert sich
+				zweifellos ein erheblicher Wissensschatz, der bei Koloska auch zahlreiche der ihr
+				gut vertrauten biblischen Vorgängerzeugnisse einbegreift und in den sie sogar
+				gelegentlich klassische islamische Exegesen einbezieht. Auch ihre analytische
+				Leistung: etwa die Isolierung verschiedener Erzählebenen, ist für die formale
+				Erfassung des Textes wertvoll.</p>
+			<p>Doch was besagen diese Beobachtungen für die Gesamtaussage der Sure und ihren Status
+				innerhalb der Entwicklung? Sie lassen die Stoßrichtung der Sure nur gelegentlich
 				durchscheinen. In <bibl Zotero_Id_1="54825XK5">Sheldon Pollocks (2009)</bibl>
 				Kategorien gesprochen: Die Interpretation nach der Paret-Schule reflektiert den
 				»Stand (und Wissensstand) des Interpreten selbst« deutlicher als den eigentlichen
@@ -421,26 +422,26 @@
 				Textbedeutung setzt den Koran als literarisches Artefakt ohne performativen Anspruch
 				voraus und liegt damit quer zu der von uns angestrebten Darstellung der jeweiligen
 				Sure als einer ›Station auf dem Weg der Gemeindeentwicklung‹.</p>
-			<p>Unser Kommentar strebt also keine ›Momentaufnahme‹ einer einzelnen Sure an, sondern stellt sie
-				in die Spannung eines ›Vorher‹, das aus der möglichst systematischen Rückschau auf
-				frühere Zeugnisse des betreffenden Diskurses erkennbar wird, zu einem ›Jetzt‹, einer
-				aktuellen Herausforderung. Diese geht zumeist von extratextuell im Umlauf
-				befindlichen Theologumena aus, die daher nicht einfach als ›Umwelttexte‹ oder
+			<p>Unser Kommentar strebt also keine ›Momentaufnahme‹ einer einzelnen Sure an, sondern
+				stellt sie in die Spannung eines ›Vorher‹, das aus der möglichst systematischen
+				Rückschau auf frühere Zeugnisse des betreffenden Diskurses erkennbar wird, zu einem
+				›Jetzt‹, einer aktuellen Herausforderung. Diese geht zumeist von extratextuell im
+				Umlauf befindlichen Theologumena aus, die daher nicht einfach als ›Umwelttexte‹ oder
 				›Quellen‹ dokumentiert gehören, sondern in der von ihnen ausgelösten Dynamik
 				verfolgt werden müssen. Für den historisch-literaturwissenschaftlichen Kommentar
 				sind klar erkennbare Linien zu eruieren — selbst auf die Gefahr hin, daß sie durch
 				neuere Forschung korrigiert werden müssen.</p>
-			<p>Auch kann eine historisch-literaturwissenschaftliche Kommentierung ohne einen ›masoretischen
-				Vorspann‹, eine Diskussion der relevanten Varianten und Versabteilungsdifferenzen
-				sowie der eventuellen späteren Zusätze, nicht auskommen, ›Formalia‹ wie Reim und
-				formelhafte Einleitungen oder Kurzzitate aus früheren Suren, die in den
-				vorausgehenden Arbeiten für die Interpretation keine Rolle spielen, sind als
-				wichtiger Teil des Textes zu betrachten.</p>
-			<p>Im folgenden werden die Kommentierungen und Deutungen von Hannelies Koloska kontinuierlich
-				herangezogen und ausführlich diskutiert. Gleichheitig verfolgen wir die Suche nach
-				einer ›politischen‹ Dimension der Sure, für die uns Ghaffar sensibilisiert hat, mit
-				dem Ziel, die komplexe Sure als einen für die Gemeindeentwicklung bedeutenden
-				Gesamtdiskurs erkennbar zu machen.</p>
+			<p>Auch kann eine historisch-literaturwissenschaftliche Kommentierung ohne einen
+				›masoretischen Vorspann‹, eine Diskussion der relevanten Varianten und
+				Versabteilungsdifferenzen sowie der eventuellen späteren Zusätze, nicht auskommen,
+				›Formalia‹ wie Reim und formelhafte Einleitungen oder Kurzzitate aus früheren Suren,
+				die in den vorausgehenden Arbeiten für die Interpretation keine Rolle spielen, sind
+				als wichtiger Teil des Textes zu betrachten.</p>
+			<p>Im folgenden werden die Kommentierungen und Deutungen von Hannelies Koloska
+				kontinuierlich herangezogen und ausführlich diskutiert. Gleichheitig verfolgen wir
+				die Suche nach einer ›politischen‹ Dimension der Sure, für die uns Ghaffar
+				sensibilisiert hat, mit dem Ziel, die komplexe Sure als einen für die
+				Gemeindeentwicklung bedeutenden Gesamtdiskurs erkennbar zu machen.</p>
 		</text>
 		<text versstart="001" versend="003" verfasser="an">
 			<p><lem>al-ḥamdu li-llāhi llaḏī ʾanzala ʿalā ʿabdihi l-kitāba wa-lam yaǧʿal lahū ʿiwaǧā / qaiyiman li-yunḏira baʾsan šadīdan min ladunhu wa-yubaššira l-muʾminīna llaḏīna yaʿmalūna ṣ-ṣāliḥāti ʾanna lahum ʾaǧran ḥasanā / mākiṯīna fīhi ʾabadā]</lem>
