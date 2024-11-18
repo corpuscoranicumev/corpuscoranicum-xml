@@ -54,7 +54,7 @@
             <p>Das Verspaar <q type="koran" versstart="037:112" versend="037:113">V. 112–113</q> ist
                 ebenfalls späterer Zusatz zur Abraham-Geschichte. Darauf verweist nicht nur der
                 Gebrauch des erst mit <q type="koran" versstart="019:000" versend="019:098">Q 19</q>
-                üblich werdenden Titels <lang xml:lang="ar-Latn">nabī</lang> (»Prophet«), es setzt
+                üblich werdenden Titels <lang xml:lang="ar-Latn">nabiy</lang> (»Prophet«), es setzt
                 vor allem die erst in Medina (<q type="koran" versstart="002:124" versend="002:124"
                     >Q 2:124</q>) virulent werdende Debatte um die »Verdienste der Väter«
                 (<lang xml:lang="hbo-Latn">zekhut ʾavot</lang>) voraus (siehe dazu <bibl
@@ -431,7 +431,7 @@
             <p>Die himmlischen Heere werden in der apokalyptischen Tradition (1 Henoch 18,11–19,3;
                 21,1–10) eng mit Astralkörpern verbunden, siehe <bibl Zotero_Id_1="QVE9D8QB">Schäfer
                     1975:24</bibl>: »wie überhaupt nicht immer ganz zu unterscheiden ist, ob mit
-                <lang xml:lang="hbo-Latn">seba‹ ha-šamayim</lang> das Heer der Sterne oder der Engel
+                <lang xml:lang="hbo-Latn">ṣebaʾ ha-šamayim</lang> das Heer der Sterne oder der Engel
                 gemeint ist, vgl. im AT etwa <q type="bibel" buch="1Kön" versstart="022:019"
                     versend="022:019">1 Kön 22:19</q>, <q type="bibel" buch="2Kön"
                     versstart="017:016" versend="017:016">2 Kön 17:16</q>, <q type="bibel"
@@ -520,8 +520,8 @@
                 die meteorologische und militärische Erscheinungen zeichnet, erfassen aber durchaus
                 die dämonologische Dimension der Schwüre. Daß meteorologische Erscheinungen, »Winde«
                 für Gottes »Boten« mal’akhav, eintreten können, wird biblisch in <q type="bibel"
-                    buch="Ps" versstart="104:005" versend="104:005">Ps 104:5</q> vorgezeichnet:
-                <lang xml:lang="hbo-Latn">`oseh mal’akhav ruhot</lang>, »Die Winde macht er zu
+                    buch="Ps" versstart="104:005" versend="104:005">Ps 104:4</q> vorgezeichnet:
+                <lang xml:lang="hbo-Latn">ʿoseh malʾakhaw ruḥot</lang>, »Die Winde macht er zu
                 seinen Boten«.</p>
             <p>Paret, <bibl Zotero_Id_1="X9T7RF7R"><hi rend="italic">KKK</hi>, 414</bibl>, spricht
                 von »schwer verständlichen Schwüren«; er verkennt die besondere Strategie der
@@ -622,7 +622,7 @@
                     73:9</q>, <q type="koran" versstart="070:040" versend="070:040">70:40</q> und <q
                     type="koran" versstart="055:017" versend="055:017">55:17</q>, dazu <q
                     type="bibel" buch="Ps" versstart="050:001" versend="050:001">Ps 50:1</q>
-                <lang xml:lang="hbo-Latn">mi-mizrah šemeš `ad mevo‹o</lang> (»vom Aufgang der Sonne
+                <lang xml:lang="hbo-Latn">mi-mizraḥ šemeš ʿad mevoʾo</lang> (»vom Aufgang der Sonne
                 bis zu ihrem Niedergang«). Vgl. zur Herrschaft Gottes über Himmel und Erde den
                 liturgisch prominenten <q type="bibel" buch="Ps" versstart="117:026"
                     versend="117:026">Ps 117:26</q>, der aus der Einzugsgeschichte Jesu, <q
@@ -630,10 +630,10 @@
                 eucharistische Gebet der Chrysostomos-Liturgie (<bibl Zotero_Id_1="TZ3TU44S">Kallis
                     1993, 126</bibl>) aufgenommen worden ist:
                 <lang xml:lang="gr-Latn">pleres ho ouranos
- kai he ge tes doxes sou</lang> (»Himmel
-                und Erde sind deiner Ehre voll«). Zur möglichen Evokation der Schema Yisrael in V.
-                4, siehe <ref target="#TUK006">TUK, Nr. 6</ref>. --〉Schwurserie und Schwuraussage
-                bilden einen besonders feierlichen Einsatz der Verkündigungseinheit.</p>
+ kai he ge tes doxes sou</lang> (»Himmel und Erde sind deiner Ehre voll«). Zur
+                möglichen Evokation der Schema Yisrael in V. 4, siehe <ref target="#TUK006">TUK, Nr.
+                    6</ref>. --〉Schwurserie und Schwuraussage bilden einen besonders feierlichen
+                Einsatz der Verkündigungseinheit.</p>
         </text>
         <text versstart="006" versend="010" verfasser="an">
             <p><lem>ʾinnā zayyanna s-samāʾa d-dunyā bi-zīnatin-i l-kawākib / wa-ḥifẓan min kulli šaiṭānin mārid / lā yassammaʿūna ʾila l-malaʾi l-ʾaʿlā wa-yuqḏafūna min kulli ǧānib / duḥūran wa-lahum ʿaḏābun wāṣib / ʾillā man ḫaṭifa l-ḫaṭfata fa-ʾatbaʿahū šihābun ṯāqib]</lem>
@@ -825,7 +825,7 @@
                 <lang xml:lang="ar-Latn">ʾinna yauma l-faṣli kāna miqātā</lang> (»Der Tag der
                 Entscheidung ist ein fester Termin«); <q type="koran" versstart="077:038"
                     versend="077:038">77:38</q>:
-                <lang xml:lang="ar-Latn">hāḏā yaumu l-faṣli ǧamaʿnākum wa-l-ʾauwalīn</lang> (»das
+                <lang xml:lang="ar-Latn">hāḏā yaumu l-faṣli ǧamaʿnākum wa-l-ʾawwalīn</lang> (»das
                 ist der Tag der Entscheidung, wir versammeln euch mit den Früheren!«); dabei klingt
                 etymologisch die Konnotation der »Trennung« mit. Es folgt der Auftrag, die
                 Ungläubigen und ihresgleichen wie auch ihre ›Nebengötter‹ zusammenzutreiben und zum
@@ -834,7 +834,7 @@
                 <lang xml:lang="ar-Latn">ihdi/ihdū (ʾilā) ṣ-ṣirāṭ</lang> (»leite(t) (auf) den Weg«)
                 offenbar zynisch intendiert ist. Die Anweisung spielt mit dem sechsten Vers der
                 <lang xml:lang="ar-Latn">fātiḥa</lang>,
-                <lang xml:lang="ar-Latn">ihdinā ṣ-ṣirāṭa l-mustaqīm</lang> (»leite uns den rechten
+                <lang xml:lang="ar-Latn">ihdina ṣ-ṣirāṭa l-mustaqīm</lang> (»leite uns den rechten
                 Weg«), dessen sarkastische Verwendung die bereits in Gebrauch befindliche Normalform
                 vorauszusetzen scheint; zu weiteren Rückgriffen auf die
                 <lang xml:lang="ar-Latn">fātiḥa</lang> s.u. »Entwicklungsgeschichtliche
@@ -853,7 +853,7 @@
                     versstart="037:000" versend="037:182">Q 37</q> noch gänzlich, wo statt dessen
                 von <lang xml:lang="ar-Latn">wa-mā kānū yaʿbudūna min dūni llāhi</lang> (»was sie
                 anbeteten neben Gott«, <q type="koran" versstart="037:023" versend="037:023">V.
-                    22</q>) bzw. <lang xml:lang="ar-Latn">ālihatinā</lang> (»die Götter«, <q
+                    22</q>) bzw. <lang xml:lang="ar-Latn">ʾālihatinā</lang> (»die Götter«, <q
                     type="koran" versstart="037:036" versend="037:036">V. 36</q>, <q type="koran"
                     versstart="037:086" versend="037:086">V. 86</q>) die Rede ist; er setzt sich
                 erst später durch.</p>
@@ -920,13 +920,13 @@
                 Befindlichkeit in der Hölle. Es ist bemerkenswert, daß die — in der frühmekkanischen
                 Sure <q type="koran" versstart="053:023" versend="053:023">53:23</q> in ihrer
                 Realität bestrittenen
-                <lang xml:lang="ar-Latn">ʾin hiya ʾillā asmāʾun sammaitumūhā</lang> — Nebengötter in
-                der Szene als aktive Figuren, als Mitangeklagte, auftreten; das Spiel mit ihrer
+                <lang xml:lang="ar-Latn">ʾin hiya ʾillā ʾasmāʾun sammaitumūhā</lang> — Nebengötter
+                in der Szene als aktive Figuren, als Mitangeklagte, auftreten; das Spiel mit ihrer
                 Realität im Jenseits ist daher am ehesten als zynische Rede zu verstehen. — <q
                     type="koran" versstart="037:034" versend="037:034">V. 34</q> ist die wörtliche
                 Negativ-Version der Verheißung an die Gesandten in <q type="koran"
                     versstart="037:080" versend="037:080">V. 80</q>,
-                <lang xml:lang="ar-Latn">ʾinnā ka-ḏālika naǧzī l-muḥsinīn</lang> (»So belohnen wir
+                <lang xml:lang="ar-Latn">ʾinnā ka-ḏālika naǧzi l-muḥsinīn</lang> (»So belohnen wir
                 die, die Gutes tun«).</p>
         </text>
         <text versstart="035" versend="039" verfasser="an">
@@ -957,14 +957,13 @@
                 Botschaft bereits in <q type="koran" versstart="073:015" versend="073:015">Q
                     73:15</q>
                 <lang xml:lang="ar-Latn">ʾinnāʾarsalnā ʾilaikum rasūlan šāhidan ʿalaikum ka-mā
- ʾarsalnā ʾilā Firʿauna rasūlā</lang>
-                (»Wir sandten zu euch einen Boten, als Zeuge über euch, wie wir zu Pharao einen
-                Boten sandten«) finden, so erscheint die Berufung auf die Nähe zu den früheren
-                Gottgesandten doch erstmals als Entgegnung auf die von den Gegnern behauptete Macht
-                der Nebengötter. Dem Modell ihrer von der Vätertradition gestützten
-                Mehrgottverehrung — <q type="koran" versstart="037:069" versend="037:070">V.
-                    69–70</q>:
-                <lang xml:lang="ar-Latn">ʾinnahum ʾalfau ʾābāʾahum ḍāllīn / fa-hum ʿalā ʾāthārihim yuhraʿūn</lang>
+ ʾarsalnā ʾilā firʿauna rasūlā</lang> (»Wir sandten zu euch einen Boten, als Zeuge
+                über euch, wie wir zu Pharao einen Boten sandten«) finden, so erscheint die Berufung
+                auf die Nähe zu den früheren Gottgesandten doch erstmals als Entgegnung auf die von
+                den Gegnern behauptete Macht der Nebengötter. Dem Modell ihrer von der
+                Vätertradition gestützten Mehrgottverehrung — <q type="koran" versstart="037:069"
+                    versend="037:070">V. 69–70</q>:
+                <lang xml:lang="ar-Latn">ʾinnahum ʾalfau ʾābāʾahum ḍāllīn / fa-hum ʿalā ʾāṯārihim yuhraʿūn</lang>
                 (»Sie fanden schon ihre Väter auf dem Irrweg und folgen nun ihren Spuren«, wörtlich:
                 »werden hinter ihnen her getrieben«) — wird also das Modell der biblischen Tradition
                 entgegengehalten. Der eine Gott, Herr des Himmels und der Erde, <q type="koran"
@@ -1038,7 +1037,7 @@
                 noch ein weiteres Mal abgebildet: die von dem Spötter angestellte Überlegung zur
                 Situation nach dem Tode — die für ihn ein Weiterleben ausschließt — wird von den im
                 Garten weilenden Seligen noch einmal aufgenommen: Sie nehmen den Tod als etwas nur
-                Vorläufiges, <lang xml:lang="ar-Latn">mautatunā l-ʾūlā</lang> (»unseren
+                Vorläufiges, <lang xml:lang="ar-Latn">mautatuna l-ʾūlā</lang> (»unseren
                 vorübergehenden Tod«) wahr und können ihn damit entmachten. Zu dieser Vorstellung
                 vgl. <q type="bibel" buch="Offb" versstart="020:014" versend="020:015">Offb
                     20:14–15</q>, <ref target="#TUK1016">TUK, Nr. 1016</ref>, <q type="bibel"
@@ -1056,7 +1055,7 @@
                 Unersättlichkeitsbaum«, dessen Früchte unstillbare Begierde und anschließend
                 unstillbaren Durst erwecken, ist ein Gegentypus zum Paradiesbaum, der »ein
                 Gegenstand der Begierde des Auges«,
-                <lang xml:lang="hbo-Latn">ta’avah (hu) la-`enayim</lang>, <q type="bibel" buch="Gen"
+                <lang xml:lang="hbo-Latn">taʾawah (hu) la-ʿenayim</lang>, <q type="bibel" buch="Gen"
                     versstart="003:006" versend="003:006">Gen 3:6</q>, ist. Die Einführung des
                 »Höllenbaums« in <q type="koran" versstart="056:000" versend="056:096">Q 56</q>, die
                 die biblische Referenz nicht unmittelbar erkennen läßt, hatte offenbar Probleme
@@ -1137,15 +1136,15 @@
                 koranischen Noaherzählungen ist die geschichtliche Zäsur, deren Zeuge der biblische
                 Noah wird, nicht Thema, es geht um eine Gesandtenrettung; auch in Q 37 ist die Flut
                 nur durch karb, »Bedrängnis«, angedeutet.</p>
-            <p>Noahs Rettung begreift die seiner ḏurriya, »seiner Nachkommenschaft«, ein. Ḏurriya,
-                wird in <q type="koran" versstart="037:000" versend="037:182">Q 37</q>Q 37 (<q
+            <p>Noahs Rettung begreift die seiner ḏurriyya, »seiner Nachkommenschaft«, ein. Ḏurriyya,
+                wird in <q type="koran" versstart="037:000" versend="037:182">Q 37</q> (<q
                     type="koran" versstart="037:077" versend="037:077">V. 77</q>; <q type="koran"
                     versstart="037:113" versend="037:113">V. 113</q> ist dagegen späterer Zusatz)
                 neu eingeführt. Das Wort ist abgeleitet von
                 <lang xml:lang="ar-Latn">ḏarra/ḏurra</lang>, »Samenkorn«, und könnte am ehesten eine
                 lautlich nahe, wenn auch nicht etymologisch begründete Entsprechung zu hebräisch
                 <lang xml:lang="hbo-Latn">zera`</lang>, »Same«, sein. Denn
-                <lang xml:lang="hbo-Latn">zera`</lang> begegnet in den biblischen Vätergeschichten
+                <lang xml:lang="hbo-Latn">zeraʿ</lang> begegnet in den biblischen Vätergeschichten
                 als Umschreibung für ›Nachkommen‹; der »Same Abrahams« vor allem ist der zentrale
                 Begriff in jener Verheißung, die im biblischen Text das Fazit aus der
                 Opfergeschichte zieht: <q type="bibel" buch="Gen" versstart="022:017"
@@ -1166,7 +1165,7 @@
                     versstart="001:001" versend="001:007">Kommentar zu Q 1</q> — in den Kontext der
                 lexikalischen Neukonstruktion einer theologisch relevanten Wirklichkeit.</p>
             <p>Die physische Rettung wird ergänzt durch eine spirituelle Auszeichnung: mit einer
-                Eulogie <lang xml:lang="ar-Latn">salāmun ʿalā Nūḥin fī l-ʿālamīn</lang>. Die
+                Eulogie <lang xml:lang="ar-Latn">salāmun ʿalā Nūḥin fi l-ʿālamīn</lang>. Die
                 Übersetzung von <lang xml:lang="ar-Latn">ʿālamīn</lang> als »Menschen« (statt
                 »Welten«, siehe den <q type="kommentar" versstart="001:001" versend="001:007"
                     >Kommentar zu Q 1</q>) gibt zwar die eschatologische Konnotation nicht wieder,
@@ -1289,14 +1288,15 @@
                 »verständig«, »besonnen«; <lang xml:lang="ar-Latn">ḥilm</lang> ist ein altarabisches
                 ethisches Ideal, mit dem laut den Zeugnissen altarabischer Dichtung die
                 gelegentlichen exzessiven Ausbrüche, <lang xml:lang="ar-Latn">ğahl</lang>, der
-                vorislamischen Helden ausgeglichen werden, vgl. z.B. Tarafa 12:54):
-                <lang xml:lang="ar-Latn">yazaʿūna l-ǧahla fī maǧlisihim wa-humu ʾanṣaru ḏī l-ḥilmi ṣ-ṣamadi</lang>
+                vorislamischen Helden ausgeglichen werden, vgl. z.B. Ṭarafa 12:54):
+                <lang xml:lang="ar-Latn">yazaʿūna l-ǧahla fī maǧlisihim wa-humu ʾanṣaru ḏi l-ḥilmi ṣ-ṣamadi</lang>
                 (»Sie zügeln die Unbeherrschtheit in ihren Versammlungen und stützen den Besonnenen
                 und Beständigen«), siehe weitere Belege in <bibl Zotero_Id_1="AFDB8IG7"><hi
-                        rend="italic">SEAP</hi>, S. 386</bibl>, ebenfalls <bibl Zotero_Id_1="">Webb 2016</bibl>.</p>
+                        rend="italic">SEAP</hi>, S. 386</bibl>, ebenfalls <bibl Zotero_Id_1="">Webb
+                    2016</bibl>.</p>
         </text>
         <text versstart="102" versend="102" verfasser="an">
-            <p><lem>fa-lammā balaġa maʿahu s-saʿya qāla yā-bunayya ʾinnī ʾarā fi l-manāmi ʾannī ʾaḏbaḥuka fa-nẓur māḏā tarā qāla yā-ʾabati fʿal mā tuʾmaru sa-taǧidunī ʾin šāʾa llāhu mina ṣ-ṣābirīn</lem>
+            <p><lem>fa-lammā balaġa maʿahu s-saʿya qāla yā-bunayya ʾinnī ʾarā fi l-manāmi ʾannī ʾaḏbaḥuka fa-nẓur māḏā tarā qāla yā-ʾabati fʿal mā tuʾmaru sa-taǧidunī ʾin šāʾa llāhu mina ṣ-ṣābirīn]</lem>
                 Die zweite Geschichte fokussiert Abrahams Bereitschaft, den Sohn zu opfern, die
                 Aqedah, vgl. <q type="bibel" buch="Gen" versstart="022:000" versend="022:036">Gen
                     22</q>, mit der er erneut seine Höherwertung der spirituellen Bindung gegenüber
@@ -1307,16 +1307,16 @@
                 Sohnesankündigung und dessen Opferung schließt. — Er hebt die synergetisch von Vater
                 und Sohn begonnene Opferhandlung hervor, zu der sich der Sohn bereit erklärt hatte.
                 Auf eine spätere Einfügung deutet auch der Sprachgebrauch des Sohnes: die
-                Vorbehaltsklausel <lang xml:lang="ar-Latn">ʾin šāʾa llāh</lang> wird erst in <q
+                Vorbehaltsklausel <lang xml:lang="ar-Latn">ʾin šāʾa llāhu</lang> wird erst in <q
                     type="koran" versstart="018:000" versend="018:110">Q 18</q> für Aussagen über
                 zukünftiges Tun zur Auflage gemacht.</p>
             <p>Die Bedeutung des Kolons
-                <lang xml:lang="ar-Latn">fa-lammā balaġa maʿahū s-saʿya</lang> ist umstritten.
+                <lang xml:lang="ar-Latn">fa-lammā balaġa maʿahu s-saʿya</lang> ist umstritten.
                 Lexikalisch möglich ist die Deutung von <lang xml:lang="ar-Latn">saʿy</lang> im
                 Sinne von »Bemühen«, so erwägt Paret (<bibl Zotero_Id_1="J6TM6UHR"><hi rend="italic"
                         >KÜ</hi>, 315</bibl>), »als er soweit herangewachsen war, daß er mit ihm zur
                 Arbeit gehen konnte«. Doch führt er auch die wahrscheinlichere Deutung an; »daß er
-                mit ihm den Lauf (zwischen as-Safa und al-Marwa) machen konnte«. Bei Voraussetzung
+                mit ihm den Lauf (zwischen aṣ-Ṣafa und al-Marwa) machen konnte«. Bei Voraussetzung
                 eines medinischen Zusatzes spricht viel für die Laufritus-Referenz; der auch in <q
                     type="koran" versstart="002:158" versend="002:158">Q 2:158</q> thematisierte
                 Laufritus zwischen aṣ-Şafā und al-Marwa, gehört zu den
@@ -1334,7 +1334,7 @@
                 soll.</p>
         </text>
         <text versstart="103" versend="111" verfasser="an">
-            <p><lem>fa-lammā ʾaslamā wa-tallahū li-l-ǧabīn / wa-nādaināhu ʾan yā-ʾibrāhīm / qad ṣaddaqta r-ruʾyā ʾinnā ka-ḏālika naǧzi l-muḥsinīn / ʾinna hāḏā la-huwa l-balāʾu l-mubīn / wa-fadaināhu bi-ḏibḥin ʿaẓīm / wa-taraknā ʿalaihi fi l-ʾāḫirīn / salāmun ʿalā ʾibrāhīma / ka-ḏālika naǧzi l-muḥsinīn / ʾinnahū min ʿibādina l-muʾminīn]</lem>
+            <p><lem>fa-lammā ʾaslamā wa-tallahū li-l-ǧabīn / wa-nādaināhu ʾan yā-ʾibrāhīm / qad ṣaddaqta r-ruʾyā ʾinnā ka-ḏālika naǧzi l-muḥsinīn / ʾinna hāḏā la-huwa l-balāʾu l-mubīn / wa-fadaināhu bi-ḏibḥin ʿaẓīm / wa-taraknā ʿalaihi fi l-ʾāḫirīn / salāmun ʿalā ʾibrāhīm / ka-ḏālika naǧzi l-muḥsinīn / ʾinnahū min ʿibādina l-muʾminīn]</lem>
                 <bibl Zotero_Id_1="T33GIE4E">Calder 1986</bibl>, der ebenfalls die
                 <lang xml:lang="ar-Latn">Ḥaǧǧ</lang>-Referentialität vertritt, möchte den Anstoß der
                 bei der Deutung von <lang xml:lang="ar-Latn">balaġa</lang> als »das Alter zu etwas
@@ -1441,12 +1441,12 @@
         <text versstart="112" versend="113" verfasser="an">
             <p><lem>wa-baššarnāhu bi-ʾisḥāqa nabiyyan mina ṣ-ṣāliḥīn / wa-bāraknā ʿalaihi wa-ʿalā ʾisḥāqa wa-min ḏurriyyatihimā muḥsinun wa-ẓālimun li-nafsihī mubīn]</lem>
                 Der Vers fällt durch das erst in Spätmekka gebräuchliche Prophetenprädikat
-                <lang xml:lang="ar-Latn">nabī</lang> als späterer Zusatz auf, siehe <bibl
+                <lang xml:lang="ar-Latn">nabiy</lang> als späterer Zusatz auf, siehe <bibl
                     Zotero_Id_1="FP4VSCCH">Bobzin 2009</bibl>. Er reflektiert vor allem die
                 medinische Debatte um die in der jüdischen Tradition aufrechterhaltene Prärogative
                 der »Verdienste der Väter«, der zufolge alle Nachkommen der Erzväter gerechtfertigt
                 sind. Ein Verständnis von
-                <lang xml:lang="ar-Latn">muḥsinun wa-ẓālimun li-nafsihī</lang> im pluralen Sinne–
+                <lang xml:lang="ar-Latn">muḥsinun wa-ẓālimun li-nafsihī</lang> im pluralen Sinne —
                     <bibl Zotero_Id_1="Q9EDU63R">Bobzin 2010, 395</bibl>: »und unter ihren
                 Kindeskindern ist mancher, der Gutes tut, und mancher, der offen frevelt gegen sich«
                 — ist wahrscheinlicher als eine Beziehung auf die beiden verschieden würdigen
@@ -1455,7 +1455,7 @@
                 geprüft wurde durch Worte, die er dann erfüllte: ›ich will dich zu einem Vorbild für
                 die Menschen machen‹. Er sprach: ›Auch Leute von meinen Nachkommen?‹ Er sprach: ›Die
                 Frevler umfaßt mein Bund nicht«,
-                <lang xml:lang="ar-Latn">lā yanālu ʿahdī ẓ-ẓālimīn</lang>. Nicht alle Nachkommen
+                <lang xml:lang="ar-Latn">lā yanālu ʿahdi ẓ-ẓālimīn</lang>. Nicht alle Nachkommen
                 Abrahams sind gerechtfertigt, siehe dazu <bibl Zotero_Id_1="6I96FAXT"><hi
                         rend="italic">KTS</hi>, 640–646</bibl>.</p>
         </text>
@@ -1518,7 +1518,7 @@
                 steht«.</p>
         </text>
         <text versstart="123" versend="132" verfasser="an">
-            <p><lem>wa-ʾinna ʾilyāsa la-mina l-mursalīn / ʾiḏ qāla li-qaumihī ʾa-lā tattaqūn / ʾa-tadʿūna baʿlan wa-taḏarūna ʾaḥsana l-ḫāliqīn / llāha rabbakum wa-rabba ʾābāʾikumu l-ʾawwalīn / fa-kaḏḏabūhu fa-ʾinnahum la-muḥḍarūn / ʾillā ʿibāda llāhi l-muḫlaṣīn / wa-taraknā ʿalaihi fi l-ʾāḫirīn / salāmun ʿalā ʾil yāsīn / ʾinnā ka-ḏālika naǧzi l-muḥsinīn / ʾinnahū min ʿibādina l-muʾminīn]</lem>
+            <p><lem>wa-ʾinna ʾilyāsa la-mina l-mursalīn / ʾiḏ qāla li-qaumihī ʾa-lā tattaqūn / ʾa-tadʿūna baʿlan wa-taḏarūna ʾaḥsana l-ḫāliqīn / allāha rabbakum wa-rabba ʾābāʾikumu l-ʾawwalīn / fa-kaḏḏabūhu fa-ʾinnahum la-muḥḍarūn / ʾillā ʿibāda llāhi l-muḫlaṣīn / wa-taraknā ʿalaihi fi l-ʾāḫirīn / salāmun ʿalā ʾil yāsīn / ʾinnā ka-ḏālika naǧzi l-muḥsinīn / ʾinnahū min ʿibādina l-muʾminīn]</lem>
                 Die Geschichte von Elia, Ilyās, wird im Koran nur dieses eine Mal erzählt, siehe
                 dazu <bibl Zotero_Id_1="TJNE7TP3"><hi rend="italic">KU</hi>, 99–101</bibl>, <bibl
                     Zotero_Id_1="FTTPNU68"><hi rend="italic">BEQ</hi>, 406f.</bibl>; siehe zur
@@ -1636,7 +1636,7 @@
                 reumütigen Sünder, eine Verbindung, die bereits in der jüdischen Liturgie
                 hergestellt worden ist, wo das Buch Jona als Lesungstext am Versöhnungstag
                 figuriert, siehe dazu <bibl Zotero_Id_1="CG6C4KM5">Busse 2003, 52–55</bibl>, <bibl
-                    Zotero_Id_1="NQIPWSX4">Koloska 2015</bibl>. Bereits die Mischna, Ta`anit 2:1.
+                    Zotero_Id_1="NQIPWSX4">Koloska 2015</bibl>. Bereits die Mischna, Taʿanit 2:1.
                 bezeugt die Berufung auf die Geschichte als Teil eines Bußrituals, siehe <bibl
                     Zotero_Id_1="R2QXA4CW">Kugel 2008, 629</bibl>. Die Zeitbestimmung »bis zum Tag,
                 da sie erweckt werden« könnte, wie Koloska annimmt, eine Reminiszenz der vielfach
@@ -1653,10 +1653,10 @@
             <p>Jona wird auf kahles Land ausgeworfen, <q type="koran" versstart="037:145"
                     versend="037:145">V. 145</q>, <q type="bibel" buch="Jona" versstart="002:011"
                     versend="002:011">Jona 2:11</q>, krank und geschwächt — zu
-                <lang xml:lang="ar-Latn">saqīim</lang> siehe oben zu <q type="koran"
+                <lang xml:lang="ar-Latn">saqīm</lang> siehe oben zu <q type="koran"
                     versstart="037:089" versend="037:089">V. 89</q> — nicht aber in Schande — dies
                 betont schon <q type="koran" versstart="068:049" versend="068:049">Q 68:49</q>
-                <lang xml:lang="ar-Latn">wa-lau ʾan tadārakahū niʿmatun min rabbihi la-nubiḏa bi-l-ʿarāʾi wa-huwa maḏmūm</lang>
+                <lang xml:lang="ar-Latn">wa-lau ʾan tadārakahū niʿmatun min rabbihū la-nubiḏa bi-l-ʿarāʾi wa-huwa maḏmūm</lang>
                 (»hätte ihn die Huld seines Herrn nicht erreicht, so wäre er schmählich ausgeworfen
                 worden auf kahles Feld«) — irreal ist dabei nicht die Tatsache des
                 Ausgeworfenwerdens, sondern die Schmählichkeit. Dem geschwächten Jona wird zur
@@ -1692,7 +1692,7 @@
                 <lang xml:lang="ar-Latn">fa-staftihim</lang> beginnt eine Engelpolemik Sie nimmt
                 zunächst das Argument aus <q type="koran" versstart="053:021" versend="053:021">Q
                     53:21</q>
-                <lang xml:lang="ar-Latn">ʾa-lakumu ḏ-ḏakaru wa-lahū l-ʾunṯā</lang> (»Soll euch das
+                <lang xml:lang="ar-Latn">ʾa-lakumu ḏ-ḏakaru wa-lahu l-ʾunṯā</lang> (»Soll euch das
                 Männliche, ihm das Weibliche zukommen?«) auf, das sich direkt auf die Bestrebung der
                 paganen Gegner bezieht, ihre weiblichen Gottheiten Allāt, Manāt und al-ʿUzzā vom
                 Verkünder als Töchter Gottes anerkennen zu lassen. Bereits in <q type="koran"
@@ -1850,25 +1850,25 @@
         </EntwicklungsgeschichtlicheEinordnungkurz>
         <EntwicklungsgeschichtlicheEinordnung>
             <text versstart="000" versend="182" verfasser="an">
-                <p>Die Sure steht in <bibl Zotero_Id_1="RF8JH6HZ"><hi rend="italic">GdQ</hi>, 123
-                    </bibl>, unter den mittelmekkanischen Suren nach <q type="koran"
-                        versstart="054:000" versend="054:055">Q 54</q> an zweiter Stelle. Die
-                    Einordnung wird durch verschiedene Beobachtungen bestätigt. <q type="koran"
-                        versstart="037:000" versend="037:182">Q 37</q> führt den Diskurs aus <q
-                        type="koran" versstart="054:000" versend="054:055">Q 54</q> weiter: die
-                    Verhöhnung des in <q type="koran" versstart="054:001" versend="054:002">Q
-                        54:1–2</q> als Eingangssignal präsentierten Zeichens der ›Mondspaltung‹ als
-                    (Wort-)Zauber wird in <q type="koran" versstart="037:014" versend="037:015">Q
-                        37:14f</q>. wieder aufgenommen; das Argument aus <q type="koran"
-                        versstart="054:004" versend="054:005">Q 54:4–5</q>, daß dank der
-                    Gesandten-Entsendungen das entscheidende Wissen vorliege, wird in <q
-                        type="koran" versstart="037:000" versend="037:182">Q 37</q> durch die
-                    Erzählung weiterer Straflegenden und die den Gesandten im Vorherein gewährte
-                    Versicherung ihres Sieges, <q type="koran" versstart="037:173" versend="037:174"
-                        >Q 37:173f.</q>, erhärtet. Auch stilistische Elemente wie die zur Einleitung
-                    des Polemikteils <q type="koran" versstart="054:043" versend="054:043">Q
-                        54:43</q> eingesetzte rhetorische Frage
-                    <lang xml:lang="ar-Latn">ʾa-kuffarukum</lang> + Komparativ +
+                <p>Die Sure steht in <bibl Zotero_Id_1="RF8JH6HZ"><hi rend="italic">GdQ<hi
+                                rend="superscript">2</hi></hi>, Bd. 1, S. 123</bibl>, unter den
+                    mittelmekkanischen Suren nach <q type="koran" versstart="054:000"
+                        versend="054:055">Q 54</q> an zweiter Stelle. Die Einordnung wird durch
+                    verschiedene Beobachtungen bestätigt. <q type="koran" versstart="037:000"
+                        versend="037:182">Q 37</q> führt den Diskurs aus <q type="koran"
+                        versstart="054:000" versend="054:055">Q 54</q> weiter: die Verhöhnung des in
+                        <q type="koran" versstart="054:001" versend="054:002">Q 54:1–2</q> als
+                    Eingangssignal präsentierten Zeichens der ›Mondspaltung‹ als (Wort-)Zauber wird
+                    in <q type="koran" versstart="037:014" versend="037:015">Q 37:14f</q>. wieder
+                    aufgenommen; das Argument aus <q type="koran" versstart="054:004"
+                        versend="054:005">Q 54:4–5</q>, daß dank der Gesandten-Entsendungen das
+                    entscheidende Wissen vorliege, wird in <q type="koran" versstart="037:000"
+                        versend="037:182">Q 37</q> durch die Erzählung weiterer Straflegenden und
+                    die den Gesandten im Vorherein gewährte Versicherung ihres Sieges, <q
+                        type="koran" versstart="037:173" versend="037:174">Q 37:173f.</q>, erhärtet.
+                    Auch stilistische Elemente wie die zur Einleitung des Polemikteils <q
+                        type="koran" versstart="054:043" versend="054:043">Q 54:43</q> eingesetzte
+                    rhetorische Frage <lang xml:lang="ar-Latn">ʾa-kuffārukum</lang> + Komparativ +
                     <lang xml:lang="ar-Latn">min</lang>, werden wieder aufgenommen: Q 37:11
                     <lang xml:lang="ar-Latn">ʾa-ʾantum</lang> + Komparativ +
                     <lang xml:lang="ar-Latn">min</lang>, und Leitmetaphern wie das militärische Bild
