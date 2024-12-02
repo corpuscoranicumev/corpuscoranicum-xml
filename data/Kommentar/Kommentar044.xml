@@ -228,7 +228,7 @@
 	</komposition>
 	<kommentar>
 		<text versstart="001" versend="002" verfasser="an">
-			<p><lem>ḥāʾ-mīm / wa-l-kitābi l-mubīn]</lem> Die Sure beginnt mit einer semantisch leeren
+			<p><lem>ḥā-mīm / wa-l-kitābi l-mubīn]</lem> Die Sure beginnt mit einer semantisch leeren
 				Klangfolge, bestehend aus den Namen zweier arabischer Buchstaben (siehe dazu den <q
 					type="kommentar" versstart="015:001" versend="015:001">Kommentar zu Q 15:1</q>,
 				siehe jetzt auch <bibl Zotero_Id_1="FRBQ8V49">Stewart 2011</bibl>). Es folgt ein
@@ -310,9 +310,9 @@
 				<lang xml:lang="ar-Latn">ʾinnā ʾanzalnāhu fī lailati l-qadr</lang> (»Wir sandten es
 				herab in der Nacht der Bestimmung«), vgl. auch <q type="koran" versstart="074:054"
 					versend="074:054">Q 74:54</q>:
-				<lang xml:lang="ar-Latn">kallā ʾinnahu taḏkirah </lang>(»Und doch ist es eine
+				<lang xml:lang="ar-Latn">kallā ʾinnahū taḏkirah </lang>(»Und doch ist es eine
 				Mahnung«) und <q type="koran" versstart="069:040" versend="069:040">Q 69:40</q>:
-				<lang xml:lang="ar-Latn">ʾinnahu la-qaulu rasūlin karīm </lang>(»Es ist das Wort
+				<lang xml:lang="ar-Latn">ʾinnahū la-qaulu rasūlin karīm </lang>(»Es ist das Wort
 				eines edlen Boten«) und wie auch wieder am Surenschluß (<q type="koran"
 					versstart="044:058" versend="044:058">Q 44:58</q>) selbst. An allen Stellen ist
 				es bezogen auf das Wort Gottes, d.h. die durch Rezitation aktualisierte
@@ -571,7 +571,7 @@
 				Warnungen«). <lang xml:lang="ar-Latn">Baṭša</lang> ist ein aus der Dichtung
 				vertrautes Wort für einen heftigen Gewaltakt: Ein besonders prominenter Vers ist der
 				von <lang xml:lang="ar-Latn">Muʿallaqa</lang> des ʿAmr:
-				<lang xml:lang="ar-Latn">lanā d-dunyā wa-man amsā ʿalaihā / wa-nabṭišu ḥīna nabṭišu qādirīnā</lang>
+				<lang xml:lang="ar-Latn">lana d-dunyā wa-man ʾamsā ʿalaihā / wa-nabṭišu ḥīna nabṭišu qādirīnā</lang>
 				(»Die Welt ist unser und alle die darauf sind; wenn wir angreifen, dann greifen wir
 				mit Macht an«), siehe dazu <bibl Zotero_Id_1="BPKM8J5R">Arberry 1957:209</bibl>.</p>
 		</text>
@@ -681,7 +681,7 @@
 				des Mose-Liedes (<q type="bibel" buch="Dtn" versstart="032:001" versend="032:001"
 					>Dtn 32,1–43</q>), eines besonders zentralen biblischen Textes, emphatisch
 				personifiziert ist:
-				<lang xml:lang="hbo-Latn">haʾazinu ha-šamayim wa-adabbera we-tišmaʿ ha-ʾareṣ ʾimre(y) fi</lang>
+				<lang xml:lang="hbo-Latn">haʾazinu ha-šamayim wa-adabbera we-tišmaʿ ha-ʾareṣ ʾimre fi</lang>
 				(»Hört zu, ihr Himmel wie ich rede, und höre, Erde, die Worte meines Mundes«, <q
 					type="koran" versstart="044:001" versend="044:001">V. 1</q>), doch bleibt das
 				weitere Gedicht ohne Bezug zur Exodusgeschichte. Über einen Streit zwischen Himmel
@@ -719,7 +719,7 @@
 				erstmals. Sie klingt im Mose-Lied (<q type="bibel" buch="Ex" versstart="015:001"
 					versend="015:019">Ex 15,1–19</q>) an, <q type="koran" versstart="044:013"
 					versend="044:013">V. 13</q>:
-				<lang xml:lang="hbo-Latn">naḥita be-ḥaseddekha ʿam-zu gaʾaletta</lang> (»In deiner
+				<lang xml:lang="hbo-Latn">naḥita be-ḥaseddeḫa ʿam-zu gaʾaletta</lang> (»In deiner
 				Huld hast du dieses Volk, das du erlöst hast, geleitet«). Die ihnen gewährten
 				Zeichen sind zur Prüfung — wohl als Exempla für die Späteren — gedacht. Die
 				Privilegierung der Israeliten dürfte im Kontext ihrer neuen prototypischen Funktion
@@ -760,8 +760,8 @@
 				dire bereits göttlicher Vernichtung anheimgefallen sind. Mit den ›vor den Leuten des
 				Tubbaʿ‹ bereits ausgelöschten Völkerschaften dürften die Bewohner von Leuke Kome
 				(<lang xml:lang="ar-Latn">laika</lang>), Egra
-				(<lang xml:lang="ar-Latn">al-Ḥiǧr</lang>) und die Arser
-				<lang xml:lang="ar-Latn">(ʾaṣḥāb ar-Rass)</lang> gemeint sein. Das »Volk des
+				(<lang xml:lang="ar-Latn">al-ḥiǧr</lang>) und die Arser
+				<lang xml:lang="ar-Latn">(ʾaṣḥāb ar-rass)</lang> gemeint sein. Das »Volk des
 				Tubbaʿ«, das hier kalt als bereits vernichtet in Erinnerung gebracht wird, ist ein
 				sensibles Thema der Polemik; denn es genießt — wie sich aus der Tradition noch
 				erschließen läßt — als Träger der südarabischen Kultur hohes Ansehen im paganen
@@ -797,9 +797,9 @@
 				mit dem (allerdings seinerseits erschlossenen) Ortsnamen Yanbūʿ oder Yanbuʿ möglich
 				würde, ein Ort, der in den Kontext der übrigen in Mittelmekka heraufbeschworenen
 				Orte auf der Halbinsel oder angrenzend an sie wie Egra
-				(<lang xml:lang="ar-Latn">al-Ḥiǧr</lang>), Leuke Kome
+				(<lang xml:lang="ar-Latn">al-ḥiǧr</lang>), Leuke Kome
 				<lang xml:lang="ar-Latn">(laika)</lang> und Sodom
-				<lang xml:lang="ar-Latn">(al-muʿtafika)</lang> — siehe die Karte bei <bibl
+				<lang xml:lang="ar-Latn">(al-muʾtafika)</lang> — siehe die Karte bei <bibl
 					Zotero_Id_1="BRQ84EDA">Puin 2005:339</bibl> — passen würde. Angesichts der
 				Prominenz von Tubbaʿ in außerkoranischen Texten ist diese Hypothese aber wenig
 				wahrscheinlich.</p>
@@ -869,7 +869,7 @@
 					type="kommentar" versstart="037:062" versend="037:062">Kommentar zu Q
 				37:62</q>), hat die wichtige intertextuelle Beziehung des Höllenbaums als einer
 				Perversion des Paradiesbaums erkannt. Wie dieser ein »Begehren der Augen«
-				(<lang xml:lang="hbo-Latn">taʾavah-huʾ la-ʿenayim</lang>, <q type="bibel" buch="Gen"
+				(<lang xml:lang="hbo-Latn">taʾava hu la-ʿenayim</lang>, <q type="bibel" buch="Gen"
 					versstart="003:006" versend="003:006">Gen 3,6</q>) bewirkt, so löst jener ein
 				unstillbares Begehren des Bauches aus, dessen Befriedigung große Qualen verursacht.
 				Siedende Getränke werden auch anderswo thematisiert (<q type="koran"
@@ -884,7 +884,7 @@
 				ihn und fesselt ihn! / Dann laßt ihn im Höllenfeuer brennen!«). Hier folgen noch die
 				zynische Aufforderung zum ›Genuß‹ der pervertierten Bewirtung (so schon <q
 					type="koran" versstart="051:014" versend="051:014">Q 51:14</q>:
-				<lang xml:lang="ar-Latn">ḏūqū fitnatakum hāḏā llaḏī kuntum bihī tastaʿǧilūn</lang>,
+				<lang xml:lang="ar-Latn">ḏūqū fitnatakum hāḏa llaḏī kuntum bihī tastaʿǧilūn</lang>,
 				»Schmeckt eure Prüfung! Das ist es, was ihr beschleunigen wolltet!«) und die
 				Erinnerung an die frühere Verhöhnung in den Höllendrohungen. Der Bestrafte wird
 				zynisch mit seinen paganen Ehrentiteln als »mächtig« und »edel« angesprochen, die
@@ -971,7 +971,7 @@
 				<lang xml:lang="gr-Latn">boōpis Athēnē</lang>, der »kuhäugigen« Athene (siehe dazu
 					<bibl Zotero_Id_1="2X3A3JNT">Saleh 2008:109</bibl>, der allerdings von einer
 				direkten Übernahme ausgeht). <lang xml:lang="ar-Latn">ʿīn</lang> ist Plural zu
-				<lang xml:lang="ar-Latn">aʿyan</lang>, das ebenfalls auf die Ausdrucksstärke der
+				<lang xml:lang="ar-Latn">ʾaʿyan</lang>, das ebenfalls auf die Ausdrucksstärke der
 				Augen zielt.</p>
 			<p>Wieder wird betont, daß den Seligen nur der »erste«, d.h. der vorläufige Tod bevorsteht, ein
 				Gedanke, der in <q type="koran" versstart="044:035" versend="044:035">V. 35</q> noch
@@ -1012,7 +1012,7 @@
 				Dennoch könnte <lang xml:lang="ar-Latn">bi-lisānika</lang> auch »mit Hilfe deiner
 				Zunge« meinen. Denn auf den Prozeß der Artikulation nimmt auch <q type="koran"
 					versstart="075:016" versend="075:016">Q 75:16</q>:
-				<lang xml:lang="ar-Latn">lā tuḥarrik bihi lisānaka li-taʿǧala bih</lang> (»Bewege
+				<lang xml:lang="ar-Latn">lā tuḥarrik bihū lisānaka li-taʿǧala bih</lang> (»Bewege
 				deine Zunge nicht mit ihm, damit du es nicht übereilst«). Die Disposition des
 				Verkünders wäre dann in Kontrast zu der des Mose gestellt, dessen Zunge eine
 				Verknotung <lang xml:lang="ar-Latn">(ʿuqda)</lang> aufweist; in <q type="koran"
@@ -1092,7 +1092,7 @@
 					gefährdet ist.</p>
 				<p>Zum ersten Mal begegnet der Gedanke der wohlbedachten Erwählung der
 					<lang xml:lang="ar-Latn">banū ʾIsrāʾīl</lang> vor allen Menschenz,
-					<lang xml:lang="ar-Latn">iḫtarnāhum ʿalā ʿilmin ʿalā l-ʿālamīn</lang> (»W
+					<lang xml:lang="ar-Latn">iḫtarnāhum ʿala ʿilmin ʿalā l-ʿālamīn</lang> (»W
 					erwählten sie mit Bedacht vor allen Menschen«, <q type="koran"
 						versstart="044:032" versend="044:032">V. 32</q>), sie werden von nun an
 					immer deutlicher in ihrer Vorbildrolle für die Gemeinde erkennbar. Dieser
@@ -1104,7 +1104,7 @@
 					<lang xml:lang="ar-Latn">wa-ṭ-ṭūr / wa-kitābin masṭūr</lang> (»Beim Berg Sinai!
 					/ Und bei einer Schrift, niedergeschrieben«) Mose nicht ausdrücklich, noch
 					erwähnte ihn <q type="koran" versstart="095:001" versend="095:003">Q 95:1–3</q>:
-					<lang xml:lang="ar-Latn">wa-t-tīni wa-z-zaitūn / wa-ṭūri sīnīn / wa-hāḏā l-baladi l-ʾamīn</lang>
+					<lang xml:lang="ar-Latn">wa-t-tīni wa-z-zaitūn / wa-ṭūri sīnīn / wa-hāḏa l-baladi l-ʾamīn</lang>
 					(»Beim Feigenbaum und Ölbaum! / Beim Berg Sinai / und dieser sicheren Stadt«).
 					Genannt wurden dagegen die
 					<lang xml:lang="ar-Latn">ṣuḥuf Ibrāhīm wa-Mūsā</lang>, die »Blätter Abrahams und

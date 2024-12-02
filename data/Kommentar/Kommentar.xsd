@@ -81,6 +81,7 @@
                 </xs:simpleType>
             </xs:attribute>
             <xs:attribute name="webtauglich" type="xs:boolean" use="required"/>
+            <xs:attribute fixed="de" name="lang"/>
         </xs:complexType>
     </xs:element>
     <xs:element name="surentitel">

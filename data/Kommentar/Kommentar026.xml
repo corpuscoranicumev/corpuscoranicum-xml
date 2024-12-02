@@ -53,7 +53,7 @@
             </p>
             <p>Die Versabteilung in Sure 26 ist weitgehend unkontrovers. <q type="koran"
                     versstart="026:001" versend="026:001">V. 1</q>:
-                <lang xml:lang="ar-Latn">ṭāʾ-sīn-mīm</lang>, die schriftevozierende Klangfolge aus
+                <lang xml:lang="ar-Latn">ṭā-sīn-mīm</lang>, die schriftevozierende Klangfolge aus
                 arabischen Buchstabennamen, wird nur in der kufischen Tradition als Vers gezählt.
                 Dieser Entscheidung ist zuzustimmen, da hier ein Reim vorliegt. Dagegen ist in <q
                     type="koran" versstart="026:049" versend="026:049">V. 49</q> — gegen die
@@ -740,12 +740,12 @@
         </text>
     </komposition>
     <kommentar>
-        <text versstart="000" versend="227" verfasser="an">
-            <p>Vorbemerkung: Zu <q type="koran" versstart="026:000" versend="026:227">Q 26</q>
-                liegen mehrere Bearbeitungen vor, auf die gelegentlich rekurriert wird: <bibl
-                    Zotero_Id_1="NJKVWFS7">Zwettler 1990</bibl>, <bibl Zotero_Id_1="7FVGXVTB"
-                    >Griffith 2016</bibl> und der Entwurf für einen Online-Kommentar (Projekt
-                »Corpus Coranicum«) von
+        <text versstart="000" versend="000" verfasser="an">
+            <p><hi rend="italic">Vorbemerkung:</hi> Zu <q type="koran" versstart="026:000"
+                    versend="026:227">Q 26</q> liegen mehrere Bearbeitungen vor, auf die
+                gelegentlich rekurriert wird: <bibl Zotero_Id_1="NJKVWFS7">Zwettler 1990</bibl>,
+                    <bibl Zotero_Id_1="7FVGXVTB">Griffith 2016</bibl> und der Entwurf für einen
+                Online-Kommentar (Projekt »Corpus Coranicum«) von
                 <?oxy_comment_start author="Tobias J. Jocham" timestamp="20240308T130608+0100" comment="Ggf. doch auch als PDF hochladen und verknüpfen? TJJ"?>Nora
                 K. Schmid<?oxy_comment_end?>.</p>
         </text>
@@ -763,7 +763,7 @@
             <p><lem>tilka ʾāyātu l-kitābi l-mubīn]</lem> Es folgt eine Offenbarungsbestätigung durch
                 Berufung auf die himmlische Schrift (vgl. <q type="koran" versstart="015:001"
                     versend="015:001">Q 15:1</q>) — funktional eine Ankündigung des nun folgenden
-                Vortrags. Mit <lang xml:lang="ar-Latn">ʾal-kitāb </lang>wird bereits Mose als der
+                Vortrags. Mit <lang xml:lang="ar-Latn">al-kitāb </lang>wird bereits Mose als der
                 prominenteste Empfänger der Schrift evoziert, von dem in der Sure vor allem die Rede
                 sein wird. Die Qualifikation der Schrift als »klar« zielt auf die Sprachgestalt der
                 Botschaft, die auch am Schluß der Sure noch einmal thematisiert wird (<q
@@ -792,8 +792,8 @@
                 heftigen Verzweiflung. Die Frage, inwieweit der Unglaube der Hörer den jeweiligen
                 Verkünder affizieren solle, stellte sich bereits in der verwandten Sure <q
                     type="koran" versstart="020:001" versend="020:002">Q 20:1–2</q>:
-                <lang xml:lang="ar-Latn">ṭāʾ-hāʾ / mā ʾanzalnā ʿalaika l-qurʾāna li-tašqā</lang>
-                (»Wir sandten die Lesung nicht auf dich herab, daß du unglücklich würdest«). Alle
+                <lang xml:lang="ar-Latn">ṭā-hā / mā ʾanzalnā ʿalaika l-qurʾāna li-tašqā</lang> (»Wir
+                sandten die Lesung nicht auf dich herab, daß du unglücklich würdest«). Alle
                 koranischen Propheten sind in Gefahr, am Unglauben ihrer Gemeinschaften zu
                 verzweifeln, der Verkünder ist hier keine Ausnahme. Prophetentröstungen begegneten
                 daher bereits in frühmekkanischer Zeit; sie finden sich in der Regel am Surenschluß
@@ -976,10 +976,10 @@
                 die verwunderte Reaktion des Angesprochenen hin folgt der Versuch einer historischen
                 Zuordnung Gottes zu Pharao und dessen Vorfahren — eine Abwandlung der im
                 Achtzehngebet genannten Formel
-                <lang xml:lang="hbo-Latn">ʾelohenu we-ʾelohe(y) ʾavote(y)nu</lang> (»unser Gott und
-                Gott unserer Väter«), siehe <bibl Zotero_Id_1="FTTPNU68"><hi rend="italic">BEQ</hi>,
-                    S. 269.</bibl> Die explizite Zurückweisung auch dieser Antwort provoziert dann
-                die Prädikation der Herrschaft Gottes über die gesamte irdische Welt. Der Merismus
+                <lang xml:lang="hbo-Latn">ʾelohenu we-ʾelohe ʾavotenu</lang> (»unser Gott und Gott
+                unserer Väter«), siehe <bibl Zotero_Id_1="FTTPNU68"><hi rend="italic">BEQ</hi>, S.
+                    269.</bibl> Die explizite Zurückweisung auch dieser Antwort provoziert dann die
+                Prädikation der Herrschaft Gottes über die gesamte irdische Welt. Der Merismus
                 <lang xml:lang="ar-Latn">al-mašāriq wa-l-maġārib</lang> verweist wiederum auf die
                 Psalmen (vgl. <q type="bibel" buch="Ps" versstart="050:001" versend="050:001">Ps
                     50,1</q>), er wird — im Singular, im Plural oder auch Dual — schon seit
@@ -1124,7 +1124,7 @@
                 <lang xml:lang="ar-Latn">ḫāṭiʾ</lang> (»Sünder«) die Rede: <q type="koran"
                     versstart="069:037" versend="069:037">Q 69:37</q>, ähnlich <q type="koran"
                     versstart="069:009" versend="069:009">Q 69:9</q>:
-                <lang xml:lang="ar-Latn">wa-ǧāʾa firʿaunu wa-man qablahu wa-l-muʾtafikātu bi-l-ḫāṭiʾah</lang>
+                <lang xml:lang="ar-Latn">wa-ǧāʾa firʿaunu wa-man qablahū wa-l-muʾtafikātu bi-l-ḫāṭiʾah</lang>
                 (»Es sündigten auch Pharao und die vor ihm und die Umgewendeten Städte«), vgl. auch
                 das durch Attraktion auf die Stirnlocke des Sünders bezogene
                 <lang xml:lang="ar-Latn">ḫāṭiʾa</lang> in <q type="koran" versstart="096:016"
@@ -1251,7 +1251,7 @@
                 <lang xml:lang="ar-Latn">(rabb al-ʿālamīn)</lang> zu dienen. </p>
         </text>
         <text versstart="078" versend="082" verfasser="an">
-            <p><lem>llaḏī ḫalaqanī fa-huwa yahdīn / wa-llaḏī huwa yuṭʿimunī wa-yasqīn / wa-ʾiḏā mariḍtu fa-huwa yašfīn / wa-llaḏī yumītunī ṯumma yuḥyīn / wa-llaḏī ʾaṭmaʿu ʾan yaġfira lī ḫaṭīʾatī yauma d-dīn]</lem>
+            <p><lem>allaḏī ḫalaqanī fa-huwa yahdīn / wa-llaḏī huwa yuṭʿimunī wa-yasqīn / wa-ʾiḏā mariḍtu fa-huwa yašfīn / wa-llaḏī yumītunī ṯumma yuḥyīn / wa-llaḏī ʾaṭmaʿu ʾan yaġfira lī ḫaṭīʾatī yauma d-dīn]</lem>
                 Es folgt ein kunstvoll gestalteter kurzversiger Hymnus Abrahams auf den Herrn der
                 Welten, der Gott als Schöpfer, Erhalter und Heiler preist, der ihn sterben lassen
                 und ihn wiedererwecken wird. Von ihm wünscht sich Abraham die Vergebung seiner
@@ -1489,7 +1489,7 @@
                     versstart="026:109" versend="026:109">V. 109</q>).</p>
         </text>
         <text versstart="128" versend="130" verfasser="an">
-            <p><lem>ʾa-tabnūna bi-kulli rīʿin ʾāyatan taʿbaṯūn / wa-tattaḫiḏūna maṣāniʿa laʿallakum taḫludūna / wa-ʾiḏā baṭaštum baṭaštum ǧabbārīn] Āya</lem>
+            <p><lem>ʾa-tabnūna bi-kulli rīʿin ʾāyatan taʿbaṯūn / wa-tattaḫiḏūna maṣāniʿa laʿallakum taḫludūn / wa-ʾiḏā baṭaštum baṭaštum ǧabbārīn] ʾĀya</lem>
                 (»Zeichen«) hat hier ausnahmsweise keine religiöse Bedeutung. Schmid verweist auf
                 einen weltlichen Gebrauch von <lang xml:lang="ar-Latn">āya</lang> in einem Vers von
                 an-Nābiġa, den <bibl Zotero_Id_1="VSUJKZGP">Jacobi (1971:24)</bibl> anführt:
@@ -1499,7 +1499,7 @@
                 topographische Gegebenheiten innerhalb der in Arabien lokalisierten Straflegenden
                 appelliert an die Ortskenntnisse der Hörer, er rekurriert gleichzeitig auf die
                 poetische Schilderung verlassener Wohnstätten und aufgegebener Siedlungen,
-                <lang xml:lang="ar-Latn">aṭlāl</lang> (siehe <ref target="#TUK0619">TUK, Nr.
+                <lang xml:lang="ar-Latn">ʾaṭlāl</lang> (siehe <ref target="#TUK0619">TUK, Nr.
                     0619</ref> und <bibl Zotero_Id_1="6I96FAXT"><hi rend="italic">KTS</hi>, S.
                     711–716</bibl>).</p>
             <p>Das Volk Hūds wird in Form polemischer Fragen wegen seiner exzessiven Bautätigkeit
@@ -1515,7 +1515,7 @@
                 vielfach das Streben nach Selbstverewigung, die nur durch exzessives Verhalten
                 erreicht werden kann (siehe den Vers von Ṭarafa,
                 <lang xml:lang="ar-Latn">Muʿallaqa</lang> 44:
-                <lang xml:lang="ar-Latn">a-lā ʾaiyuhāḏa l-lāʾimi aḥḍuru l-waġā wa-ʾan ʾašhada l-laḏḏāti hal ʾanta muḫlidī</lang>,
+                <lang xml:lang="ar-Latn">ʾa-lā ʾayyuhāḏa l-lāʾimi aḥḍuru l-waġā wa-ʾan ʾašhada l-laḏḏāti hal ʾanta muḫlidī</lang>,
                 »Du, der du mich tadelst, weil ich mich mitten ins Kampfgetümmel stürze und weil ich
                 mich den Genüssen hingebe — kannst etwa du mich unsterblich machen?«), siehe dazu
                     <bibl Zotero_Id_1="ZB4ZXXZU">Hamori 1974:9</bibl>.</p>
@@ -1541,7 +1541,7 @@
                 der Alten <lang xml:lang="ar-Latn">(al-ʾawwalūn)</lang> sei (vgl. dazu <q
                     type="koran" versstart="015:013" versend="015:013">Q 15:13</q>
                 <lang xml:lang="ar-Latn">sunnat al-ʾawwalīn</lang>, ähnlich schon frühmekkanisch
-                <lang xml:lang="ar-Latn">asāṭīr al-ʾauwalīn</lang>, <q type="koran"
+                <lang xml:lang="ar-Latn">ʾasāṭīr al-ʾawwalīn</lang>, <q type="koran"
                     versstart="068:015" versend="068:015">Q 68:15</q>); gemeint sind offenbar
                 frühere monotheistische, wohl christliche Prediger, auf deren Aktivität eventuell
                 auch mit <lang xml:lang="ar-Latn">wāʿiẓīn </lang>angespielt ist. Die angedrohte
@@ -1576,7 +1576,7 @@
             </p>
         </text>
         <text versstart="146" versend="152" verfasser="an">
-            <p><lem>ʾa-tutrakūna fī mā hāhunā ʾāminīn / fī ǧannātin wa-ʿuyūn / wa-zurūʿin wa-naḫlin ṭalʿuhā haḍīm / wa-tanḥitūna mina l-ǧibāli buyūtan fārihīn / fa-ttaqu llāha wa-ʾaṭīʿūn / wa-lā tuṭīʿū ʾamra l-musrifīn / llaḏīna yufsidūna fi l-ʾarḍi wa-lā yuṣliḥūn]</lem>
+            <p><lem>ʾa-tutrakūna fī mā hāhunā ʾāminīn / fī ǧannātin wa-ʿuyūn / wa-zurūʿin wa-naḫlin ṭalʿuhā haḍīm / wa-tanḥitūna mina l-ǧibāli buyūtan fārihīn / fa-ttaqu llāha wa-ʾaṭīʿūn / wa-lā tuṭīʿū ʾamra l-musrifīn / allaḏīna yufsidūna fi l-ʾarḍi wa-lā yuṣliḥūn]</lem>
                 Ṣāliḥs Predigt an seine Angehörigen bedient sich polemischer Fragen nach der
                 Beständigkeit ihrer idealen Verhältnisse inmitten üppiger Natur und mit ihren
                 Fertigkeiten bei der Errichtung von Felsarchitektur. Die Identität dieser
@@ -1631,7 +1631,7 @@
                     versend="019:038">Gen 19:37–38</q>) gerechtfertigt ist. In <q type="koran"
                     versstart="069:009" versend="069:009">Q 69:9</q> und <q type="koran"
                     versstart="053:053" versend="053:056">53:53–56</q> ist ohne Nennung Lots von der
-                Vernichtung der »Umgewendeten« <lang xml:lang="ar-Latn">(al-muʿtafikāt)</lang> Sodom
+                Vernichtung der »Umgewendeten« <lang xml:lang="ar-Latn">(al-muʾtafikāt)</lang> Sodom
                 und Gomorrha die Rede. Zu Lot im Koran siehe <bibl Zotero_Id_1="CG6C4KM5">Busse
                     2003</bibl>, <bibl Zotero_Id_1="K3J7GW4U">Heller und Vajda 1986</bibl> sowie
                     <bibl Zotero_Id_1="FTTPNU68"><hi rend="italic">BEQ</hi>, S. 151–158</bibl>. —
@@ -1830,11 +1830,11 @@
                     <q type="koran" versstart="015:018" versend="015:018">Q 15:18</q>, siehe dazu
                     <bibl Zotero_Id_1="UPKQZ38U">Hawting 2006</bibl>). Eine Ähnliche Zurückweisung
                 fand sich in <q type="koran" versstart="015:090" versend="015:090">Q 15:90</q>:
-                <lang xml:lang="ar-Latn">›ka-mā‹ [wa-mā]ʾanzalnā ʿala l-muqtasimīn</lang>, »Nicht
+                <lang xml:lang="ar-Latn">›ka-mā‹ [wa-mā] ʾanzalnā ʿala l-muqtasimīn</lang>, »Nicht
                 haben wir herabgesandt auf die Zerteiler«.</p>
         </text>
         <text versstart="213" versend="219" verfasser="an">
-            <p><lem>fa-lā tadʿu maʿa llāhi ʾilāhan ʾāḫara fa-takūna mina l-muʿaḏḏabīn / wa-ʾanḏir ʿašīrataka l-ʾaqrabīn / wa-ḫfiḍ ǧanāḥaka li-mani ttabaʿaka mina l-muʾminīn / fa-ʾin ʿaṣauka fa-qul ʾinnī barīʾun mimmā taʿmalūn / wa-tawakkal ʿala l-ʿazīzi r-raḥīm / llaḏī yarāka ḥīna taqūm / wa-taqallubaka fi s-sāǧidīn]</lem>
+            <p><lem>fa-lā tadʿu maʿa llāhi ʾilāhan ʾāḫara fa-takūna mina l-muʿaḏḏabīn / wa-ʾanḏir ʿašīrataka l-ʾaqrabīn / wa-ḫfiḍ ǧanāḥaka li-mani ttabaʿaka mina l-muʾminīn / fa-ʾin ʿaṣauka fa-qul ʾinnī barīʾun mimmā taʿmalūn / wa-tawakkal ʿala l-ʿazīzi r-raḥīm / allaḏī yarāka ḥīna taqūm / wa-taqallubaka fi s-sāǧidīn]</lem>
                 Die direkte Anweisung an den Verkünder hat den Charakter einer Schlussanrede (vgl.
                 zu den abschließenden Prophetentröstungen <q type="koran" versstart="086:017"
                     versend="086:017">Q 86:17</q>, <q type="koran" versstart="088:020"
@@ -1881,7 +1881,7 @@
                 nicht in ihrer nur vorgeblichen Entsagungsbereitschaft sieht: Die Helden der
                 altarabischen Dichtung würden sich nicht ihres Durst-Erduldens rühmen, da dies als
                 Indiz mangelnder logistischer Kompetenz gegen den Ehrencode der
-                <lang xml:lang="ar-Latn">murūwa</lang> verstoßen würde.
+                <lang xml:lang="ar-Latn">muruwwa</lang> verstoßen würde.
                 <lang xml:lang="ar-Latn">Hāma</lang> sei vielmehr als »liebeskrank herumirren« zu
                 verstehen. Beide Deutungen sprechen dafür, daß die Verse auf die Diskrepanz zwischen
                 dichterischer Fiktion und gelebter Realität zielen. <bibl Zotero_Id_1="H52I9JWS"
