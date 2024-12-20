@@ -17,6 +17,7 @@ jobs:
       - name: Prepare
         run: |
           echo "XML" > data/index.html
+          find data -type d -exec sh -c 'ls "{}" > "{}/index"' \;
 
       - name: Publish
         uses: peaceiris/actions-gh-pages@v4.0.0
